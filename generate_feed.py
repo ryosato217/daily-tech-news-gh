@@ -178,28 +178,33 @@ def fetch_venturebeat_ai():
     return items
 
 def fetch_reddit(subreddit):
-    """Reddit サブレッドの hot 記事を curl で取得（WebFetchはブロックされるため）"""
+    """Reddit サブレッドの記事をRSSフィードで取得（JSON APIはGitHub ActionsのIPでブロックされるため）"""
     items = []
     try:
-        result = subprocess.run(
-            ["curl", "-s", "-H", "User-Agent: tech-feed/1.0",
-             f"https://old.reddit.com/r/{subreddit}/hot.json?t=day&limit={MAX_ITEMS_PER_SOURCE}"],
-            capture_output=True, text=True, timeout=15
-        )
-        data = json.loads(result.stdout)
-        for child in data["data"]["children"]:
-            d = child["data"]
-            if d.get("stickied"):
-                continue
-            selftext = strip_html(d.get("selftext", ""))[:SUMMARY_MAX_CHARS]
-            items.append({
-                "title": d["title"],
-                "url": f"https://www.reddit.com{d['permalink']}",
-                "description": selftext,
-                "score": d.get("ups", 0),
-                "source": f"r/{subreddit}",
-                "published": datetime.fromtimestamp(d.get("created_utc", 0), tz=timezone.utc)
-            })
+        raw = fetch_url(f"https://www.reddit.com/r/{subreddit}/hot.rss?limit={MAX_ITEMS_PER_SOURCE}")
+        if not raw:
+            return items
+        root = ET.fromstring(raw)
+        ns = {"atom": "http://www.w3.org/2005/Atom"}
+        for entry in root.findall("atom:entry", ns)[:MAX_ITEMS_PER_SOURCE]:
+            title = entry.findtext("atom:title", "", ns).strip()
+            link_el = entry.find("atom:link", ns)
+            url = link_el.get("href", "") if link_el is not None else ""
+            content = strip_html(entry.findtext("atom:content", "", ns))[:SUMMARY_MAX_CHARS]
+            updated = entry.findtext("atom:updated", "", ns)
+            try:
+                pub = datetime.fromisoformat(updated.replace("Z", "+00:00"))
+            except Exception:
+                pub = datetime.now(tz=timezone.utc)
+            if title and url:
+                items.append({
+                    "title": title,
+                    "url": url,
+                    "description": content,
+                    "score": 0,
+                    "source": f"r/{subreddit}",
+                    "published": pub
+                })
     except Exception as e:
         print(f"  [WARN] r/{subreddit}: {e}")
     return items
