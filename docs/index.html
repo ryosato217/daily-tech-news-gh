@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>海外テックニュース（日本語）</title>
+  <link rel="alternate" type="application/rss+xml" title="海外テックニュース（日本語）" href="feed.xml">
+  <style>
+    body { font-family: sans-serif; max-width: 600px; margin: 40px auto; color: #333; }
+    code { background: #f4f4f4; padding: 2px 6px; border-radius: 4px; }
+  </style>
+</head>
+<body>
+  <h1>🌐 海外テックニュース（日本語）</h1>
+  <p>HN・VentureBeat AI・Reddit から収集した海外テックニュースを毎朝自動翻訳してお届けします。</p>
+  <h2>RSSフィードURL</h2>
+  <code id="feed-url"></code>
+  <script>
+    document.getElementById('feed-url').textContent = window.location.href.replace('index.html','') + 'feed.xml';
+  </script>
+  <p>上記URLをInoreaderに登録してください。</p>
+  <p><a href="feed.xml">feed.xml を直接開く</a></p>
+</body>
+</html>

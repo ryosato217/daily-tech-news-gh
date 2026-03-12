@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>海外テックニュース（日本語）</title>
+    <link>https://github.com</link>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-03-12</description>
+    <language>ja</language>
+    <lastBuildDate>Thu, 12 Mar 2026 08:32:04 GMT</lastBuildDate>
+    <item>
+      <title>[r/webdev] (1118pt) I'm sending email to Gmail from a computer from the past.</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rqqne4/im_sending_email_to_gmail_from_a_computer_from/</link>
+      <description>&lt;p&gt;&lt;strong&gt;I'm sending email to Gmail from a computer from the past.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;native MS-DOS computer, 80486, 16mb RAM&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I'm sending email to Gmail from a computer from the past.&lt;br&gt;ソース: r/webdev&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/webdev/comments/1rqqne4/im_sending_email_to_gmail_from_a_computer_from/</guid>
+      <pubDate>Wed, 11 Mar 2026 11:00:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/gadgets] (1034pt) Valve drops details of the Steam Machine and Frame verification requirements</title>
+      <link>https://www.reddit.com/r/gadgets/comments/1rr2fxe/valve_drops_details_of_the_steam_machine_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Valve drops details of the Steam Machine and Frame verification requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Valve drops details of the Steam Machine and Frame verification requirements&lt;br&gt;ソース: r/gadgets&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/gadgets/comments/1rr2fxe/valve_drops_details_of_the_steam_machine_and/</guid>
+      <pubDate>Wed, 11 Mar 2026 18:44:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] (654pt) Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rr4by8/nvidia_will_spend_26_billion_to_build_openweight/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rr4by8/nvidia_will_spend_26_billion_to_build_openweight/</guid>
+      <pubDate>Wed, 11 Mar 2026 19:51:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (533pt) Making WebAssembly a first-class language on the Web</title>
+      <link>https://news.ycombinator.com/item?id=47331811</link>
+      <description>&lt;p&gt;&lt;strong&gt;Making WebAssembly a first-class language on the Web&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Making WebAssembly a first-class language on the Web&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47331811</guid>
+      <pubDate>Wed, 11 Mar 2026 04:44:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (279pt) I was interviewed by an AI bot for a job</title>
+      <link>https://news.ycombinator.com/item?id=47339164</link>
+      <description>&lt;p&gt;&lt;strong&gt;I was interviewed by an AI bot for a job&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I was interviewed by an AI bot for a job&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47339164</guid>
+      <pubDate>Wed, 11 Mar 2026 18:17:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] (246pt) I was backend lead at Manus. After building agents for 2 years, I stopped using function calling entirely. Here's what I use instead.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rrisqn/i_was_backend_lead_at_manus_after_building_agents/</link>
+      <description>&lt;p&gt;&lt;strong&gt;I was backend lead at Manus. After building agents for 2 years, I stopped using function calling entirely. Here's what I use instead.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;gt; English is not my first language. I wrote this in Chinese and translated it with AI help. The writing may have some AI flavor, but the design decisions, the production failures, and the thinking&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I was backend lead at Manus. After building agents for 2 years, I stopped using function calling entirely. Here's what I use instead.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rrisqn/i_was_backend_lead_at_manus_after_building_agents/</guid>
+      <pubDate>Thu, 12 Mar 2026 06:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/ChatGPT] (213pt) Has anyone else noticed ChatGPT ending answers with clickbait-style hooks?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rrbvu0/has_anyone_else_noticed_chatgpt_ending_answers/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Has anyone else noticed ChatGPT ending answers with clickbait-style hooks?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I’ve started noticing a pattern where ChatGPT answers the question, then ends with a curiosity-gap teaser instead of just stopping.
+
+Example style I’m seeing:
+
+“If you want, I can also show you the su&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Has anyone else noticed ChatGPT ending answers with clickbait-style hooks?&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1rrbvu0/has_anyone_else_noticed_chatgpt_ending_answers/</guid>
+      <pubDate>Thu, 12 Mar 2026 00:32:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (67pt) Returning to Rails in 2026</title>
+      <link>https://news.ycombinator.com/item?id=47347064</link>
+      <description>&lt;p&gt;&lt;strong&gt;Returning to Rails in 2026&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Returning to Rails in 2026&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47347064</guid>
+      <pubDate>Thu, 12 Mar 2026 06:06:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (36pt) WebPKI and You</title>
+      <link>https://news.ycombinator.com/item?id=47308349</link>
+      <description>&lt;p&gt;&lt;strong&gt;WebPKI and You&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: WebPKI and You&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47308349</guid>
+      <pubDate>Mon, 09 Mar 2026 12:47:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[VentureBeat AI] Railway secures $100 million to challenge AWS with AI-native cloud infrastructure</title>
+      <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
+      <description>&lt;p&gt;&lt;strong&gt;Railway secures $100 million to challenge AWS with AI-native cloud infrastructure&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fundi&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Railway secures $100 million to challenge AWS with AI-native cloud infrastructure&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</guid>
+      <pubDate>Thu, 22 Jan 2026 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[VentureBeat AI] Claude Code costs up to $200 a month. Goose does the same thing for free.</title>
+      <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
+      <description>&lt;p&gt;&lt;strong&gt;Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The artificial intelligence coding revolution comes with a catch: it&amp;#x27;s expensive.Claude Code, Anthropic&amp;#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has cap&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
+      <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[VentureBeat AI] Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews</title>
+      <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
+      <description>&lt;p&gt;&lt;strong&gt;Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg&amp;#x27;s $100 million offers seemed impossible. So he spen&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
+      <pubDate>Fri, 16 Jan 2026 14:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[VentureBeat AI] Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI</title>
+      <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
+      <description>&lt;p&gt;&lt;strong&gt;Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company&amp;#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
+      <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[VentureBeat AI] Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required</title>
+      <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</guid>
+      <pubDate>Mon, 12 Jan 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[VentureBeat AI] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
+      <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
+      <description>&lt;p&gt;&lt;strong&gt;Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several la&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</guid>
+      <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[VentureBeat AI] The creator of Claude Code just revealed his workflow, and developers are losing their minds</title>
+      <link>https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are</link>
+      <description>&lt;p&gt;&lt;strong&gt;The creator of Claude Code just revealed his workflow, and developers are losing their minds&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When the creator of the world&amp;#x27;s most advanced coding agent speaks, Silicon Valley doesn&amp;#x27;t just listen — it takes notes.For the past week, the engineering community has been dissecting a thre&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The creator of Claude Code just revealed his workflow, and developers are losing their minds&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are</guid>
+      <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
