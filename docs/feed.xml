@@ -5,198 +5,198 @@
     <link>https://github.com</link>
     <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-03-12</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Mar 2026 08:43:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 08:42:58 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (538pt) WebAssemblyをWeb上の一流言語にする</title>
+      <title>[Hacker News] (538pt) Making WebAssembly a first-class language on the Web</title>
       <link>https://news.ycombinator.com/item?id=47331811</link>
-      <description>&lt;p&gt;&lt;strong&gt;WebAssemblyをWeb上の一流言語にする&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Making WebAssembly a first-class language on the Web&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Making WebAssembly a first-class language on the Web&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=47331811</guid>
       <pubDate>Wed, 11 Mar 2026 04:44:46 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (76pt) 2026年にレイルズに復帰</title>
+      <title>[Hacker News] (75pt) Returning to Rails in 2026</title>
       <link>https://news.ycombinator.com/item?id=47347064</link>
-      <description>&lt;p&gt;&lt;strong&gt;2026年にレイルズに復帰&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Returning to Rails in 2026&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Returning to Rails in 2026&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=47347064</guid>
       <pubDate>Thu, 12 Mar 2026 06:06:46 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (40pt) WebPKIとあなた</title>
+      <title>[Hacker News] (39pt) WebPKI and You</title>
       <link>https://news.ycombinator.com/item?id=47308349</link>
-      <description>&lt;p&gt;&lt;strong&gt;WebPKIとあなた&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;WebPKI and You&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: WebPKI and You&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=47308349</guid>
       <pubDate>Mon, 09 Mar 2026 12:47:11 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
+      <title>[VentureBeat AI] Railway secures $100 million to challenge AWS with AI-native cloud infrastructure</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
-      <description>&lt;p&gt;&lt;strong&gt;鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォームRailwayは、マーケティングに1ドルも費やすことなく、200万人の開発者を静かに集めている。&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Railway secures $100 million to challenge AWS with AI-native cloud infrastructure&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fundi&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Railway secures $100 million to challenge AWS with AI-native cloud infrastructure&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</guid>
       <pubDate>Thu, 22 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] クロード・コードは月200ドルもする。グースは無料で同じことができる。</title>
+      <title>[VentureBeat AI] Claude Code costs up to $200 a month. Goose does the same thing for free.</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード・コードは月200ドルもする。グースは無料で同じことができる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、「高価である」という欠点がある。&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The artificial intelligence coding revolution comes with a catch: it&amp;#x27;s expensive.Claude Code, Anthropic&amp;#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has cap&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] リッスン・ラボ、AI顧客面談の規模を拡大するための広告塔採用スタントで6,900万ドルを調達</title>
+      <title>[VentureBeat AI] Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
-      <description>&lt;p&gt;&lt;strong&gt;リッスン・ラボ、AI顧客面談の規模を拡大するための広告塔採用スタントで6,900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アルフレッド・ワールフォルスは選択肢がなくなっていた。彼のスタートアップ、リッスン・ラボは100人以上のエンジニアを雇う必要があったが、マーク・ザッカーバーグの1億ドルのオファーに対抗するのは不可能に思えた。そこで彼は&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg&amp;#x27;s $100 million offers seemed impossible. So he spen&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
       <pubDate>Fri, 16 Jan 2026 14:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗</title>
+      <title>[VentureBeat AI] Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
-      <description>&lt;p&gt;&lt;strong&gt;セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に作り直したバージョンを発表した。&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company&amp;#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] Anthropic、コーディング不要のClaudeデスクトップエージェント「Cowork」を発表</title>
+      <title>[VentureBeat AI] Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropic、コーディング不要のClaudeデスクトップエージェント「Cowork」を発表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは月曜日に、大成功を収めたClaude Codeツールのパワーを非技術系ユーザーにも拡張する新しいAIエージェント機能、Coworkをリリースした。&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</guid>
       <pubDate>Mon, 12 Jan 2026 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] ヌース・リサーチのNousCoder-14Bは、クロード・コードの瞬間に着地するオープンソースのコーディングモデルである。</title>
+      <title>[VentureBeat AI] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
-      <description>&lt;p&gt;&lt;strong&gt;ヌース・リサーチのNousCoder-14Bは、クロード・コードの瞬間に着地するオープンソースのコーディングモデルである。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;暗号ベンチャー企業パラダイムが支援するオープンソースの人工知能スタートアップ、ヌース・リサーチは月曜日、新しい競争力のあるプログラミング・モデルを発表した。&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several la&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</guid>
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] クロード・コードの作者がワークフローを公開。</title>
+      <title>[VentureBeat AI] The creator of Claude Code just revealed his workflow, and developers are losing their minds</title>
       <link>https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード・コードの作者がワークフローを公開。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;世界で最も先進的なコーディング・エージェントの生みの親が話すと、シリコンバレーは耳を傾けるだけでなく、メモを取る。&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;The creator of Claude Code just revealed his workflow, and developers are losing their minds&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When the creator of the world&amp;#x27;s most advanced coding agent speaks, Silicon Valley doesn&amp;#x27;t just listen — it takes notes.For the past week, the engineering community has been dissecting a thre&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: The creator of Claude Code just revealed his workflow, and developers are losing their minds&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are</guid>
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] メタ社、AIエージェントが交流するバイラル・ソーシャル・ネットワーク、モルトブックを買収</title>
+      <title>[r/artificial] Meta buys Moltbook, viral social network where AI agents interact</title>
       <link>https://www.reddit.com/r/artificial/comments/1rqvjtm/meta_buys_moltbook_viral_social_network_where_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;メタ社、AIエージェントが交流するバイラル・ソーシャル・ネットワーク、モルトブックを買収&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/sksarkpoes3 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Meta buys Moltbook, viral social network where AI agents interact&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; submitted by &amp;#32;  /u/sksarkpoes3   [link] &amp;#32; [comments]&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Meta buys Moltbook, viral social network where AI agents interact&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rqvjtm/meta_buys_moltbook_viral_social_network_where_ai/</guid>
       <pubDate>Wed, 11 Mar 2026 14:38:38 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] メタ社は「AIのためのソーシャルメディア・ネットワーク」モルトブックを買収し、「AIエージェントが人々や企業のために働く新しい方法」をもたらすとしている。</title>
+      <title>[r/artificial] Meta buys 'social media network for AI' Moltbook, and says the deal will bring "new ways for AI agents to work for people and businesses".</title>
       <link>https://www.reddit.com/r/artificial/comments/1rrkogg/meta_buys_social_media_network_for_ai_moltbook/</link>
-      <description>&lt;p&gt;&lt;strong&gt;メタ社は「AIのためのソーシャルメディア・ネットワーク」モルトブックを買収し、「AIエージェントが人々や企業のために働く新しい方法」をもたらすとしている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/Simplilearn [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Meta buys 'social media network for AI' Moltbook, and says the deal will bring &quot;new ways for AI agents to work for people and businesses&quot;.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Meta buys 'social media network for AI' Moltbook, and says the deal will bring "new ways for AI agents to work for people and businesses".&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; submitted by &amp;#32;  /u/Simplilearn   [link] &amp;#32; [comments]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Meta buys 'social media network for AI' Moltbook, and says the deal will bring "new ways for AI agents to work for people and businesses".&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rrkogg/meta_buys_social_media_network_for_ai_moltbook/</guid>
       <pubDate>Thu, 12 Mar 2026 07:59:30 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] フロリダ州議員、AIデータセンターの代償を誰が払うか議論</title>
+      <title>[r/artificial] Florida lawmakers debate who will pay the price of AI data centers</title>
       <link>https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/</link>
-      <description>&lt;p&gt;&lt;strong&gt;フロリダ州議員、AIデータセンターの代償を誰が払うか議論&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Fcking_Chuck [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Florida lawmakers debate who will pay the price of AI data centers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; submitted by &amp;#32;  /u/Fcking_Chuck   [link] &amp;#32; [comments]&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Florida lawmakers debate who will pay the price of AI data centers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/</guid>
       <pubDate>Thu, 12 Mar 2026 01:43:05 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] イーオン・システムズの科学者たちが、ミバエの脳をコンピューターにコピーした。ニューロンごとに。ハエは歩き始め、毛づくろいをし、餌を食べ、ハエがすることをすべて自分で行うようになった。</title>
+      <title>[r/artificial] Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own</title>
       <link>https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/</link>
-      <description>&lt;p&gt;&lt;strong&gt;イーオン・システムズの科学者たちが、ミバエの脳をコンピューターにコピーした。ニューロンごとに。ハエは歩き始め、毛づくろいをし、餌を食べ、ハエがすることをすべて自分で行うようになった。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/jferments [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; submitted by &amp;#32;  /u/jferments   [link] &amp;#32; [comments]&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/</guid>
       <pubDate>Wed, 11 Mar 2026 13:39:18 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 米軍はイラン空爆の計画にAIを使用している、と情報筋が語る。Anthropic社のクロードAIシステムは、国防総省との衝突にもかかわらず、軍にとって重要なツールとなっている。</title>
+      <title>[r/artificial] U.S. military is using AI to help plan Iran air attacks, sources say, as lawmakers call for oversight. Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.</title>
       <link>https://www.reddit.com/r/artificial/comments/1rr1lzr/us_military_is_using_ai_to_help_plan_iran_air/</link>
-      <description>&lt;p&gt;&lt;strong&gt;米軍はイラン空爆の計画にAIを使用している、と情報筋が語る。Anthropic社のクロードAIシステムは、国防総省との衝突にもかかわらず、軍にとって重要なツールとなっている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/esporx [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;U.S. military is using AI to help plan Iran air attacks, sources say, as lawmakers call for oversight. Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; submitted by &amp;#32;  /u/esporx   [link] &amp;#32; [comments]&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: U.S. military is using AI to help plan Iran air attacks, sources say, as lawmakers call for oversight. Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rr1lzr/us_military_is_using_ai_to_help_plan_iran_air/</guid>
       <pubDate>Wed, 11 Mar 2026 18:15:50 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Niantic Spatial社がCoco Robotics社と提携し、「ポケモンGO」と「Ingress」のデータから学習させたビジュアル・ポジショニング・システムを配送ロボット群に統合する。</title>
+      <title>[r/artificial] Niantic Spatial partners with Coco Robotics to integrate a visual positioning system trained on data from Pokemon Go and Ingress into a fleet of delivery robots</title>
       <link>https://www.reddit.com/r/artificial/comments/1rrketj/niantic_spatial_partners_with_coco_robotics_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Niantic Spatial社がCoco Robotics社と提携し、「ポケモンGO」と「Ingress」のデータから学習させたビジュアル・ポジショニング・システムを配送ロボット群に統合する。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/ExtensionEcho3 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Niantic Spatial partners with Coco Robotics to integrate a visual positioning system trained on data from Pokemon Go and Ingress into a fleet of delivery robots&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; submitted by &amp;#32;  /u/ExtensionEcho3   [link] &amp;#32; [comments]&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Niantic Spatial partners with Coco Robotics to integrate a visual positioning system trained on data from Pokemon Go and Ingress into a fleet of delivery robots&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rrketj/niantic_spatial_partners_with_coco_robotics_to/</guid>
       <pubDate>Thu, 12 Mar 2026 07:42:03 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AMD Ryzen AI NPUがついにLinuxでLLMを実行するのに使えるようになった</title>
+      <title>[r/artificial] AMD Ryzen AI NPUs are finally useful under Linux for running LLMs</title>
       <link>https://www.reddit.com/r/artificial/comments/1rr1en0/amd_ryzen_ai_npus_are_finally_useful_under_linux/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AMD Ryzen AI NPUがついにLinuxでLLMを実行するのに使えるようになった&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Fcking_Chuck [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;AMD Ryzen AI NPUs are finally useful under Linux for running LLMs&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; submitted by &amp;#32;  /u/Fcking_Chuck   [link] &amp;#32; [comments]&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: AMD Ryzen AI NPUs are finally useful under Linux for running LLMs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rr1en0/amd_ryzen_ai_npus_are_finally_useful_under_linux/</guid>
       <pubDate>Wed, 11 Mar 2026 18:08:46 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 中国のAIブーム「オープンクロー」に便乗するハスラーたち</title>
+      <title>[r/artificial] Hustlers are cashing in on China’s OpenClaw AI craze</title>
       <link>https://www.reddit.com/r/artificial/comments/1rrkvkt/hustlers_are_cashing_in_on_chinas_openclaw_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;中国のAIブーム「オープンクロー」に便乗するハスラーたち&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIツールは、国の最新の技術強迫観念となっている。このAIツールは、この国の最新のテクノロジーへの熱狂となっている。&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Hustlers are cashing in on China’s OpenClaw AI craze&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The AI tool has become the country&amp;#39;s latest tech obsession. For savvy early adopters, that&amp;#39;s a business opportunity.  &amp;#32; submitted by &amp;#32;  /u/tekz   [link] &amp;#32; [comments]&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Hustlers are cashing in on China’s OpenClaw AI craze&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rrkvkt/hustlers_are_cashing_in_on_chinas_openclaw_ai/</guid>
       <pubDate>Thu, 12 Mar 2026 08:12:19 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropic社、「サプライチェーン・リスク」指定の取り消しを求めトランプ政権を提訴</title>
+      <title>[r/artificial] Anthropic sues Trump administration seeking to undo 'supply chain risk' designation</title>
       <link>https://www.reddit.com/r/artificial/comments/1rq9qvm/anthropic_sues_trump_administration_seeking_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropic社、「サプライチェーン・リスク」指定の取り消しを求めトランプ政権を提訴&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/Fair_Economist_5369 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Anthropic sues Trump administration seeking to undo 'supply chain risk' designation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; submitted by &amp;#32;  /u/Fair_Economist_5369   [link] &amp;#32; [comments]&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Anthropic sues Trump administration seeking to undo 'supply chain risk' designation&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rq9qvm/anthropic_sues_trump_administration_seeking_to/</guid>
       <pubDate>Tue, 10 Mar 2026 21:14:59 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] オープンエイの社員が米政府を相手にライバル企業を擁護 - かつてない事態だ</title>
+      <title>[r/artificial] OpenAI Employees Are Defending a Rival Company Against the US Government — That's Never Happened Before</title>
       <link>https://www.reddit.com/r/artificial/comments/1rqi4s7/openai_employees_are_defending_a_rival_company/</link>
-      <description>&lt;p&gt;&lt;strong&gt;オープンエイの社員が米政府を相手にライバル企業を擁護 - かつてない事態だ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/vinodpandey7 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;OpenAI Employees Are Defending a Rival Company Against the US Government — That's Never Happened Before&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; submitted by &amp;#32;  /u/vinodpandey7   [link] &amp;#32; [comments]&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: OpenAI Employees Are Defending a Rival Company Against the US Government — That's Never Happened Before&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rqi4s7/openai_employees_are_defending_a_rival_company/</guid>
       <pubDate>Wed, 11 Mar 2026 02:56:04 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] 私はManusのバックエンドリードでした。2年間エージェントを構築した後、私は関数呼び出しを完全にやめました。その代わりに使っているのがこちらです。</title>
+      <title>[r/LocalLLaMA] I was backend lead at Manus. After building agents for 2 years, I stopped using function calling entirely. Here's what I use instead.</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1rrisqn/i_was_backend_lead_at_manus_after_building_agents/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私はManusのバックエンドリードでした。2年間エージェントを構築した後、私は関数呼び出しを完全にやめました。その代わりに使っているのがこちらです。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;英語は私の母国語ではない。私はこれを中国語で書き、AIの助けを借りて翻訳した。文章にはAIの風味があるかもしれないが、設計上の決定、製造上の失敗、そしてその思考は、私が中国語で書いたものである。&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;I was backend lead at Manus. After building agents for 2 years, I stopped using function calling entirely. Here's what I use instead.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;English is not my first language. I wrote this in Chinese and translated it with AI help. The writing may have some AI flavor, but the design decisions, the production failures, and the thinking that&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: I was backend lead at Manus. After building agents for 2 years, I stopped using function calling entirely. Here's what I use instead.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rrisqn/i_was_backend_lead_at_manus_after_building_agents/</guid>
       <pubDate>Thu, 12 Mar 2026 06:02:16 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] エヌビディア、オープンウェイトAIモデル構築に260億ドルを投じる、出願書類で明らかに</title>
+      <title>[r/LocalLLaMA] Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1rr4by8/nvidia_will_spend_26_billion_to_build_openweight/</link>
-      <description>&lt;p&gt;&lt;strong&gt;エヌビディア、オープンウェイトAIモデル構築に260億ドルを投じる、出願書類で明らかに&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/dan945 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; submitted by &amp;#32;  /u/dan945   [link] &amp;#32; [comments]&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rr4by8/nvidia_will_spend_26_billion_to_build_openweight/</guid>
       <pubDate>Wed, 11 Mar 2026 19:51:15 GMT</pubDate>
