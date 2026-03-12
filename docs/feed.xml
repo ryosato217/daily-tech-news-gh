@@ -5,9 +5,9 @@
     <link>https://github.com</link>
     <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-03-12</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Mar 2026 08:40:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 08:43:58 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (537pt) WebAssemblyをWeb上の一流言語にする</title>
+      <title>[Hacker News] (538pt) WebAssemblyをWeb上の一流言語にする</title>
       <link>https://news.ycombinator.com/item?id=47331811</link>
       <description>&lt;p&gt;&lt;strong&gt;WebAssemblyをWeb上の一流言語にする&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Making WebAssembly a first-class language on the Web&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
@@ -15,7 +15,7 @@
       <pubDate>Wed, 11 Mar 2026 04:44:46 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (75pt) 2026年にレイルズに復帰</title>
+      <title>[Hacker News] (76pt) 2026年にレイルズに復帰</title>
       <link>https://news.ycombinator.com/item?id=47347064</link>
       <description>&lt;p&gt;&lt;strong&gt;2026年にレイルズに復帰&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Returning to Rails in 2026&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
@@ -23,7 +23,7 @@
       <pubDate>Thu, 12 Mar 2026 06:06:46 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (39pt) WebPKIとあなた</title>
+      <title>[Hacker News] (40pt) WebPKIとあなた</title>
       <link>https://news.ycombinator.com/item?id=47308349</link>
       <description>&lt;p&gt;&lt;strong&gt;WebPKIとあなた&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: WebPKI and You&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
@@ -40,9 +40,9 @@
       <pubDate>Thu, 22 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] クロード・コードは月200ドルかかる。グースは無料で同じことができる。</title>
+      <title>[VentureBeat AI] クロード・コードは月200ドルもする。グースは無料で同じことができる。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード・コードは月200ドルかかる。グースは無料で同じことができる。&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;クロード・コードは月200ドルもする。グースは無料で同じことができる。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;人工知能によるコーディング革命には、「高価である」という欠点がある。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
@@ -92,6 +92,114 @@
 &lt;p&gt;&lt;small&gt;原題: The creator of Claude Code just revealed his workflow, and developers are losing their minds&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are</guid>
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] メタ社、AIエージェントが交流するバイラル・ソーシャル・ネットワーク、モルトブックを買収</title>
+      <link>https://www.reddit.com/r/artificial/comments/1rqvjtm/meta_buys_moltbook_viral_social_network_where_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;メタ社、AIエージェントが交流するバイラル・ソーシャル・ネットワーク、モルトブックを買収&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/sksarkpoes3 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Meta buys Moltbook, viral social network where AI agents interact&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rqvjtm/meta_buys_moltbook_viral_social_network_where_ai/</guid>
+      <pubDate>Wed, 11 Mar 2026 14:38:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] メタ社は「AIのためのソーシャルメディア・ネットワーク」モルトブックを買収し、「AIエージェントが人々や企業のために働く新しい方法」をもたらすとしている。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1rrkogg/meta_buys_social_media_network_for_ai_moltbook/</link>
+      <description>&lt;p&gt;&lt;strong&gt;メタ社は「AIのためのソーシャルメディア・ネットワーク」モルトブックを買収し、「AIエージェントが人々や企業のために働く新しい方法」をもたらすとしている。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/Simplilearn [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Meta buys 'social media network for AI' Moltbook, and says the deal will bring &quot;new ways for AI agents to work for people and businesses&quot;.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rrkogg/meta_buys_social_media_network_for_ai_moltbook/</guid>
+      <pubDate>Thu, 12 Mar 2026 07:59:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] フロリダ州議員、AIデータセンターの代償を誰が払うか議論</title>
+      <link>https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/</link>
+      <description>&lt;p&gt;&lt;strong&gt;フロリダ州議員、AIデータセンターの代償を誰が払うか議論&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Fcking_Chuck [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Florida lawmakers debate who will pay the price of AI data centers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/</guid>
+      <pubDate>Thu, 12 Mar 2026 01:43:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] イーオン・システムズの科学者たちが、ミバエの脳をコンピューターにコピーした。ニューロンごとに。ハエは歩き始め、毛づくろいをし、餌を食べ、ハエがすることをすべて自分で行うようになった。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/</link>
+      <description>&lt;p&gt;&lt;strong&gt;イーオン・システムズの科学者たちが、ミバエの脳をコンピューターにコピーした。ニューロンごとに。ハエは歩き始め、毛づくろいをし、餌を食べ、ハエがすることをすべて自分で行うようになった。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/jferments [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/</guid>
+      <pubDate>Wed, 11 Mar 2026 13:39:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 米軍はイラン空爆の計画にAIを使用している、と情報筋が語る。Anthropic社のクロードAIシステムは、国防総省との衝突にもかかわらず、軍にとって重要なツールとなっている。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1rr1lzr/us_military_is_using_ai_to_help_plan_iran_air/</link>
+      <description>&lt;p&gt;&lt;strong&gt;米軍はイラン空爆の計画にAIを使用している、と情報筋が語る。Anthropic社のクロードAIシステムは、国防総省との衝突にもかかわらず、軍にとって重要なツールとなっている。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/esporx [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: U.S. military is using AI to help plan Iran air attacks, sources say, as lawmakers call for oversight. Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rr1lzr/us_military_is_using_ai_to_help_plan_iran_air/</guid>
+      <pubDate>Wed, 11 Mar 2026 18:15:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Niantic Spatial社がCoco Robotics社と提携し、「ポケモンGO」と「Ingress」のデータから学習させたビジュアル・ポジショニング・システムを配送ロボット群に統合する。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1rrketj/niantic_spatial_partners_with_coco_robotics_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Niantic Spatial社がCoco Robotics社と提携し、「ポケモンGO」と「Ingress」のデータから学習させたビジュアル・ポジショニング・システムを配送ロボット群に統合する。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/ExtensionEcho3 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Niantic Spatial partners with Coco Robotics to integrate a visual positioning system trained on data from Pokemon Go and Ingress into a fleet of delivery robots&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rrketj/niantic_spatial_partners_with_coco_robotics_to/</guid>
+      <pubDate>Thu, 12 Mar 2026 07:42:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AMD Ryzen AI NPUがついにLinuxでLLMを実行するのに使えるようになった</title>
+      <link>https://www.reddit.com/r/artificial/comments/1rr1en0/amd_ryzen_ai_npus_are_finally_useful_under_linux/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AMD Ryzen AI NPUがついにLinuxでLLMを実行するのに使えるようになった&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Fcking_Chuck [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AMD Ryzen AI NPUs are finally useful under Linux for running LLMs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rr1en0/amd_ryzen_ai_npus_are_finally_useful_under_linux/</guid>
+      <pubDate>Wed, 11 Mar 2026 18:08:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 中国のAIブーム「オープンクロー」に便乗するハスラーたち</title>
+      <link>https://www.reddit.com/r/artificial/comments/1rrkvkt/hustlers_are_cashing_in_on_chinas_openclaw_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;中国のAIブーム「オープンクロー」に便乗するハスラーたち&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIツールは、国の最新の技術強迫観念となっている。このAIツールは、この国の最新のテクノロジーへの熱狂となっている。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Hustlers are cashing in on China’s OpenClaw AI craze&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rrkvkt/hustlers_are_cashing_in_on_chinas_openclaw_ai/</guid>
+      <pubDate>Thu, 12 Mar 2026 08:12:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Anthropic社、「サプライチェーン・リスク」指定の取り消しを求めトランプ政権を提訴</title>
+      <link>https://www.reddit.com/r/artificial/comments/1rq9qvm/anthropic_sues_trump_administration_seeking_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropic社、「サプライチェーン・リスク」指定の取り消しを求めトランプ政権を提訴&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/Fair_Economist_5369 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic sues Trump administration seeking to undo 'supply chain risk' designation&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rq9qvm/anthropic_sues_trump_administration_seeking_to/</guid>
+      <pubDate>Tue, 10 Mar 2026 21:14:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] オープンエイの社員が米政府を相手にライバル企業を擁護 - かつてない事態だ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1rqi4s7/openai_employees_are_defending_a_rival_company/</link>
+      <description>&lt;p&gt;&lt;strong&gt;オープンエイの社員が米政府を相手にライバル企業を擁護 - かつてない事態だ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/vinodpandey7 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI Employees Are Defending a Rival Company Against the US Government — That's Never Happened Before&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rqi4s7/openai_employees_are_defending_a_rival_company/</guid>
+      <pubDate>Wed, 11 Mar 2026 02:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] 私はManusのバックエンドリードでした。2年間エージェントを構築した後、私は関数呼び出しを完全にやめました。その代わりに使っているのがこちらです。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rrisqn/i_was_backend_lead_at_manus_after_building_agents/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私はManusのバックエンドリードでした。2年間エージェントを構築した後、私は関数呼び出しを完全にやめました。その代わりに使っているのがこちらです。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;英語は私の母国語ではない。私はこれを中国語で書き、AIの助けを借りて翻訳した。文章にはAIの風味があるかもしれないが、設計上の決定、製造上の失敗、そしてその思考は、私が中国語で書いたものである。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I was backend lead at Manus. After building agents for 2 years, I stopped using function calling entirely. Here's what I use instead.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rrisqn/i_was_backend_lead_at_manus_after_building_agents/</guid>
+      <pubDate>Thu, 12 Mar 2026 06:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] エヌビディア、オープンウェイトAIモデル構築に260億ドルを投じる、出願書類で明らかに</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rr4by8/nvidia_will_spend_26_billion_to_build_openweight/</link>
+      <description>&lt;p&gt;&lt;strong&gt;エヌビディア、オープンウェイトAIモデル構築に260億ドルを投じる、出願書類で明らかに&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/dan945 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rr4by8/nvidia_will_spend_26_billion_to_build_openweight/</guid>
+      <pubDate>Wed, 11 Mar 2026 19:51:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
