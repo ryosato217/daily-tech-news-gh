@@ -3,24 +3,32 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-03-14</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-03-15</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Mar 2026 22:32:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 22:34:16 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (120pt) クロード 2026年3月利用促進</title>
-      <link>https://news.ycombinator.com/item?id=47380647</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード 2026年3月利用促進&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude March 2026 usage promotion&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47380647</guid>
-      <pubDate>Sat, 14 Mar 2026 20:08:54 GMT</pubDate>
+      <title>[Hacker News] (223pt) Chrome DevTools MCPでCoding Agentにブラウザセッションをデバッグさせる</title>
+      <link>https://news.ycombinator.com/item?id=47390817</link>
+      <description>&lt;p&gt;&lt;strong&gt;Chrome DevTools MCPでCoding Agentにブラウザセッションをデバッグさせる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Let your Coding Agent debug the browser session with Chrome DevTools MCP&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47390817</guid>
+      <pubDate>Sun, 15 Mar 2026 19:12:53 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (13pt) Anthropic、クロード・パートナー・ネットワークに1億ドルを投資</title>
-      <link>https://news.ycombinator.com/item?id=47381340</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropic、クロード・パートナー・ネットワークに1億ドルを投資&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic invests $100M into the Claude Partner Network&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47381340</guid>
-      <pubDate>Sat, 14 Mar 2026 21:23:42 GMT</pubDate>
+      <title>[Hacker News] (176pt) 49MBのウェブページ</title>
+      <link>https://news.ycombinator.com/item?id=47390945</link>
+      <description>&lt;p&gt;&lt;strong&gt;49MBのウェブページ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The 49MB Web Page&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47390945</guid>
+      <pubDate>Sun, 15 Mar 2026 19:25:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (139pt) LLM建築ギャラリー</title>
+      <link>https://news.ycombinator.com/item?id=47388676</link>
+      <description>&lt;p&gt;&lt;strong&gt;LLM建築ギャラリー&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: LLM Architecture Gallery&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47388676</guid>
+      <pubDate>Sun, 15 Mar 2026 16:01:09 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -53,7 +61,7 @@
       <title>[VentureBeat AI] セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に再構築したバージョンを発表した。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に作り直したバージョンを発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -86,6 +94,51 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
+      <title>[r/artificial] ロボット兵士、ウクライナの戦場を襲う</title>
+      <link>https://www.reddit.com/r/artificial/comments/1rujdvv/robot_soldiers_hit_the_battlefield_in_ukraine/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ロボット兵士、ウクライナの戦場を襲う&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/esporx [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Robot Soldiers Hit the Battlefield in Ukraine&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rujdvv/robot_soldiers_hit_the_battlefield_in_ukraine/</guid>
+      <pubDate>Sun, 15 Mar 2026 17:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] グーグルマップ、AIを大幅にアップグレード</title>
+      <link>https://www.reddit.com/r/artificial/comments/1rughk5/google_maps_just_got_a_massive_ai_upgrade/</link>
+      <description>&lt;p&gt;&lt;strong&gt;グーグルマップ、AIを大幅にアップグレード&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/Secure-Address4385 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Google Maps Just Got a Massive AI Upgrade&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rughk5/google_maps_just_got_a_massive_ai_upgrade/</guid>
+      <pubDate>Sun, 15 Mar 2026 15:10:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] コンサルタントはAIブームで大儲け - Tech News Briefing - WSJ Podcasts</title>
+      <link>https://www.reddit.com/r/artificial/comments/1rue9qr/consultants_are_cashing_in_on_the_ai_boom_tech/</link>
+      <description>&lt;p&gt;&lt;strong&gt;コンサルタントはAIブームで大儲け - Tech News Briefing - WSJ Podcasts&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/swe129 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Consultants Are Cashing in on the AI Boom - Tech News Briefing - WSJ Podcasts&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rue9qr/consultants_are_cashing_in_on_the_ai_boom_tech/</guid>
+      <pubDate>Sun, 15 Mar 2026 13:38:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 推測の域を超える：Brevis、メディアの出所を暗号的に検証し、AIのディープフェイクに対抗する「Vera」を発表</title>
+      <link>https://www.reddit.com/r/artificial/comments/1rufl02/beyond_guesswork_brevis_unveils_vera_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;推測の域を超える：Brevis、メディアの出所を暗号的に検証し、AIのディープフェイクに対抗する「Vera」を発表&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/renkure [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Beyond Guesswork: Brevis Unveils 'Vera' to Cryptographically Verify Media Origins and Combat AI Deepfakes&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rufl02/beyond_guesswork_brevis_unveils_vera_to/</guid>
+      <pubDate>Sun, 15 Mar 2026 14:34:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] **ByteDanceによるSeedance 2.0：AI動画がついに本気を出した瞬間か？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ruidzl/seedance_20_by_bytedance_is_this_the_moment_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;**ByteDanceによるSeedance 2.0：AI動画がついに本気を出した瞬間か？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ByteDanceのSeedance 2.0：AIビデオがついに本気を出す瞬間か？ByteDanceはSeedance 2.0をリリースしました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: **Seedance 2.0 by ByteDance: Is this the moment AI video finally gets serious?**&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ruidzl/seedance_20_by_bytedance_is_this_the_moment_ai/</guid>
+      <pubDate>Sun, 15 Mar 2026 16:24:13 GMT</pubDate>
+    </item>
+    <item>
       <title>[r/artificial] AlphaEvolveがすでに時代遅れな理由：AIが次のトランスフォーマーを発見するとき｜機械学習ストリートトーク・ポッドキャスト</title>
       <link>https://www.reddit.com/r/artificial/comments/1rtigd4/why_alphaevolve_is_already_obsolete_when_ai/</link>
       <description>&lt;p&gt;&lt;strong&gt;AlphaEvolveがすでに時代遅れな理由：AIが次のトランスフォーマーを発見するとき｜機械学習ストリートトーク・ポッドキャスト&lt;/strong&gt;&lt;/p&gt;
@@ -93,24 +146,6 @@
 &lt;p&gt;&lt;small&gt;原題: Why AlphaEvolve Is Already Obsolete: When AI Discovers The Next Transformer | Machine Learning Street Talk Podcast&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rtigd4/why_alphaevolve_is_already_obsolete_when_ai/</guid>
       <pubDate>Sat, 14 Mar 2026 12:42:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AI、ローカルLMS、IT、ネットワーキング、リナックスなどを目指す機械工学の学生に最適なノートパソコンは？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rtw3mv/what_is_the_best_laptop_for_a_mechanical/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI、ローカルLMS、IT、ネットワーキング、リナックスなどを目指す機械工学の学生に最適なノートパソコンは？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;タイトルの通り、私は数学と機械工学をダブル専攻しています。これらの主要科目の勉強とは別に、現地のLLMやAI全般、IT、ネットワーク、そして機械工学について学ぶつもりです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What is the best laptop for a mechanical engineering student who wants to get into AI, local llms, IT, networking, and linux?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rtw3mv/what_is_the_best_laptop_for_a_mechanical/</guid>
-      <pubDate>Sat, 14 Mar 2026 21:53:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Linux 7.1では、AMD Ryzen AI NPU向けの電力見積もりレポートが提供される。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rtrhg5/linux_71_will_bring_power_estimate_reporting_for/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Linux 7.1では、AMD Ryzen AI NPU向けの電力見積もりレポートが提供される。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Fcking_Chuck [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Linux 7.1 will bring power estimate reporting for AMD Ryzen AI NPUs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rtrhg5/linux_71_will_bring_power_estimate_reporting_for/</guid>
-      <pubDate>Sat, 14 Mar 2026 18:50:30 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] クロードがあなたの会社を悪だと判断したとしよう</title>
@@ -122,76 +157,67 @@
       <pubDate>Sat, 14 Mar 2026 17:19:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIによる商品推奨がオンライン購買意欲に与える影響</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rtou4q/impact_of_ai_product_recommendations_on_online/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIによる商品推奨がオンライン購買意欲に与える影響&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最終論文の回答が必要です。助けてください🙏 &amp;#32;投稿者 &amp;#32; /u/greathardy [リンク] &amp;#32; [コメント].&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Impact of AI Product Recommendations on Online Purchase Intent&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rtou4q/impact_of_ai_product_recommendations_on_online/</guid>
-      <pubDate>Sat, 14 Mar 2026 17:08:28 GMT</pubDate>
+      <title>[r/artificial] エンジニアリング・マネジメントは、LLMエージェントによって自動化される可能性が高い次の役割である。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ruae1l/engineering_management_is_the_next_role_likely_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;エンジニアリング・マネジメントは、LLMエージェントによって自動化される可能性が高い次の役割である。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;過去2年間、ソフトウェアにおけるAIについての議論のほとんどは、コード生成に焦点を当ててきた。それは焦点を当てるべき層が間違っている。コーディングは目に見える表面だ。真のレバレッジは調整にある、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Engineering management is the next role likely to be automated by LLM agents&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ruae1l/engineering_management_is_the_next_role_likely_to/</guid>
+      <pubDate>Sun, 15 Mar 2026 10:12:07 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 中国のバイトダンス社、オフショアのNvidia AI構築で米国の制裁を凌ぐ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rsm8ih/chinas_bytedance_outsmarts_us_sanctions_with/</link>
-      <description>&lt;p&gt;&lt;strong&gt;中国のバイトダンス社、オフショアのNvidia AI構築で米国の制裁を凌ぐ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;エヌビディア・コーポレーション（NASDAQ:NVDA）は、TikTokの親会社であるByteDanceが同社の最新AIチップの大規模な海外展開を計画しているとの報道を受けて注目を集めている。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: China's ByteDance Outsmarts US Sanctions With Offshore Nvidia AI Buildout&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rsm8ih/chinas_bytedance_outsmarts_us_sanctions_with/</guid>
-      <pubDate>Fri, 13 Mar 2026 12:40:44 GMT</pubDate>
+      <title>[r/LocalLLaMA] クウェン3.5-9B-クロード-4.6-オーパス-無調整-蒸留-GGUF</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1runlpf/qwen359bclaude46opusuncensoreddistilledgguf/</link>
+      <description>&lt;p&gt;&lt;strong&gt;クウェン3.5-9B-クロード-4.6-オーパス-無調整-蒸留-GGUF&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;皆さんこんにちは。このコミュニティのために、初めて完全無修正のLLMモデルを作りました。こちらのリンク：https://huggingface.co/LuffyTheFox/Qwen3.5-9B-Claude-4.6-Opus-Uncensored-Distilled-GGUF Thinking is disabled b&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Qwen3.5-9B-Claude-4.6-Opus-Uncensored-Distilled-GGUF&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1runlpf/qwen359bclaude46opusuncensoreddistilledgguf/</guid>
+      <pubDate>Sun, 15 Mar 2026 19:43:03 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] JL-Engine-Local ダイナミック・エージェント・アセンブリ・エンジン</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rt4sr4/jlenginelocal_a_dynamic_agent_assembly_engine/</link>
-      <description>&lt;p&gt;&lt;strong&gt;JL-Engine-Local ダイナミック・エージェント・アセンブリ・エンジン&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;JL-Engine-Localは、AIエージェントをRAM上で構築し、動作させる動的エージェントアセンブリーエンジンです。ビデオの画質が悪くて申し訳ない。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: JL-Engine-Local a dynamic agent assembly engine&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rt4sr4/jlenginelocal_a_dynamic_agent_assembly_engine/</guid>
-      <pubDate>Sat, 14 Mar 2026 00:27:32 GMT</pubDate>
+      <title>[r/LocalLLaMA] ホームラボは元が取れた！(少なくとも、私はこのように正当化している...)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rug5go/homelab_has_paid_for_itself_at_least_this_is_how/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ホームラボは元が取れた！(少なくとも、私はこのように正当化している...)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ちょっと前に投稿したホームラボのアップデートをしようと思う。LLMの実験についてはここに書いた。基本的に、僕はLLM神経解剖学を発見したようだ。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Homelab has paid for itself! (at least this is how I justify it...)&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rug5go/homelab_has_paid_for_itself_at_least_this_is_how/</guid>
+      <pubDate>Sun, 15 Mar 2026 14:57:18 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 人間国防総省と国防総省の戦いは、AIと戦争に関して大手ハイテク企業がいかに方針を転換したかを示している。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rspxj1/anthropicpentagon_battle_shows_how_big_tech_has/</link>
-      <description>&lt;p&gt;&lt;strong&gt;人間国防総省と国防総省の戦いは、AIと戦争に関して大手ハイテク企業がいかに方針を転換したかを示している。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アンソロピック社と国防総省の対立は、ハイテク業界に、自社の製品が戦争にどのように使われるのか、そしてどの一線を越えてはいけないのかという問題に再び取り組ませることになった。シリック&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic-Pentagon battle shows how big tech has reversed course on AI and war&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rspxj1/anthropicpentagon_battle_shows_how_big_tech_has/</guid>
-      <pubDate>Fri, 13 Mar 2026 15:09:48 GMT</pubDate>
+      <title>[r/LocalLLaMA] OpenCode + OSS LLMを試してみてください。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ru6qml/you_guys_gotta_try_opencode_oss_llm/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenCode + OSS LLMを試してみてください。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CC/Codexのヘビーユーザーとして、正直なところ、このインターフェースは両者よりも優れていると思う。オープンソースなので、CCに使い方を聞くこともできる（MCPの追加、会話の再開など）。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: You guys gotta try OpenCode + OSS LLM&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1ru6qml/you_guys_gotta_try_opencode_oss_llm/</guid>
+      <pubDate>Sun, 15 Mar 2026 06:23:03 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIとの関係</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rtlypd/relationships_with_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIとの関係&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;どこでこの質問をすればいいのか分からないので、どなたか他のサブでもっと役に立ちそうなものがあれば、以下に提案してください。  AIキャラクターと関係を持つ人の話を聞いたことがあります。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Relationships with AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rtlypd/relationships_with_ai/</guid>
-      <pubDate>Sat, 14 Mar 2026 15:14:58 GMT</pubDate>
+      <title>[r/LocalLLaMA] Qwen3.5-27B、ゲームエージェント・コーディングリーグで397BやGPT-5 miniとほぼ同等のパフォーマンス</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rue2f4/qwen3527b_performs_almost_on_par_with_397b_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Qwen3.5-27B、ゲームエージェント・コーディングリーグで397BやGPT-5 miniとほぼ同等のパフォーマンス&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;こんにちは、LocalLlamaです。3月のGACLの結果です。私の方からは、いくつかの見解があります：  GPT-5.4は、現時点では主要モデルの中で明らかにリードしている。Qwen3.5-27Bは、これまで以上に良いパフォーマンスを見せた。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Qwen3.5-27B performs almost on par with 397B and GPT-5 mini in the Game Agent Coding League&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rue2f4/qwen3527b_performs_almost_on_par_with_397b_and/</guid>
+      <pubDate>Sun, 15 Mar 2026 13:29:03 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] StepFun、Step3.5 Flashの学習に使用したSFTデータセットを公開</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rtrmp1/stepfun_releases_sft_dataset_used_to_train_step/</link>
-      <description>&lt;p&gt;&lt;strong&gt;StepFun、Step3.5 Flashの学習に使用したSFTデータセットを公開&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; posted by &amp;#32; /u/tarruda [link] &amp;#32; [comments].&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: StepFun releases SFT dataset used to train Step 3.5 Flash&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rtrmp1/stepfun_releases_sft_dataset_used_to_train_step/</guid>
-      <pubDate>Sat, 14 Mar 2026 18:56:21 GMT</pubDate>
+      <title>[r/LocalLLaMA] オープンソースの &quot;GreenBoost &quot;ドライバが、NVIDIA GPUのvRAMをシステムRAMとNVMeで補強し、より大きなLLMを処理することを目指す</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ru98fi/opensource_greenboost_driver_aims_to_augment/</link>
+      <description>&lt;p&gt;&lt;strong&gt;オープンソースの &quot;GreenBoost &quot;ドライバが、NVIDIA GPUのvRAMをシステムRAMとNVMeで補強し、より大きなLLMを処理することを目指す&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/_Antartica [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Open-Source &quot;GreenBoost&quot; Driver Aims To Augment NVIDIA GPUs vRAM With System RAM &amp; NVMe To Handle Larger LLMs&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1ru98fi/opensource_greenboost_driver_aims_to_augment/</guid>
+      <pubDate>Sun, 15 Mar 2026 09:00:16 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] クウェン3.5 35bは、地元で最も優れたモデルのひとつであることは間違いない。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rtm7bf/qwen35_35b_is_sure_one_the_best_local_model/</link>
-      <description>&lt;p&gt;&lt;strong&gt;クウェン3.5 35bは、地元で最も優れたモデルのひとつであることは間違いない。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;小型のファイン・チューン・モデルがその重さ以上の性能を発揮しているという話をよく耳にするし、そうしたモデルはQwen3.5 35Bよりもはるかに性能がいいという声もある。確かに&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Qwen3.5 35b is sure one the best local model (pulling above its weight)&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rtm7bf/qwen35_35b_is_sure_one_the_best_local_model/</guid>
-      <pubDate>Sat, 14 Mar 2026 15:24:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] LLMを組み込んだ現地マンガ翻訳者</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rtf4v8/local_manga_translator_with_llms_built_in/</link>
-      <description>&lt;p&gt;&lt;strong&gt;LLMを組み込んだ現地マンガ翻訳者&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私はこのプロジェクトに1年近く取り組んでおり、マンガページの翻訳で良い結果を出している。一般的には、テキスト検出のためのYOLOモデル、カスタムOCRモデル、LaM&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Local manga translator with LLMs built in&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rtf4v8/local_manga_translator_with_llms_built_in/</guid>
-      <pubDate>Sat, 14 Mar 2026 09:36:00 GMT</pubDate>
+      <title>[r/LocalLLaMA] LLM建築ビジュアライゼーションのギャラリー</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ruek0h/gallery_of_llm_architecture_visualizations/</link>
+      <description>&lt;p&gt;&lt;strong&gt;LLM建築ビジュアライゼーションのギャラリー&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/seraschka [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gallery of LLM Architecture Visualizations&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1ruek0h/gallery_of_llm_architecture_visualizations/</guid>
+      <pubDate>Sun, 15 Mar 2026 13:50:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
