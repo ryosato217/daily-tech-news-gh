@@ -3,24 +3,16 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-03-17</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-03-18</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Mar 2026 22:39:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 22:37:39 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (658pt) かぎスモールウェブ</title>
-      <link>https://news.ycombinator.com/item?id=47410542</link>
-      <description>&lt;p&gt;&lt;strong&gt;かぎスモールウェブ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Kagi Small Web&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47410542</guid>
-      <pubDate>Tue, 17 Mar 2026 09:53:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (67pt) Edge.js：WebAssemblyサンドボックス内でNodeアプリを実行する</title>
-      <link>https://news.ycombinator.com/item?id=47416081</link>
-      <description>&lt;p&gt;&lt;strong&gt;Edge.js：WebAssemblyサンドボックス内でNodeアプリを実行する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Edge.js: Run Node apps inside a WebAssembly sandbox&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47416081</guid>
-      <pubDate>Tue, 17 Mar 2026 18:01:50 GMT</pubDate>
+      <title>[Hacker News] (153pt) Wander - 小さなウェブを探索する小さな分散型ツール</title>
+      <link>https://news.ycombinator.com/item?id=47422759</link>
+      <description>&lt;p&gt;&lt;strong&gt;Wander - 小さなウェブを探索する小さな分散型ツール&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Wander – A tiny, decentralised tool to explore the small web&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47422759</guid>
+      <pubDate>Wed, 18 Mar 2026 07:43:13 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -35,7 +27,7 @@
       <title>[VentureBeat AI] クロード・コードは月200ドルもする。グースは無料で同じことができる。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;クロード・コードは月200ドルもする。グースは無料で同じことができる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能のコーディング革命には、キャッチーなことが伴う：それは高価です。Anthropicの端末ベースのAIエージェントであるClaude Codeは、自律的にコードを書き、デバッグし、展開することができ、キャップを持っている。&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、「高価である」という欠点がある。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -53,7 +45,7 @@
       <title>[VentureBeat AI] セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に再構築したバージョンを発表した。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に作り直したバージョンを発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -86,103 +78,85 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Nvidia、チップから宇宙コンピューティングまでのAIインフラを発表</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rw8rz6/nvidia_unveils_ai_infrastructure_spanning_chips/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Nvidia、チップから宇宙コンピューティングまでのAIインフラを発表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/sksarkpoes3 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Nvidia unveils AI infrastructure spanning chips to space computing&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rw8rz6/nvidia_unveils_ai_infrastructure_spanning_chips/</guid>
-      <pubDate>Tue, 17 Mar 2026 14:54:06 GMT</pubDate>
+      <title>[r/artificial] ペンタゴンが独自のLLMを開発中｜TechCrunch[テッククランチ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1rx1k64/the_pentagon_is_developing_its_own_llms_techcrunch/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ペンタゴンが独自のLLMを開発中｜TechCrunch[テッククランチ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/TryWhistlin [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Pentagon is developing its own LLMs | TechCrunch&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rx1k64/the_pentagon_is_developing_its_own_llms_techcrunch/</guid>
+      <pubDate>Wed, 18 Mar 2026 11:42:06 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] LLMはADHDの脳と同じように指示を忘れる。その理由についての研究は興味深い。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rwkj5j/llms_forget_instructions_the_same_way_adhd_brains/</link>
-      <description>&lt;p&gt;&lt;strong&gt;LLMはADHDの脳と同じように指示を忘れる。その理由についての研究は興味深い。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIは会話の序盤の指示を忘れ、出力を急ぎ、退屈な中盤をスキップしてしまう。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: LLMs forget instructions the same way ADHD brains do. The research on why is fascinating.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rwkj5j/llms_forget_instructions_the_same_way_adhd_brains/</guid>
-      <pubDate>Tue, 17 Mar 2026 21:46:22 GMT</pubDate>
+      <title>[r/artificial] 繰り返しプログラム可能なワークフローを通じてAIを活用し、同じミスを何度も修正するのをやめる方法。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1rxd6q2/how_i_use_ai_through_a_repeatable_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;繰り返しプログラム可能なワークフローを通じてAIを活用し、同じミスを何度も修正するのをやめる方法。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;簡単な背景私は日々の開発でAIを多用しており、同じループにうんざりしていました。機能に関する良いプロンプト -&amp;gt; まあまあの答え -&amp;gt; パッチを当てるためのより多くのプロンプト -&amp;gt; 標準は、再び壊れました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How I use AI through a repeatable and programmable workflow to stop fixing the same mistakes over and over&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rxd6q2/how_i_use_ai_through_a_repeatable_and/</guid>
+      <pubDate>Wed, 18 Mar 2026 19:12:26 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 確かにクロードには敬意を持って接しているが、それが重要か？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rwizyx/sure_i_treat_claude_with_respect_but_does_it/</link>
-      <description>&lt;p&gt;&lt;strong&gt;確かにクロードには敬意を持って接しているが、それが重要か？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;クロードは、その道徳的忍耐力の問題は、&quot;意味のある意味で苦しむことができるか、栄えることができるか &quot;にかかっていると言う。意図的に無礼なことを言うつもりはないが、なぜ気にする必要があるのだろうか？私たちは&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Sure, I Treat Claude with Respect, but Does it Matter?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rwizyx/sure_i_treat_claude_with_respect_but_does_it/</guid>
-      <pubDate>Tue, 17 Mar 2026 20:50:34 GMT</pubDate>
+      <title>[r/artificial] ChatGPTを使用しているのであれば、AIポリシーが必要でしょう。[宣伝はしません］</title>
+      <link>https://www.reddit.com/r/artificial/comments/1rx8hfr/if_you_are_using_chatgpt_you_would_probably_want/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ChatGPTを使用しているのであれば、AIポリシーが必要でしょう。[宣伝はしません］&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近、自分の会社のAIガバナンスについて調べているので、その結果を共有したいと思う。どうやらPwCが発表したレポートによると、72％の企業が正式なAIポリシーを全く持っていないとのことだ。そして&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: If you are using ChatGPT, you would probably want an AI policy. [I will not promote]&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rx8hfr/if_you_are_using_chatgpt_you_would_probably_want/</guid>
+      <pubDate>Wed, 18 Mar 2026 16:23:40 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] LLMはADHDの脳と同じように指示を忘れる。私はその両方のための足場を作った。研究＋オープンソース。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rwkelg/llms_forget_instructions_the_same_way_adhd_brains/</link>
-      <description>&lt;p&gt;&lt;strong&gt;LLMはADHDの脳と同じように指示を忘れる。私はその両方のための足場を作った。研究＋オープンソース。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私の一日を管理するAIシステムを構築した。AIが私と同じようにボールを落とすことに気づいた：会話の前の方の指示を忘れ、出力を急ぎ、退屈なステップをスキップする。研究はそれを裏付けている：  -&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: LLMs forget instructions the same way ADHD brains do. I built scaffolding for both. Research + open source.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rwkelg/llms_forget_instructions_the_same_way_adhd_brains/</guid>
-      <pubDate>Tue, 17 Mar 2026 21:41:46 GMT</pubDate>
+      <title>[r/artificial] マーケティングの仕事は本当にAIに脅かされているのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1rwut6e/are_marketing_jobs_truly_threatened_by_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;マーケティングの仕事は本当にAIに脅かされているのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;あるいは、新たな機会を生み出したり、生産性を向上させたり、まったく影響を与えなかったりしましたか？また、将来的にそうなることを期待していますか？ &amp;#32;投稿者 &amp;#32; /u/Jealous_Dingo_4608 [リンク] &amp;#32; [コメント&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Are marketing jobs truly threatened by AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rwut6e/are_marketing_jobs_truly_threatened_by_ai/</guid>
+      <pubDate>Wed, 18 Mar 2026 05:07:04 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 大手ハイテク企業」はAIを推進しているのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rwac9p/is_big_tech_pushing_ai_to_save_themselves_money/</link>
-      <description>&lt;p&gt;&lt;strong&gt;大手ハイテク企業」はAIを推進しているのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;この記事を読んでいて、一度に1万人ずつ、技術部門で大きな雇用削減が行われていることがよくわかった。そして、これが本当にAIを使うことなのだろうか？まるで&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Is 'big tech' pushing AI to save themselves money?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rwac9p/is_big_tech_pushing_ai_to_save_themselves_money/</guid>
-      <pubDate>Tue, 17 Mar 2026 15:50:15 GMT</pubDate>
+      <title>[r/LocalLLaMA] 誰もこのモデルをダウンロードしていないんだね？</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rxbtyj/so_nobodys_downloading_this_model_huh/</link>
+      <description>&lt;p&gt;&lt;strong&gt;誰もこのモデルをダウンロードしていないんだね？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私自身もパフォーマンスに失望している :/ 私が覚えている最後の良いミストラル・モデルは、多くの良いフィネチューンをもたらしたネモだった。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: So nobody's downloading this model huh?&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rxbtyj/so_nobodys_downloading_this_model_huh/</guid>
+      <pubDate>Wed, 18 Mar 2026 18:23:36 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ポケモンGO』プレイヤー、知らぬ間に300億枚の画像で配達ロボットを訓練していた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rva72t/pokémon_go_players_unknowingly_trained_delivery/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ポケモンGO』プレイヤー、知らぬ間に300億枚の画像で配達ロボットを訓練していた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/boppinmule [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: ‘Pokémon Go’ players unknowingly trained delivery robots with 30 billion images&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rva72t/pokémon_go_players_unknowingly_trained_delivery/</guid>
-      <pubDate>Mon, 16 Mar 2026 13:58:37 GMT</pubDate>
+      <title>[r/LocalLLaMA] 2週間前、私はオープンソースのローカルAI3Dモデルジェネレーターに興味があるかどうか、ここに投稿した。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rx8327/two_weeks_ago_i_posted_here_to_see_if_people/</link>
+      <description>&lt;p&gt;&lt;strong&gt;2週間前、私はオープンソースのローカルAI3Dモデルジェネレーターに興味があるかどうか、ここに投稿した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2週間前にこのアイデアについての質問をここに投稿し、それに取り組み続け、今ようやくベータ版をお見せすることができる。これは、画像から3Dメッシュを生成するローカルでオープンソースのデスクトップアプリだ。現在&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Two weeks ago, I posted here to see if people would be interested in an open-source local AI 3D model generator&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rx8327/two_weeks_ago_i_posted_here_to_see_if_people/</guid>
+      <pubDate>Wed, 18 Mar 2026 16:08:51 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] arXivのエンドーサーになりたい (cs.AI)</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rwkr1l/want_arxiv_endorser_csai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;arXivのエンドーサーになりたい (cs.AI)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;現在、私が取り組んでいる一連の研究論文を投稿するために、[arXiv](https://www.linkedin.com/company/arxiv/)の推薦者（[cs.AI](http://cs.ai/)）を探しています。  私が探求している分野  モデル&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Want arXiv endorser (cs.AI)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rwkr1l/want_arxiv_endorser_csai/</guid>
-      <pubDate>Tue, 17 Mar 2026 21:54:36 GMT</pubDate>
+      <title>[r/LocalLLaMA] オムニコーダー・クロード-4.6-オーパス-無修正-GGUF</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rwy5sl/omnicoderclaude46opusuncensoredgguf/</link>
+      <description>&lt;p&gt;&lt;strong&gt;オムニコーダー・クロード-4.6-オーパス-無修正-GGUF&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;皆さん、こんにちは。redditのこのスレッドに以前投稿したところ、たくさんのアップヴォートと温かく素晴らしいフィードバックをいただきました。本当にありがとう。そこで、ワークフローをさらに改善し、洗練させることにした。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Omnicoder-Claude-4.6-Opus-Uncensored-GGUF&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rwy5sl/omnicoderclaude46opusuncensoredgguf/</guid>
+      <pubDate>Wed, 18 Mar 2026 08:28:10 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIエージェントを構築することで、安全性の問題のほとんどは、プロンプト層ではなく、実行層で起こることを学んだ。そこで、私は認可境界を構築した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rwfaf7/building_ai_agents_taught_me_that_most_safety/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIエージェントを構築することで、安全性の問題のほとんどは、プロンプト層ではなく、実行層で起こることを学んだ。そこで、私は認可境界を構築した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;自律型エージェントの実験中に私が遭遇し続けたことは、AIの安全性に関する議論のほとんどが、間違ったレイヤーに焦点を当てているということだ。今日の話題の多くは、次のようなものだ：- プロンプト・アライメント&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Building AI agents taught me that most safety problems happen at the execution layer, not the prompt layer. So I built an authorization boundary&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rwfaf7/building_ai_agents_taught_me_that_most_safety/</guid>
-      <pubDate>Tue, 17 Mar 2026 18:40:59 GMT</pubDate>
+      <title>[r/LocalLLaMA] ネモトロン3ナノ4B：効率的なローカルAIのためのコンパクトなハイブリッドモデル</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rx87lc/nemotron_3_nano_4b_a_compact_hybrid_model_for/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ネモトロン3ナノ4B：効率的なローカルAIのためのコンパクトなハイブリッドモデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/JustFinishedBSG [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rx87lc/nemotron_3_nano_4b_a_compact_hybrid_model_for/</guid>
+      <pubDate>Wed, 18 Mar 2026 16:13:34 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] Unsloth Studioのご紹介：LLMを訓練し実行するための新しいオープンソースのウェブUI</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rw9jmf/introducing_unsloth_studio_a_new_opensource_web/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Unsloth Studioのご紹介：LLMを訓練し実行するための新しいオープンソースのウェブUI&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;LLMを1つの統一されたローカルUIインターフェイスでトレーニングし、実行するための新しいオープンソースのウェブUIであるUnsloth Studio（ベータ版）を立ち上げることになり、とても興奮しています。GitHub: https://github.com/unslothai/unslot&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Introducing Unsloth Studio: A new open-source web UI to train and run LLMs&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rw9jmf/introducing_unsloth_studio_a_new_opensource_web/</guid>
-      <pubDate>Tue, 17 Mar 2026 15:21:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] Hugging Faceは、𝚕𝚕を使用してハードウェアを検出し、最適なモデルと量を選択し、𝚒𝚕a𝚖ᵨサーバーを起動し、Pi (OpenClaw 🦞の背後にあるエージェント)を起動するワンライナーをリリースしました。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rwgi8x/hugging_face_just_released_a_oneliner_that_uses/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Hugging Faceは、𝚕𝚕を使用してハードウェアを検出し、最適なモデルと量を選択し、𝚒𝚕a𝚖ᵨサーバーを起動し、Pi (OpenClaw 🦞の背後にあるエージェント)を起動するワンライナーをリリースしました。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://github.com/huggingface/hf-agents &amp;#32;投稿者 &amp;#32; /u/clem59480 [リンク] &amp;#32; [コメント].&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Hugging Face just released a one-liner that uses 𝚕𝚕𝚖𝚏𝚒𝚝 to detect your hardware and pick the best model and quant, spins up a 𝚕𝚕a𝚖𝚊.𝚌𝚙𝚙 server, and launches Pi (the agent behind OpenClaw 🦞)&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rwgi8x/hugging_face_just_released_a_oneliner_that_uses/</guid>
-      <pubDate>Tue, 17 Mar 2026 19:22:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] mlx-tune - Unsloth互換のAPIでMac上のLLM（SFT、DPO、GRPO、Vision）を微調整する。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rw4lft/mlxtune_finetune_llms_on_your_mac_sft_dpo_grpo/</link>
-      <description>&lt;p&gt;&lt;strong&gt;mlx-tune - Unsloth互換のAPIでMac上のLLM（SFT、DPO、GRPO、Vision）を微調整する。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Appleシリコン上でMLXを使ってLLMをネイティブに微調整するためのオープンソースライブラリ、mlx-tuneに取り組んでいる。クラウドGPUでUnslothを毎日使っているので、このライブラリを作った。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: mlx-tune – fine-tune LLMs on your Mac (SFT, DPO, GRPO, Vision) with an Unsloth-compatible API&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rw4lft/mlxtune_finetune_llms_on_your_mac_sft_dpo_grpo/</guid>
-      <pubDate>Tue, 17 Mar 2026 12:03:23 GMT</pubDate>
+      <title>[r/LocalLLaMA] レッツゴークウェン3.5-クロード-4.6-オーパス-推論-蒸留-v2</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rxepyz/lets_go_qwen35claude46opusreasoningdistilledv2/</link>
+      <description>&lt;p&gt;&lt;strong&gt;レッツゴークウェン3.5-クロード-4.6-オーパス-推論-蒸留-v2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;また、27Bを待っていますか？ :D https://huggingface.co/collections/Jackrong/qwen35-claude-46-opus-reasoning-distilled-v2 &amp;#32;投稿者 &amp;#32; /u/Familiar_Wish1132 [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Let's GO ! Qwen3.5-Claude-4.6-Opus-Reasoning-Distilled-v2&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rxepyz/lets_go_qwen35claude46opusreasoningdistilledv2/</guid>
+      <pubDate>Wed, 18 Mar 2026 20:07:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
