@@ -3,16 +3,56 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-03-18</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-03-19</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Mar 2026 22:37:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 22:34:45 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (153pt) Wander - 小さなウェブを探索する小さな分散型ツール</title>
-      <link>https://news.ycombinator.com/item?id=47422759</link>
-      <description>&lt;p&gt;&lt;strong&gt;Wander - 小さなウェブを探索する小さな分散型ツール&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Wander – A tiny, decentralised tool to explore the small web&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47422759</guid>
-      <pubDate>Wed, 18 Mar 2026 07:43:13 GMT</pubDate>
+      <title>[Hacker News] (1122pt) アストラル、OpenAIに参加</title>
+      <link>https://news.ycombinator.com/item?id=47438723</link>
+      <description>&lt;p&gt;&lt;strong&gt;アストラル、OpenAIに参加&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Astral to Join OpenAI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47438723</guid>
+      <pubDate>Thu, 19 Mar 2026 13:05:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (339pt) グーグル、未検証のAndroidアプリをサイドロードするための24時間対応の新プロセスを詳述</title>
+      <link>https://news.ycombinator.com/item?id=47442690</link>
+      <description>&lt;p&gt;&lt;strong&gt;グーグル、未検証のAndroidアプリをサイドロードするための24時間対応の新プロセスを詳述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Google details new 24-hour process to sideload unverified Android apps&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47442690</guid>
+      <pubDate>Thu, 19 Mar 2026 17:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (270pt) ショーHN：3つの新しいKitten TTSモデル - 最小25MB未満</title>
+      <link>https://news.ycombinator.com/item?id=47441546</link>
+      <description>&lt;p&gt;&lt;strong&gt;ショーHN：3つの新しいKitten TTSモデル - 最小25MB未満&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: Three new Kitten TTS models – smallest less than 25MB&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47441546</guid>
+      <pubDate>Thu, 19 Mar 2026 15:56:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (81pt) コックピットは、サーバー用のウェブベースのグラフィカル・インターフェースです。</title>
+      <link>https://news.ycombinator.com/item?id=47445599</link>
+      <description>&lt;p&gt;&lt;strong&gt;コックピットは、サーバー用のウェブベースのグラフィカル・インターフェースです。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Cockpit is a web-based graphical interface for servers&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47445599</guid>
+      <pubDate>Thu, 19 Mar 2026 20:33:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (26pt) EsoLang-Bench：エソテリック言語によるLLMの真の推論を評価する</title>
+      <link>https://news.ycombinator.com/item?id=47446021</link>
+      <description>&lt;p&gt;&lt;strong&gt;EsoLang-Bench：エソテリック言語によるLLMの真の推論を評価する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47446021</guid>
+      <pubDate>Thu, 19 Mar 2026 21:01:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (20pt) AIがコードベースをどのように変えるかを意図的に考える</title>
+      <link>https://news.ycombinator.com/item?id=47446373</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIがコードベースをどのように変えるかを意図的に考える&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Be intentional about how AI changes your codebase&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47446373</guid>
+      <pubDate>Thu, 19 Mar 2026 21:23:24 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -78,85 +118,94 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ペンタゴンが独自のLLMを開発中｜TechCrunch[テッククランチ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rx1k64/the_pentagon_is_developing_its_own_llms_techcrunch/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ペンタゴンが独自のLLMを開発中｜TechCrunch[テッククランチ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/TryWhistlin [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Pentagon is developing its own LLMs | TechCrunch&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rx1k64/the_pentagon_is_developing_its_own_llms_techcrunch/</guid>
-      <pubDate>Wed, 18 Mar 2026 11:42:06 GMT</pubDate>
+      <title>[r/artificial] AIのディープラーニングがカリフォルニアの沿岸生態系の保護に役立っている。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ry3gzf/how_ai_deep_learning_is_helping_scientists/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIのディープラーニングがカリフォルニアの沿岸生態系の保護に役立っている。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;UCLAの環境・持続可能性研究所の研究者らは、カリフォルニア州のケルプの森について、これまでで最も高解像度の州全体の地図を作成した。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How AI deep learning is helping scientists protect California's coastal ecosystems&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ry3gzf/how_ai_deep_learning_is_helping_scientists/</guid>
+      <pubDate>Thu, 19 Mar 2026 15:26:58 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 繰り返しプログラム可能なワークフローを通じてAIを活用し、同じミスを何度も修正するのをやめる方法。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rxd6q2/how_i_use_ai_through_a_repeatable_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;繰り返しプログラム可能なワークフローを通じてAIを活用し、同じミスを何度も修正するのをやめる方法。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;簡単な背景私は日々の開発でAIを多用しており、同じループにうんざりしていました。機能に関する良いプロンプト -&amp;gt; まあまあの答え -&amp;gt; パッチを当てるためのより多くのプロンプト -&amp;gt; 標準は、再び壊れました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How I use AI through a repeatable and programmable workflow to stop fixing the same mistakes over and over&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rxd6q2/how_i_use_ai_through_a_repeatable_and/</guid>
-      <pubDate>Wed, 18 Mar 2026 19:12:26 GMT</pubDate>
+      <title>[r/artificial] AIセキュリティの研究論文を平易な言葉に翻訳する無料ダイジェストを作成--創刊号では、複合AIシステムに対するクロススタック攻撃と、敵対的攻撃を自動化するLLMを取り上げる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1rycyzn/we_built_a_free_digest_that_translates_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIセキュリティの研究論文を平易な言葉に翻訳する無料ダイジェストを作成--創刊号では、複合AIシステムに対するクロススタック攻撃と、敵対的攻撃を自動化するLLMを取り上げる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;arXivで発表されているAIのセキュリティ研究は実世界に影響を与えるものが多いが、そのほとんどは他の研究者向けに書かれている。我々は隔週でダイジェストを発行し、これらの論文を翻訳している。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: We built a free digest that translates AI security research papers into plain language -- first issue covers cross-stack attacks on compound AI systems and LLMs automating their own adversarial attacks&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rycyzn/we_built_a_free_digest_that_translates_ai/</guid>
+      <pubDate>Thu, 19 Mar 2026 21:27:21 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ChatGPTを使用しているのであれば、AIポリシーが必要でしょう。[宣伝はしません］</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rx8hfr/if_you_are_using_chatgpt_you_would_probably_want/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ChatGPTを使用しているのであれば、AIポリシーが必要でしょう。[宣伝はしません］&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近、自分の会社のAIガバナンスについて調べているので、その結果を共有したいと思う。どうやらPwCが発表したレポートによると、72％の企業が正式なAIポリシーを全く持っていないとのことだ。そして&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: If you are using ChatGPT, you would probably want an AI policy. [I will not promote]&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rx8hfr/if_you_are_using_chatgpt_you_would_probably_want/</guid>
-      <pubDate>Wed, 18 Mar 2026 16:23:40 GMT</pubDate>
+      <title>[r/artificial] オープンソースリリース</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ryc5zo/open_source_release/</link>
+      <description>&lt;p&gt;&lt;strong&gt;オープンソースリリース&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;オープンソースリリース 私は過去数年間、個人的に開発してきた3つの大規模なソフトウェアシステムをリリースした。これらのプロジェクトは、組織の枠にとらわれず、たった一人で作り上げたものです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Open Source Release&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ryc5zo/open_source_release/</guid>
+      <pubDate>Thu, 19 Mar 2026 20:56:42 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] マーケティングの仕事は本当にAIに脅かされているのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rwut6e/are_marketing_jobs_truly_threatened_by_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;マーケティングの仕事は本当にAIに脅かされているのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;あるいは、新たな機会を生み出したり、生産性を向上させたり、まったく影響を与えなかったりしましたか？また、将来的にそうなることを期待していますか？ &amp;#32;投稿者 &amp;#32; /u/Jealous_Dingo_4608 [リンク] &amp;#32; [コメント&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Are marketing jobs truly threatened by AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rwut6e/are_marketing_jobs_truly_threatened_by_ai/</guid>
-      <pubDate>Wed, 18 Mar 2026 05:07:04 GMT</pubDate>
+      <title>[r/artificial] AIに古代ヴェーダのチェスの変種を説明させる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ry58uh/getting_ai_to_explain_an_ancient_vedic_chess/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIに古代ヴェーダのチェスの変種を説明させる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/ShelterCorrect [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Getting AI to explain an ancient Vedic chess variant&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ry58uh/getting_ai_to_explain_an_ancient_vedic_chess/</guid>
+      <pubDate>Thu, 19 Mar 2026 16:32:28 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] 誰もこのモデルをダウンロードしていないんだね？</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rxbtyj/so_nobodys_downloading_this_model_huh/</link>
-      <description>&lt;p&gt;&lt;strong&gt;誰もこのモデルをダウンロードしていないんだね？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私自身もパフォーマンスに失望している :/ 私が覚えている最後の良いミストラル・モデルは、多くの良いフィネチューンをもたらしたネモだった。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: So nobody's downloading this model huh?&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rxbtyj/so_nobodys_downloading_this_model_huh/</guid>
-      <pubDate>Wed, 18 Mar 2026 18:23:36 GMT</pubDate>
+      <title>[r/artificial] ジェネレーティブAIが障害物を見通すワイヤレスビジョンシステムを改良</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ry2qv3/generative_ai_improves_a_wireless_vision_system/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ジェネレーティブAIが障害物を見通すワイヤレスビジョンシステムを改良&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;マサチューセッツ工科大学（MIT）の研究者たちは、ロボットが障害物を透視して隠れた物体を見つけ、操作できるようにする技術の研究に10年以上を費やしてきた。彼らの方法は、表面透過型センサーを利用する。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Generative AI improves a wireless vision system that sees through obstructions&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ry2qv3/generative_ai_improves_a_wireless_vision_system/</guid>
+      <pubDate>Thu, 19 Mar 2026 15:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] 2週間前、私はオープンソースのローカルAI3Dモデルジェネレーターに興味があるかどうか、ここに投稿した。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rx8327/two_weeks_ago_i_posted_here_to_see_if_people/</link>
-      <description>&lt;p&gt;&lt;strong&gt;2週間前、私はオープンソースのローカルAI3Dモデルジェネレーターに興味があるかどうか、ここに投稿した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;2週間前にこのアイデアについての質問をここに投稿し、それに取り組み続け、今ようやくベータ版をお見せすることができる。これは、画像から3Dメッシュを生成するローカルでオープンソースのデスクトップアプリだ。現在&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Two weeks ago, I posted here to see if people would be interested in an open-source local AI 3D model generator&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rx8327/two_weeks_ago_i_posted_here_to_see_if_people/</guid>
-      <pubDate>Wed, 18 Mar 2026 16:08:51 GMT</pubDate>
+      <title>[r/artificial] 「AIシステムはなぜ学習しないのか？エマニュエル・デュプー、ヤン・ルクン、ジテンドラ・マリクによる論文。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1rxoq9g/why_ai_systems_dont_learn_and_what_to_do_about_it/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「AIシステムはなぜ学習しないのか？エマニュエル・デュプー、ヤン・ルクン、ジテンドラ・マリクによる論文。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本論文では、現在のAIの限界を批判し、生物学的な脳に着想を得た新しい学習モデルを紹介する。著者らは2つの重要な手法を組み合わせたフレームワークを提案している：システムA&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: &quot;Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science&quot; - paper by Emmanuel Dupoux, Yann LeCun, Jitendra Malik&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rxoq9g/why_ai_systems_dont_learn_and_what_to_do_about_it/</guid>
+      <pubDate>Thu, 19 Mar 2026 02:48:53 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] オムニコーダー・クロード-4.6-オーパス-無修正-GGUF</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rwy5sl/omnicoderclaude46opusuncensoredgguf/</link>
-      <description>&lt;p&gt;&lt;strong&gt;オムニコーダー・クロード-4.6-オーパス-無修正-GGUF&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;皆さん、こんにちは。redditのこのスレッドに以前投稿したところ、たくさんのアップヴォートと温かく素晴らしいフィードバックをいただきました。本当にありがとう。そこで、ワークフローをさらに改善し、洗練させることにした。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Omnicoder-Claude-4.6-Opus-Uncensored-GGUF&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rwy5sl/omnicoderclaude46opusuncensoredgguf/</guid>
-      <pubDate>Wed, 18 Mar 2026 08:28:10 GMT</pubDate>
+      <title>[r/artificial] 標準治療の心臓画像診断の改善にAIを活用</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ry3egw/using_ai_to_improve_standardofcare_cardiac_imaging/</link>
+      <description>&lt;p&gt;&lt;strong&gt;標準治療の心臓画像診断の改善にAIを活用&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;心臓病は世界的に成人の死亡原因の第1位であり、心血管系疾患の診断と管理は世界的な保健上の優先事項となっている。心エコー図（心臓超音波検査）は、心臓血管系疾患の診断に最も重要な検査のひとつである。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Using AI to improve standard-of-care cardiac imaging&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ry3egw/using_ai_to_improve_standardofcare_cardiac_imaging/</guid>
+      <pubDate>Thu, 19 Mar 2026 15:24:25 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] ネモトロン3ナノ4B：効率的なローカルAIのためのコンパクトなハイブリッドモデル</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rx87lc/nemotron_3_nano_4b_a_compact_hybrid_model_for/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ネモトロン3ナノ4B：効率的なローカルAIのためのコンパクトなハイブリッドモデル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/JustFinishedBSG [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rx87lc/nemotron_3_nano_4b_a_compact_hybrid_model_for/</guid>
-      <pubDate>Wed, 18 Mar 2026 16:13:34 GMT</pubDate>
+      <title>[r/artificial] AIエージェントのプロンプト・インジェクション、ハイジャック攻撃、情報漏えいに対するソリューション：</title>
+      <link>https://www.reddit.com/r/artificial/comments/1rxtw4v/solution_to_ai_agent_prompt_injection_hijacking/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIエージェントのプロンプト・インジェクション、ハイジャック攻撃、情報漏えいに対するソリューション：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIエージェントのプロンプト・インジェクション、ハイジャック攻撃、情報漏えいに対するソリューション：AIエージェントは、処理するコンテンツを通じて、タスクの途中で乗っ取られる可能性があります。既存のあらゆる防御策は推論レイヤーで動作し&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Solution to AI Agent Prompt Injection, Hijacking attacks and Info Leaks:&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rxtw4v/solution_to_ai_agent_prompt_injection_hijacking/</guid>
+      <pubDate>Thu, 19 Mar 2026 07:28:21 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] レッツゴークウェン3.5-クロード-4.6-オーパス-推論-蒸留-v2</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rxepyz/lets_go_qwen35claude46opusreasoningdistilledv2/</link>
-      <description>&lt;p&gt;&lt;strong&gt;レッツゴークウェン3.5-クロード-4.6-オーパス-推論-蒸留-v2&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;また、27Bを待っていますか？ :D https://huggingface.co/collections/Jackrong/qwen35-claude-46-opus-reasoning-distilled-v2 &amp;#32;投稿者 &amp;#32; /u/Familiar_Wish1132 [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Let's GO ! Qwen3.5-Claude-4.6-Opus-Reasoning-Distilled-v2&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rxepyz/lets_go_qwen35claude46opusreasoningdistilledv2/</guid>
-      <pubDate>Wed, 18 Mar 2026 20:07:28 GMT</pubDate>
+      <title>[r/LocalLLaMA] エージェントはあれもこれもコーディングしているが、私が欲しいのはKNOWLEDGEABLEモデルだけだ！それはどこにある？</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ry49iy/agent_this_coding_that_but_all_i_want_is_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;エージェントはあれもこれもコーディングしているが、私が欲しいのはKNOWLEDGEABLEモデルだけだ！それはどこにある？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私が3年前にLLMに入学したのは、検索エンジンがもたらす哀れな信号対雑音比を避け、自分の文脈に基づいてカスタムフィットした知識を得ることができるからだった。主な利点&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Agent this, coding that, but all I want is a KNOWLEDGEABLE model! Where are those?&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1ry49iy/agent_this_coding_that_but_all_i_want_is_a/</guid>
+      <pubDate>Thu, 19 Mar 2026 15:56:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] PearlOS。我々は、スウォームインテリジェンスにローカルデスクトップ環境と自己進化するためのコードコントロールを与えた。これまでのところ、かなり信じられないようなことが起きている。オープンソースで無料だ。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ry2v92/pearlos_we_gave_swarm_intelligence_a_local/</link>
+      <description>&lt;p&gt;&lt;strong&gt;PearlOS。我々は、スウォームインテリジェンスにローカルデスクトップ環境と自己進化するためのコードコントロールを与えた。これまでのところ、かなり信じられないようなことが起きている。オープンソースで無料だ。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;tl;dr: PearlOSは自己進化するインテリジェントなコンパニオンOSで、時間とともに学習し、素早く成長する。彼女はメモを取り、あなたのために新しいアプリを作り、新しい能力を得る。新しいUIを作ることもできる。この&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: PearlOS. We gave swarm intelligence a local desktop environment and code control to self-evolve. Has been pretty incredible to see so far. Open source and free if you want your own.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1ry2v92/pearlos_we_gave_swarm_intelligence_a_local/</guid>
+      <pubDate>Thu, 19 Mar 2026 15:04:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
