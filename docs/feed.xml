@@ -3,32 +3,32 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-03-21</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-03-23</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Mar 2026 22:31:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 19:03:49 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (177pt) Tinybox-オフラインAIデバイス120Bパラメータ</title>
-      <link>https://news.ycombinator.com/item?id=47470773</link>
-      <description>&lt;p&gt;&lt;strong&gt;Tinybox-オフラインAIデバイス120Bパラメータ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Tinybox- offline AI device 120B parameters&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47470773</guid>
-      <pubDate>Sat, 21 Mar 2026 20:08:37 GMT</pubDate>
+      <title>[Hacker News] (296pt) iPhone 17 Proで400B LLMを動作させるデモを実施</title>
+      <link>https://news.ycombinator.com/item?id=47490070</link>
+      <description>&lt;p&gt;&lt;strong&gt;iPhone 17 Proで400B LLMを動作させるデモを実施&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: iPhone 17 Pro Demonstrated Running a 400B LLM&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47490070</guid>
+      <pubDate>Mon, 23 Mar 2026 14:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (63pt) 誰も説明できない7時間の爆発</title>
-      <link>https://news.ycombinator.com/item?id=47411110</link>
-      <description>&lt;p&gt;&lt;strong&gt;誰も説明できない7時間の爆発&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The seven hour explosion nobody could explain&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47411110</guid>
-      <pubDate>Tue, 17 Mar 2026 11:14:23 GMT</pubDate>
+      <title>[Hacker News] (186pt) ボンバディルウェブUIのためのプロパティベースのテスト</title>
+      <link>https://news.ycombinator.com/item?id=47436592</link>
+      <description>&lt;p&gt;&lt;strong&gt;ボンバディルウェブUIのためのプロパティベースのテスト&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Bombadil: Property-based testing for web UIs&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47436592</guid>
+      <pubDate>Thu, 19 Mar 2026 08:53:36 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (16pt) WebGPUとWASMにより、ブラウザ上でプロフェッショナルなビデオ編集が可能</title>
-      <link>https://news.ycombinator.com/item?id=47471601</link>
-      <description>&lt;p&gt;&lt;strong&gt;WebGPUとWASMにより、ブラウザ上でプロフェッショナルなビデオ編集が可能&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Professional video editing, right in the browser with WebGPU and WASM&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47471601</guid>
-      <pubDate>Sat, 21 Mar 2026 21:27:50 GMT</pubDate>
+      <title>[Hacker News] (77pt) トリヴィー、再び攻撃される：GitHubのActionsタグが広範囲で機密を漏洩</title>
+      <link>https://news.ycombinator.com/item?id=47475888</link>
+      <description>&lt;p&gt;&lt;strong&gt;トリヴィー、再び攻撃される：GitHubのActionsタグが広範囲で機密を漏洩&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Trivy under attack again: Widespread GitHub Actions tag compromise secrets&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47475888</guid>
+      <pubDate>Sun, 22 Mar 2026 09:45:14 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -43,7 +43,7 @@
       <title>[VentureBeat AI] クロード・コードは月200ドルもする。グースは無料で同じことができる。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;クロード・コードは月200ドルもする。グースは無料で同じことができる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、「高価である」という欠点がある。&lt;/p&gt;
+&lt;p&gt;人工知能のコーディング革命には、キャッチーなことが伴う：それは高価です。Anthropicの端末ベースのAIエージェントであるClaude Codeは、自律的にコードを書き、デバッグし、展開することができ、キャップを持っている。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -61,7 +61,7 @@
       <title>[VentureBeat AI] セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に作り直したバージョンを発表した。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に再構築したバージョンを発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -94,94 +94,157 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIの経済学は、実際に大規模な労働力代替を意味するのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rzztg1/does_the_economics_of_ai_actually_imply/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIの経済学は、実際に大規模な労働力代替を意味するのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/No-Grapefruit2680 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Does the economics of AI actually imply large-scale labor replacement?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rzztg1/does_the_economics_of_ai_actually_imply/</guid>
-      <pubDate>Sat, 21 Mar 2026 19:05:53 GMT</pubDate>
+      <title>[r/artificial] アンドレイ・カルパシーの自律型AI研究エージェントは2日間で700の実験を行い、AIの方向性を垣間見せた</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s1b1zm/andrej_karpathys_autonomous_ai_research_agent_ran/</link>
+      <description>&lt;p&gt;&lt;strong&gt;アンドレイ・カルパシーの自律型AI研究エージェントは2日間で700の実験を行い、AIの方向性を垣間見せた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/tekz [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Andrej Karpathy's autonomous AI research agent ran 700 experiments in 2 days and gave a glimpse of where AI is heading&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s1b1zm/andrej_karpathys_autonomous_ai_research_agent_ran/</guid>
+      <pubDate>Mon, 23 Mar 2026 08:20:13 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] エージェント・システムにおける実行境界は、実際にはどこにあるべきなのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1s004hd/where_should_the_execution_boundary_actually_live/</link>
-      <description>&lt;p&gt;&lt;strong&gt;エージェント・システムにおける実行境界は、実際にはどこにあるべきなのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;実行後にほとんどの制御が行われる - リトライ - ステートチェック - モニタリング - アイデンポテンシーパッチ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Where should the execution boundary actually live in Agent systems?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s004hd/where_should_the_execution_boundary_actually_live/</guid>
-      <pubDate>Sat, 21 Mar 2026 19:18:01 GMT</pubDate>
+      <title>[r/artificial] シャオミのMiMoモデルがAIの価格設定を不快にする</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s1cpap/xiaomis_mimo_models_are_making_the_ai_pricing/</link>
+      <description>&lt;p&gt;&lt;strong&gt;シャオミのMiMoモデルがAIの価格設定を不快にする&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;MiMo-V2-Flashはオープンソースで、SWE-Benchのスコアは73.4％（オープンソースの中では1位）。これはClaude Sonnetの3.5%に相当する。MiMo-V2-Pr&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Xiaomi's MiMo models are making the AI pricing conversation uncomfortable&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s1cpap/xiaomis_mimo_models_are_making_the_ai_pricing/</guid>
+      <pubDate>Mon, 23 Mar 2026 10:04:19 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] システムシグナル｜データセンター・AIニュースアグリゲーター</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rzyktd/systemsignal_data_center_and_ai_news_aggregator/</link>
-      <description>&lt;p&gt;&lt;strong&gt;システムシグナル｜データセンター・AIニュースアグリゲーター&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;SysSignalは、AIとデータセンター・インフラを追いかける人々のためのサービスです。SysSignalは、AIとデータセンター・インフラを追いかける人々のためのサービスです。この分野のニュースを集約し、最も大きなトピックを毎日まとめています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: SystemSignal | Data Center and AI News Aggregator&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rzyktd/systemsignal_data_center_and_ai_news_aggregator/</guid>
-      <pubDate>Sat, 21 Mar 2026 18:16:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 世界とAI</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rzfrwc/the_world_and_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;世界とAI&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIがますます話題になる中、子供たちが大きくなったときに仕事をどうするか考えたことがある人はいるだろうか？私には1歳と3歳の子供がいます。私は彼らのためにとても神経質になっている&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The world and AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rzfrwc/the_world_and_ai/</guid>
-      <pubDate>Sat, 21 Mar 2026 02:24:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ウォルマート、2つのAI価格設定特許を取得 ダイナミックプライシングへの懸念高まる</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rywmca/walmart_secures_two_ai_pricing_patents_raising/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ウォルマート、2つのAI価格設定特許を取得 ダイナミックプライシングへの懸念高まる&lt;/strong&gt;&lt;/p&gt;
+      <title>[r/artificial] 米国防総省、パランティア社のAIを米軍の基幹システムとして採用か、メモに記載</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s11nu4/pentagon_to_adopt_palantir_ai_as_core_us_military/</link>
+      <description>&lt;p&gt;&lt;strong&gt;米国防総省、パランティア社のAIを米軍の基幹システムとして採用か、メモに記載&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/esporx [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Walmart secures two AI pricing patents, raising dynamic pricing concerns&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rywmca/walmart_secures_two_ai_pricing_patents_raising/</guid>
-      <pubDate>Fri, 20 Mar 2026 13:44:03 GMT</pubDate>
+&lt;p&gt;&lt;small&gt;原題: Pentagon to adopt Palantir AI as core US military system, memo says&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s11nu4/pentagon_to_adopt_palantir_ai_as_core_us_military/</guid>
+      <pubDate>Mon, 23 Mar 2026 00:05:16 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AI搭載車椅子：実生活への準備はできているのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rzkyuu/aipowered_wheelchairs_are_they_ready_for_real_life/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI搭載車椅子：実生活への準備はできているのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;重度の障害を持つ車椅子ユーザーは、多くのロボットシステムよりも狭い空間を上手に移動できることが多い。カリフォルニア州アナハイムで発表された研究結果を含む、新しいスマート車椅子の研究の波。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI-Powered Wheelchairs: Are They Ready for Real Life?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rzkyuu/aipowered_wheelchairs_are_they_ready_for_real_life/</guid>
-      <pubDate>Sat, 21 Mar 2026 07:06:12 GMT</pubDate>
+      <title>[r/artificial] 私はクリエイティブなワークフローでAIビデオツールを6ヶ月ほど使っているが、実際に便利なところと、まだ過大評価されているところを正直に評価したい。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s1d4zc/ive_been_using_ai_video_tools_in_my_creative/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私はクリエイティブなワークフローでAIビデオツールを6ヶ月ほど使っているが、実際に便利なところと、まだ過大評価されているところを正直に評価したい。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私はフリーランスのコンテンツクリエイター兼ビデオグラファーとして働いているが、昨年末から様々なAIツールをワークフローに組み込んでいる。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I've been using AI video tools in my creative workflow for about 6 months and I want to give an honest assessment of where they're actually useful vs where they're still overhyped&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s1d4zc/ive_been_using_ai_video_tools_in_my_creative/</guid>
+      <pubDate>Mon, 23 Mar 2026 10:29:28 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIツールが進行した心不全の診断に有望性を示す</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rzdkwl/ai_tool_shows_promise_in_diagnosing_advanced/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIツールが進行した心不全の診断に有望性を示す&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;心臓超音波検査データに人工知能技術を応用することで、進行した心不全患者の特定が容易になる可能性があることが、新しい研究で明らかになった。この研究では、次のような利点が示されている。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI tool shows promise in diagnosing advanced heart failure&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rzdkwl/ai_tool_shows_promise_in_diagnosing_advanced/</guid>
-      <pubDate>Sat, 21 Mar 2026 00:43:27 GMT</pubDate>
+      <title>[r/artificial] ジェンセン・フアンは、AIを使わないことをチップ設計に「紙と鉛筆」を使うことと比較し、Nvidiaの巨額のトークン予算を説明した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s1iks2/jensen_huang_compares_not_using_ai_to_using_paper/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ジェンセン・フアンは、AIを使わないことをチップ設計に「紙と鉛筆」を使うことと比較し、Nvidiaの巨額のトークン予算を説明した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Tiny-Independent273 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Jensen Huang compares not using AI to using &quot;paper and pencil&quot; to design chips, as he explains Nvidia's massive token budget&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s1iks2/jensen_huang_compares_not_using_ai_to_using_paper/</guid>
+      <pubDate>Mon, 23 Mar 2026 14:34:42 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 新しいAIモデルが予想外の分子で過去最高の双極子モーメントを予測</title>
-      <link>https://www.reddit.com/r/artificial/comments/1rzdcpp/new_ai_model_predicts_record_high_dipole_moments/</link>
-      <description>&lt;p&gt;&lt;strong&gt;新しいAIモデルが予想外の分子で過去最高の双極子モーメントを予測&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;化学者たちは、非常に特殊な技術革新のニーズを達成するために適切な分子を探す際に、心配する厳密なステップを1つ減らすことができるかもしれない。科学者たちはこのほど、新しい機械学習システムを構築した。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: New AI model predicts record high dipole moments in unexpected molecules&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1rzdcpp/new_ai_model_predicts_record_high_dipole_moments/</guid>
-      <pubDate>Sat, 21 Mar 2026 00:33:03 GMT</pubDate>
+      <title>[r/artificial] 独占米国防総省、パランティアのAIを米軍の基幹システムとして採用か、メモに記載</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s1ewoh/exclusive_pentagon_to_adopt_palantir_ai_as_core/</link>
+      <description>&lt;p&gt;&lt;strong&gt;独占米国防総省、パランティアのAIを米軍の基幹システムとして採用か、メモに記載&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/boppinmule [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s1ewoh/exclusive_pentagon_to_adopt_palantir_ai_as_core/</guid>
+      <pubDate>Mon, 23 Mar 2026 12:01:52 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] ホワイトハウス（米国）による新たなAI政策</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1rzyha4/new_ai_policy_by_white_house_us/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ホワイトハウス（米国）による新たなAI政策&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;概要（SLM生成）：  1.子どもの保護 - AIプラットフォームにおける年齢保証措置、ペアレンタルコントロール、性的搾取や自傷行為に対するセーフガードを義務付ける。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: New AI Policy by White House (US)&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1rzyha4/new_ai_policy_by_white_house_us/</guid>
-      <pubDate>Sat, 21 Mar 2026 18:12:56 GMT</pubDate>
+      <title>[r/artificial] サム・アルトマンは、ウォール街がIPO支出に圧力をかける中、OpenAIのデータセンター構想を縮小。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s1c1f0/sam_altman_scales_back_openais_data_center/</link>
+      <description>&lt;p&gt;&lt;strong&gt;サム・アルトマンは、ウォール街がIPO支出に圧力をかける中、OpenAIのデータセンター構想を縮小。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ブラックロックの米国インフラサミットで、サム・アルトマンは大きな警告を発した：OpenAIの大規模なデータセンター・プロジェクトが深刻な障害にぶつかっている。同社は現在、コストのかかる自社のデータセンター建設から撤退している。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Sam Altman scales back OpenAI's data center ambitions as Wall Street pressures IPO spending.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s1c1f0/sam_altman_scales_back_openais_data_center/</guid>
+      <pubDate>Mon, 23 Mar 2026 09:24:23 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] 私は、空のデータセットから出発し、蓄積メモリのみを使用することで、話し方を学習する言語モデルの新しいアーキテクチャを設計した。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s002h7/i_designed_a_new_architecture_for_language_models/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私は、空のデータセットから出発し、蓄積メモリのみを使用することで、話し方を学習する言語モデルの新しいアーキテクチャを設計した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Savvyとは、エピソード記憶、文型予測、形態素トークン予測のデータを蓄積するために設計されたモデルである。この2つの実験は概念実証である。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I designed a new architecture for language models to learn how to speak by starting with an empty dataset &amp; only using accumulating memory.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s002h7/i_designed_a_new_architecture_for_language_models/</guid>
-      <pubDate>Sat, 21 Mar 2026 19:15:50 GMT</pubDate>
+      <title>[r/artificial] AIチャットボットや音声エージェントの実際の有料クライアントはどこにいるのか？(理論ではなく、これを今すぐ必要としている実際の企業</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s1fwod/where_are_the_actual_paying_clients_for_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIチャットボットや音声エージェントの実際の有料クライアントはどこにいるのか？(理論ではなく、これを今すぐ必要としている実際の企業&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;誰もがチャットボットや音声エージェントを作っている。しかし、クライアントは一体どこにいるのだろうか？私はここしばらくの間、AIオートメーション分野に身を置いており、R&amp;Dのようなニッチ向けにリードクオリファイヤーのボットやボイスエージェントを構築してきた。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Where are the actual paying clients for AI chatbots and voice agents? (Not theory — real businesses that need this NOW&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s1fwod/where_are_the_actual_paying_clients_for_ai/</guid>
+      <pubDate>Mon, 23 Mar 2026 12:48:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] CLIツールの作り方＋コンパクト化せずに長く使う技術</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s1jpxt/how_to_build_cli_tool_skill_to_work_longer/</link>
+      <description>&lt;p&gt;&lt;strong&gt;CLIツールの作り方＋コンパクト化せずに長く使う技術&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は毎日AIエージェントと仕事をしていますが、コンテキストの切り替えを最小限にし、私が開発中に通常使用するすべてのツールをエージェントに使用させるよう、懸命に努力しています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How to build CLI tool + skill to work longer without compacting&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s1jpxt/how_to_build_cli_tool_skill_to_work_longer/</guid>
+      <pubDate>Mon, 23 Mar 2026 15:17:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] 中国のオープンソース支配が米国のAIリードを脅かすと米諮問機関が警告</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s1kmch/chinas_opensource_dominance_threatens_us_ai_lead/</link>
+      <description>&lt;p&gt;&lt;strong&gt;中国のオープンソース支配が米国のAIリードを脅かすと米諮問機関が警告&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/Prolapse_to_Brolapse [リンク] &amp;#32; [コメント] &amp;#32; [コメント] [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: China's open-source dominance threatens US AI lead, US advisory body warns&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s1kmch/chinas_opensource_dominance_threatens_us_ai_lead/</guid>
+      <pubDate>Mon, 23 Mar 2026 15:50:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] 中国LLMシーンの現状</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s1gm9z/the_current_state_of_the_chinese_llms_scene/</link>
+      <description>&lt;p&gt;&lt;strong&gt;中国LLMシーンの現状&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;中国のLLM事情について、私なりに調べたことをまとめてみました。間違いがあれば教えてください。ビッグボーイズ：ByteDance：dola-seed（別名doubao）は現在のマークです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The current state of the Chinese LLMs scene&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s1gm9z/the_current_state_of_the_chinese_llms_scene/</guid>
+      <pubDate>Mon, 23 Mar 2026 13:17:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] ジープのオーヴァーランドではどのモデルを走らせているんだい？</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s1kyla/which_local_model_we_running_on_the_overland_jeep/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ジープのオーヴァーランドではどのモデルを走らせているんだい？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/BannedGoNext [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Which local model we running on the overland Jeep fellas?&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s1kyla/which_local_model_we_running_on_the_overland_jeep/</guid>
+      <pubDate>Mon, 23 Mar 2026 16:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] カーソルは、キミK2.5が最高のオープンソースモデルであることを認めている。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s19ik2/so_cursor_admits_that_kimi_k25_is_the_best_open/</link>
+      <description>&lt;p&gt;&lt;strong&gt;カーソルは、キミK2.5が最高のオープンソースモデルであることを認めている。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;仲間からの評価ほど、大きな声で語るものはない。 &amp;#32;投稿者: &amp;#32; /u/Giveawayforusa [リンク] &amp;#32; [コメント] &amp;#32&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: So cursor admits that Kimi K2.5 is the best open source model&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s19ik2/so_cursor_admits_that_kimi_k25_is_the_best_open/</guid>
+      <pubDate>Mon, 23 Mar 2026 06:42:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] SWE-rebenchリーダーボード（2026年2月）：GPT-5.4、Qwen3.5、Gemini 3.1 Pro、Step-3.5-Flash、その他</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s1h4fo/swerebench_leaderboard_feb_2026_gpt54_qwen35/</link>
+      <description>&lt;p&gt;&lt;strong&gt;SWE-rebenchリーダーボード（2026年2月）：GPT-5.4、Qwen3.5、Gemini 3.1 Pro、Step-3.5-Flash、その他&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;GitHubの57のPRタスク（前月に作成されたPRに限定）で2月に実施した結果をSWE-rebenchのリーダーボードにアップしました。セットアップは標準的なSWE-benchです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: SWE-rebench Leaderboard (Feb 2026): GPT-5.4, Qwen3.5, Gemini 3.1 Pro, Step-3.5-Flash and More&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s1h4fo/swerebench_leaderboard_feb_2026_gpt54_qwen35/</guid>
+      <pubDate>Mon, 23 Mar 2026 13:38:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] 私はLLMに飛び込む前にデータエンジニアリングの仕事をしていました。この分野の多くの人がElastic/OpenSearchを聞いたことがないことに驚いています。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s17afx/i_came_from_data_engineering_stuff_before_jumping/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私はLLMに飛び込む前にデータエンジニアリングの仕事をしていました。この分野の多くの人がElastic/OpenSearchを聞いたことがないことに驚いています。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;冗談はさておき、技術的なレベルでは、グーグル／ブレイブ検索とベクターストアは基本的によく似た仕組みになっている。主な違いは規模である。LLMの観点からは、どちらもRAGに該当する。あなたは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I came from Data Engineering stuff before jumping into LLM stuff, i am surprised that many people in this space never heard Elastic/OpenSearch&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s17afx/i_came_from_data_engineering_stuff_before_jumping/</guid>
+      <pubDate>Mon, 23 Mar 2026 04:31:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] M5 マックス 実際のプレフィル性能の向上</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s1k65x/m5_max_actual_prefill_performance_gains/</link>
+      <description>&lt;p&gt;&lt;strong&gt;M5 マックス 実際のプレフィル性能の向上&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;アップルがGPUのAI演算のピーク値を4倍と言う理由がわかった気がする。それは、数秒間、GPUに大量の電力を供給するからだ。つまり、性能の半分はAIアクセラレーターによるものだ。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: M5 Max Actual Pre-fill performance gains&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s1k65x/m5_max_actual_prefill_performance_gains/</guid>
+      <pubDate>Mon, 23 Mar 2026 15:33:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] qwen3.5 27bモデルへのもうひとつの感謝の投稿</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s1p2jo/another_appreciation_post_for_qwen35_27b_model/</link>
+      <description>&lt;p&gt;&lt;strong&gt;qwen3.5 27bモデルへのもうひとつの感謝の投稿&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私はqwen3.5 122bが発売されたときにテストし、とても気に入りました。私の開発テストでは、gemini 3 flash（私が現在使用しているコーディング用AIツール）とペアで使用しました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Another appreciation post for qwen3.5 27b model&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s1p2jo/another_appreciation_post_for_qwen35_27b_model/</guid>
+      <pubDate>Mon, 23 Mar 2026 18:25:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
