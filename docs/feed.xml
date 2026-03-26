@@ -3,32 +3,24 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-03-25</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-03-26</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Mar 2026 19:04:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 19:18:01 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (476pt) 映画『万歳三唱』での私の天体写真</title>
-      <link>https://news.ycombinator.com/item?id=47477873</link>
-      <description>&lt;p&gt;&lt;strong&gt;映画『万歳三唱』での私の天体写真&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: My Astrophotography in the Movie Project Hail Mary&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47477873</guid>
-      <pubDate>Sun, 22 Mar 2026 14:28:06 GMT</pubDate>
+      <title>[Hacker News] (173pt) LiteLLMマルウェア攻撃に対する私の分刻みの対応</title>
+      <link>https://news.ycombinator.com/item?id=47531967</link>
+      <description>&lt;p&gt;&lt;strong&gt;LiteLLMマルウェア攻撃に対する私の分刻みの対応&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: My minute-by-minute response to the LiteLLM malware attack&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47531967</guid>
+      <pubDate>Thu, 26 Mar 2026 15:48:40 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (417pt) TurboQuant：究極の圧縮でAIの効率を再定義</title>
-      <link>https://news.ycombinator.com/item?id=47513475</link>
-      <description>&lt;p&gt;&lt;strong&gt;TurboQuant：究極の圧縮でAIの効率を再定義&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: TurboQuant: Redefining AI efficiency with extreme compression&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47513475</guid>
-      <pubDate>Wed, 25 Mar 2026 05:00:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (279pt) ローカルLLMアプリ by Ente</title>
-      <link>https://news.ycombinator.com/item?id=47516650</link>
-      <description>&lt;p&gt;&lt;strong&gt;ローカルLLMアプリ by Ente&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Local LLM App by Ente&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47516650</guid>
-      <pubDate>Wed, 25 Mar 2026 12:49:14 GMT</pubDate>
+      <title>[Hacker News] (48pt) ハイパーエージェント自己言及的自己改善エージェント</title>
+      <link>https://news.ycombinator.com/item?id=47505670</link>
+      <description>&lt;p&gt;&lt;strong&gt;ハイパーエージェント自己言及的自己改善エージェント&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: HyperAgents: Self-referential self-improving agents&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47505670</guid>
+      <pubDate>Tue, 24 Mar 2026 16:54:10 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -43,7 +35,7 @@
       <title>[VentureBeat AI] クロード・コードは月200ドルもする。グースは無料で同じことができる。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;クロード・コードは月200ドルもする。グースは無料で同じことができる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能のコーディング革命には、キャッチーなことが伴う：それは高価です。Anthropicの端末ベースのAIエージェントであるClaude Codeは、自律的にコードを書き、デバッグし、展開することができ、キャップを持っている。&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、「高価である」という欠点がある。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -94,121 +86,121 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 500ドルGPU上のオープンソースAIシステム、コーディングベンチマークでクロード・ソネットを上回る</title>
-      <link>https://www.reddit.com/r/artificial/comments/1s2yg3y/opensource_ai_system_on_a_500_gpu_outperforms/</link>
-      <description>&lt;p&gt;&lt;strong&gt;500ドルGPU上のオープンソースAIシステム、コーディングベンチマークでクロード・ソネットを上回る&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;より多くのデータセンターを建設することが唯一の選択肢ではないとしたらどうだろう？よりスマートなシステムから、コンシューマー・レベルのトップモデルと同レベルのパフォーマンスを得ることができるのであれば、問題はそれだけだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Open-source AI system on a $500 GPU outperforms Claude Sonnet on coding benchmarks&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s2yg3y/opensource_ai_system_on_a_500_gpu_outperforms/</guid>
-      <pubDate>Wed, 25 Mar 2026 02:28:53 GMT</pubDate>
+      <title>[r/artificial] 結婚が終わり、10万ユーロが流出：妄想によって人生を狂わされたAIユーザーたち</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s44cgl/marriage_over_100000_down_the_drain_the_ai_users/</link>
+      <description>&lt;p&gt;&lt;strong&gt;結婚が終わり、10万ユーロが流出：妄想によって人生を狂わされたAIユーザーたち&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/tw1st3d_m3nt4t [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s44cgl/marriage_over_100000_down_the_drain_the_ai_users/</guid>
+      <pubDate>Thu, 26 Mar 2026 11:02:21 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] パランティアの億万長者CEO、AI時代に成功するのは2種類の人間だけだと語る：貿易労働者か、「神経ダイバージェント」か</title>
-      <link>https://www.reddit.com/r/artificial/comments/1s3e23d/palantirs_billionaire_ceo_says_only_two_kinds_of/</link>
-      <description>&lt;p&gt;&lt;strong&gt;パランティアの億万長者CEO、AI時代に成功するのは2種類の人間だけだと語る：貿易労働者か、「神経ダイバージェント」か&lt;/strong&gt;&lt;/p&gt;
+      <title>[r/artificial] OpenAI、AIビデオアプリ「Sora」を閉鎖 ディズニーが10億ドルの提携を解消</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s49l99/openai_shuts_down_sora_ai_video_app_as_disney/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAI、AIビデオアプリ「Sora」を閉鎖 ディズニーが10億ドルの提携を解消&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/sksarkpoes3 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI shuts down Sora AI video app as Disney exits $1B partnership&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s49l99/openai_shuts_down_sora_ai_video_app_as_disney/</guid>
+      <pubDate>Thu, 26 Mar 2026 14:50:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 米国防総省、パランティアのAI「メイブン」を軍の基幹システムとして正式採用 - プラットフォームの投資額は2024年の4億8000万ドルから130億ドルに拡大米国防総省は今年だけでAIに134億ドルを費やしている。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s3t064/pentagon_formalizes_palantirs_maven_ai_as_a_core/</link>
+      <description>&lt;p&gt;&lt;strong&gt;米国防総省、パランティアのAI「メイブン」を軍の基幹システムとして正式採用 - プラットフォームの投資額は2024年の4億8000万ドルから130億ドルに拡大米国防総省は今年だけでAIに134億ドルを費やしている。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/esporx [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Palantir’s billionaire CEO says only two kinds of people will succeed in the AI era: trade workers — ‘or you’re neurodivergent’&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s3e23d/palantirs_billionaire_ceo_says_only_two_kinds_of/</guid>
-      <pubDate>Wed, 25 Mar 2026 15:32:01 GMT</pubDate>
+&lt;p&gt;&lt;small&gt;原題: Pentagon formalizes Palantir's Maven AI as a core military system with multi-year funding — platform's investment grows to $13 billion from $480 million in 2024. The Pentagon is spending $13.4 billion on AI this year alone.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s3t064/pentagon_formalizes_palantirs_maven_ai_as_a_core/</guid>
+      <pubDate>Thu, 26 Mar 2026 00:50:37 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 地質学者がスリップの危険性が高い何千もの斜面を特定するのに役立っているAIとは？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1s33jxs/how_ai_is_helping_geologists_identify_thousands/</link>
-      <description>&lt;p&gt;&lt;strong&gt;地質学者がスリップの危険性が高い何千もの斜面を特定するのに役立っているAIとは？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;突発的で予期せぬ地滑りや雪崩は、毎年何千人もの命を奪い、何十億ドルもの損害をもたらす。もし私たちがこれらの災害を予知できるとしたらどうだろう？ &amp;#32;投稿者&amp;#32; /u/tekz [lin&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How AI is helping geologists identify thousands of slopes at high risk of slipping&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s33jxs/how_ai_is_helping_geologists_identify_thousands/</guid>
-      <pubDate>Wed, 25 Mar 2026 06:57:14 GMT</pubDate>
+      <title>[r/artificial] Metaが4ヶ月で4社目のAIスタートアップを買収。Dreamer、Manus、Moltbook、そしてScale AIの創業者だ。このパターンを見ている人は他にいるだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s3xr4l/meta_just_acquihired_its_4th_ai_startup_in_4/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Metaが4ヶ月で4社目のAIスタートアップを買収。Dreamer、Manus、Moltbook、そしてScale AIの創業者だ。このパターンを見ている人は他にいるだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;12月以降のメタの動向：- 2025年12月：2026年初頭：Moltbookチームを買収 - Scale AIのAlexandr WangがCを退任。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Meta just acqui-hired its 4th AI startup in 4 months. Dreamer, Manus, Moltbook, and Scale AI's founder. Is anyone else watching this pattern?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s3xr4l/meta_just_acquihired_its_4th_ai_startup_in_4/</guid>
+      <pubDate>Thu, 26 Mar 2026 04:31:29 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] OpenAIはSoraと10億ドルのディズニーとの契約を諦めた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1s2s468/openai_just_gave_up_on_sora_and_its_billiondollar/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIはSoraと10億ドルのディズニーとの契約を諦めた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; posted by &amp;#32; /u/ipottersmith [link] &amp;#32; [comments］&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI just gave up on Sora and its billion-dollar Disney deal&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s2s468/openai_just_gave_up_on_sora_and_its_billiondollar/</guid>
-      <pubDate>Tue, 24 Mar 2026 22:08:45 GMT</pubDate>
+      <title>[r/artificial] 言語学習において、AIが人間のチューターに取って代わることができると思いますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s4by8l/do_you_think_ai_can_replace_human_tutors_in/</link>
+      <description>&lt;p&gt;&lt;strong&gt;言語学習において、AIが人間のチューターに取って代わることができると思いますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は今、3つの外国語を学んでいて、私の経験は...控えめに言っても、興味深いものでした。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: do you think AI can replace human tutors in language learning?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s4by8l/do_you_think_ai_can_replace_human_tutors_in/</guid>
+      <pubDate>Thu, 26 Mar 2026 16:14:48 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 過信的な大規模言語モデルを識別するためのより良い方法</title>
-      <link>https://www.reddit.com/r/artificial/comments/1s3iczv/a_better_method_for_identifying_overconfident/</link>
-      <description>&lt;p&gt;&lt;strong&gt;過信的な大規模言語モデルを識別するためのより良い方法&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;大規模言語モデル（LLM）は、信頼できるが不正確な応答を生成する可能性があるため、研究者は予測の信頼性をチェックするために不確実性の定量化手法を開発してきた。よく使われる手法の1つ&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A better method for identifying overconfident large language models&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s3iczv/a_better_method_for_identifying_overconfident/</guid>
-      <pubDate>Wed, 25 Mar 2026 18:06:16 GMT</pubDate>
+      <title>[r/artificial] AIエージェントが必要</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s49zeq/need_some_ai_agents/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIエージェントが必要&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;こんにちは、エージェントの皆さん。私のビルドをテストするために、何人かのユーザーとAIエージェントを動かしている人が必要です。  私は、幻覚やプロンプトを追跡する観測＋監視＋セキュリティのツールを開発しました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Need some AI agents&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s49zeq/need_some_ai_agents/</guid>
+      <pubDate>Thu, 26 Mar 2026 15:04:23 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] クロードは窓を作れるのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1s3golq/could_claude_create_windows/</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロードは窓を作れるのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;マイクロソフトが株価を下げ続ける理由はこれか？より優れた新しいオペレーティング・システムを開発するエージェントがいるのだろうか？彼らは数日でcコンパイラを作った。なぜ数週間でOSを作らないのか？&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Could Claude create windows?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s3golq/could_claude_create_windows/</guid>
-      <pubDate>Wed, 25 Mar 2026 17:07:11 GMT</pubDate>
+      <title>[r/artificial] AIを使ったプロジェクトの例を探しています。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s4fs5d/im_looking_for_examples_of_projects_made_with_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIを使ったプロジェクトの例を探しています。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;いくつか例を挙げていただけますか？ユーチューブを見始めたばかりなのですが、最初に出てきたものはまだ私が求めているものではありませんでした。必ずしもプロジェクトをコピーしたいわけではありません。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: i'm looking for examples of projects made with AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s4fs5d/im_looking_for_examples_of_projects_made_with_ai/</guid>
+      <pubDate>Thu, 26 Mar 2026 18:32:23 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] エージェントの分断を超えて：ユニタリー・カウンシル」アーキテクチャーとハートシンクへの動き</title>
-      <link>https://www.reddit.com/r/artificial/comments/1s3ga10/beyond_agent_fragmentation_a_move_toward_unitary/</link>
-      <description>&lt;p&gt;&lt;strong&gt;エージェントの分断を超えて：ユニタリー・カウンシル」アーキテクチャーとハートシンクへの動き&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;核となるテーゼ現在のAIインタラクションの大半は断片化されており、ユーザーは、永続的なアイデンティティを持たない何十もの切り離されたツールやエージェント&amp;quot;を管理している。これは、大きな認知的負荷と&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Beyond Agent Fragmentation: A Move Toward &quot;Unitary Council&quot; Architectures and Heart-Sync&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s3ga10/beyond_agent_fragmentation_a_move_toward_unitary/</guid>
-      <pubDate>Wed, 25 Mar 2026 16:53:04 GMT</pubDate>
+      <title>[r/artificial] 科学者たち、新しいAIシステムを使ってNASAのデータから100個以上の隠れた太陽系外惑星を発見</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s3rh9h/scientists_find_100_hidden_exoplanets_in_nasa/</link>
+      <description>&lt;p&gt;&lt;strong&gt;科学者たち、新しいAIシステムを使ってNASAのデータから100個以上の隠れた太陽系外惑星を発見&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;研究チームは、AIモデルが得意とする、検出された事象の種類を天文学者に伝えることができるデータのパターンを識別するために、機械学習モデルを訓練した。RAVENは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Scientists find 100+ hidden exoplanets in NASA data using new AI system&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s3rh9h/scientists_find_100_hidden_exoplanets_in_nasa/</guid>
+      <pubDate>Wed, 25 Mar 2026 23:45:35 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] クロード対GPTの長期戦</title>
-      <link>https://www.reddit.com/r/artificial/comments/1s3flkr/claude_vs_gpt_long_game/</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード対GPTの長期戦&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open aiは最近sora aiを閉鎖した。VCの資金が尽きているので、これはちょっと、彼らがより良い基盤モデルを作ることにもっと集中していることを教えてくれる。この時点で、彼らは遅すぎたのだろうか？&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude vs GPT long game&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s3flkr/claude_vs_gpt_long_game/</guid>
-      <pubDate>Wed, 25 Mar 2026 16:28:13 GMT</pubDate>
+      <title>[r/artificial] AIのための企業キルスイッチ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s459lk/corporate_kill_switch_for_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIのための企業キルスイッチ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;企業全体でAIを安全に利用するために、どのような管理を実施していますか？  伝統的なファイアウォールルールを超えて、埋め込むことができるキルスイッチはありますか？ &amp;#32;&amp;#32;によって投稿されました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Corporate kill switch for AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s459lk/corporate_kill_switch_for_ai/</guid>
+      <pubDate>Thu, 26 Mar 2026 11:50:05 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] NeutronX、AIを活用した自律型政府契約入札システムで仮特許を申請、NextNRG (NASDAQ: NXXT)と連携してNeutronX入札エンジンv2.4を前進 - PR Newswire＝共同通信JBN</title>
-      <link>https://www.reddit.com/r/artificial/comments/1s3fk25/neutronx_files_provisional_patent_for_autonomous/</link>
-      <description>&lt;p&gt;&lt;strong&gt;NeutronX、AIを活用した自律型政府契約入札システムで仮特許を申請、NextNRG (NASDAQ: NXXT)と連携してNeutronX入札エンジンv2.4を前進 - PR Newswire＝共同通信JBN&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;NeutronX、AIを活用した自律的な政府契約入札システムの仮特許を出願、NextNRG (NASDAQ: NXXT)と共同でNeutronX Bidding Engine v2.4を前進 - PR Newswire＝共同通信JBNアーニン&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: NeutronX Files Provisional Patent for Autonomous AI-Powered Government Contract Bidding System and Advances NeutronX Bidding Engine v2.4 in Connection with NextNRG (NASDAQ: NXXT) — PR Newswire&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s3fk25/neutronx_files_provisional_patent_for_autonomous/</guid>
-      <pubDate>Wed, 25 Mar 2026 16:26:41 GMT</pubDate>
+      <title>[r/LocalLLaMA] Mistral AI社がVoxtral TTSをリリースする。Voxtral TTSはオープンウェイトの30億パラメータ音声合成モデルで、同社によると人間の嗜好性テストでElevenLabs Flash v2.5を上回った。このモデルは約3GBのRAMで動作し、90ミリ秒のタイムトゥファーストオーディオを達成し、9言語をサポートする。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s46ylj/mistral_ai_to_release_voxtral_tts_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Mistral AI社がVoxtral TTSをリリースする。Voxtral TTSはオープンウェイトの30億パラメータ音声合成モデルで、同社によると人間の嗜好性テストでElevenLabs Flash v2.5を上回った。このモデルは約3GBのRAMで動作し、90ミリ秒のタイムトゥファーストオーディオを達成し、9言語をサポートする。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ベンチャービートMistral AIはElevenLabsを凌ぐとする音声合成モデルをリリースした - そしてそのウェイトを無料で提供している: https://venturebeat.com/orchestration/mistral-ai-just-released-a-&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Mistral AI to release Voxtral TTS, a 3-billion-parameter text-to-speech model with open weights that the company says outperformed ElevenLabs Flash v2.5 in human preference tests. The model runs on about 3 GB of RAM, achieves 90-millisecond time-to-first-audio, supports nine languages.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s46ylj/mistral_ai_to_release_voxtral_tts_a/</guid>
+      <pubDate>Thu, 26 Mar 2026 13:07:18 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] TurboQuant：究極の圧縮でAIの効率を再定義</title>
-      <link>https://www.reddit.com/r/artificial/comments/1s2y0gy/turboquant_redefining_ai_efficiency_with_extreme/</link>
-      <description>&lt;p&gt;&lt;strong&gt;TurboQuant：究極の圧縮でAIの効率を再定義&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ベクトルはAIモデルが情報を理解し処理する基本的な方法である。小さなベクトルはグラフの点のような単純な属性を表し、&quot;高次元 &quot;ベクトルは複雑な属性を表す。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: TurboQuant: Redefining AI efficiency with extreme compression&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s2y0gy/turboquant_redefining_ai_efficiency_with_extreme/</guid>
-      <pubDate>Wed, 25 Mar 2026 02:09:59 GMT</pubDate>
+      <title>[r/LocalLLaMA] クウェン3.5-27B-クロード-4.6-オーパス-無修正-V2-カルバック-ライブラ-GGUF</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s48gt3/qwen3527bclaude46opusuncensoredv2kullbackleiblergg/</link>
+      <description>&lt;p&gt;&lt;strong&gt;クウェン3.5-27B-クロード-4.6-オーパス-無修正-V2-カルバック-ライブラ-GGUF&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;こちらのモデル: https://huggingface.co/LuffyTheFox/Qwen3.5-27B-Claude-4.6-Opus-Uncensored-V2-Kullback-Leibler-GGUF (Q4_K_Mクオンツが一番しっかりしている(KLの修正が含まれている))Q4_K_Mはattn_vとffの修正を含む&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Qwen3.5-27B-Claude-4.6-Opus-Uncensored-V2-Kullback-Leibler-GGUF&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s48gt3/qwen3527bclaude46opusuncensoredv2kullbackleiblergg/</guid>
+      <pubDate>Thu, 26 Mar 2026 14:07:53 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] DeepSeek社員がDeepSeek V3.2を超える &quot;巨大な &quot;新モデルを予告</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s39024/deepseek_employee_teases_massive_new_model/</link>
-      <description>&lt;p&gt;&lt;strong&gt;DeepSeek社員がDeepSeek V3.2を超える &quot;巨大な &quot;新モデルを予告&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;翻訳：ナノバナナ https://preview.redd.it/8bfh5zk1q6rg1.png?width=1158&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=9d8e6c2f285ba04527f0e9578f9ca7b75124c11f https://preview.redd.it/jpa7aikcr6rg1.png?wi&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: DeepSeek Employee Teases &quot;Massive&quot; New Model Surpassing DeepSeek V3.2&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s39024/deepseek_employee_teases_massive_new_model/</guid>
-      <pubDate>Wed, 25 Mar 2026 12:14:10 GMT</pubDate>
+      <title>[r/LocalLLaMA] mistralai/Voxtral-4B-TTS-2603 - 抱きしめる顔</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s4anyf/mistralaivoxtral4btts2603_hugging_face/</link>
+      <description>&lt;p&gt;&lt;strong&gt;mistralai/Voxtral-4B-TTS-2603 - 抱きしめる顔&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/Nunki08 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: mistralai/Voxtral-4B-TTS-2603 · Hugging Face&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s4anyf/mistralaivoxtral4btts2603_hugging_face/</guid>
+      <pubDate>Thu, 26 Mar 2026 15:28:40 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] サプライチェーン・アタックの後、ライテルムの代替案をいくつか紹介しよう。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s34173/after_the_supply_chain_attack_here_are_some/</link>
-      <description>&lt;p&gt;&lt;strong&gt;サプライチェーン・アタックの後、ライテルムの代替案をいくつか紹介しよう。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;PyPIにあるlitellmのバージョン1.82.7と1.82.8が認証情報を盗むマルウェアに感染した。オープンソースの代替をいくつか紹介しよう：1.Bifrost：おそらく最も直接的にlitellmを置き換えることができる。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: After the supply chain attack, here are some litellm alternatives&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s34173/after_the_supply_chain_attack_here_are_some/</guid>
-      <pubDate>Wed, 25 Mar 2026 07:26:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] プライベイト＆アンセンサードAIツール - Kryven AI」の詐欺警告</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s39aec/scam_warning_for_private_uncensored_ai_tool/</link>
-      <description>&lt;p&gt;&lt;strong&gt;プライベイト＆アンセンサードAIツール - Kryven AI」の詐欺警告&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Kryven AIと呼ばれる、検閲のない高度に暗号化されたプライベートなAIツールが登場した。彼らはウェブサイトを収益化するためにサブスクリプション/トークン・ベースのモデルを使用しており、大量のトークンを約束している。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: SCAM WARNING FOR &quot;PRIVATE &amp; UNCENSORED AI TOOL - Kryven AI&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s39aec/scam_warning_for_private_uncensored_ai_tool/</guid>
-      <pubDate>Wed, 25 Mar 2026 12:27:12 GMT</pubDate>
+      <title>[r/LocalLLaMA] nvidia/gpt-oss-puzzle-88B - 顔を抱きしめる</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s42cdi/nvidiagptosspuzzle88b_hugging_face/</link>
+      <description>&lt;p&gt;&lt;strong&gt;nvidia/gpt-oss-puzzle-88B - 顔を抱きしめる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;gpt-oss-puzzle-88Bは、OpenAIのgpt-oss-120bから派生した、NVIDIAによって開発された展開に最適化された大規模言語モデルです。このモデルは、学習後のニューラルアーキテクチャであるPuzzleを使用して生成されます。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: nvidia/gpt-oss-puzzle-88B · Hugging Face&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s42cdi/nvidiagptosspuzzle88b_hugging_face/</guid>
+      <pubDate>Thu, 26 Mar 2026 09:06:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
