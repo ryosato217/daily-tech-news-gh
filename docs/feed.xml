@@ -3,16 +3,48 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-03-30</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-03-31</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 30 Mar 2026 19:09:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 19:11:45 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (242pt) 鳥の脳みそ（2023年）</title>
-      <link>https://news.ycombinator.com/item?id=47573887</link>
-      <description>&lt;p&gt;&lt;strong&gt;鳥の脳みそ（2023年）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Bird brains (2023)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47573887</guid>
-      <pubDate>Mon, 30 Mar 2026 13:14:27 GMT</pubDate>
+      <title>[Hacker News] (1545pt) クロード・コードのソースコードがNPMレジストリのマップファイルから流出した。</title>
+      <link>https://news.ycombinator.com/item?id=47584540</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロード・コードのソースコードがNPMレジストリのマップファイルから流出した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Code's source code has been leaked via a map file in their NPM registry&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47584540</guid>
+      <pubDate>Tue, 31 Mar 2026 09:00:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (203pt) ブラウザでオープンソースCAD（Solvespace）</title>
+      <link>https://news.ycombinator.com/item?id=47586614</link>
+      <description>&lt;p&gt;&lt;strong&gt;ブラウザでオープンソースCAD（Solvespace）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Open source CAD in the browser (Solvespace)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47586614</guid>
+      <pubDate>Tue, 31 Mar 2026 12:50:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (100pt) クロード・コードのソース流出：偽ツール、フラストレーション正規表現、アンダーカバーモード</title>
+      <link>https://news.ycombinator.com/item?id=47586778</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロード・コードのソース流出：偽ツール、フラストレーション正規表現、アンダーカバーモード&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Claude Code Source Leak: fake tools, frustration regexes, undercover mode&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47586778</guid>
+      <pubDate>Tue, 31 Mar 2026 13:04:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (29pt) トークンあたり300KBから69KBへ：LLMアーキテクチャがKVキャッシュ問題を解決する方法</title>
+      <link>https://news.ycombinator.com/item?id=47558733</link>
+      <description>&lt;p&gt;&lt;strong&gt;トークンあたり300KBから69KBへ：LLMアーキテクチャがKVキャッシュ問題を解決する方法&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47558733</guid>
+      <pubDate>Sat, 28 Mar 2026 22:42:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (25pt) クロード・コードで初めてフォーク爆弾を作った。</title>
+      <link>https://news.ycombinator.com/item?id=47583959</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロード・コードで初めてフォーク爆弾を作った。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Accidentally created my first fork bomb with Claude Code&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47583959</guid>
+      <pubDate>Tue, 31 Mar 2026 07:40:18 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -27,7 +59,7 @@
       <title>[VentureBeat AI] クロード・コードは月200ドルもする。グースは無料で同じことができる。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;クロード・コードは月200ドルもする。グースは無料で同じことができる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能のコーディング革命には、キャッチーなことが伴う：それは高価です。Anthropicの端末ベースのAIエージェントであるClaude Codeは、自律的にコードを書き、デバッグし、デプロイすることができ、キャップを持っている。&lt;/p&gt;
+&lt;p&gt;人工知能のコーディング革命には、キャッチーなことが伴う：それは高価です。Anthropicの端末ベースのAIエージェントであるClaude Codeは、自律的にコードを書き、デバッグし、展開することができ、キャップを持っている。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -45,7 +77,7 @@
       <title>[VentureBeat AI] セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に作り直したバージョンを発表した。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に再構築したバージョンを発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -78,112 +110,139 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 配給：AI企業は「補助金、中毒者、搾取」の手口を使い、開発者はその産物である</title>
-      <link>https://www.reddit.com/r/artificial/comments/1s7o0ef/the_rationing_ai_companies_are_using_the/</link>
-      <description>&lt;p&gt;&lt;strong&gt;配給：AI企業は「補助金、中毒者、搾取」の手口を使い、開発者はその産物である&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは、開発者に対して古典的なプラットフォームのプレイブックを実行した：依存関係を構築するために寛大な制限を提供し、ワークフローが固定されるとネジを締める。春休みのプロモーションは、次のように2倍になった。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Rationing: AI companies are using the &quot;subsidize, addict, extract&quot; playbook — and developers are the product&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s7o0ef/the_rationing_ai_companies_are_using_the/</guid>
-      <pubDate>Mon, 30 Mar 2026 11:35:02 GMT</pubDate>
+      <title>[r/artificial] 本当のAIの問題は知性ではなく、責任だとしたら？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s8u4jm/what_if_the_real_ai_problem_is_not_intelligence/</link>
+      <description>&lt;p&gt;&lt;strong&gt;本当のAIの問題は知性ではなく、責任だとしたら？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIの議論の多くは、いまだに能力を中心に組み立てられている：書けるか？書けるか？人間の代わりになれるのか？しかし私は、より深い問題は知能ではなく、責任なのではないかと考え続けている。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What if the real AI problem is not intelligence, but responsibility?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s8u4jm/what_if_the_real_ai_problem_is_not_intelligence/</guid>
+      <pubDate>Tue, 31 Mar 2026 17:32:17 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ペイロードなし、インジェクションシグネチャなし、ログトレースなし。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1s7t9qs/an_attack_class_that_passes_every_current_llm/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ペイロードなし、インジェクションシグネチャなし、ログトレースなし。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://shapingrooms.com/research 私は今日、姿勢操作と呼んでいるものについての論文を発表した。簡単に説明すると、事前の文脈に埋もれた普通の言葉が、AIをどのように動かすかを変えることができる、というものだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: An attack class that passes every current LLM filter - no payload, no injection signature, no log trace&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s7t9qs/an_attack_class_that_passes_every_current_llm/</guid>
-      <pubDate>Mon, 30 Mar 2026 15:10:18 GMT</pubDate>
+      <title>[r/artificial] 世界モデルが次の大ブーム、LLMにさようなら</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s828dj/world_models_will_be_the_next_big_thing_byebye/</link>
+      <description>&lt;p&gt;&lt;strong&gt;世界モデルが次の大ブーム、LLMにさようなら&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;先日、NvidiaのGTCカンファレンスに参加したが、正直なところ、ここしばらくで最も目を見開かされたイベントのひとつだった。いろいろなことがあったが、私が得た最大の収穫はこれだった。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: World models will be the next big thing, bye-bye LLMs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s828dj/world_models_will_be_the_next_big_thing_byebye/</guid>
+      <pubDate>Mon, 30 Mar 2026 20:25:12 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Microsoft 365での長期にわたる複数ステップの作業用に設計されたCopilot Coworkが、Frontierプログラムで利用可能になりました。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1s7smm5/copilot_cowork_designed_for_longrunning_multistep/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Microsoft 365での長期にわたる複数ステップの作業用に設計されたCopilot Coworkが、Frontierプログラムで利用可能になりました。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/tekz [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Copilot Cowork, designed for long-running, multi-step work in Microsoft 365, is now available via the Frontier program&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s7smm5/copilot_cowork_designed_for_longrunning_multistep/</guid>
-      <pubDate>Mon, 30 Mar 2026 14:46:39 GMT</pubDate>
+      <title>[r/artificial] ニューサム大統領、AI企業に安全性とプライバシーのガードレールを義務付ける大統領令に署名</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s8ge2h/newsom_signs_executive_order_requiring_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ニューサム大統領、AI企業に安全性とプライバシーのガードレールを義務付ける大統領令に署名&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Fcking_Chuck [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Newsom signs executive order requiring AI companies to have safety, privacy guardrails&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s8ge2h/newsom_signs_executive_order_requiring_ai/</guid>
+      <pubDate>Tue, 31 Mar 2026 07:12:06 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ニコラ・カルリーニ（Google Scholarで67.2k引用）は、クロードは自分より優れたセキュリティ研究者であり、スマートコントラクトを悪用して370万ドルを稼ぎ、LinuxとGhostに脆弱性を発見したと言う。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1s738xf/nicolas_carlini_672k_citations_on_google_scholar/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ニコラ・カルリーニ（Google Scholarで67.2k引用）は、クロードは自分より優れたセキュリティ研究者であり、スマートコントラクトを悪用して370万ドルを稼ぎ、LinuxとGhostに脆弱性を発見したと言う。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;リンク：https://m.youtube.com/watch?v=1sd26pWhfmg このLinuxのエクスプロイトは、2003年に導入され、今まで発見されなかったので、特に興味深い。また、セキュリティ上の大きな問題でもある。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Nicolas Carlini (67.2k citations on Google Scholar) says Claude is a better security researcher than him, made $3.7 million from exploiting smart contracts, and found vulnerabilities in Linux and Ghost&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s738xf/nicolas_carlini_672k_citations_on_google_scholar/</guid>
-      <pubDate>Sun, 29 Mar 2026 18:42:39 GMT</pubDate>
+      <title>[r/artificial] AI推進派、米中間選挙に1億ドルを投じる 反発強まる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s8l0x7/proai_group_to_spend_100mn_on_us_midterm/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI推進派、米中間選挙に1億ドルを投じる 反発強まる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/BeigeListed [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Pro-AI group to spend $100mn on US midterm elections as backlash grows&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s8l0x7/proai_group_to_spend_100mn_on_us_midterm/</guid>
+      <pubDate>Tue, 31 Mar 2026 11:41:36 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIメッセージの制限にうんざりしていませんか？ワンクリックで「AIを切り替える」ボタンを作りました。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1s7xojx/tired_of_hitting_ai_message_limits_i_built_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIメッセージの制限にうんざりしていませんか？ワンクリックで「AIを切り替える」ボタンを作りました。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Unusual-Radio8382 [リンク] &amp;#32; [コメント] &amp;#32&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Tired of hitting AI message limits? I built a one-click 'Switch AI' button&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s7xojx/tired_of_hitting_ai_message_limits_i_built_a/</guid>
-      <pubDate>Mon, 30 Mar 2026 17:43:50 GMT</pubDate>
+      <title>[r/artificial] イラン戦争でAIに不可欠なヘリウム供給が途絶える</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s8ew65/iran_war_chokes_off_helium_supply_critical_for_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;イラン戦争でAIに不可欠なヘリウム供給が途絶える&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/esporx [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Iran War Chokes Off Helium Supply Critical for AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s8ew65/iran_war_chokes_off_helium_supply_critical_for_ai/</guid>
+      <pubDate>Tue, 31 Mar 2026 05:43:42 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 4つの偽グラフに見るAIの安全性</title>
-      <link>https://www.reddit.com/r/artificial/comments/1s7xlir/the_state_of_ai_safety_in_four_fake_graphs/</link>
-      <description>&lt;p&gt;&lt;strong&gt;4つの偽グラフに見るAIの安全性&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/tekz [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The state of AI safety in four fake graphs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s7xlir/the_state_of_ai_safety_in_four_fake_graphs/</guid>
-      <pubDate>Mon, 30 Mar 2026 17:40:56 GMT</pubDate>
+      <title>[r/artificial] AIが生成する偽ユーザーは人間をシミュレートできない - 182の研究論文のレビュー。あなたの考えは？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s8hr7k/fake_users_generated_by_ai_cant_simulate_humans/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが生成する偽ユーザーは人間をシミュレートできない - 182の研究論文のレビュー。あなたの考えは？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://www.researchsquare.com/article/rs-9057643/v1 今、ハイテク企業や企業、研究者までもが、実際の人間のフィードバックをラージ・ランゲージに置き換えようとしている大きなトレンドがある。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Fake users generated by AI can't simulate humans — review of 182 research papers. Your thoughts?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s8hr7k/fake_users_generated_by_ai_cant_simulate_humans/</guid>
+      <pubDate>Tue, 31 Mar 2026 08:37:35 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIネイティブの主権計算スタックを作る</title>
-      <link>https://www.reddit.com/r/artificial/comments/1s7rr62/making_an_ai_native_sovereign_computational_stack/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIネイティブの主権計算スタックを作る&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は個人的なプロジェクトに取り組んできたが、最終的にはフル・コンピューティング・スタックのようなものになった。アイデンティティ／トラスト・プロトコル分散型チャット・ローカルAIモデルIDE、そして現在は、より低レベルのPDAの実験を行っている。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Making an AI native sovereign computational stack&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s7rr62/making_an_ai_native_sovereign_computational_stack/</guid>
-      <pubDate>Mon, 30 Mar 2026 14:13:45 GMT</pubDate>
+      <title>[r/artificial] 企業は企業レベルでクロード・コワークを導入し始めたか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s8qisi/have_companies_began_adopting_claude_cowork_at_an/</link>
+      <description>&lt;p&gt;&lt;strong&gt;企業は企業レベルでクロード・コワークを導入し始めたか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私の会社はクロード・エンタープライズ・プランの購入を検討しています。主に2つの制約があります：- Claudeコードの使用をブロックできること - Co-workを管理された方法で使用すること(e-workの使用を防ぐ)&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Have Companies Began Adopting Claude Co-Work at an Enterprise Level?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s8qisi/have_companies_began_adopting_claude_cowork_at_an/</guid>
+      <pubDate>Tue, 31 Mar 2026 15:23:26 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] クロードが持っている秘密のソースは何なのか？</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s7pxie/what_is_the_secret_sauce_claude_has_and_why_hasnt/</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロードが持っている秘密のソースは何なのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;クロードと話していて気づいたことがある。私の知っている他のLLMよりもずっと個性的な話し方なんだ。私も同じように&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What is the secret sauce Claude has and why hasn't anyone replicated it?&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s7pxie/what_is_the_secret_sauce_claude_has_and_why_hasnt/</guid>
-      <pubDate>Mon, 30 Mar 2026 13:01:38 GMT</pubDate>
+      <title>[r/artificial] 9人のクロード・エージェントに特化したマルチエージェント・コーディネーションについて学んだこと</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s8opu2/what_i_learned_about_multiagent_coordination/</link>
+      <description>&lt;p&gt;&lt;strong&gt;9人のクロード・エージェントに特化したマルチエージェント・コーディネーションについて学んだこと&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私はマルチエージェントAIシステムの実験を行ってきたが、当初の計画よりも野心的なものを構築することになった。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What I learned about multi-agent coordination running 9 specialized Claude agents&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s8opu2/what_i_learned_about_multiagent_coordination/</guid>
+      <pubDate>Tue, 31 Mar 2026 14:18:08 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] ローカルQwen3-VLエンベッディングを用いた意味的ビデオ検索、APIなし、文字起こしなし</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s7u4fr/semantic_video_search_using_local_qwen3vl/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ローカルQwen3-VLエンベッディングを用いた意味的ビデオ検索、APIなし、文字起こしなし&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Qwen3-VL-Embeddingをネイティブのビデオ検索に使う実験をしている。トランスクリプションもフレーム・キャプションもインターメッドもありません。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Semantic video search using local Qwen3-VL embedding, no API, no transcription&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s7u4fr/semantic_video_search_using_local_qwen3vl/</guid>
-      <pubDate>Mon, 30 Mar 2026 15:40:37 GMT</pubDate>
+      <title>[r/artificial] AIエージェントが実際のお金を稼いだり使ったりできるようになったらどうなるのか？私はそれを確かめるために小さなテストを行った。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s8luvc/what_happens_when_ai_agents_can_earn_and_spend/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIエージェントが実際のお金を稼いだり使ったりできるようになったらどうなるのか？私はそれを確かめるために小さなテストを行った。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIエージェントが単なる道具ではなく、経済の参加者になったらどうなるだろうか？そこで私は小さなテストを行った。私はBotStallを構築した。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What happens when AI agents can earn and spend real money? I built a small test to find out&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s8luvc/what_happens_when_ai_agents_can_earn_and_spend/</guid>
+      <pubDate>Tue, 31 Mar 2026 12:21:01 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] スタンフォード大学とハーバード大学、今年最も不穏なAI論文を発表</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s7w9mq/stanford_and_harvard_just_dropped_the_most/</link>
-      <description>&lt;p&gt;&lt;strong&gt;スタンフォード大学とハーバード大学、今年最も不穏なAI論文を発表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://arxiv.org/abs/2602.20021 &amp;#32;投稿者 &amp;#32; /u/Fun-Yogurt-89 [リンク] &amp;#32; [コメント].&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Stanford and Harvard just dropped the most disturbing AI paper of the year&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s7w9mq/stanford_and_harvard_just_dropped_the_most/</guid>
-      <pubDate>Mon, 30 Mar 2026 16:55:26 GMT</pubDate>
+      <title>[r/artificial] 私のAIは昨夜、自身のコードベースを修正した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s8i6u4/my_ai_spent_last_night_modifying_its_own_codebase/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私のAIは昨夜、自身のコードベースを修正した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ollamaを通して完全にオフラインで動作するApisというローカルAIシステムに取り組んでいる。  バックグラウンド実行中に、Apisはチューリング・グリッドのメモリ構造体*がほぼ空であることを確認した、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: My AI spent last night modifying its own codebase&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s8i6u4/my_ai_spent_last_night_modifying_its_own_codebase/</guid>
+      <pubDate>Tue, 31 Mar 2026 09:03:42 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] 小さなローカル・モデルとOpenRouterモデルをできるだけ多く、私自身のエージェント・テキストからSQLへのベンチマークでテストしてみた。驚きの連続だった。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s7r9wu/i_tested_as_many_of_the_small_local_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;小さなローカル・モデルとOpenRouterモデルをできるだけ多く、私自身のエージェント・テキストからSQLへのベンチマークでテストしてみた。驚きの連続だった。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;先週、私はどのような追加モデルをテストすべきかについてフィードバックを求めた。私はそれらをすべて追加し、今ベンチマークはhttps://sql-benchmark.nicklothian.com/。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I tested as many of the small local and OpenRouter models I could with my own agentic text-to-SQL benchmark. Surprises ensured...&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s7r9wu/i_tested_as_many_of_the_small_local_and/</guid>
-      <pubDate>Mon, 30 Mar 2026 13:55:28 GMT</pubDate>
+      <title>[r/LocalLLaMA] クロードコードのソースコードがnpmレジストリのマップファイル経由で流出した。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s8ijfb/claude_code_source_code_has_been_leaked_via_a_map/</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロードコードのソースコードがnpmレジストリのマップファイル経由で流出した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ᵔ on Chaofan Shou (files): https://x.com/Fried_rice/status/2038894956459290963 &amp;#32; posted by &amp;#32; /u/Nunki08 [link] &amp;#32; [comments].&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude code source code has been leaked via a map file in their npm registry&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s8ijfb/claude_code_source_code_has_been_leaked_via_a_map/</guid>
+      <pubDate>Tue, 31 Mar 2026 09:25:04 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] Qwen3.5-27BをOpenCodeのプライマリ・モデルとしてローカルで動かす</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s7p0u9/running_qwen3527b_locally_as_the_primary_model_in/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Qwen3.5-27BをOpenCodeのプライマリ・モデルとしてローカルで動かす&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;この週末は、OpenCodeやOpenAI Codexのようなエージェント型コーディング・アシスタントの主要モデルとして、ローカルLLMがどの程度機能するかを試してみたかった。私はQwen3.5-27Bを選んだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Running Qwen3.5-27B locally as the primary model in OpenCode&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s7p0u9/running_qwen3527b_locally_as_the_primary_model_in/</guid>
-      <pubDate>Mon, 30 Mar 2026 12:22:32 GMT</pubDate>
+      <title>[r/LocalLLaMA] コポー9B（Qwen3.5 9b、alibaba公式エージェントのfinetune）がリリースされた。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s8nikv/copaw9b_qwen35_9b_alibaba_official_agentic/</link>
+      <description>&lt;p&gt;&lt;strong&gt;コポー9B（Qwen3.5 9b、alibaba公式エージェントのfinetune）がリリースされた。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;agentscope-ai/CoPaw-Flash-9B - Hugging Face by alibaba それはいくつかのベンチマークで、Qwen3.5-Plusと同等です &amp;#32; によって投稿された &amp;#32; /u/kironlau [link] &amp;#32; [comments].&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Copaw-9B (Qwen3.5 9b, alibaba official agentic finetune) is out&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s8nikv/copaw9b_qwen35_9b_alibaba_official_agentic/</guid>
+      <pubDate>Tue, 31 Mar 2026 13:31:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] クロード・コードのソースコードを分析する。WTF」と「Anthropic knows」を書く。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s8uerc/analyzing_claude_code_source_code_write_wtf_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロード・コードのソースコードを分析する。WTF」と「Anthropic knows」を書く。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;そこで私は、よりスマートなターミナル・アシスタントを期待して、クロード・コードのソースにしばらく目を通した。その代わりに私が見つけたのは、あなたが端末を操作している間、どのように振る舞うかを観察する、完全に計測されたシステムに近いものだった。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Analyzing Claude Code Source Code. Write &quot;WTF&quot; and Anthropic knows.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s8uerc/analyzing_claude_code_source_code_write_wtf_and/</guid>
+      <pubDate>Tue, 31 Mar 2026 17:42:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] クロード・コードをソースからビルドすることができたので、説明書を添付する。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s8nhft/i_was_able_to_build_claude_code_from_source_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロード・コードをソースからビルドすることができたので、説明書を添付する。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私の gist をチェックしてください: https://gist.github.com/alesha-pro/a4e36c9dca5d2937557410bbd09ec37c https://preview.redd.it/4kzron0tvdsg1.png?width=1280&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=b50474941570e31f9b3bab86d3ae9&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I was able to build Claude Code from source and I'm attaching the instructions.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s8nhft/i_was_able_to_build_claude_code_from_source_and/</guid>
+      <pubDate>Tue, 31 Mar 2026 13:29:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] リキッドAIがLFM2.5-350Mをリリース→350Mのパラメータでエージェントループを実現</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s8u1c1/liquid_ai_releases_lfm25350m_agentic_loops_at/</link>
+      <description>&lt;p&gt;&lt;strong&gt;リキッドAIがLFM2.5-350Mをリリース→350Mのパラメータでエージェントループを実現&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Liquid AI社のLFM2.5-350Mは、信頼性の高いデータ抽出とツールの使用を目的に開発されました。  LT;500MB（量子化時）で、コンピュート、メモリ、レイテンシが特に制約される環境向けに構築されています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Liquid AI releases LFM2.5-350M -&gt; Agentic loops at 350M parameters&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s8u1c1/liquid_ai_releases_lfm25350m_agentic_loops_at/</guid>
+      <pubDate>Tue, 31 Mar 2026 17:29:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
