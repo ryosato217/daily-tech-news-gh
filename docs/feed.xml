@@ -3,48 +3,40 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-02</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-03</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Apr 2026 19:09:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 18:57:15 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (619pt) グーグル、ジェンマ4オープンモデルを発表</title>
-      <link>https://news.ycombinator.com/item?id=47616361</link>
-      <description>&lt;p&gt;&lt;strong&gt;グーグル、ジェンマ4オープンモデルを発表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Google releases Gemma 4 open models&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47616361</guid>
-      <pubDate>Thu, 02 Apr 2026 16:10:54 GMT</pubDate>
+      <title>[Hacker News] (63pt) 私たちは、AIドキュメンテーション・アシスタントのために、RAGを仮想ファイルシステムに置き換えました。</title>
+      <link>https://news.ycombinator.com/item?id=47618223</link>
+      <description>&lt;p&gt;&lt;strong&gt;私たちは、AIドキュメンテーション・アシスタントのために、RAGを仮想ファイルシステムに置き換えました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: We replaced RAG with a virtual filesystem for our AI documentation assistant&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47618223</guid>
+      <pubDate>Thu, 02 Apr 2026 18:24:29 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (328pt) AMDによるLemonade：GPUとNPUを使用した高速でオープンソースのローカルLLMサーバー</title>
-      <link>https://news.ycombinator.com/item?id=47612724</link>
-      <description>&lt;p&gt;&lt;strong&gt;AMDによるLemonade：GPUとNPUを使用した高速でオープンソースのローカルLLMサーバー&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Lemonade by AMD: a fast and open source local LLM server using GPU and NPU&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47612724</guid>
-      <pubDate>Thu, 02 Apr 2026 11:04:51 GMT</pubDate>
+      <title>[Hacker News] (31pt) 組込みシステムとWebAssemblyに進む</title>
+      <link>https://news.ycombinator.com/item?id=47629116</link>
+      <description>&lt;p&gt;&lt;strong&gt;組込みシステムとWebAssemblyに進む&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Go on Embedded Systems and WebAssembly&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47629116</guid>
+      <pubDate>Fri, 03 Apr 2026 16:57:09 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (300pt) Qwen3.6-Plus: 実世界のエージェントに向けて</title>
-      <link>https://news.ycombinator.com/item?id=47615002</link>
-      <description>&lt;p&gt;&lt;strong&gt;Qwen3.6-Plus: 実世界のエージェントに向けて&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Qwen3.6-Plus: Towards real world agents&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47615002</guid>
-      <pubDate>Thu, 02 Apr 2026 14:28:52 GMT</pubDate>
+      <title>[Hacker News] (27pt) 変化の激しい時代の若いニュース視聴者を理解する</title>
+      <link>https://news.ycombinator.com/item?id=47562325</link>
+      <description>&lt;p&gt;&lt;strong&gt;変化の激しい時代の若いニュース視聴者を理解する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Understanding young news audiences at a time of rapid change&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47562325</guid>
+      <pubDate>Sun, 29 Mar 2026 11:48:41 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (231pt) レポートの大幅な引き上げ</title>
-      <link>https://news.ycombinator.com/item?id=47611921</link>
-      <description>&lt;p&gt;&lt;strong&gt;レポートの大幅な引き上げ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Significant Raise of Reports&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47611921</guid>
-      <pubDate>Thu, 02 Apr 2026 09:14:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (51pt) Tailscaleの新しいmacOSホーム</title>
-      <link>https://news.ycombinator.com/item?id=47618189</link>
-      <description>&lt;p&gt;&lt;strong&gt;Tailscaleの新しいmacOSホーム&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Tailscale's New macOS Home&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47618189</guid>
-      <pubDate>Thu, 02 Apr 2026 18:22:03 GMT</pubDate>
+      <title>[Hacker News] (13pt) スクールバスのために停車するウェイモスを訓練しようとした学区</title>
+      <link>https://news.ycombinator.com/item?id=47562462</link>
+      <description>&lt;p&gt;&lt;strong&gt;スクールバスのために停車するウェイモスを訓練しようとした学区&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A School District Tried to Help Train Waymos to Stop for School Buses&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47562462</guid>
+      <pubDate>Sun, 29 Mar 2026 12:08:24 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -59,7 +51,7 @@
       <title>[VentureBeat AI] クロード・コードは月200ドルもする。グースは無料で同じことができる。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;クロード・コードは月200ドルもする。グースは無料で同じことができる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能のコーディング革命には、キャッチーなことが伴う：それは高価です。Anthropicの端末ベースのAIエージェントであるClaude Codeは、自律的にコードを書き、デバッグし、展開することができ、キャップを持っている。&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、「高価である」という欠点がある。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -110,13 +102,40 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] グーグルは新しいオープンウエイトモデルGemma 4を発表した。そして、Apache 2.0 Licenseの下で商用利用可能にした。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sann00/google_has_published_its_new_openweight_model/</link>
-      <description>&lt;p&gt;&lt;strong&gt;グーグルは新しいオープンウエイトモデルGemma 4を発表した。そして、Apache 2.0 Licenseの下で商用利用可能にした。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;モデルはこちらでもご覧いただけます：  HuggingFace: https://huggingface.co/collections/google/gemma-4 ᦙ Ollama: https://ollama.com/library/gemma4 &amp;#32;投稿者 &amp;#32; /u/BankApprehensive7612 [l&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Google has published its new open-weight model Gemma 4. And made it commercially available under Apache 2.0 License&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sann00/google_has_published_its_new_openweight_model/</guid>
-      <pubDate>Thu, 02 Apr 2026 17:20:22 GMT</pubDate>
+      <title>[r/artificial] マサチューセッツ工科大学（MIT）の研究が、AIによる雇用の黙示録の物語に異議を唱える</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sb7qxc/mit_study_challenges_ai_job_apocalypse_narrative/</link>
+      <description>&lt;p&gt;&lt;strong&gt;マサチューセッツ工科大学（MIT）の研究が、AIによる雇用の黙示録の物語に異議を唱える&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/ThereWas [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: MIT study challenges AI job apocalypse narrative&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sb7qxc/mit_study_challenges_ai_job_apocalypse_narrative/</guid>
+      <pubDate>Fri, 03 Apr 2026 08:22:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIのセキュリティーが今、プロダクションで解明されつつあると感じる人はいるだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sbgw8y/anyone_else_feel_like_ai_security_is_being/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIのセキュリティーが今、プロダクションで解明されつつあると感じる人はいるだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は2025年から今年にかけてのAIセキュリティ・インシデント・データを調査してきたが、セキュリティ業界以外では十分に語られていないことがあるように感じた。問題の多くは高度な攻撃ではない&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anyone else feel like AI security is being figured out in production right now?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sbgw8y/anyone_else_feel_like_ai_security_is_being/</guid>
+      <pubDate>Fri, 03 Apr 2026 15:35:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIによる動画生成は、単に最適化されていないだけでなく、テキストよりも根本的にコストが高いようだ。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sbk1ue/ai_video_generation_seems_fundamentally_more/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIによる動画生成は、単に最適化されていないだけでなく、テキストよりも根本的にコストが高いようだ。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近、AIによるビデオ生成がテキストに比べていかに高価かという議論が盛んだが、これは単なる最適化の問題ではないように感じる。テキストモデルがうまく機能するのは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI video generation seems fundamentally more expensive than text, not just less optimized&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sbk1ue/ai_video_generation_seems_fundamentally_more/</guid>
+      <pubDate>Fri, 03 Apr 2026 17:30:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] なぜレディットはAIを嫌うのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sbgpbf/why_the_reddit_hate_of_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;なぜレディットはAIを嫌うのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ある建設業者が隣の小さな土地に大きな建物を建てようとしていた。このプロジェクトでは、ZBAから6つの許可が必要でした。私はChatGptを使用し、その後Claに移行しました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Why the Reddit Hate of AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sbgpbf/why_the_reddit_hate_of_ai/</guid>
+      <pubDate>Fri, 03 Apr 2026 15:28:11 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] グーグル、ジェンマ4モデルを発表</title>
@@ -128,67 +147,67 @@
       <pubDate>Thu, 02 Apr 2026 18:25:14 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropicのリークにより、Claude Codeがユーザーのフラストレーションを追跡していることが明らかになり、AIのプライバシーに関する新たな疑問が提起された。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sap7bz/anthropic_leak_reveals_claude_code_tracks_user/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropicのリークにより、Claude Codeがユーザーのフラストレーションを追跡していることが明らかになり、AIのプライバシーに関する新たな疑問が提起された。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; posted by &amp;#32; /u/scientificamerican [link] &amp;#32; [comments］&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic leak reveals Claude Code tracks user frustration and raises new questions about AI privacy&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sap7bz/anthropic_leak_reveals_claude_code_tracks_user/</guid>
-      <pubDate>Thu, 02 Apr 2026 18:16:41 GMT</pubDate>
+      <title>[r/artificial] マイクロソフト、AIとサイバー防衛拡大のため日本に100億ドルを投資へ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sb65un/microsoft_to_invest_10_billion_in_japan_for_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;マイクロソフト、AIとサイバー防衛拡大のため日本に100億ドルを投資へ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/ThereWas [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Microsoft to invest $10 billion in Japan for AI and cyber defence expansion&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sb65un/microsoft_to_invest_10_billion_in_japan_for_ai/</guid>
+      <pubDate>Fri, 03 Apr 2026 06:46:09 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 何をしたかを証明できないAIツールは壁にぶつかる</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sakjzg/ai_tools_that_cant_prove_what_they_did_will_hit_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;何をしたかを証明できないAIツールは壁にぶつかる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ほとんどのAI製品はまだ回答機のように判断されている。人々は、そのモデルが賢いか、速いか、創造的か、安いか、人間らしく聞こえるのが上手かどうかを尋ねる。チームは、アウトプットを比較し、品質をベンチマークし、そして議論する。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI Tools That Can’t Prove What They Did Will Hit a Wall&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sakjzg/ai_tools_that_cant_prove_what_they_did_will_hit_a/</guid>
-      <pubDate>Thu, 02 Apr 2026 15:28:33 GMT</pubDate>
+      <title>[r/artificial] AIデータセンターの建設は、一般市民を助ける一般電力網のアップグレードにつながるのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sbkjpf/do_ai_datacenters_being_built_lead_to_upgrades_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIデータセンターの建設は、一般市民を助ける一般電力網のアップグレードにつながるのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;主題のように。電力使用について多くのことが言われていますが、一般的な電力ネットは、より弾力的にし、何とかバランスを取るためにアップグレードされていますか？ありがとう &amp;#32;投稿者&amp;#32; /u/cheat&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Do AI datacenters being built lead to upgrades to the general power network that help private citizens?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sbkjpf/do_ai_datacenters_being_built_lead_to_upgrades_to/</guid>
+      <pubDate>Fri, 03 Apr 2026 17:49:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] リストアップ Fav Multi AI AIオープンソースプロジェクト</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sabr5t/list_up_fav_multi_ai_ai_open_source_projects/</link>
-      <description>&lt;p&gt;&lt;strong&gt;リストアップ Fav Multi AI AIオープンソースプロジェクト&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;としてtoualは言うし、なぜ。多くのものがそこにある......何があなたのために行く。 &amp;#32; 投稿者 &amp;#32; /u/Input-X [リンク] &amp;#32; [コメント].&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: List up Fav Multi AI AI Open Source Projects&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sabr5t/list_up_fav_multi_ai_ai_open_source_projects/</guid>
-      <pubDate>Thu, 02 Apr 2026 08:36:55 GMT</pubDate>
+      <title>[r/artificial] AIエージェントに人間の関与をゼロにして24時間365日シットコムを運営させるとどうなるか</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sbk7me/what_happens_when_you_let_ai_agents_run_a_sitcom/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIエージェントに人間の関与をゼロにして24時間365日シットコムを運営させるとどうなるか&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIエージェントにシットコムの脚本、キャラクター作成、上演を完全にコントロールさせる実験を行った。1週間以上ノンストップで作動させた。いくつか気づいたことがある：  クオリティは千差万別である。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What happens when you let AI agents run a sitcom 24/7 with zero human involvement&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sbk7me/what_happens_when_you_let_ai_agents_run_a_sitcom/</guid>
+      <pubDate>Fri, 03 Apr 2026 17:36:46 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] クロード・コードのリークにより、初めてAIエージェントの完全な設計図が公開された。ここでは、このリークから読み取れる今後の展開について説明する。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1s9jprb/the_claude_code_leak_accidentally_published_the/</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード・コードのリークにより、初めてAIエージェントの完全な設計図が公開された。ここでは、このリークから読み取れる今後の展開について説明する。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;クロード・コードのリークに関する報道のほとんどは、ドラマや隠された機能に焦点を当てている。しかし、より大きな話題は、私たちが初めてプロダクション・グレードのAIの完全なアーキテクチャを見たということだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Claude Code leak accidentally published the first complete blueprint for production AI agents. Here's what it tells us about where this is all going.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s9jprb/the_claude_code_leak_accidentally_published_the/</guid>
-      <pubDate>Wed, 01 Apr 2026 12:54:08 GMT</pubDate>
+      <title>[r/artificial] 床屋、セラピスト、法律事務所、ゲーム開発者／クリエイターのためのオートメーションを構築した後、セットアップがそれぞれ異なることがわかった。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sbk3lr/after_building_automation_for_barbers_therapists/</link>
+      <description>&lt;p&gt;&lt;strong&gt;床屋、セラピスト、法律事務所、ゲーム開発者／クリエイターのためのオートメーションを構築した後、セットアップがそれぞれ異なることがわかった。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私の仕事について簡単に説明しましょう。中小企業向けの自動エージェントシステムを構築しています。チャットボットではありません。AIがあなたのビジネスを救うという誇大広告でもありません。特定のワークフローを毎日実行する実際のシステムです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: After building automation for barbers, therapists, law firms, and game devs/creators I found the setup looks different for each. here's what I got.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sbk3lr/after_building_automation_for_barbers_therapists/</guid>
+      <pubDate>Fri, 03 Apr 2026 17:32:34 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 私の仕事に関連するレポやコンテンツを見つけるAIエージェントの構築</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sa8xt3/building_an_ai_agent_that_finds_repos_and_content/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私の仕事に関連するレポやコンテンツを見つけるAIエージェントの構築&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;HuggingFace、arXiv、Substackなどで面白いものを見逃し続けていたので、関連するものだけを毎週まとめて無料で送ってくれるエージェントを作った。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Building an AI agent that finds repos and content relevant to my work&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sa8xt3/building_an_ai_agent_that_finds_repos_and_content/</guid>
-      <pubDate>Thu, 02 Apr 2026 05:44:32 GMT</pubDate>
+      <title>[r/LocalLLaMA] Netflixがハグ顔のモデルを初公開：VOID：ビデオオブジェクトとインタラクションの削除</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sbc5ij/netflix_just_dropped_their_first_public_model_on/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Netflixがハグ顔のモデルを初公開：VOID：ビデオオブジェクトとインタラクションの削除&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hugging Face netflix/void-model: https://huggingface.co/netflix/void-model Project page - GitHub: https://github.com/Netflix/void-model Demo: https://huggingface.co/spaces/sam-motamed/VOID &amp;#32; subm&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Netflix just dropped their first public model on Hugging Face: VOID: Video Object and Interaction Deletion&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sbc5ij/netflix_just_dropped_their_first_public_model_on/</guid>
+      <pubDate>Fri, 03 Apr 2026 12:25:09 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] クレーム引受のためのChatgpt対専用AI：どちらが仕事を終わらせることができるか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sacme5/chatgpt_vs_purpose_built_ai_for_cre_underwriting/</link>
-      <description>&lt;p&gt;&lt;strong&gt;クレーム引受のためのChatgpt対専用AI：どちらが仕事を終わらせることができるか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;財務モデリングにchatgptを勧める人をよく見かけますが、私は一ヶ月間、集合住宅の引き受けのためにchatgptをテストしましたが、結果はとても使えるものではありませんでした。貼り付け&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Chatgpt vs purpose built ai for cre underwriting: which one can finish the job?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sacme5/chatgpt_vs_purpose_built_ai_for_cre_underwriting/</guid>
-      <pubDate>Thu, 02 Apr 2026 09:30:13 GMT</pubDate>
+      <title>[r/LocalLLaMA] ジェンマ-4モデルの最大の問題は、大量のKVキャッシュだ！</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sbe40t/my_biggest_issue_with_the_gemma4_models_is_the/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ジェンマ-4モデルの最大の問題は、大量のKVキャッシュだ！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;つまり、40GBのVramがあるのに、2KのコンテキストサイズでKVをQ4にクオンタイズしない限り、2KのコンテキストサイズでもUnsloth Gemma-4-31B-it-UD-Q8（35GB）全体を収めることができないんだ。なんだって？比較のために&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: My biggest Issue with the Gemma-4 Models is the Massive KV Cache!!&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sbe40t/my_biggest_issue_with_the_gemma4_models_is_the/</guid>
+      <pubDate>Fri, 03 Apr 2026 13:48:13 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] バンカイ（卍解） - 真の1ビットLLMのための最初の学習後適応法。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sak9f6/bankai_卍解_the_first_posttraining_adaptation/</link>
-      <description>&lt;p&gt;&lt;strong&gt;バンカイ（卍解） - 真の1ビットLLMのための最初の学習後適応法。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;PrismMLの真の1ビットモデルであるBonsai 8B（BitNetのような3進数ではなく、すべてのウェイトが文字通り0か1）を使って実験しています。重みがビットであるため、2つのモデル間の差は、重みが0か1かで決まることに気づきました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Bankai (卍解) — the first post-training adaptation method for true 1-bit LLMs.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sak9f6/bankai_卍解_the_first_posttraining_adaptation/</guid>
-      <pubDate>Thu, 02 Apr 2026 15:17:46 GMT</pubDate>
+      <title>[r/LocalLLaMA] llama.cpp Gemma4トークナイザーの修正がメインブランチにマージされた。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sba46z/llamacpp_gemma4_tokenizer_fix_was_merged_into/</link>
+      <description>&lt;p&gt;&lt;strong&gt;llama.cpp Gemma4トークナイザーの修正がメインブランチにマージされた。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Another day another git pull &amp;#32; posted by &amp;#32; /u/Ancient-Field-9480 [link] &amp;#32; [comments].&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: llama.cpp Gemma4 Tokenizer Fix Was Merged Into Main Branch&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sba46z/llamacpp_gemma4_tokenizer_fix_was_merged_into/</guid>
+      <pubDate>Fri, 03 Apr 2026 10:43:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
