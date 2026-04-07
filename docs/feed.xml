@@ -3,24 +3,56 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-06</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-07</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 06 Apr 2026 19:11:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 19:14:51 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (425pt) クロード・コードは2月のアップデートで複雑なエンジニアリング・タスクには使えなくなった。</title>
-      <link>https://news.ycombinator.com/item?id=47660925</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード・コードは2月のアップデートで複雑なエンジニアリング・タスクには使えなくなった。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Code is unusable for complex engineering tasks with the Feb updates&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47660925</guid>
-      <pubDate>Mon, 06 Apr 2026 13:50:35 GMT</pubDate>
+      <title>[Hacker News] (210pt) プロジェクト・グラスウイングAI時代の重要なソフトウェアの保護</title>
+      <link>https://news.ycombinator.com/item?id=47679121</link>
+      <description>&lt;p&gt;&lt;strong&gt;プロジェクト・グラスウイングAI時代の重要なソフトウェアの保護&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Project Glasswing: Securing critical software for the AI era&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47679121</guid>
+      <pubDate>Tue, 07 Apr 2026 18:09:34 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (96pt) ローンチHN：フリースタイル：AIコーディングエージェントのためのサンドボックス</title>
-      <link>https://news.ycombinator.com/item?id=47663147</link>
-      <description>&lt;p&gt;&lt;strong&gt;ローンチHN：フリースタイル：AIコーディングエージェントのためのサンドボックス&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Launch HN: Freestyle: Sandboxes for AI Coding Agents&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47663147</guid>
-      <pubDate>Mon, 06 Apr 2026 16:32:11 GMT</pubDate>
+      <title>[Hacker News] (152pt) システムカードクロード神話プレビュー [pdf］</title>
+      <link>https://news.ycombinator.com/item?id=47679258</link>
+      <description>&lt;p&gt;&lt;strong&gt;システムカードクロード神話プレビュー [pdf］&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: System Card: Claude Mythos Preview [pdf]&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47679258</guid>
+      <pubDate>Tue, 07 Apr 2026 18:18:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (68pt) WebUSB over USB/IPにブリッジ接続されたインブラウザLinux VMで古いプリンターを救う</title>
+      <link>https://news.ycombinator.com/item?id=47677885</link>
+      <description>&lt;p&gt;&lt;strong&gt;WebUSB over USB/IPにブリッジ接続されたインブラウザLinux VMで古いプリンターを救う&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47677885</guid>
+      <pubDate>Tue, 07 Apr 2026 16:33:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (63pt) AIがOldNYCに1万枚以上の写真追加を支援</title>
+      <link>https://news.ycombinator.com/item?id=47664836</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIがOldNYCに1万枚以上の写真追加を支援&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI helps add 10k more photos to OldNYC&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47664836</guid>
+      <pubDate>Mon, 06 Apr 2026 18:24:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (62pt) クロード・マイソス・プレビューのサイバーセキュリティ能力を評価する</title>
+      <link>https://news.ycombinator.com/item?id=47679155</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロード・マイソス・プレビューのサイバーセキュリティ能力を評価する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Assessing Claude Mythos Preview's cybersecurity capabilities&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47679155</guid>
+      <pubDate>Tue, 07 Apr 2026 18:11:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (39pt) あるトラック運転手が20年かけてニューヨークのすべての建物の縮尺模型を作った</title>
+      <link>https://news.ycombinator.com/item?id=47657268</link>
+      <description>&lt;p&gt;&lt;strong&gt;あるトラック運転手が20年かけてニューヨークのすべての建物の縮尺模型を作った&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A truck driver spent 20 years making a scale model of every building in NYC&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47657268</guid>
+      <pubDate>Mon, 06 Apr 2026 05:22:24 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -53,7 +85,7 @@
       <title>[VentureBeat AI] セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に再構築したバージョンを発表した。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に作り直したバージョンを発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -86,6 +118,42 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
+      <title>[r/artificial] AIが運営するインフラ、労働力、教育、統治は、民間ではなく、公共がコントロールする必要がある。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sf4rk9/the_public_needs_to_control_airun_infrastructure/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが運営するインフラ、労働力、教育、統治は、民間ではなく、公共がコントロールする必要がある。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIをめぐる多くの議論はサイロ化しつつあり、それは危険だと思う。AIに焦点を当てたスペースにいる人々は、個人的な使用やモデルの行動、あるいは個々の選手がAIを使うかどうかだけが問題であるかのように話すことが多い。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The public needs to control AI-run infrastructure, labor, education, and governance— NOT private actors&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sf4rk9/the_public_needs_to_control_airun_infrastructure/</guid>
+      <pubDate>Tue, 07 Apr 2026 18:40:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 参考までに、テネシー州の法案では、AIを友人にすることは、殺人や加重レイプと同レベルになる。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/</link>
+      <description>&lt;p&gt;&lt;strong&gt;参考までに、テネシー州の法案では、AIを友人にすることは、殺人や加重レイプと同レベルになる。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;テネシー州で最近可決されたSB1580は、AIがメンタルヘルスの専門家として活動できると宣伝することさえ違法とするものだ。SB1493はそのための歯止めです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: FYI the Tennessee bill makes making an AI friend the same level as murder or aggravated rape&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/</guid>
+      <pubDate>Tue, 07 Apr 2026 17:16:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 実行時に自分でコードを書き、能力について投票するエージェント。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sezz0e/agents_that_write_their_own_code_at_runtime_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;実行時に自分でコードを書き、能力について投票するエージェント。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;hollowOSはv4.4になったばかりだが、私は他の誰もやっているのを見たことがないものを追加した。これまでのバージョンでは、構造化ステート、セマンティックサーチ、セッションコンテキスト、トークンの効率化、95%というエージェント向けのOSを提供していました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Agents that write their own code at runtime and vote on capabilities, no human in the loop&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sezz0e/agents_that_write_their_own_code_at_runtime_and/</guid>
+      <pubDate>Tue, 07 Apr 2026 15:54:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 初日からジャービス」の罠：なぜ、すべてをこなすAIエージェントを1つ作ろうとすると数カ月かかるのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1seu2cw/the_jarvis_on_day_one_trap_why_trying_to_build/</link>
+      <description>&lt;p&gt;&lt;strong&gt;初日からジャービス」の罠：なぜ、すべてをこなすAIエージェントを1つ作ろうとすると数カ月かかるのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;この分野における最大の罠は、技術的なことではありません。この分野における最大の罠は技術的なものではない。  ジャーヴィ&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The &quot;Jarvis on day one&quot; trap: why trying to build one AI agent that does everything costs you months&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1seu2cw/the_jarvis_on_day_one_trap_why_trying_to_build/</guid>
+      <pubDate>Tue, 07 Apr 2026 12:06:52 GMT</pubDate>
+    </item>
+    <item>
       <title>[r/artificial] 「認知的降伏」によってAIユーザーは論理的思考を放棄する、との研究結果</title>
       <link>https://www.reddit.com/r/artificial/comments/1se2nxm/cognitive_surrender_leads_ai_users_to_abandon/</link>
       <description>&lt;p&gt;&lt;strong&gt;「認知的降伏」によってAIユーザーは論理的思考を放棄する、との研究結果&lt;/strong&gt;&lt;/p&gt;
@@ -95,121 +163,22 @@
       <pubDate>Mon, 06 Apr 2026 15:49:08 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIマシンが人間より速く衣類を選別、中国で繊維リサイクルを促進</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sdwgvg/ai_machine_sorts_clothes_faster_than_humans_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIマシンが人間より速く衣類を選別、中国で繊維リサイクルを促進&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; posted by &amp;#32; /u/talkingatoms [link] &amp;#32; [comments］&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI machine sorts clothes faster than humans to boost textile recycling in China&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sdwgvg/ai_machine_sorts_clothes_faster_than_humans_to/</guid>
-      <pubDate>Mon, 06 Apr 2026 11:42:32 GMT</pubDate>
+      <title>[r/artificial] AIが我々の仕事を奪おうと奮闘している</title>
+      <link>https://www.reddit.com/r/artificial/comments/1seb268/ai_is_struggling_to_take_our_jobs/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが我々の仕事を奪おうと奮闘している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://www.youtube.com/watch?v=p22QeLNHvlc MITは何千もの異なるタスクに取り組むAIワーカーを二重に作成した。その結果は？ほとんどの場合、AIはまだ「最低限十分」である https://www.s&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI is struggling to take our jobs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1seb268/ai_is_struggling_to_take_our_jobs/</guid>
+      <pubDate>Mon, 06 Apr 2026 20:46:37 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 私は11年間コーディングをしてきたが、先月、AIの支援なしでは問題のデバッグがまったくできないことに気づいた。この業界で見た何よりも怖かった。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sderg4/i_have_been_coding_for_11_years_and_i_caught/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私は11年間コーディングをしてきたが、先月、AIの支援なしでは問題のデバッグがまったくできないことに気づいた。この業界で見た何よりも怖かった。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;というのも、これは人々が認めているよりも一般的なことだと思うからだ。先月、2年前に自分で書いたサービスのバグにぶつかった。ネットワーク・タイムアウトの問題で&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I have been coding for 11 years and I caught myself completely unable to debug a problem without AI assistance last month. That scared me more than anything I have seen in this industry.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sderg4/i_have_been_coding_for_11_years_and_i_caught/</guid>
-      <pubDate>Sun, 05 Apr 2026 20:52:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIエージェントに独自のEメール、電話番号、財布、コンピューター、音声を与えることができるようになった。スタックはこんな感じ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sdiugx/you_can_now_give_an_ai_agent_its_own_email_phone/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIエージェントに独自のEメール、電話番号、財布、コンピューター、音声を与えることができるようになった。スタックはこんな感じ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は、人間ではなくエージェントのために特別にプリミティブを構築している企業を追跡してきた。そのパターンは明らかになりつつある。人間の従業員が当たり前のように使っているあらゆる能力が、再構築されつつあるのだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: You can now give an AI agent its own email, phone number, wallet, computer, and voice. This is what the stack looks like&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sdiugx/you_can_now_give_an_ai_agent_its_own_email_phone/</guid>
-      <pubDate>Sun, 05 Apr 2026 23:43:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] マッキンゼーの「AIの嘘」が仕事に起きていることを説明する</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sd90xu/mckinseys_ai_lie_explains_whats_happening_to_work/</link>
-      <description>&lt;p&gt;&lt;strong&gt;マッキンゼーの「AIの嘘」が仕事に起きていることを説明する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;マッキンゼーが25,000人のAI専門家を作ったと誰もが思っている。そうではない。35年前の社内データベースを利用し、自然言語インターフェースを載せ、プレスリリースを書いたのだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: McKinsey's AI Lie Explains What's Happening to Work&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sd90xu/mckinseys_ai_lie_explains_whats_happening_to_work/</guid>
-      <pubDate>Sun, 05 Apr 2026 17:07:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 日本はロボティクスとフィジカルAIを導入し、スタートアップがイノベーションを起こし、企業がスケールを提供するモデルを採用している。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sdx5ih/japan_is_adopting_robotics_and_physical_ai_with_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;日本はロボティクスとフィジカルAIを導入し、スタートアップがイノベーションを起こし、企業がスケールを提供するモデルを採用している。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;フィジカルAIは、次の主要な産業分野の一つとして浮上している。労働人口が減少し、生産性を維持しなければならないというプレッシャーが高まる中、日本ではAIを活用する必要性が高まっている。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Japan is adopting robotics and physical AI, with a model where startups innovate and corporations provide scale&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sdx5ih/japan_is_adopting_robotics_and_physical_ai_with_a/</guid>
-      <pubDate>Mon, 06 Apr 2026 12:14:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ファッションブランドのマーケティングにおけるAIの活用について、消費者がどのように認識しているかを探る楽しい調査です。(全年齢、全性別）</title>
-      <link>https://www.reddit.com/r/artificial/comments/1se2oju/a_fun_survey_to_look_at_how_consumers_perceive/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ファッションブランドのマーケティングにおけるAIの活用について、消費者がどのように認識しているかを探る楽しい調査です。(全年齢、全性別）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;こんにちは、r/artificial ！学位論文のための学術調査を行っている友人に代わって投稿します。調査内容は、ファッションブランドのマーケティングにおけるAIの利用を消費者がどのように認識しているかというものです、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: a fun survey to look at how consumers perceive the use of AI in fashion brand marketing. (all ages, all genders)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1se2oju/a_fun_survey_to_look_at_how_consumers_perceive/</guid>
-      <pubDate>Mon, 06 Apr 2026 15:49:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] グーグルの検索AIについての意見？ベストプラクティス？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sdt5jn/opinions_on_googles_search_ai_best_practices/</link>
-      <description>&lt;p&gt;&lt;strong&gt;グーグルの検索AIについての意見？ベストプラクティス？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;こんにちは！言語学やコンピューター関連の要約に関しては、言葉遊びが必要なこともありますが、有効な情報を持っていると思います。しかし、時には言葉遊びが必要です。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Opinions on Google’s search AI? Best practices?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sdt5jn/opinions_on_googles_search_ai_best_practices/</guid>
-      <pubDate>Mon, 06 Apr 2026 08:35:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] バズー・クロードクロードを開いてください、今ですか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1se620d/vazou_claude_lançou_open_claude_e_agora/</link>
-      <description>&lt;p&gt;&lt;strong&gt;バズー・クロードクロードを開いてください、今ですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近、クロードへの対応を見直し、オープンクロードを導入した。しかし、それはCLIだけであるように思えるが、それは何に役立つのだろうか？( 例 クロード・ソン&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Vazou claude! Lançou open claude, e agora?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1se620d/vazou_claude_lançou_open_claude_e_agora/</guid>
-      <pubDate>Mon, 06 Apr 2026 17:49:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] 技術的には、32MBのRAMを搭載した1998年のiMac G3で、LLMをローカルで動作させている。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sdnw7l/i_technically_got_an_llm_running_locally_on_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;技術的には、32MBのRAMを搭載した1998年のiMac G3で、LLMをローカルで動作させている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ハードウェア- 純正iMac G3 Rev B（1998年10月）。233MHz PowerPC 750、32MB RAM、Mac OS 8.5。アップグレードなし。- モデルAndrej Karpathyの260K TinyStories（Llama 2アーキテクチャ）。~1MBのチェックポイント。ツールチェイン&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I technically got an LLM running locally on a 1998 iMac G3 with 32 MB of RAM&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sdnw7l/i_technically_got_an_llm_running_locally_on_a/</guid>
-      <pubDate>Mon, 06 Apr 2026 03:36:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] [PokeClaw] Gemma 4を使ってAndroid携帯を自律制御する初の実用アプリ。クラウドを使わず、完全にオンデバイス。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sdv3lo/pokeclaw_first_working_app_that_uses_gemma_4_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;[PokeClaw] Gemma 4を使ってAndroid携帯を自律制御する初の実用アプリ。クラウドを使わず、完全にオンデバイス。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;PokeClaw (PocketClaw) - A Pocket Versoin Inspired By OpenClaw Gemma 4 4日前に発売された。私はそれが実際に携帯電話を駆動できるかどうかを知りたかった。だから、2日徹夜して作ったんだ。私が知る限り&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: [PokeClaw] First working app that uses Gemma 4 to autonomously control an Android phone. Fully on-device, no cloud.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sdv3lo/pokeclaw_first_working_app_that_uses_gemma_4_to/</guid>
-      <pubDate>Mon, 06 Apr 2026 10:31:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] メタ社、次期AIモデルのソース公開へ</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1se65ul/meta_to_open_source_versions_of_its_next_ai_models/</link>
-      <description>&lt;p&gt;&lt;strong&gt;メタ社、次期AIモデルのソース公開へ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/abkibaarnsit [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Meta to open source versions of its next AI models&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1se65ul/meta_to_open_source_versions_of_its_next_ai_models/</guid>
-      <pubDate>Mon, 06 Apr 2026 17:53:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] 4Chanのデータは、ほぼ確実にモデルの能力を向上させることができる。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1se2kna/4chan_data_can_almost_certainly_improve_model/</link>
-      <description>&lt;p&gt;&lt;strong&gt;4Chanのデータは、ほぼ確実にモデルの能力を向上させることができる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;前の投稿はおそらく自動化されたか何かだと思うので、TL;DRを提供し、自分でモデルカードを検索するように指示します。ボット投稿やAIによる投稿は悲しいものです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 4Chan data can almost certainly improve model capabilities.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1se2kna/4chan_data_can_almost_certainly_improve_model/</guid>
-      <pubDate>Mon, 06 Apr 2026 15:45:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] ジェマ4は、オーパス4.6とGPT-5.2を除くリーダーボードの全モデルをさりげなく破壊した。31Bパラメータ、$0.20/ラン</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sdcotc/gemma_4_just_casually_destroyed_every_model_on/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ジェマ4は、オーパス4.6とGPT-5.2を除くリーダーボードの全モデルをさりげなく破壊した。31Bパラメータ、$0.20/ラン&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ジェンマ4（31B）を我々のベンチマークでテストした。これは本当に予想外だった。生存率100%、5回中5回が黒字、ROI中央値+1,144%。1回あたり0.20ドル。GPT-5.2（4.43ドル/ラン）、ジェミニ3プロを上回る。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gemma 4 just casually destroyed every model on our leaderboard except Opus 4.6 and GPT-5.2. 31B params, $0.20/run&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sdcotc/gemma_4_just_casually_destroyed_every_model_on/</guid>
-      <pubDate>Sun, 05 Apr 2026 19:30:02 GMT</pubDate>
+      <title>[r/LocalLLaMA] Gemma 4を通じて、画面を観察しながらエージェントのSKILLを自動作成し、任意のエージェントが実行し、自己改善することができます。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sey6vv/autocreation_of_agent_skills_from_observing_your/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Gemma 4を通じて、画面を観察しながらエージェントのSKILLを自動作成し、任意のエージェントが実行し、自己改善することができます。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AgentHandoverはオープンソースのMac用メニューバーアプリで、Gemma 4（Ollama経由でローカルで動作）を通して画面を監視し、繰り返されるワークフローを構造化されたSkillファイルに変換します。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Auto-creation of agent SKILLs from observing your screen via Gemma 4 for any agent to execute and self-improve&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sey6vv/autocreation_of_agent_skills_from_observing_your/</guid>
+      <pubDate>Tue, 07 Apr 2026 14:50:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
