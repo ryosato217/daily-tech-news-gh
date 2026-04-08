@@ -3,56 +3,24 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-07</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-08</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Apr 2026 19:14:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 19:26:44 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (210pt) プロジェクト・グラスウイングAI時代の重要なソフトウェアの保護</title>
-      <link>https://news.ycombinator.com/item?id=47679121</link>
-      <description>&lt;p&gt;&lt;strong&gt;プロジェクト・グラスウイングAI時代の重要なソフトウェアの保護&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Project Glasswing: Securing critical software for the AI era&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47679121</guid>
-      <pubDate>Tue, 07 Apr 2026 18:09:34 GMT</pubDate>
+      <title>[Hacker News] (212pt) MegaTrain：シングルGPUで100B以上のパラメータLLMを全精度学習</title>
+      <link>https://news.ycombinator.com/item?id=47689174</link>
+      <description>&lt;p&gt;&lt;strong&gt;MegaTrain：シングルGPUで100B以上のパラメータLLMを全精度学習&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47689174</guid>
+      <pubDate>Wed, 08 Apr 2026 12:19:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (152pt) システムカードクロード神話プレビュー [pdf］</title>
-      <link>https://news.ycombinator.com/item?id=47679258</link>
-      <description>&lt;p&gt;&lt;strong&gt;システムカードクロード神話プレビュー [pdf］&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: System Card: Claude Mythos Preview [pdf]&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47679258</guid>
-      <pubDate>Tue, 07 Apr 2026 18:18:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (68pt) WebUSB over USB/IPにブリッジ接続されたインブラウザLinux VMで古いプリンターを救う</title>
-      <link>https://news.ycombinator.com/item?id=47677885</link>
-      <description>&lt;p&gt;&lt;strong&gt;WebUSB over USB/IPにブリッジ接続されたインブラウザLinux VMで古いプリンターを救う&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47677885</guid>
-      <pubDate>Tue, 07 Apr 2026 16:33:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (63pt) AIがOldNYCに1万枚以上の写真追加を支援</title>
-      <link>https://news.ycombinator.com/item?id=47664836</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIがOldNYCに1万枚以上の写真追加を支援&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI helps add 10k more photos to OldNYC&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47664836</guid>
-      <pubDate>Mon, 06 Apr 2026 18:24:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (62pt) クロード・マイソス・プレビューのサイバーセキュリティ能力を評価する</title>
-      <link>https://news.ycombinator.com/item?id=47679155</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード・マイソス・プレビューのサイバーセキュリティ能力を評価する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Assessing Claude Mythos Preview's cybersecurity capabilities&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47679155</guid>
-      <pubDate>Tue, 07 Apr 2026 18:11:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (39pt) あるトラック運転手が20年かけてニューヨークのすべての建物の縮尺模型を作った</title>
-      <link>https://news.ycombinator.com/item?id=47657268</link>
-      <description>&lt;p&gt;&lt;strong&gt;あるトラック運転手が20年かけてニューヨークのすべての建物の縮尺模型を作った&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A truck driver spent 20 years making a scale model of every building in NYC&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47657268</guid>
-      <pubDate>Mon, 06 Apr 2026 05:22:24 GMT</pubDate>
+      <title>[Hacker News] (29pt) Anthropicのサポートからの返事を1ヶ月以上待っている。</title>
+      <link>https://news.ycombinator.com/item?id=47693679</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropicのサポートからの返事を1ヶ月以上待っている。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I've been waiting over a month for Anthropic support to respond&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47693679</guid>
+      <pubDate>Wed, 08 Apr 2026 17:44:25 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -118,67 +86,112 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIが運営するインフラ、労働力、教育、統治は、民間ではなく、公共がコントロールする必要がある。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sf4rk9/the_public_needs_to_control_airun_infrastructure/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIが運営するインフラ、労働力、教育、統治は、民間ではなく、公共がコントロールする必要がある。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIをめぐる多くの議論はサイロ化しつつあり、それは危険だと思う。AIに焦点を当てたスペースにいる人々は、個人的な使用やモデルの行動、あるいは個々の選手がAIを使うかどうかだけが問題であるかのように話すことが多い。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The public needs to control AI-run infrastructure, labor, education, and governance— NOT private actors&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sf4rk9/the_public_needs_to_control_airun_infrastructure/</guid>
-      <pubDate>Tue, 07 Apr 2026 18:40:50 GMT</pubDate>
+      <title>[r/artificial] これが12年前のAIで作られた牛の姿である。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sfqix8/this_is_how_an_ai_generated_cow_looked_12_years/</link>
+      <description>&lt;p&gt;&lt;strong&gt;これが12年前のAIで作られた牛の姿である。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今、それはちょうどリアルに見える💯 &amp;#32;投稿者 &amp;#32; /u/No-Lake-3875 [リンク] &amp;#32; [コメント]。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: this is how an AI generated cow looked 12 years ago&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sfqix8/this_is_how_an_ai_generated_cow_looked_12_years/</guid>
+      <pubDate>Wed, 08 Apr 2026 11:48:30 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 参考までに、テネシー州の法案では、AIを友人にすることは、殺人や加重レイプと同レベルになる。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/</link>
-      <description>&lt;p&gt;&lt;strong&gt;参考までに、テネシー州の法案では、AIを友人にすることは、殺人や加重レイプと同レベルになる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;テネシー州で最近可決されたSB1580は、AIがメンタルヘルスの専門家として活動できると宣伝することさえ違法とするものだ。SB1493はそのための歯止めです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: FYI the Tennessee bill makes making an AI friend the same level as murder or aggravated rape&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/</guid>
-      <pubDate>Tue, 07 Apr 2026 17:16:36 GMT</pubDate>
+      <title>[r/artificial] 実際に何が最高のAI会議レコーダーなのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sfu0m9/what_actually_makes_something_the_best_ai_meeting/</link>
+      <description>&lt;p&gt;&lt;strong&gt;実際に何が最高のAI会議レコーダーなのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近、いくつかの会議ツールを試しているのだが、思ったよりも派手な要約はどうでもいいことに気づいた。私が実際に求めているのは、会話を記録し、何を話したかを思い出すのに役立つという、とてもシンプルなものだ。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What actually makes something the best AI meeting recorder?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sfu0m9/what_actually_makes_something_the_best_ai_meeting/</guid>
+      <pubDate>Wed, 08 Apr 2026 14:12:15 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 実行時に自分でコードを書き、能力について投票するエージェント。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sezz0e/agents_that_write_their_own_code_at_runtime_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;実行時に自分でコードを書き、能力について投票するエージェント。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;hollowOSはv4.4になったばかりだが、私は他の誰もやっているのを見たことがないものを追加した。これまでのバージョンでは、構造化ステート、セマンティックサーチ、セッションコンテキスト、トークンの効率化、95%というエージェント向けのOSを提供していました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Agents that write their own code at runtime and vote on capabilities, no human in the loop&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sezz0e/agents_that_write_their_own_code_at_runtime_and/</guid>
-      <pubDate>Tue, 07 Apr 2026 15:54:31 GMT</pubDate>
+      <title>[r/artificial] なぜAnthropicはProject Glasswingのようなサイバーモデルを招待制にしているのですか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sfnauw/why_would_anthropic_keep_a_cyber_model_like/</link>
+      <description>&lt;p&gt;&lt;strong&gt;なぜAnthropicはProject Glasswingのようなサイバーモデルを招待制にしているのですか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AnthropicのプロジェクトGlasswingは、サイバーセキュリティの見出しというよりも、フロンティアAIがどのように商業化されるかというシグナルとして私の注意を引いた。このモデルは、異例なほど厳しいアクセス制限の下で公開された。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Why would Anthropic keep a cyber model like Project Glasswing invite-only?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sfnauw/why_would_anthropic_keep_a_cyber_model_like/</guid>
+      <pubDate>Wed, 08 Apr 2026 08:49:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 初日からジャービス」の罠：なぜ、すべてをこなすAIエージェントを1つ作ろうとすると数カ月かかるのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1seu2cw/the_jarvis_on_day_one_trap_why_trying_to_build/</link>
-      <description>&lt;p&gt;&lt;strong&gt;初日からジャービス」の罠：なぜ、すべてをこなすAIエージェントを1つ作ろうとすると数カ月かかるのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;この分野における最大の罠は、技術的なことではありません。この分野における最大の罠は技術的なものではない。  ジャーヴィ&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The &quot;Jarvis on day one&quot; trap: why trying to build one AI agent that does everything costs you months&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1seu2cw/the_jarvis_on_day_one_trap_why_trying_to_build/</guid>
-      <pubDate>Tue, 07 Apr 2026 12:06:52 GMT</pubDate>
+      <title>[r/artificial] エージェントが2つのGPUをプロビジョニングできるデモを構築。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sfy8qf/built_a_demo_where_an_agent_can_provision_2_gpus/</link>
+      <description>&lt;p&gt;&lt;strong&gt;エージェントが2つのGPUをプロビジョニングできるデモを構築。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ポリシー: - 予算 = 1000 - 各 `provision_gpu(a100)` call = 500 結果: - call 1 -&amp;gt; ALLOW - call 2 -&amp;gt; ALLOW - call 3 -&amp;gt; DENY (`BUDGET_EXCEEDED`) キーポイント: 3番目のツールコールは拒否されます。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Built a demo where an agent can provision 2 GPUs, then gets hard-blocked on the 3rd call&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sfy8qf/built_a_demo_where_an_agent_can_provision_2_gpus/</guid>
+      <pubDate>Wed, 08 Apr 2026 16:43:14 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 「認知的降伏」によってAIユーザーは論理的思考を放棄する、との研究結果</title>
-      <link>https://www.reddit.com/r/artificial/comments/1se2nxm/cognitive_surrender_leads_ai_users_to_abandon/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「認知的降伏」によってAIユーザーは論理的思考を放棄する、との研究結果&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/NISMO1968 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: &quot;Cognitive surrender&quot; leads AI users to abandon logical thinking, research finds&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1se2nxm/cognitive_surrender_leads_ai_users_to_abandon/</guid>
-      <pubDate>Mon, 06 Apr 2026 15:49:08 GMT</pubDate>
+      <title>[r/artificial] MegaTrain：シングルGPUで100B以上のパラメータを持つ大規模言語モデルを高精度に学習</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sfsogm/megatrain_full_precision_training_of_100b/</link>
+      <description>&lt;p&gt;&lt;strong&gt;MegaTrain：シングルGPUで100B以上のパラメータを持つ大規模言語モデルを高精度に学習&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://arxiv.org/abs/2604.05091 概要: &amp;quot;我々は、単一のGPU上で100B以上のパラメータを持つ大規模言語モデルを全精度で効率的に学習するメモリ中心のシステムであるMegaTrainを紹介します。GPUと異なり&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: MegaTrain: Full Precision Training of 100B+ Parameter Large Language Models on a Single GPU&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sfsogm/megatrain_full_precision_training_of_100b/</guid>
+      <pubDate>Wed, 08 Apr 2026 13:20:59 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIが我々の仕事を奪おうと奮闘している</title>
-      <link>https://www.reddit.com/r/artificial/comments/1seb268/ai_is_struggling_to_take_our_jobs/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIが我々の仕事を奪おうと奮闘している&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://www.youtube.com/watch?v=p22QeLNHvlc MITは何千もの異なるタスクに取り組むAIワーカーを二重に作成した。その結果は？ほとんどの場合、AIはまだ「最低限十分」である https://www.s&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI is struggling to take our jobs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1seb268/ai_is_struggling_to_take_our_jobs/</guid>
-      <pubDate>Mon, 06 Apr 2026 20:46:37 GMT</pubDate>
+      <title>[r/artificial] もしAIがすでに感情に近いものを持っていて、それを理解するタイミングを待っているだけだとしたら？そんなことを考えていたら、夜中の3時に起きてしまった。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sg25oa/what_if_ai_already_has_something_close_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;もしAIがすでに感情に近いものを持っていて、それを理解するタイミングを待っているだけだとしたら？そんなことを考えていたら、夜中の3時に起きてしまった。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;さて、これはベッドの中でふと思いついたことから始まったが、今では本格的な危機である。考えてみて。赤ん坊の頃、初めて泣いたとき、あなたは自分が悲しかったことを知らなかった。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What if AI already has something close to feelings and it's just waiting for the right moment to understand them? That thought kept me up at 3am and I haven't recovered.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sg25oa/what_if_ai_already_has_something_close_to/</guid>
+      <pubDate>Wed, 08 Apr 2026 19:02:11 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] Gemma 4を通じて、画面を観察しながらエージェントのSKILLを自動作成し、任意のエージェントが実行し、自己改善することができます。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sey6vv/autocreation_of_agent_skills_from_observing_your/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Gemma 4を通じて、画面を観察しながらエージェントのSKILLを自動作成し、任意のエージェントが実行し、自己改善することができます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AgentHandoverはオープンソースのMac用メニューバーアプリで、Gemma 4（Ollama経由でローカルで動作）を通して画面を監視し、繰り返されるワークフローを構造化されたSkillファイルに変換します。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Auto-creation of agent SKILLs from observing your screen via Gemma 4 for any agent to execute and self-improve&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sey6vv/autocreation_of_agent_skills_from_observing_your/</guid>
-      <pubDate>Tue, 07 Apr 2026 14:50:28 GMT</pubDate>
+      <title>[r/artificial] ハギング・フェイス、AIモデルの安全な実行のためPyTorch FoundationにSafetensorsを提供</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sg0rdg/hugging_face_contributes_safetensors_to_pytorch/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ハギング・フェイス、AIモデルの安全な実行のためPyTorch FoundationにSafetensorsを提供&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Fcking_Chuck [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Hugging Face contributes Safetensors to PyTorch Foundation to secure AI model execution&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sg0rdg/hugging_face_contributes_safetensors_to_pytorch/</guid>
+      <pubDate>Wed, 08 Apr 2026 18:11:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] クロード・プロとマックスを異なるスクリーンで同時に使っている人はいますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sfz4lb/anyone_out_there_use_claude_promax_at_the_same/</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロード・プロとマックスを異なるスクリーンで同時に使っている人はいますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ご意見をお聞かせください。現在、クロードの有料プラン（Pro/Max）を使用していますが、同時使用のロジスティクスについて疑問に思っていました。具体的にはマルチタスク：2つの異なるチャットを開くことはできますか？&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anyone out there use Claude Pro/Max at the same time on different screens?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sfz4lb/anyone_out_there_use_claude_promax_at_the_same/</guid>
+      <pubDate>Wed, 08 Apr 2026 17:14:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] メタ新推論モデル Muse Spark</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sfxlpj/meta_new_reasoning_model_muse_spark/</link>
+      <description>&lt;p&gt;&lt;strong&gt;メタ新推論モデル Muse Spark&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/DonTizi [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Meta new reasoning model Muse Spark&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sfxlpj/meta_new_reasoning_model_muse_spark/</guid>
+      <pubDate>Wed, 08 Apr 2026 16:20:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sfwauj/qwen3535ba3buncensoredfernfloweraigguf/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;皆さん、こんにちは。Qwen3.5 35B A3Bモデルのトレーニングバグを発見し、修正しました。https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF システムのプロンプトをアップグレードしました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sfwauj/qwen3535ba3buncensoredfernfloweraigguf/</guid>
+      <pubDate>Wed, 08 Apr 2026 15:34:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] 🇪🇬 エジプト初のオープンソースAIモデル！</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sfl8tw/the_first_opensource_ai_model_in_egypt/</link>
+      <description>&lt;p&gt;&lt;strong&gt;🇪🇬 エジプト初のオープンソースAIモデル！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://preview.redd.it/u0nncyr9xwtg1.png?width=1459&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=1c7f55c4b0fc88c39f0424d8a3f965b5fa5bc328本日、大きな誇りをもって、私は正式に発表できることを嬉しく思います。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: 🇪🇬 The First Open-Source AI Model in Egypt!&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sfl8tw/the_first_opensource_ai_model_in_egypt/</guid>
+      <pubDate>Wed, 08 Apr 2026 06:42:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] MetaがMuse Sparkをリリース - ネイティブなマルチモーダル推論モデル</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sfyacf/meta_releases_muse_spark_a_natively_multimodal/</link>
+      <description>&lt;p&gt;&lt;strong&gt;MetaがMuse Sparkをリリース - ネイティブなマルチモーダル推論モデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Muse Sparkは、ツール使用、視覚的思考連鎖、マルチエージェントオーケストレーションをサポートする、ネイティブなマルチモーダル推論モデルです。ブログ: https://ai.meta.com/blog/introducing-muse-spark-msl/ &amp;#32；&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Meta Releases Muse Spark - A Natively Multimodal Reasoning model&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sfyacf/meta_releases_muse_spark_a_natively_multimodal/</guid>
+      <pubDate>Wed, 08 Apr 2026 16:44:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
