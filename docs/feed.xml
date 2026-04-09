@@ -3,24 +3,40 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-08</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-09</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Apr 2026 19:26:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 19:18:04 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (212pt) MegaTrain：シングルGPUで100B以上のパラメータLLMを全精度学習</title>
-      <link>https://news.ycombinator.com/item?id=47689174</link>
-      <description>&lt;p&gt;&lt;strong&gt;MegaTrain：シングルGPUで100B以上のパラメータLLMを全精度学習&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47689174</guid>
-      <pubDate>Wed, 08 Apr 2026 12:19:00 GMT</pubDate>
+      <title>[Hacker News] (211pt) 月100ドルのクロード・コードをゼットとオープン・ルーターに再配分</title>
+      <link>https://news.ycombinator.com/item?id=47700972</link>
+      <description>&lt;p&gt;&lt;strong&gt;月100ドルのクロード・コードをゼットとオープン・ルーターに再配分&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Reallocating $100/Month Claude Code Spend to Zed and OpenRouter&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47700972</guid>
+      <pubDate>Thu, 09 Apr 2026 08:55:18 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (29pt) Anthropicのサポートからの返事を1ヶ月以上待っている。</title>
-      <link>https://news.ycombinator.com/item?id=47693679</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropicのサポートからの返事を1ヶ月以上待っている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I've been waiting over a month for Anthropic support to respond&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47693679</guid>
-      <pubDate>Wed, 08 Apr 2026 17:44:25 GMT</pubDate>
+      <title>[Hacker News] (98pt) 拡張頂点ブロック降下のWebGPU実装</title>
+      <link>https://news.ycombinator.com/item?id=47702541</link>
+      <description>&lt;p&gt;&lt;strong&gt;拡張頂点ブロック降下のWebGPU実装&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A WebGPU implementation of Augmented Vertex Block Descent&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47702541</guid>
+      <pubDate>Thu, 09 Apr 2026 12:01:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (66pt) ショーHN：C/C++用のCargoライクなビルド・ツールを作ってみた</title>
+      <link>https://news.ycombinator.com/item?id=47705413</link>
+      <description>&lt;p&gt;&lt;strong&gt;ショーHN：C/C++用のCargoライクなビルド・ツールを作ってみた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: I built a Cargo-like build tool for C/C++&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47705413</guid>
+      <pubDate>Thu, 09 Apr 2026 16:04:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (36pt) 研究主導型エージェント：エージェントがコーディングの前に読むとどうなるか</title>
+      <link>https://news.ycombinator.com/item?id=47706141</link>
+      <description>&lt;p&gt;&lt;strong&gt;研究主導型エージェント：エージェントがコーディングの前に読むとどうなるか&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Research-Driven Agents: What Happens When Your Agent Reads Before It Codes&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47706141</guid>
+      <pubDate>Thu, 09 Apr 2026 16:58:49 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -35,7 +51,7 @@
       <title>[VentureBeat AI] クロード・コードは月200ドルもする。グースは無料で同じことができる。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;クロード・コードは月200ドルもする。グースは無料で同じことができる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、「高価である」という欠点がある。&lt;/p&gt;
+&lt;p&gt;人工知能のコーディング革命には、キャッチーなことが伴う：それは高価です。Anthropicの端末ベースのAIエージェントであるClaude Codeは、自律的にコードを書き、デバッグし、デプロイすることができ、キャップを持っている。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -53,7 +69,7 @@
       <title>[VentureBeat AI] セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に作り直したバージョンを発表した。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に再構築したバージョンを発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -86,112 +102,121 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
+      <title>[r/artificial] ホワイトカラーはAIに静かに反旗を翻している。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sgphq9/whitecollar_workers_are_quietly_rebelling_against/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ホワイトカラーはAIに静かに反旗を翻している。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/Effective-Trick-5795 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: White-collar workers are quietly rebelling against AI as 80% outright refuse adoption mandates&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sgphq9/whitecollar_workers_are_quietly_rebelling_against/</guid>
+      <pubDate>Thu, 09 Apr 2026 13:22:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 米企業のヒューマノイド・ロボット、AIで感情を追跡し過去の会話を思い出す</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sgs8ef/us_firms_humanoid_robot_tracks_emotions_with_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;米企業のヒューマノイド・ロボット、AIで感情を追跡し過去の会話を思い出す&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/sksarkpoes3 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: US firm's humanoid robot tracks emotions with AI, recalls past conversations&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sgs8ef/us_firms_humanoid_robot_tracks_emotions_with_ai/</guid>
+      <pubDate>Thu, 09 Apr 2026 15:05:38 GMT</pubDate>
+    </item>
+    <item>
       <title>[r/artificial] これが12年前のAIで作られた牛の姿である。</title>
       <link>https://www.reddit.com/r/artificial/comments/1sfqix8/this_is_how_an_ai_generated_cow_looked_12_years/</link>
       <description>&lt;p&gt;&lt;strong&gt;これが12年前のAIで作られた牛の姿である。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今、それはちょうどリアルに見える💯 &amp;#32;投稿者 &amp;#32; /u/No-Lake-3875 [リンク] &amp;#32; [コメント]。&lt;/p&gt;
+&lt;p&gt;今、それはちょうど本物💯に見える &amp;#32; 投稿者 &amp;#32; /u/No-Lake-3875 [リンク] &amp;#32; [コメント].&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: this is how an AI generated cow looked 12 years ago&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sfqix8/this_is_how_an_ai_generated_cow_looked_12_years/</guid>
       <pubDate>Wed, 08 Apr 2026 11:48:30 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 実際に何が最高のAI会議レコーダーなのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sfu0m9/what_actually_makes_something_the_best_ai_meeting/</link>
-      <description>&lt;p&gt;&lt;strong&gt;実際に何が最高のAI会議レコーダーなのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近、いくつかの会議ツールを試しているのだが、思ったよりも派手な要約はどうでもいいことに気づいた。私が実際に求めているのは、会話を記録し、何を話したかを思い出すのに役立つという、とてもシンプルなものだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What actually makes something the best AI meeting recorder?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sfu0m9/what_actually_makes_something_the_best_ai_meeting/</guid>
-      <pubDate>Wed, 08 Apr 2026 14:12:15 GMT</pubDate>
+      <title>[r/artificial] グーグルのAI「ジェミニ」が3Dモデルとシミュレーションで質問に答える</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sgy05n/googles_gemini_ai_can_answer_your_questions_with/</link>
+      <description>&lt;p&gt;&lt;strong&gt;グーグルのAI「ジェミニ」が3Dモデルとシミュレーションで質問に答える&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/tekz [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Google’s Gemini AI can answer your questions with 3D models and simulations&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sgy05n/googles_gemini_ai_can_answer_your_questions_with/</guid>
+      <pubDate>Thu, 09 Apr 2026 18:29:55 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] なぜAnthropicはProject Glasswingのようなサイバーモデルを招待制にしているのですか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sfnauw/why_would_anthropic_keep_a_cyber_model_like/</link>
-      <description>&lt;p&gt;&lt;strong&gt;なぜAnthropicはProject Glasswingのようなサイバーモデルを招待制にしているのですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AnthropicのプロジェクトGlasswingは、サイバーセキュリティの見出しというよりも、フロンティアAIがどのように商業化されるかというシグナルとして私の注意を引いた。このモデルは、異例なほど厳しいアクセス制限の下で公開された。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Why would Anthropic keep a cyber model like Project Glasswing invite-only?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sfnauw/why_would_anthropic_keep_a_cyber_model_like/</guid>
-      <pubDate>Wed, 08 Apr 2026 08:49:57 GMT</pubDate>
+      <title>[r/artificial] OpenAIは広告を &quot;最後の手段 &quot;と言った。そして6週間で1億ドルを超えた。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sg9hyb/openai_said_ads_were_a_last_resort_then_crossed/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIは広告を &quot;最後の手段 &quot;と言った。そして6週間で1億ドルを超えた。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;アルトマンが2024年、文字通り「広告は最後の手段だ」と言ったことを覚えているだろうか。さて、いよいよだ。私が気になるのは、1億ドルという金額そのものではなく、製品が基本的にまだ完成していない段階でこの金額を叩き出したことだ。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI said ads were a &quot;last resort.&quot; Then crossed $100M in 6 weeks.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sg9hyb/openai_said_ads_were_a_last_resort_then_crossed/</guid>
+      <pubDate>Wed, 08 Apr 2026 23:47:07 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] エージェントが2つのGPUをプロビジョニングできるデモを構築。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sfy8qf/built_a_demo_where_an_agent_can_provision_2_gpus/</link>
-      <description>&lt;p&gt;&lt;strong&gt;エージェントが2つのGPUをプロビジョニングできるデモを構築。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ポリシー: - 予算 = 1000 - 各 `provision_gpu(a100)` call = 500 結果: - call 1 -&amp;gt; ALLOW - call 2 -&amp;gt; ALLOW - call 3 -&amp;gt; DENY (`BUDGET_EXCEEDED`) キーポイント: 3番目のツールコールは拒否されます。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Built a demo where an agent can provision 2 GPUs, then gets hard-blocked on the 3rd call&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sfy8qf/built_a_demo_where_an_agent_can_provision_2_gpus/</guid>
-      <pubDate>Wed, 08 Apr 2026 16:43:14 GMT</pubDate>
+      <title>[r/artificial] メタ、コアウィーブと210億ドルの追加支出を約束 AIコストは上昇の一途</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sgn05s/meta_commits_to_spending_additional_21_billion/</link>
+      <description>&lt;p&gt;&lt;strong&gt;メタ、コアウィーブと210億ドルの追加支出を約束 AIコストは上昇の一途&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;新たな支出は2027年から2032年にかけて行われる予定で、メタは自社のAIインフラを強化する一方、エヌビディアのグラフィックチップをレンタルしているコアウィーブにも期待している。&quot;彼らは今後もそれを続けるだろう。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Meta commits to spending additional $21 billion with CoreWeave as AI costs keep rising&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sgn05s/meta_commits_to_spending_additional_21_billion/</guid>
+      <pubDate>Thu, 09 Apr 2026 11:32:05 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] MegaTrain：シングルGPUで100B以上のパラメータを持つ大規模言語モデルを高精度に学習</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sfsogm/megatrain_full_precision_training_of_100b/</link>
-      <description>&lt;p&gt;&lt;strong&gt;MegaTrain：シングルGPUで100B以上のパラメータを持つ大規模言語モデルを高精度に学習&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://arxiv.org/abs/2604.05091 概要: &amp;quot;我々は、単一のGPU上で100B以上のパラメータを持つ大規模言語モデルを全精度で効率的に学習するメモリ中心のシステムであるMegaTrainを紹介します。GPUと異なり&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: MegaTrain: Full Precision Training of 100B+ Parameter Large Language Models on a Single GPU&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sfsogm/megatrain_full_precision_training_of_100b/</guid>
-      <pubDate>Wed, 08 Apr 2026 13:20:59 GMT</pubDate>
+      <title>[r/artificial] Anthropicの新モデルがサイバーセキュリティ専門家を動揺させた理由</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sgr44y/why_anthropics_new_model_has_cybersecurity/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropicの新モデルがサイバーセキュリティ専門家を動揺させた理由&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/ThereWas [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Why Anthropic’s new model has cybersecurity experts rattled&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sgr44y/why_anthropics_new_model_has_cybersecurity/</guid>
+      <pubDate>Thu, 09 Apr 2026 14:25:07 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] もしAIがすでに感情に近いものを持っていて、それを理解するタイミングを待っているだけだとしたら？そんなことを考えていたら、夜中の3時に起きてしまった。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sg25oa/what_if_ai_already_has_something_close_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;もしAIがすでに感情に近いものを持っていて、それを理解するタイミングを待っているだけだとしたら？そんなことを考えていたら、夜中の3時に起きてしまった。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;さて、これはベッドの中でふと思いついたことから始まったが、今では本格的な危機である。考えてみて。赤ん坊の頃、初めて泣いたとき、あなたは自分が悲しかったことを知らなかった。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What if AI already has something close to feelings and it's just waiting for the right moment to understand them? That thought kept me up at 3am and I haven't recovered.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sg25oa/what_if_ai_already_has_something_close_to/</guid>
-      <pubDate>Wed, 08 Apr 2026 19:02:11 GMT</pubDate>
+      <title>[r/artificial] AIのアライメント・ギャップに関する33のベンチマーク診断をオープンソース化、4月27日より提供開始</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sgwyse/were_opensourcing_a_33benchmark_diagnostic_for_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIのアライメント・ギャップに関する33のベンチマーク診断をオープンソース化、4月27日より提供開始&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;4月27日、我々はiFixAiと呼ばれる無料の診断ツールをオープンソース化する。このツールをあなたのAIシステム（エージェント、コパイロット、LLM統合など、あなたが使っているものは何でも）に対して実行すると、以下の33のベンチマークでテストされる。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: We’re open-sourcing a 33-benchmark diagnostic for AI alignment gaps, launches April 27&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sgwyse/were_opensourcing_a_33benchmark_diagnostic_for_ai/</guid>
+      <pubDate>Thu, 09 Apr 2026 17:53:32 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ハギング・フェイス、AIモデルの安全な実行のためPyTorch FoundationにSafetensorsを提供</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sg0rdg/hugging_face_contributes_safetensors_to_pytorch/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ハギング・フェイス、AIモデルの安全な実行のためPyTorch FoundationにSafetensorsを提供&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Fcking_Chuck [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Hugging Face contributes Safetensors to PyTorch Foundation to secure AI model execution&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sg0rdg/hugging_face_contributes_safetensors_to_pytorch/</guid>
-      <pubDate>Wed, 08 Apr 2026 18:11:48 GMT</pubDate>
+      <title>[r/LocalLLaMA] ローカル（小規模）LLMはMythosと同じ脆弱性を発見した。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sgrfp1/local_small_llms_found_the_same_vulnerabilities/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ローカル（小規模）LLMはMythosと同じ脆弱性を発見した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/CyberAttacked [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Local (small) LLMs found the same vulnerabilities as Mythos&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sgrfp1/local_small_llms_found_the_same_vulnerabilities/</guid>
+      <pubDate>Thu, 09 Apr 2026 14:36:58 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] クロード・プロとマックスを異なるスクリーンで同時に使っている人はいますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sfz4lb/anyone_out_there_use_claude_promax_at_the_same/</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード・プロとマックスを異なるスクリーンで同時に使っている人はいますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ご意見をお聞かせください。現在、クロードの有料プラン（Pro/Max）を使用していますが、同時使用のロジスティクスについて疑問に思っていました。具体的にはマルチタスク：2つの異なるチャットを開くことはできますか？&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anyone out there use Claude Pro/Max at the same time on different screens?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sfz4lb/anyone_out_there_use_claude_promax_at_the_same/</guid>
-      <pubDate>Wed, 08 Apr 2026 17:14:09 GMT</pubDate>
+      <title>[r/LocalLLaMA] 神話プレビュー &quot;安全 &quot;ガス灯：Anthropicは非常識な計算コストを隠しているだけだ。オープンモデルはすでにそうなっている。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sgoy17/the_mythos_preview_safety_gaslight_anthropic_is/</link>
+      <description>&lt;p&gt;&lt;strong&gt;神話プレビュー &quot;安全 &quot;ガス灯：Anthropicは非常識な計算コストを隠しているだけだ。オープンモデルはすでにそうなっている。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;244ページもあるシステムカードに目を通す手間を省くために、この分解ビデオ[Link:https://www.youtube.com/watch?v=PQsDXTPyxUg]をチェックすることを強くお勧めする。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Mythos Preview &quot;Safety&quot; Gaslight: Anthropic is just hiding insane compute costs. Open models are already doing this.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sgoy17/the_mythos_preview_safety_gaslight_anthropic_is/</guid>
+      <pubDate>Thu, 09 Apr 2026 13:00:17 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] メタ新推論モデル Muse Spark</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sfxlpj/meta_new_reasoning_model_muse_spark/</link>
-      <description>&lt;p&gt;&lt;strong&gt;メタ新推論モデル Muse Spark&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/DonTizi [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Meta new reasoning model Muse Spark&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sfxlpj/meta_new_reasoning_model_muse_spark/</guid>
-      <pubDate>Wed, 08 Apr 2026 16:20:48 GMT</pubDate>
+      <title>[r/LocalLLaMA] 16 GB VRAMユーザー、今一番気に入っているモデルは？</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sgvt01/16_gb_vram_users_what_model_do_we_like_best_now/</link>
+      <description>&lt;p&gt;&lt;strong&gt;16 GB VRAMユーザー、今一番気に入っているモデルは？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;IQ3のQwen3.5 27bはかなりいい感じです。通常、32k（コーディングのようなことにローカルモデルを使用しないので、これは私にとって十分なコンテキストです）程度なら問題なくフィットします。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: 16 GB VRAM users, what model do we like best now?&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sgvt01/16_gb_vram_users_what_model_do_we_like_best_now/</guid>
+      <pubDate>Thu, 09 Apr 2026 17:12:53 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sfwauj/qwen3535ba3buncensoredfernfloweraigguf/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;皆さん、こんにちは。Qwen3.5 35B A3Bモデルのトレーニングバグを発見し、修正しました。https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF システムのプロンプトをアップグレードしました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sfwauj/qwen3535ba3buncensoredfernfloweraigguf/</guid>
-      <pubDate>Wed, 08 Apr 2026 15:34:22 GMT</pubDate>
+      <title>[r/LocalLLaMA] オープンソースのクロード・コワークに代わるOpenWorkは、商用ライセンスでの再ライセンスを黙認している。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sgnppg/openwork_an_opensource_claude_cowork_alternative/</link>
+      <description>&lt;p&gt;&lt;strong&gt;オープンソースのクロード・コワークに代わるOpenWorkは、商用ライセンスでの再ライセンスを黙認している。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenWorkはローカルでホストされるAIエージェントハーネスで、オープンコードに基づくMITライセンスのオープンソースClaude Coworkの代替品として発表された。このアプリのユーザーには、このアプリが無音で動作していることをお知らせしておく。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenWork, an opensource Claude Cowork alternative, is silently relicensing under a commercial license&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sgnppg/openwork_an_opensource_claude_cowork_alternative/</guid>
+      <pubDate>Thu, 09 Apr 2026 12:05:50 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] 🇪🇬 エジプト初のオープンソースAIモデル！</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sfl8tw/the_first_opensource_ai_model_in_egypt/</link>
-      <description>&lt;p&gt;&lt;strong&gt;🇪🇬 エジプト初のオープンソースAIモデル！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://preview.redd.it/u0nncyr9xwtg1.png?width=1459&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=1c7f55c4b0fc88c39f0424d8a3f965b5fa5bc328本日、大きな誇りをもって、私は正式に発表できることを嬉しく思います。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 🇪🇬 The First Open-Source AI Model in Egypt!&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sfl8tw/the_first_opensource_ai_model_in_egypt/</guid>
-      <pubDate>Wed, 08 Apr 2026 06:42:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] MetaがMuse Sparkをリリース - ネイティブなマルチモーダル推論モデル</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sfyacf/meta_releases_muse_spark_a_natively_multimodal/</link>
-      <description>&lt;p&gt;&lt;strong&gt;MetaがMuse Sparkをリリース - ネイティブなマルチモーダル推論モデル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Muse Sparkは、ツール使用、視覚的思考連鎖、マルチエージェントオーケストレーションをサポートする、ネイティブなマルチモーダル推論モデルです。ブログ: https://ai.meta.com/blog/introducing-muse-spark-msl/ &amp;#32；&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Meta Releases Muse Spark - A Natively Multimodal Reasoning model&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sfyacf/meta_releases_muse_spark_a_natively_multimodal/</guid>
-      <pubDate>Wed, 08 Apr 2026 16:44:50 GMT</pubDate>
+      <title>[r/LocalLLaMA] 未使用の携帯電話をAIサーバーに</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sgqlfn/unused_phone_as_ai_server/</link>
+      <description>&lt;p&gt;&lt;strong&gt;未使用の携帯電話をAIサーバーに&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;もしあなたが使っていない携帯電話をその辺に眠らせているなら、あなたは小さなAIサーバーの上に座っているかもしれない。私はGoogle AI Edge Galleryを改造してOpenAI互換のAPI seにするプロジェクトに取り組んでいる。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Unused phone as AI server&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sgqlfn/unused_phone_as_ai_server/</guid>
+      <pubDate>Thu, 09 Apr 2026 14:05:51 GMT</pubDate>
     </item>
   </channel>
 </rss>
