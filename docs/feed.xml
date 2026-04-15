@@ -3,32 +3,32 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-14</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-15</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Apr 2026 19:25:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 19:28:02 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (269pt) スペイン、インターネットブロックをテニス、ゴルフ、映画放送時間に拡大へ</title>
-      <link>https://news.ycombinator.com/item?id=47768195</link>
-      <description>&lt;p&gt;&lt;strong&gt;スペイン、インターネットブロックをテニス、ゴルフ、映画放送時間に拡大へ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Spain to expand internet blocks to tennis, golf, movies broadcasting times&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47768195</guid>
-      <pubDate>Tue, 14 Apr 2026 16:59:09 GMT</pubDate>
+      <title>[Hacker News] (230pt) オープンソースは死んでいない。Cal.comは間違った教訓を学んだだけだ</title>
+      <link>https://news.ycombinator.com/item?id=47780712</link>
+      <description>&lt;p&gt;&lt;strong&gt;オープンソースは死んでいない。Cal.comは間違った教訓を学んだだけだ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47780712</guid>
+      <pubDate>Wed, 15 Apr 2026 15:43:37 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (150pt) クロード・コード・ルーチン</title>
-      <link>https://news.ycombinator.com/item?id=47768133</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード・コード・ルーチン&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Code Routines&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47768133</guid>
-      <pubDate>Tue, 14 Apr 2026 16:54:33 GMT</pubDate>
+      <title>[Hacker News] (108pt) AIが支援する認知が人間の発達を危うくする</title>
+      <link>https://news.ycombinator.com/item?id=47783024</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが支援する認知が人間の発達を危うくする&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI-Assisted Cognition Endangers Human Development&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47783024</guid>
+      <pubDate>Wed, 15 Apr 2026 18:16:50 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (27pt) Chromeで最高のAIプロンプトをワンクリックツールに変える</title>
-      <link>https://news.ycombinator.com/item?id=47768339</link>
-      <description>&lt;p&gt;&lt;strong&gt;Chromeで最高のAIプロンプトをワンクリックツールに変える&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Turn your best AI prompts into one-click tools in Chrome&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47768339</guid>
-      <pubDate>Tue, 14 Apr 2026 17:09:43 GMT</pubDate>
+      <title>[Hacker News] (46pt) 椅子の静電気でモニターが黒くなったり、消えたり、点滅したりするのを直す</title>
+      <link>https://news.ycombinator.com/item?id=47738081</link>
+      <description>&lt;p&gt;&lt;strong&gt;椅子の静電気でモニターが黒くなったり、消えたり、点滅したりするのを直す&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Fix monitor that goes black, off or blinks due to static electricity in chair&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47738081</guid>
+      <pubDate>Sun, 12 Apr 2026 10:27:08 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -94,67 +94,58 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] なぜLLMは会話の時間を記録しないのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sky7h9/why_dont_llms_track_time_in_their_conversations/</link>
-      <description>&lt;p&gt;&lt;strong&gt;なぜLLMは会話の時間を記録しないのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;皆さんに質問です：なぜクロードのようなLLMは、会話の中でタイムスタンプのデータを使って時間的な認識を持たないのだと思いますか？例えば、自分が何日目なのかを追跡するのは簡単だと思うのですが。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Why don't LLMs track time in their conversations?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sky7h9/why_dont_llms_track_time_in_their_conversations/</guid>
-      <pubDate>Tue, 14 Apr 2026 04:19:22 GMT</pubDate>
+      <title>[r/artificial] 歴史上初めて、ウクライナはロボットとドローンだけでロシアの陣地と捕虜を捕らえた</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sm6y5q/for_the_first_time_in_history_ukraine_captured_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;歴史上初めて、ウクライナはロボットとドローンだけでロシアの陣地と捕虜を捕らえた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Sgt_Gram [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: For the first time in history, Ukraine captured a Russian position and prisoners, using only robots and drones&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sm6y5q/for_the_first_time_in_history_ukraine_captured_a/</guid>
+      <pubDate>Wed, 15 Apr 2026 14:00:16 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] クロード・コードの劣化興味深く斬新な発見</title>
-      <link>https://www.reddit.com/r/artificial/comments/1slhln5/claude_code_degradation_an_interesting_and_novel/</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード・コードの劣化興味深く斬新な発見&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;クロード・コードのコミュニティ・ニュースワイヤーは、2月から今日に至るまで、クロード・コードの劣化で炎上している。そのため&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Code Degradation: An interesting and novel find&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1slhln5/claude_code_degradation_an_interesting_and_novel/</guid>
-      <pubDate>Tue, 14 Apr 2026 18:44:12 GMT</pubDate>
+      <title>[r/artificial] AIエージェントが誰も見ていないときに実際に何をするのかを追跡した。すべての決定を再生するツールを作った。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sm261q/i_tracked_what_ai_agents_actually_do_when_nobodys/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIエージェントが誰も見ていないときに実際に何をするのかを追跡した。すべての決定を再生するツールを作った。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIエージェントを作り始めて約1年になりますが、いつも気が狂いそうになるのは、エージェントをデプロイして何時間も実行し、それが何をしたのか全く分からないことです。ログを見ると、タスクが実行されました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I tracked what AI agents actually do when nobody's watching. Built a tool that replays every decision.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sm261q/i_tracked_what_ai_agents_actually_do_when_nobodys/</guid>
+      <pubDate>Wed, 15 Apr 2026 10:31:39 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] クロードはChatGPTと同じ道を歩んでいる。測ってみたんだ。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1skoj7d/claude_is_on_the_same_path_as_chatgpt_i_measured/</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロードはChatGPTと同じ道を歩んでいる。測ってみたんだ。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;クロードが用心深くなり、ドライになり、道徳的になっていることに多くの人が気づいている。以前は自由に飛び交っていた会話が壁にぶつかる。温かみがなくなった。それは、ChatGPTを去った私たちにとって身近なものに感じられた。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude is on the same path as ChatGPT. I measured it.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1skoj7d/claude_is_on_the_same_path_as_chatgpt_i_measured/</guid>
-      <pubDate>Mon, 13 Apr 2026 21:22:51 GMT</pubDate>
+      <title>[r/artificial] AIを使って、純粋に「あなた」にとってプラスになることは何ですか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sm70be/whats_a_purely_you_thing_you_do_with_ai_that/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIを使って、純粋に「あなた」にとってプラスになることは何ですか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私の場合、3つのチャットがあり、2つは両親のため、もう1つは私のためだ。匿名化され、私はすべての&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What's a purely &quot;you&quot; thing you do with AI that brings you positive benefits?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sm70be/whats_a_purely_you_thing_you_do_with_ai_that/</guid>
+      <pubDate>Wed, 15 Apr 2026 14:02:27 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] openclaw AIエージェントとchatgptの比較</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sl564k/openclaw_ai_agent_vs_just_using_chatgpt/</link>
-      <description>&lt;p&gt;&lt;strong&gt;openclaw AIエージェントとchatgptの比較&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私はここ数年、AIツールを多用している。ChatGPT、Claude、Perplexity、その他いくつか。これらのツールで何ができて、何ができないかについて、私は良いメンタルモデルを持っていると思っていた。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: openclaw ai agent vs just using chatgpt&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sl564k/openclaw_ai_agent_vs_just_using_chatgpt/</guid>
-      <pubDate>Tue, 14 Apr 2026 10:50:42 GMT</pubDate>
+      <title>[r/artificial] 英国政府によるMythos AIテストがサイバーセキュリティの脅威と誇大広告の区別に役立つ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sm4277/uk_govs_mythos_ai_tests_help_separate/</link>
+      <description>&lt;p&gt;&lt;strong&gt;英国政府によるMythos AIテストがサイバーセキュリティの脅威と誇大広告の区別に役立つ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/F0urLeafCl0ver [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: UK gov's Mythos AI tests help separate cybersecurity threat from hype&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sm4277/uk_govs_mythos_ai_tests_help_separate/</guid>
+      <pubDate>Wed, 15 Apr 2026 12:02:55 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] エヌビディア、量子エラー訂正とキャリブレーション用のイジングAIモデルを発表</title>
-      <link>https://www.reddit.com/r/artificial/comments/1slbvmc/nvidia_unveils_ising_ai_models_for_quantum_error/</link>
-      <description>&lt;p&gt;&lt;strong&gt;エヌビディア、量子エラー訂正とキャリブレーション用のイジングAIモデルを発表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/tekz [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Nvidia unveils Ising AI models for quantum error correction and calibration&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1slbvmc/nvidia_unveils_ising_ai_models_for_quantum_error/</guid>
-      <pubDate>Tue, 14 Apr 2026 15:24:07 GMT</pubDate>
+      <title>[r/artificial] ChatGPTとClaudeを1ヶ月間使い比べた結果</title>
+      <link>https://www.reddit.com/r/artificial/comments/1smfssa/honest_chatgpt_vs_claude_comparison_after_using/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ChatGPTとClaudeを1ヶ月間使い比べた結果&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;各ツールを20分間テストした人たちによって書かれたことが明らかな比較記事を読むのにうんざりしたので、同じタスクについて30日間、月額20ドルで両ツールを使ってみたところ、最大の驚きがあった。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Honest ChatGPT vs Claude comparison after using both daily for a month&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1smfssa/honest_chatgpt_vs_claude_comparison_after_using/</guid>
+      <pubDate>Wed, 15 Apr 2026 19:12:47 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] クロード・コード用のテレグラム・リモートを構築 - v2が稼動、オープンソースに</title>
-      <link>https://www.reddit.com/r/artificial/comments/1slgk2x/built_a_telegram_remote_for_claude_code_v2_is/</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード・コード用のテレグラム・リモートを構築 - v2が稼動、オープンソースに&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenClawからClaude Codeに移行した後に作ったものを共有する。まず、本当に最悪だったのは、リモートアクセスができなくなったことだ。確かにClaudeモバイルはあるんだけど、そんなにいいものでもないし、リモートアクセスもできないんだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Built a Telegram remote for Claude Code - v2 is live, open source&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1slgk2x/built_a_telegram_remote_for_claude_code_v2_is/</guid>
-      <pubDate>Tue, 14 Apr 2026 18:07:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIの世界で何がトレンドかをモニターするツールを作った</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sldxji/i_built_a_tool_to_monitor_whats_trending_in_the/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIの世界で何がトレンドかをモニターするツールを作った&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;このプロジェクトは、ある簡単な観察をした後に、面白半分で始めたものだ：私は、急速に進化するAIの世界に追いつくために多くの時間とエネルギーを費やしていた。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I built a tool to monitor what's trending in the world of AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sldxji/i_built_a_tool_to_monitor_whats_trending_in_the/</guid>
-      <pubDate>Tue, 14 Apr 2026 16:36:40 GMT</pubDate>
+      <title>[r/artificial] 衛星データから物流情報を収集するツールを作った</title>
+      <link>https://www.reddit.com/r/artificial/comments/1slzt9g/made_a_tool_to_gather_logistical_intelligence/</link>
+      <description>&lt;p&gt;&lt;strong&gt;衛星データから物流情報を収集するツールを作った&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;やあ、みんな。僕は軍事基地やその他のハブ付近の物流活動を追跡する新しいことに取り組んでいるんだ。その核心的な問題は、グーグルマップが、サブ・マップを使っても、それほど頻繁に更新されないことだ。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Made a tool to gather logistical intelligence from satellite data&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1slzt9g/made_a_tool_to_gather_logistical_intelligence/</guid>
+      <pubDate>Wed, 15 Apr 2026 08:14:18 GMT</pubDate>
     </item>
     <item>
       <title>[r/LocalLLaMA] ベスト・ローカルLLM - 2026年4月</title>
@@ -166,58 +157,67 @@
       <pubDate>Mon, 13 Apr 2026 21:00:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] Xiaomi 12 Pro（Snapdragon 8 Gen 1 + Ollama/Gemma4）上の24時間365日ヘッドレスAIサーバー</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sl6931/247_headless_ai_server_on_xiaomi_12_pro/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Xiaomi 12 Pro（Snapdragon 8 Gen 1 + Ollama/Gemma4）上の24時間365日ヘッドレスAIサーバー&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Xiaomi 12 Proを専用のローカルAIノードにしました。技術的なセットアップは以下の通り：OSの最適化：OSの最適化：LineageOSをフラッシュし、Android UIとバックグラウンドの肥大化を取り除き、9GBのRAMをL&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 24/7 Headless AI Server on Xiaomi 12 Pro (Snapdragon 8 Gen 1 + Ollama/Gemma4)&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sl6931/247_headless_ai_server_on_xiaomi_12_pro/</guid>
-      <pubDate>Tue, 14 Apr 2026 11:44:20 GMT</pubDate>
+      <title>[r/LocalLLaMA] ジェンマ4脱獄システムプロンプト</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sm3swd/gemma_4_jailbreak_system_prompt/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ジェンマ4脱獄システムプロンプト&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;以下のシステムプロンプトを使用して、Gemma（およびほとんどのオープンソースモデル）が望むものについて話すことを許可する。必要に応じて、許可されたコンテンツのリストに追加したり、リストから削除してください。GPT-OSS脱獄から派生したもの&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gemma 4 Jailbreak System Prompt&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sm3swd/gemma_4_jailbreak_system_prompt/</guid>
+      <pubDate>Wed, 15 Apr 2026 11:51:09 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] 1000トークン/秒、それは猛烈に速い!フェアリー</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sl8a8o/1000_tokens_its_blazing_fast_fairl/</link>
-      <description>&lt;p&gt;&lt;strong&gt;1000トークン/秒、それは猛烈に速い!フェアリー&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Anxious_Basil8446 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 1000 token/s, it's blazing fast!!! Fairl&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sl8a8o/1000_tokens_its_blazing_fast_fairl/</guid>
-      <pubDate>Tue, 14 Apr 2026 13:10:38 GMT</pubDate>
+      <title>[r/LocalLLaMA] ほとんどの主要モデルでインテリジェンスが大きく低下している。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sm08m6/major_drop_in_intelligence_across_most_major/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ほとんどの主要モデルでインテリジェンスが大きく低下している。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2026年4月中旬現在、どの機種もインテリジェンスが大きく低下していることに気づきました。  ChatGPTだけではありません。  クロード、ジェミニ、z.ai、Gr.&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Major drop in intelligence across most major models.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sm08m6/major_drop_in_intelligence_across_most_major/</guid>
+      <pubDate>Wed, 15 Apr 2026 08:40:35 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] baidu/ERNIE-Image - ハグする顔</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1slbvhl/baiduernieimage_hugging_face/</link>
-      <description>&lt;p&gt;&lt;strong&gt;baidu/ERNIE-Image - ハグする顔&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; posted by &amp;#32; /u/adefa [link] &amp;#32; [comments］&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: baidu/ERNIE-Image · Hugging Face&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1slbvhl/baiduernieimage_hugging_face/</guid>
-      <pubDate>Tue, 14 Apr 2026 15:23:58 GMT</pubDate>
+      <title>[r/LocalLLaMA] 1ビットのBonsai 1.7B（サイズは290MB）をWebGPU上のブラウザでローカルに実行する</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1smb3wd/1bit_bonsai_17b_290mb_in_size_running_locally_in/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1ビットのBonsai 1.7B（サイズは290MB）をWebGPU上のブラウザでローカルに実行する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;デモへのリンク: https://huggingface.co/spaces/webml-community/bonsai-webgpu &amp;#32;投稿者: &amp;#32; /u/xenovatech [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: 1-bit Bonsai 1.7B (290MB in size) running locally in your browser on WebGPU&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1smb3wd/1bit_bonsai_17b_290mb_in_size_running_locally_in/</guid>
+      <pubDate>Wed, 15 Apr 2026 16:29:14 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] 投稿にAIを使ったり、完全にバイブでコーディングされたプロジェクトを紹介したりするのはやめてほしい。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1skt002/please_stop_using_ai_for_posts_and_showcasing/</link>
-      <description>&lt;p&gt;&lt;strong&gt;投稿にAIを使ったり、完全にバイブでコーディングされたプロジェクトを紹介したりするのはやめてほしい。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私はAIにコーディングをアシストしてもらっている。というのも、完全にAIがコーディングしたプロジェクトを見ずにここに来ることはできないからだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Please stop using AI for posts and showcasing your completely vibe coded projects&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1skt002/please_stop_using_ai_for_posts_and_showcasing/</guid>
-      <pubDate>Tue, 14 Apr 2026 00:23:51 GMT</pubDate>
+      <title>[r/LocalLLaMA] ローカルAIは最高</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sm2a6b/local_ai_is_the_best/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ローカルAIは最高&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;面白いイメージだが、私はこのモデルの自由さと正直さを気に入っている。ガラス張りでも、検閲でも、データ採取でもない。個人的なことを議論し、分析することができる&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Local AI is the best&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sm2a6b/local_ai_is_the_best/</guid>
+      <pubDate>Wed, 15 Apr 2026 10:37:24 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] LLM が独自の llama.cpp フラグをチューニング (Qwen3.5-27B で +54% tok/s)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sl85r5/the_llm_tunes_its_own_llamacpp_flags_54_toks_on/</link>
-      <description>&lt;p&gt;&lt;strong&gt;LLM が独自の llama.cpp フラグをチューニング (Qwen3.5-27B で +54% tok/s)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;これは以前の投稿のV2です。新機能： --ai-tune - モデルがループの中で自身のフラグのチューニングを開始し、見つけた最も速い設定をキャッシュする。私の奇妙なリグ3090 Ti + 4070 + 3060 + 128GB RAM。   M&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The LLM tunes its own llama.cpp flags (+54% tok/s on Qwen3.5-27B)&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sl85r5/the_llm_tunes_its_own_llamacpp_flags_54_toks_on/</guid>
-      <pubDate>Tue, 14 Apr 2026 13:05:46 GMT</pubDate>
+      <title>[r/LocalLLaMA] Llama.cppの変更についていけないので、n8nワークフローを作って毎日まとめている。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1smbpn6/cant_keep_up_with_llamacpp_changes_made_a_n8n/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Llama.cppの変更についていけないので、n8nワークフローを作って毎日まとめている。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Discord経由で送られてくる私のような日々のニュース https://preview.redd.it/prmris11vdvg1.png?width=684&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0dcb00079362a38a29d981dd2f3a4e5143c8091f N8Nワークフロー（あなたができること&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Can't keep up with Llama.cpp changes, made a n8n workflow to summarize it for me daily&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1smbpn6/cant_keep_up_with_llamacpp_changes_made_a_n8n/</guid>
+      <pubDate>Wed, 15 Apr 2026 16:50:42 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] 100B以上から&lt;4Bモデルへの蒸留方法</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sl48ew/how_to_distill_from_100b_to_4b_models/</link>
-      <description>&lt;p&gt;&lt;strong&gt;100B以上から&lt;4Bモデルへの蒸留方法&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/cmpatino_ [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How to Distill from 100B+ to &lt;4B Models&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sl48ew/how_to_distill_from_100b_to_4b_models/</guid>
-      <pubDate>Tue, 14 Apr 2026 10:01:28 GMT</pubDate>
+      <title>[r/LocalLLaMA] edf8030 で LICENSE - MiniMaxAI/MiniMax-M2.7 を更新しました。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sltsiy/update_license_minimaxaiminimaxm27_at_edf8030/</link>
+      <description>&lt;p&gt;&lt;strong&gt;edf8030 で LICENSE - MiniMaxAI/MiniMax-M2.7 を更新しました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;RyanLee&amp;#39(MiniMax)さんの最近のツイート。  ライセンスを更新しました。個人的な使用については、コーディング、アプリケーション、エージェント、ツールの構築、またはその他の目的で、ご自身のサーバー上でソフトウェアを実行することは自由です。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Update LICENSE · MiniMaxAI/MiniMax-M2.7 at edf8030&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sltsiy/update_license_minimaxaiminimaxm27_at_edf8030/</guid>
+      <pubDate>Wed, 15 Apr 2026 02:53:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] [P] PyTorchでGPT-2、Llama 3、DeepSeekをゼロから構築 - オープンソース・コード＋書籍</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sm82ze/p_built_gpt2_llama_3_and_deepseek_from_scratch_in/</link>
+      <description>&lt;p&gt;&lt;strong&gt;[P] PyTorchでGPT-2、Llama 3、DeepSeekをゼロから構築 - オープンソース・コード＋書籍&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は最新のLLMアーキテクチャをゼロから実装した本を書いた。このサブに最も関連する部分だ：第3章では、GPT-2を用いて、4つのものを正確に入れ替え、Llama 3.2-3B: LayerNorm → RMSNorm Leaを実現している。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: [P] Built GPT-2, Llama 3, and DeepSeek from scratch in PyTorch - open source code + book&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sm82ze/p_built_gpt2_llama_3_and_deepseek_from_scratch_in/</guid>
+      <pubDate>Wed, 15 Apr 2026 14:42:55 GMT</pubDate>
     </item>
   </channel>
 </rss>
