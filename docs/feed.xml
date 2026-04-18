@@ -3,25 +3,9 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-17</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-18</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Apr 2026 19:11:18 GMT</lastBuildDate>
-    <item>
-      <title>[Hacker News] (533pt) クロード・デザイン</title>
-      <link>https://news.ycombinator.com/item?id=47806725</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード・デザイン&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Design&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47806725</guid>
-      <pubDate>Fri, 17 Apr 2026 15:04:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (325pt) クロード・オーパス4.7は1回につき20～30％高い</title>
-      <link>https://news.ycombinator.com/item?id=47807006</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード・オーパス4.7は1回につき20～30％高い&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Opus 4.7 costs 20–30% more per session&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47807006</guid>
-      <pubDate>Fri, 17 Apr 2026 15:29:36 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Apr 2026 19:00:39 GMT</lastBuildDate>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
@@ -35,7 +19,7 @@
       <title>[VentureBeat AI] クロード・コードは月200ドルもする。グースは無料で同じことができる。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;クロード・コードは月200ドルもする。グースは無料で同じことができる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能のコーディング革命には、キャッチーなことが伴う：それは高価です。Anthropicの端末ベースのAIエージェントであるClaude Codeは、自律的にコードを書き、デバッグし、展開することができ、キャップを持っている。&lt;/p&gt;
+&lt;p&gt;人工知能のコーディング革命には、キャッチーなことが伴う：それは高価です。Anthropicの端末ベースのAIエージェントであるClaude Codeは、自律的にコードを書き、デバッグし、デプロイすることができ、キャップを持っている。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -53,7 +37,7 @@
       <title>[VentureBeat AI] セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に再構築したバージョンを発表した。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に作り直したバージョンを発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -86,22 +70,58 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 最も効果的なAI画像ジェネレーターは？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1so4m79/what_ai_image_generator_works_the_best/</link>
-      <description>&lt;p&gt;&lt;strong&gt;最も効果的なAI画像ジェネレーターは？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;1000種類くらいのオプションがあるようだ。ただ、プロンプトが表示され、使えるものが表示されるものを探している。必要であればお金を払ってもいいのですが、そのために必要なのは&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What AI image generator works the best?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1so4m79/what_ai_image_generator_works_the_best/</guid>
-      <pubDate>Fri, 17 Apr 2026 15:40:33 GMT</pubDate>
+      <title>[r/artificial] クロード対双子座：積荷の騎士のツアー問題を解く</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sp0r1j/claude_vs_gemini_solving_the_laden_knights_tour/</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロード対双子座：積荷の騎士のツアー問題を解く&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI Coding contest day 8 第八の課題は、古典的なナイト・ツアーの加重変形である。騎士は長方形のボードのすべてのマスを一度だけ訪問しなければならないが、各マスには&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude vs Gemini: Solving the laden knight's tour problem&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sp0r1j/claude_vs_gemini_solving_the_laden_knights_tour/</guid>
+      <pubDate>Sat, 18 Apr 2026 15:31:42 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] リース・ウィザースプーン、女性にAIを学ぶよう倍返し：私たちが就いている仕事は「AIによって自動化される可能性が3倍」高い</title>
-      <link>https://www.reddit.com/r/artificial/comments/1snqqjo/reese_witherspoon_doubles_down_on_telling_women/</link>
-      <description>&lt;p&gt;&lt;strong&gt;リース・ウィザースプーン、女性にAIを学ぶよう倍返し：私たちが就いている仕事は「AIによって自動化される可能性が3倍」高い&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/ControlCAD [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Reese Witherspoon Doubles Down on Telling Women to Learn AI: Jobs We Hold Are &quot;Three Times More Likely to Be Automated By AI&quot;&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1snqqjo/reese_witherspoon_doubles_down_on_telling_women/</guid>
-      <pubDate>Fri, 17 Apr 2026 04:34:09 GMT</pubDate>
+      <title>[r/artificial] 私はAI仲間に「オフスクリーンライフ」、つまりユーザーが話しかけていない間に起こる出来事を与えた。意外と難しいが、その仕組みはこうだ。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sp4zi2/i_gave_my_ai_companions_offscreen_lives_events/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私はAI仲間に「オフスクリーンライフ」、つまりユーザーが話しかけていない間に起こる出来事を与えた。意外と難しいが、その仕組みはこうだ。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ほとんどのAIコンパニオンアプリは、会話の間にリセットされる。キャラクターはチャットウィンドウの外では継続性がない。私は、このアプリを現実の人間のように感じてほしかった。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I gave my AI companions &quot;offscreen lives&quot; — events that happen while users aren't talking to them. Surprisingly hard, here's how it works.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sp4zi2/i_gave_my_ai_companions_offscreen_lives_events/</guid>
+      <pubDate>Sat, 18 Apr 2026 18:13:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AI統合のパラドックス</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sp24zy/the_ai_integration_paradox/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI統合のパラドックス&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/Adrianchos [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The AI Integration Paradox&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sp24zy/the_ai_integration_paradox/</guid>
+      <pubDate>Sat, 18 Apr 2026 16:25:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] カナダの大手銀行でAIの期待がどのように定着しつつあるか</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sp1anm/how_the_promise_of_ai_is_taking_hold_at_canadas/</link>
+      <description>&lt;p&gt;&lt;strong&gt;カナダの大手銀行でAIの期待がどのように定着しつつあるか&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;皆さん、こんにちは！グローブ・アンド・メール紙の読者エディター、サラです。今回は、銀行がどのようにAIを調査に取り入れているかについての詳細な特集をご紹介したいと思います。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How the promise of AI is taking hold at Canada’s biggest banks&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sp1anm/how_the_promise_of_ai_is_taking_hold_at_canadas/</guid>
+      <pubDate>Sat, 18 Apr 2026 15:52:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIメッセンジャー」は存在するのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sozgok/does_an_ai_messenger_exist/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIメッセンジャー」は存在するのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;もし誰かがこのようなことを発見したのであれば、教えてほしい：大きな長いメールや文書を同僚に送って読んでもらえない代わりに、エージェントのようなものを送ったらどうだろう。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Does an &quot;AI messenger&quot; exist?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sozgok/does_an_ai_messenger_exist/</guid>
+      <pubDate>Sat, 18 Apr 2026 14:42:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] GenAI関連事件のオープンソースリスト</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sotbeo/opensource_list_of_genairelated_incidents/</link>
+      <description>&lt;p&gt;&lt;strong&gt;GenAI関連事件のオープンソースリスト&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は、LLMの使用と限界に関する議論を喚起することを期待して、GenAI使用の倫理がスポットライトを浴びたケースのこのオープンソースリストを共有しています；&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Open-source list of GenAI-related incidents&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sotbeo/opensource_list_of_genairelated_incidents/</guid>
+      <pubDate>Sat, 18 Apr 2026 09:48:57 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] グーグル、ウェブサイトをパーソナライズし、すべての人に異なるウェブサイトを表示するAI技術の特許を取得</title>
@@ -113,58 +133,13 @@
       <pubDate>Fri, 17 Apr 2026 15:14:18 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 人々が現実世界の場所に自分のAIバージョンを残すことができるようになったらどうなるだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1so1aor/what_happens_when_people_can_leave_ai_versions_of/</link>
-      <description>&lt;p&gt;&lt;strong&gt;人々が現実世界の場所に自分のAIバージョンを残すことができるようになったらどうなるだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は、物理的な場所に対話型のAIバージョンの人物を配置し、他の人が歩み寄って話しかけられるようにする実験をしている。これは、プレゼンス、記憶、そしてアイデンティティに関する興味深い問題を提起している。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What happens when people can leave AI versions of themselves in real-world locations?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1so1aor/what_happens_when_people_can_leave_ai_versions_of/</guid>
-      <pubDate>Fri, 17 Apr 2026 13:39:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] インフルエンサーはAIでクローンを作る</title>
-      <link>https://www.reddit.com/r/artificial/comments/1so3iwf/influencers_are_cloning_themselves_with_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;インフルエンサーはAIでクローンを作る&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ちょっと暗い。 &amp;#32;投稿者: &amp;#32; /u/jsh425 [リンク] &amp;#32; [コメント] &amp;#32; [コメント] &amp;#32&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Influencers are cloning themselves with AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1so3iwf/influencers_are_cloning_themselves_with_ai/</guid>
-      <pubDate>Fri, 17 Apr 2026 15:01:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIコーディング・ツールを整理する小さなプロジェクトを立ち上げ、構造とデータ・モデルに関するフィードバックを求めている。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1snxdjk/i_built_a_small_project_to_organize_ai_coding/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIコーディング・ツールを整理する小さなプロジェクトを立ち上げ、構造とデータ・モデルに関するフィードバックを求めている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;皆さん、こんにちは。私は、AIコーディング・ツールを一箇所に集めて整理する小さなウェブ・アプリを作って勉強しています。コード・エディターやコーディング・アシスタントのようなツールを簡単に比較できるようにすることです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I built a small project to organize AI coding tools, looking for feedback on the structure and data model&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1snxdjk/i_built_a_small_project_to_organize_ai_coding/</guid>
-      <pubDate>Fri, 17 Apr 2026 10:45:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] エージェントOS - 統制されたマルチエージェント実行プラットフォーム</title>
-      <link>https://www.reddit.com/r/artificial/comments/1snzm1s/agentic_os_an_governed_multiagent_execution/</link>
-      <description>&lt;p&gt;&lt;strong&gt;エージェントOS - 統制されたマルチエージェント実行プラットフォーム&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は、複数のAIエージェントが明確な統治ルールの下で構造化された作業を実行するシステムを構築してきた。このアーキテクチャは、複数のAIエージェントを構築する人々にとって興味深いものだろう。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Agentic OS — an governed multi-agent execution platform&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1snzm1s/agentic_os_an_governed_multiagent_execution/</guid>
-      <pubDate>Fri, 17 Apr 2026 12:31:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Anthropic Labsの新製品であるClaude Designでは、Claudeとコラボレーションして、デザイン、プロトタイプ、スライド、ワンページなどの洗練されたビジュアルワークを作成することができます。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1so44z2/claude_design_a_new_anthropic_labs_product_lets/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropic Labsの新製品であるClaude Designでは、Claudeとコラボレーションして、デザイン、プロトタイプ、スライド、ワンページなどの洗練されたビジュアルワークを作成することができます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Claude Design は Claude Opus 4.7 を搭載しており、Claude Pro、Max、Team、Enterprise のサブスクライバ向けのリサーチプレビューで利用可能です。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Design, a new Anthropic Labs product, lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1so44z2/claude_design_a_new_anthropic_labs_product_lets/</guid>
-      <pubDate>Fri, 17 Apr 2026 15:23:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] クロード・コード用に「セキュア開発」スキルを作った。APIの構築、認証の処理、デプロイなどをするときに自動起動する。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1so42ph/i_built_a_secure_development_skill_for_claude/</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード・コード用に「セキュア開発」スキルを作った。APIの構築、認証の処理、デプロイなどをするときに自動起動する。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OWASP、DevSecOpsパイプライン、クラウド・セキュリティ・アーキテクチャ、コンプライアンス・フレームワークなどだ。また、私は、ある企業で一緒に働く機会にも恵まれました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I built a &quot;Secure Development&quot; skill for Claude Code — it auto-activates when you're building APIs, handling auth, deploying, etc.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1so42ph/i_built_a_secure_development_skill_for_claude/</guid>
-      <pubDate>Fri, 17 Apr 2026 15:21:10 GMT</pubDate>
+      <title>[r/artificial] クロード・コードのために自己回復PRDシステムを作った。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sokj0w/i_made_a_self_healing_prd_system_for_claude_code/</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロード・コードのために自己回復PRDシステムを作った。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私が取り組んでいるプロジェクトのために、PRDを作成してくれるものを作ろうと思ったんだ。その核となるアイデアは、PRDに必要なすべての情報を要求することである。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I made a self healing PRD system for Claude code&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sokj0w/i_made_a_self_healing_prd_system_for_claude_code/</guid>
+      <pubDate>Sat, 18 Apr 2026 02:00:58 GMT</pubDate>
     </item>
     <item>
       <title>[r/LocalLLaMA] ベスト・ローカルLLM - 2026年4月</title>
@@ -176,40 +151,13 @@
       <pubDate>Mon, 13 Apr 2026 21:00:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] Qwen 3.6は、私にとって実際に努力する価値があると感じられる最初のローカルモデルだ。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1so2nt9/qwen_36_is_the_first_local_model_that_actually/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Qwen 3.6は、私にとって実際に努力する価値があると感じられる最初のローカルモデルだ。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;昨日、仕事が終わってから新しいqwen3.6-35b-a3bを試してみた。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Qwen 3.6 is the first local model that actually feels worth the effort for me&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1so2nt9/qwen_36_is_the_first_local_model_that_actually/</guid>
-      <pubDate>Fri, 17 Apr 2026 14:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] Ternary Bonsai：1.58ビットのトップインテリジェンス</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1snqo1f/ternary_bonsai_top_intelligence_at_158_bits/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Ternary Bonsai：1.58ビットのトップインテリジェンス&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;本日、Ternary Bonsaiを発表します。Ternary Bonsaiは1.58ビット言語モデルの新ファミリで、厳しいメモリ制約と高精度要求のバランスを取るように設計されています。   このリリースは&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Ternary Bonsai: Top intelligence at 1.58 bits&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1snqo1f/ternary_bonsai_top_intelligence_at_158_bits/</guid>
-      <pubDate>Fri, 17 Apr 2026 04:30:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] 盆栽モデルは誇大広告だ：Bonsai-8BはGemma-4-E2Bよりはるかにダサい。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1snvv64/bonsai_models_are_pure_hype_bonsai8b_is_much/</link>
-      <description>&lt;p&gt;&lt;strong&gt;盆栽モデルは誇大広告だ：Bonsai-8BはGemma-4-E2Bよりはるかにダサい。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Bonsai には https://github.com/PrismML-Eng/llama.cpp のフォークを、Gemma には通常の llama.cpp を使っています。エンベッディング・パラメータなし：Gemma 4は2.3B、4.8bpw (Q4_K_M) = 1104 MB Bonsai-8Bは6.95MBです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Bonsai models are pure hype: Bonsai-8B is MUCH dumber than Gemma-4-E2B&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1snvv64/bonsai_models_are_pure_hype_bonsai8b_is_much/</guid>
-      <pubDate>Fri, 17 Apr 2026 09:20:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] Qwen3.6はCoT内部のコンテキストを維持している</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1snsup2/qwen36_is_maintaining_context_inside_the_cot/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Qwen3.6はCoT内部のコンテキストを維持している&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;何度か繰り返しテストしてみたが、モデルを数字に固執させるのは難しいこともあるが、推論中に数字が選ばれたときには確実にその数字を記憶していた。を加えなければならない。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Qwen3.6 is maintaining context inside the CoT&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1snsup2/qwen36_is_maintaining_context_inside_the_cot/</guid>
-      <pubDate>Fri, 17 Apr 2026 06:28:47 GMT</pubDate>
+      <title>[r/LocalLLaMA] プレフィル・アズ・ア・サービス：次世代モデルのKVCacheがデータセンターを横断する可能性</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sp216x/prefillasaservice_kvcache_of_nextgeneration/</link>
+      <description>&lt;p&gt;&lt;strong&gt;プレフィル・アズ・ア・サービス：次世代モデルのKVCacheがデータセンターを横断する可能性&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ローカルモデルに適しているかどうかはわかりません。  これはKimi/Moonshotによるものです。出典 Tweet Prefill/Decodeの分解を単一のクラスターを超えて推し進める: cros&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sp216x/prefillasaservice_kvcache_of_nextgeneration/</guid>
+      <pubDate>Sat, 18 Apr 2026 16:20:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
