@@ -3,9 +3,33 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-18</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-19</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Apr 2026 19:00:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 19:01:05 GMT</lastBuildDate>
+    <item>
+      <title>[Hacker News] (345pt) ゲーム開発者がゲームを一時停止させるトリックを解説</title>
+      <link>https://news.ycombinator.com/item?id=47793161</link>
+      <description>&lt;p&gt;&lt;strong&gt;ゲーム開発者がゲームを一時停止させるトリックを解説&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Game devs explain the tricks involved with letting you pause a game&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47793161</guid>
+      <pubDate>Thu, 16 Apr 2026 14:05:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (176pt) 公開ページの全編集者の電子メールアドレスが流出する。</title>
+      <link>https://news.ycombinator.com/item?id=47824945</link>
+      <description>&lt;p&gt;&lt;strong&gt;公開ページの全編集者の電子メールアドレスが流出する。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Notion leaks email addresses of all editors of any public page&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47824945</guid>
+      <pubDate>Sun, 19 Apr 2026 15:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (89pt) ナノパスフレームワーククリーン・コンパイラ作成言語</title>
+      <link>https://news.ycombinator.com/item?id=47777715</link>
+      <description>&lt;p&gt;&lt;strong&gt;ナノパスフレームワーククリーン・コンパイラ作成言語&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Nanopass Framework: Clean Compiler Creation Language&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47777715</guid>
+      <pubDate>Wed, 15 Apr 2026 11:38:22 GMT</pubDate>
+    </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
@@ -19,7 +43,7 @@
       <title>[VentureBeat AI] クロード・コードは月200ドルもする。グースは無料で同じことができる。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;クロード・コードは月200ドルもする。グースは無料で同じことができる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能のコーディング革命には、キャッチーなことが伴う：それは高価です。Anthropicの端末ベースのAIエージェントであるClaude Codeは、自律的にコードを書き、デバッグし、デプロイすることができ、キャップを持っている。&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、「高価である」という欠点がある。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -70,6 +94,69 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
+      <title>[r/artificial] ハイテク業界、2026年第1四半期に約8万人を解雇 - AIが原因で影響を受ける職種の約50％が削減</title>
+      <link>https://www.reddit.com/r/artificial/comments/1spw2w0/tech_industry_lays_off_nearly_80000_employees_in/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ハイテク業界、2026年第1四半期に約8万人を解雇 - AIが原因で影響を受ける職種の約50％が削減&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/BousWakebo [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Tech industry lays off nearly 80,000 employees in the first quarter of 2026 — almost 50% of affected positions cut due to AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1spw2w0/tech_industry_lays_off_nearly_80000_employees_in/</guid>
+      <pubDate>Sun, 19 Apr 2026 15:29:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ジェミニはニュースになる前に2億8000万ドルの暗号搾取をキャッチし、その後、検証できなかったので幻覚として撤回した - なぜならニュースはまだ下がっていなかったからだ。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1spckbj/gemini_caught_a_280m_crypto_exploit_before_it_hit/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ジェミニはニュースになる前に2億8000万ドルの暗号搾取をキャッチし、その後、検証できなかったので幻覚として撤回した - なぜならニュースはまだ下がっていなかったからだ。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ほんの数時間前のことだが、AIの行動に興味がある人たちのために記録しておく価値のあることに、純粋に出くわしたような気がする。について、できるだけ正確に書こうと思う。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gemini caught a $280M crypto exploit before it hit the news, then retracted it as a hallucination because I couldn't verify it - because the news hadn't dropped yet&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1spckbj/gemini_caught_a_280m_crypto_exploit_before_it_hit/</guid>
+      <pubDate>Sat, 18 Apr 2026 23:18:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] なぜ最近、すべてのAIが規制されるようになったのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1spxccd/why_is_every_ai_getting_restricted_these_days/</link>
+      <description>&lt;p&gt;&lt;strong&gt;なぜ最近、すべてのAIが規制されるようになったのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ChatGPTに限らず、クロード、グロック、ジェミニ......どの選手も以前より固定されている感じがする。純粋に理解できない。こんなことに何兆円もつぎ込む意味があるのか？&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Why is every AI getting restricted these days?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1spxccd/why_is_every_ai_getting_restricted_these_days/</guid>
+      <pubDate>Sun, 19 Apr 2026 16:16:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 適切なサブではないかもしれないが、なぜこれをググるとaiの概要が動脈瘤になるのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1spsbru/might_not_be_the_right_sub_but_why_does_the_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;適切なサブではないかもしれないが、なぜこれをググるとaiの概要が動脈瘤になるのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://preview.redd.it/i7muzi5ga5wg1.png?width=1373&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e21290514099fc9e4f1699a2240c94cbb5683eca &amp;#32;投稿者 &amp;#32; /u/jamgill [link] &amp;#32; [コメント].&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Might not be the right sub, but why does the ai overview get an aneurism when i google this?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1spsbru/might_not_be_the_right_sub_but_why_does_the_ai/</guid>
+      <pubDate>Sun, 19 Apr 2026 12:59:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] カナダは1つのAI新興企業に2億4,000万ドルの助成金を支給-7年間で107社が受けた助成金の66％以上</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sq1gda/canada_gave_one_ai_startup_240m_in_a_single_grant/</link>
+      <description>&lt;p&gt;&lt;strong&gt;カナダは1つのAI新興企業に2億4,000万ドルの助成金を支給-7年間で107社が受けた助成金の66％以上&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Expensive-Aerie-2479 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Canada gave one AI startup $240M in a single grant — more than 66% of what 107 companies received over 7 years&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sq1gda/canada_gave_one_ai_startup_240m_in_a_single_grant/</guid>
+      <pubDate>Sun, 19 Apr 2026 18:47:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] scalar-loop: エージェントのナレーションを信用しないKarpathyのオートリサーチパターンのためのPythonハーネス。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1spz2g0/scalarloop_a_python_harness_for_karpathys/</link>
+      <description>&lt;p&gt;&lt;strong&gt;scalar-loop: エージェントのナレーションを信用しないKarpathyのオートリサーチパターンのためのPythonハーネス。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私はある問題を解決するためにスカラー・ループを作った。パターンはKarpathy&amp;#39;のオートリサーチループだ。LLMは編集を提案し、ハーネスはメトリックを実行する。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: scalar-loop: a Python harness for Karpathy's autoresearch pattern that doesn't trust the agent's narration&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1spz2g0/scalarloop_a_python_harness_for_karpathys/</guid>
+      <pubDate>Sun, 19 Apr 2026 17:21:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] LLMはどのように引用ページを決定するのか - そしてそのための最適化方法</title>
+      <link>https://www.reddit.com/r/artificial/comments/1spxhfj/how_llms_decide_which_pages_to_cite_and_how_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;LLMはどのように引用ページを決定するのか - そしてそのための最適化方法&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ChatGPTやPerplexityが質問に回答すると、RAGが実行されます：クロールされたインデックスから上位候補を取得し、それらを採点します。採点基準はPrinceton GEOの論文(arx&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How LLMs decide which pages to cite — and how to optimize for it&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1spxhfj/how_llms_decide_which_pages_to_cite_and_how_to/</guid>
+      <pubDate>Sun, 19 Apr 2026 16:22:10 GMT</pubDate>
+    </item>
+    <item>
       <title>[r/artificial] クロード対双子座：積荷の騎士のツアー問題を解く</title>
       <link>https://www.reddit.com/r/artificial/comments/1sp0r1j/claude_vs_gemini_solving_the_laden_knights_tour/</link>
       <description>&lt;p&gt;&lt;strong&gt;クロード対双子座：積荷の騎士のツアー問題を解く&lt;/strong&gt;&lt;/p&gt;
@@ -79,67 +166,13 @@
       <pubDate>Sat, 18 Apr 2026 15:31:42 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 私はAI仲間に「オフスクリーンライフ」、つまりユーザーが話しかけていない間に起こる出来事を与えた。意外と難しいが、その仕組みはこうだ。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sp4zi2/i_gave_my_ai_companions_offscreen_lives_events/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私はAI仲間に「オフスクリーンライフ」、つまりユーザーが話しかけていない間に起こる出来事を与えた。意外と難しいが、その仕組みはこうだ。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ほとんどのAIコンパニオンアプリは、会話の間にリセットされる。キャラクターはチャットウィンドウの外では継続性がない。私は、このアプリを現実の人間のように感じてほしかった。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I gave my AI companions &quot;offscreen lives&quot; — events that happen while users aren't talking to them. Surprisingly hard, here's how it works.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sp4zi2/i_gave_my_ai_companions_offscreen_lives_events/</guid>
-      <pubDate>Sat, 18 Apr 2026 18:13:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AI統合のパラドックス</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sp24zy/the_ai_integration_paradox/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI統合のパラドックス&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/Adrianchos [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The AI Integration Paradox&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sp24zy/the_ai_integration_paradox/</guid>
-      <pubDate>Sat, 18 Apr 2026 16:25:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] カナダの大手銀行でAIの期待がどのように定着しつつあるか</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sp1anm/how_the_promise_of_ai_is_taking_hold_at_canadas/</link>
-      <description>&lt;p&gt;&lt;strong&gt;カナダの大手銀行でAIの期待がどのように定着しつつあるか&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;皆さん、こんにちは！グローブ・アンド・メール紙の読者エディター、サラです。今回は、銀行がどのようにAIを調査に取り入れているかについての詳細な特集をご紹介したいと思います。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How the promise of AI is taking hold at Canada’s biggest banks&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sp1anm/how_the_promise_of_ai_is_taking_hold_at_canadas/</guid>
-      <pubDate>Sat, 18 Apr 2026 15:52:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIメッセンジャー」は存在するのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sozgok/does_an_ai_messenger_exist/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIメッセンジャー」は存在するのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;もし誰かがこのようなことを発見したのであれば、教えてほしい：大きな長いメールや文書を同僚に送って読んでもらえない代わりに、エージェントのようなものを送ったらどうだろう。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Does an &quot;AI messenger&quot; exist?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sozgok/does_an_ai_messenger_exist/</guid>
-      <pubDate>Sat, 18 Apr 2026 14:42:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] GenAI関連事件のオープンソースリスト</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sotbeo/opensource_list_of_genairelated_incidents/</link>
-      <description>&lt;p&gt;&lt;strong&gt;GenAI関連事件のオープンソースリスト&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は、LLMの使用と限界に関する議論を喚起することを期待して、GenAI使用の倫理がスポットライトを浴びたケースのこのオープンソースリストを共有しています；&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Open-source list of GenAI-related incidents&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sotbeo/opensource_list_of_genairelated_incidents/</guid>
-      <pubDate>Sat, 18 Apr 2026 09:48:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] グーグル、ウェブサイトをパーソナライズし、すべての人に異なるウェブサイトを表示するAI技術の特許を取得</title>
-      <link>https://www.reddit.com/r/artificial/comments/1so3vto/google_patents_ai_tech_that_will_personalize/</link>
-      <description>&lt;p&gt;&lt;strong&gt;グーグル、ウェブサイトをパーソナライズし、すべての人に異なるウェブサイトを表示するAI技術の特許を取得&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Tiny-Independent273 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Google patents AI tech that will personalize websites and make them look different for everyone&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1so3vto/google_patents_ai_tech_that_will_personalize/</guid>
-      <pubDate>Fri, 17 Apr 2026 15:14:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] クロード・コードのために自己回復PRDシステムを作った。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sokj0w/i_made_a_self_healing_prd_system_for_claude_code/</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード・コードのために自己回復PRDシステムを作った。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私が取り組んでいるプロジェクトのために、PRDを作成してくれるものを作ろうと思ったんだ。その核となるアイデアは、PRDに必要なすべての情報を要求することである。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I made a self healing PRD system for Claude code&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sokj0w/i_made_a_self_healing_prd_system_for_claude_code/</guid>
-      <pubDate>Sat, 18 Apr 2026 02:00:58 GMT</pubDate>
+      <title>[r/artificial] AIチャットボットが引用符（「&quot;」のすべてのインスタンス）を使うのを止めることは不可能である。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sprne8/it_is_impossible_to_stop_ai_chatbots_from_using/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIチャットボットが引用符（「&quot;」のすべてのインスタンス）を使うのを止めることは不可能である。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;指示書にどう書こうが、引用符を使うなというルールを何度繰り返そうが、どのLLMを使おうが、いわゆるスケアークォートを使うのを防ぐことはできなかった。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: it is impossible to stop AI chatbots from using quotes (any instance of the character &quot;)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sprne8/it_is_impossible_to_stop_ai_chatbots_from_using/</guid>
+      <pubDate>Sun, 19 Apr 2026 12:28:49 GMT</pubDate>
     </item>
     <item>
       <title>[r/LocalLLaMA] ベスト・ローカルLLM - 2026年4月</title>
@@ -151,13 +184,40 @@
       <pubDate>Mon, 13 Apr 2026 21:00:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] プレフィル・アズ・ア・サービス：次世代モデルのKVCacheがデータセンターを横断する可能性</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sp216x/prefillasaservice_kvcache_of_nextgeneration/</link>
-      <description>&lt;p&gt;&lt;strong&gt;プレフィル・アズ・ア・サービス：次世代モデルのKVCacheがデータセンターを横断する可能性&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ローカルモデルに適しているかどうかはわかりません。  これはKimi/Moonshotによるものです。出典 Tweet Prefill/Decodeの分解を単一のクラスターを超えて推し進める: cros&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sp216x/prefillasaservice_kvcache_of_nextgeneration/</guid>
-      <pubDate>Sat, 18 Apr 2026 16:20:57 GMT</pubDate>
+      <title>[r/LocalLLaMA] LLM神経解剖学III - LLMは言語ではなく幾何学で考えるようだ</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1spy497/llm_neuroanatomy_iii_llms_seem_to_think_in/</link>
+      <description>&lt;p&gt;&lt;strong&gt;LLM神経解剖学III - LLMは言語ではなく幾何学で考えるようだ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Redditの皆さん、こんにちは！先月、休暇に入る直前にLLM神経解剖学シリーズの第3弾（🏝️）を投稿した。残念なことに、私は時間がなかったので、少しずさんでした。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: LLM Neuroanatomy III - LLMs seem to think in geometry, not language&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1spy497/llm_neuroanatomy_iii_llms_seem_to_think_in/</guid>
+      <pubDate>Sun, 19 Apr 2026 16:45:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] Qwen 3.6で実装された &quot;ブラウザOS&quot; 35B：ローカルモデルで得た最高の結果</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1spubyp/browser_os_implemented_by_qwen_36_35b_the_best/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Qwen 3.6で実装された &quot;ブラウザOS&quot; 35B：ローカルモデルで得た最高の結果&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/tarruda [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: &quot;Browser OS&quot; implemented by Qwen 3.6 35B: The best result I ever got from a local model&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1spubyp/browser_os_implemented_by_qwen_36_35b_the_best/</guid>
+      <pubDate>Sun, 19 Apr 2026 14:23:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] 僕はmbp m5 max 128gbでOpenCodeを使ってqwen3.6-35b-a3bを8bit quantと64k contextで動かしているけど、クロードと同じくらいいい感じだよ。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1spdvpo/im_running_qwen3635ba3b_with_8_bit_quant_and_64k/</link>
+      <description>&lt;p&gt;&lt;strong&gt;僕はmbp m5 max 128gbでOpenCodeを使ってqwen3.6-35b-a3bを8bit quantと64k contextで動かしているけど、クロードと同じくらいいい感じだよ。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;もちろん、これは単なる信頼できるブロの投稿ですが、私は様々なローカルモデル（2台のgemma4、qwen3 coder next、nemotron）をテストしており、新しいqwen3.6がLM Studioに表示されていることに気づいたので、私はフックしました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I'm running qwen3.6-35b-a3b with 8 bit quant and 64k context thru OpenCode on my mbp m5 max 128gb and it's as good as claude&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1spdvpo/im_running_qwen3635ba3b_with_8_bit_quant_and_64k/</guid>
+      <pubDate>Sun, 19 Apr 2026 00:17:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] 同じ9Bクウェンのウェイト：Aiderでは19.1% vs 小さなローカルモデルに適応した足場では45.6</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1spufzz/same_9b_qwen_weights_191_in_aider_vs_456_with_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;同じ9Bクウェンのウェイト：Aiderでは19.1% vs 小さなローカルモデルに適応した足場では45.6&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;この1週間、私はある素朴な疑問をテストしていた：小さなローカルモデルは、コーディングエージェントの内部では弱く見えることが多い。しかし、そのうちのどれだけがモデルの弱点で、どれだけが足場の不一致なのだろうか？そこで私は&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Same 9B Qwen weights: 19.1% in Aider vs 45.6% with a scaffold adapted to small local models&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1spufzz/same_9b_qwen_weights_191_in_aider_vs_456_with_a/</guid>
+      <pubDate>Sun, 19 Apr 2026 14:27:33 GMT</pubDate>
     </item>
   </channel>
 </rss>
