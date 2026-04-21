@@ -3,9 +3,33 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-20</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-21</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Apr 2026 19:16:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 19:21:40 GMT</lastBuildDate>
+    <item>
+      <title>[Hacker News] (256pt) フレームワーク ノートパソコン 13 Pro</title>
+      <link>https://news.ycombinator.com/item?id=47852177</link>
+      <description>&lt;p&gt;&lt;strong&gt;フレームワーク ノートパソコン 13 Pro&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Framework Laptop 13 Pro&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47852177</guid>
+      <pubDate>Tue, 21 Apr 2026 18:00:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (115pt) Show HN: GoModel - オープンソースの囲碁AIゲートウェイ</title>
+      <link>https://news.ycombinator.com/item?id=47849097</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN: GoModel - オープンソースの囲碁AIゲートウェイ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: GoModel – an open-source AI gateway in Go&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47849097</guid>
+      <pubDate>Tue, 21 Apr 2026 14:11:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (13pt) OpenAIライブストリーム</title>
+      <link>https://news.ycombinator.com/item?id=47852835</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIライブストリーム&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI Livestream&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47852835</guid>
+      <pubDate>Tue, 21 Apr 2026 18:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
@@ -19,25 +43,25 @@
       <title>[VentureBeat AI] クロード・コードは月200ドルもする。グースは無料で同じことができる。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;クロード・コードは月200ドルもする。グースは無料で同じことができる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能のコーディング革命には、キャッチーなことが伴う：それは高価です。Anthropicの端末ベースのAIエージェントであるClaude Codeは、自律的にコードを書き、デバッグし、デプロイすることができ、キャップを持っている。&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、「高価である」という欠点がある。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] リッスン・ラボ、AI顧客面談を拡大するための広告塔採用スタントで6,900万ドルを調達</title>
+      <title>[VentureBeat AI] リッスン・ラボ、AI顧客面談の規模を拡大するための広告塔採用スタントで6,900万ドルを調達</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
-      <description>&lt;p&gt;&lt;strong&gt;リッスン・ラボ、AI顧客面談を拡大するための広告塔採用スタントで6,900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;リッスン・ラボ、AI顧客面談の規模を拡大するための広告塔採用スタントで6,900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;アルフレッド・ワールフォルスは選択肢がなくなっていた。彼のスタートアップ、リッスン・ラボは100人以上のエンジニアを雇う必要があったが、マーク・ザッカーバーグの1億ドルのオファーに対抗するのは不可能に思えた。そこで彼は&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
       <pubDate>Fri, 16 Jan 2026 14:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] セールスフォース、新しいAIエージェント「Slackbot」を発表 職場AIでマイクロソフトとグーグルに対抗</title>
+      <title>[VentureBeat AI] セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
-      <description>&lt;p&gt;&lt;strong&gt;セールスフォース、新しいAIエージェント「Slackbot」を発表 職場AIでマイクロソフトとグーグルに対抗&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に再構築したバージョンを発表した。&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に作り直したバージョンを発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -70,85 +94,85 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 研究者たちは1,222人にAIアシスタントを与え、10分後に取り上げた。その結果、成績は対照群を下回り、人々は挑戦するのをやめた。UCLA、MIT、オックスフォード大学、カーネギーメロン大学はこれを「ゆでガエル」効果と呼んでいる。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sqcz1m/researchers_gave_1222_people_ai_assistants_then/</link>
-      <description>&lt;p&gt;&lt;strong&gt;研究者たちは1,222人にAIアシスタントを与え、10分後に取り上げた。その結果、成績は対照群を下回り、人々は挑戦するのをやめた。UCLA、MIT、オックスフォード大学、カーネギーメロン大学はこれを「ゆでガエル」効果と呼んでいる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;UCLA、マサチューセッツ工科大学（MIT）、オックスフォード大学（Oxford）、カーネギーメロン大学（Carnegie Mellon）の新しい研究は、1,222人に認知タスクのためのAIアシスタントを与え、途中でプラグを抜いた。結果はこうだ：- 10分ほどAIが問題を解決した後&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Researchers gave 1,222 people AI assistants, then took them away after 10 minutes. Performance crashed below the control group and people stopped trying. UCLA, MIT, Oxford, and Carnegie Mellon call it the &quot;boiling frog&quot; effect.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sqcz1m/researchers_gave_1222_people_ai_assistants_then/</guid>
-      <pubDate>Mon, 20 Apr 2026 02:47:31 GMT</pubDate>
+      <title>[r/artificial] アップルのAIへの挑戦は、ソフトウェアではなくハードウェアに賭ける</title>
+      <link>https://www.reddit.com/r/artificial/comments/1srmdg7/apples_play_for_ai_is_a_hardware_bet_not_software/</link>
+      <description>&lt;p&gt;&lt;strong&gt;アップルのAIへの挑戦は、ソフトウェアではなくハードウェアに賭ける&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;アップルの取締役会が、ハードウェアの分野でキャリアを積んできた人物を選んだという事実が、それを物語っている。アップルの賭けは、彼らがAIの未来はハードウェアにあると信じていることを示唆している。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Apple's play for AI is a hardware bet, not software&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1srmdg7/apples_play_for_ai_is_a_hardware_bet_not_software/</guid>
+      <pubDate>Tue, 21 Apr 2026 12:35:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] SaaSの現実</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sq3k3x/reality_of_saas/</link>
-      <description>&lt;p&gt;&lt;strong&gt;SaaSの現実&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;クロードで1日500ドルもあれば自分で作れるのに、なぜ洗練されたSaaS製品に月49ドルも払うのか。私に言わせれば、絶対的な狂気だ。ソフトウェアの終焉。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Reality of SaaS&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sq3k3x/reality_of_saas/</guid>
-      <pubDate>Sun, 19 Apr 2026 20:06:29 GMT</pubDate>
+      <title>[r/artificial] 英国政府は、国会議員、労働組合、運動家から非難を浴びた後、NHS中央データ・プラットフォームへのパランティアの関与を終了することを検討している。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1srbv5o/the_uk_government_is_considering_ending_palantirs/</link>
+      <description>&lt;p&gt;&lt;strong&gt;英国政府は、国会議員、労働組合、運動家から非難を浴びた後、NHS中央データ・プラットフォームへのパランティアの関与を終了することを検討している。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/hillary_262 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The UK government is considering ending Palantir's involvement in a central NHS data platform after coming under fire from MPs, unions, and campaigners&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1srbv5o/the_uk_government_is_considering_ending_palantirs/</guid>
+      <pubDate>Tue, 21 Apr 2026 03:16:13 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 今、ChatGPTが完全にダウンしていることに気づいている人はいますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sqrh0v/is_anyone_else_noticing_that_chatgpt_seems_to_be/</link>
-      <description>&lt;p&gt;&lt;strong&gt;今、ChatGPTが完全にダウンしていることに気づいている人はいますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;すべてのデバイスでChatGPTからブートされてしまい、アカウントにログインし直そうとするとエラーメッセージが表示されます。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Is anyone else noticing that ChatGPT seems to be completely down for everyone right now?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sqrh0v/is_anyone_else_noticing_that_chatgpt_seems_to_be/</guid>
-      <pubDate>Mon, 20 Apr 2026 14:46:15 GMT</pubDate>
+      <title>[r/artificial] AIの幻覚は、我々が認めたくないほど人間的かもしれない</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sruvbn/ai_hallucinations_might_be_more_human_than_wed/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIの幻覚は、我々が認めたくないほど人間的かもしれない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIの幻覚はよく報告されている。それはまた、人々がこれらのシステムを信頼したり採用したりするのをためらう最大の理由のひとつでもある。そのためらいは理にかなっている。しかし、私はあることを考えていた。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI Hallucinations Might Be More Human Than We’d Like to Admit&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sruvbn/ai_hallucinations_might_be_more_human_than_wed/</guid>
+      <pubDate>Tue, 21 Apr 2026 17:38:55 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ギャラップ社の新しい世論調査によると、低所得層のアメリカ人は、高額な医師の診察の代わりとしてAIを利用している。このような理由でAIを利用しているアメリカ人は全体の14％に過ぎないが、最も所得の低い層（24,000ドル未満）ではこの数字は32％に跳ね上がる。複数のアメリカ人がAIを医療に利用することに不信感を抱いている。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sqsut6/new_gallup_poll_finds_that_lowincome_americans/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ギャラップ社の新しい世論調査によると、低所得層のアメリカ人は、高額な医師の診察の代わりとしてAIを利用している。このような理由でAIを利用しているアメリカ人は全体の14％に過ぎないが、最も所得の低い層（24,000ドル未満）ではこの数字は32％に跳ね上がる。複数のアメリカ人がAIを医療に利用することに不信感を抱いている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;quot;AIが生成したアドバイスのために医療機関の受診を見送ったという報告もある。最近の利用者の14％が、AIの情報やアドバイスがきっかけで、医療機関の受診を見送ったと回答している。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: New Gallup poll finds that low-income Americans are turning to AI as a replacement for expensive doctor's visits. Only 14% of all Americans use AI for this reason, but this figure jumps to 32% among the lowest income bracket (&lt;$24,000). A plurality of Americans distrust AI's use in healthcare.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sqsut6/new_gallup_poll_finds_that_lowincome_americans/</guid>
-      <pubDate>Mon, 20 Apr 2026 15:36:33 GMT</pubDate>
+      <title>[r/artificial] メディアは米国対中国に注目しているので、政治的な質問ではない。世界のAI競争においてロシアはどのような位置にいるのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1srqz3c/non_political_question_since_the_media_is_focused/</link>
+      <description>&lt;p&gt;&lt;strong&gt;メディアは米国対中国に注目しているので、政治的な質問ではない。世界のAI競争においてロシアはどのような位置にいるのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;特に、ウクライナに配備されたAI戦争エンジンとドローン以外は、ロシアからのニュースがあまりないので。  ロシアは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Non political question since the Media is focused on US vs China. Where are Russians in the global AI race?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1srqz3c/non_political_question_since_the_media_is_focused/</guid>
+      <pubDate>Tue, 21 Apr 2026 15:25:29 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 親は子供がAIを使うことを心配するが、使わないことはもっと心配する</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sqwiwb/parents_worry_about_their_kids_using_ai_but_worry/</link>
-      <description>&lt;p&gt;&lt;strong&gt;親は子供がAIを使うことを心配するが、使わないことはもっと心配する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Just-Grocery-2229 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Parents Worry About Their Kids Using AI, but Worry More About Them Not Using It&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sqwiwb/parents_worry_about_their_kids_using_ai_but_worry/</guid>
-      <pubDate>Mon, 20 Apr 2026 17:42:06 GMT</pubDate>
+      <title>[r/artificial] AIに対するあなたの考えを変えたものは何ですか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1srki2n/whats_that_one_thing_that_changed_your_mind_about/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIに対するあなたの考えを変えたものは何ですか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私はそれについてのあなたの考えや経験に興味があります。どんな分野でも。 &amp;#32;投稿者 &amp;#32; /u/sephmartinmusic [リンク] &amp;#32; [コメント] &amp;#32&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What's that one thing that changed your mind about AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1srki2n/whats_that_one_thing_that_changed_your_mind_about/</guid>
+      <pubDate>Tue, 21 Apr 2026 11:10:31 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ハイテク業界、2026年第1四半期に約8万人を解雇 - AIが原因で影響を受ける職種の約50％が削減</title>
-      <link>https://www.reddit.com/r/artificial/comments/1spw2w0/tech_industry_lays_off_nearly_80000_employees_in/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ハイテク業界、2026年第1四半期に約8万人を解雇 - AIが原因で影響を受ける職種の約50％が削減&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/BousWakebo [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Tech industry lays off nearly 80,000 employees in the first quarter of 2026 — almost 50% of affected positions cut due to AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1spw2w0/tech_industry_lays_off_nearly_80000_employees_in/</guid>
-      <pubDate>Sun, 19 Apr 2026 15:29:13 GMT</pubDate>
+      <title>[r/artificial] PixelClaw: 画像操作のためのLLMエージェント</title>
+      <link>https://www.reddit.com/r/artificial/comments/1srsod4/pixelclaw_an_llm_agent_for_image_manipulation/</link>
+      <description>&lt;p&gt;&lt;strong&gt;PixelClaw: 画像操作のためのLLMエージェント&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;画像処理に特化したLLMエージェントを作っています。会話、計画、ツール使用のためのLLM（様々なLLMをサポート）画像生成/gpt-imageを介したAIベースの編集。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: PixelClaw: an LLM agent for image manipulation&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1srsod4/pixelclaw_an_llm_agent_for_image_manipulation/</guid>
+      <pubDate>Tue, 21 Apr 2026 16:23:48 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIレイオフの罠」、「あらゆるものの未来は嘘である」、「推測：新しい仕事」、その他多数のAI関連リンク（Hacker Newsより</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sqttj9/the_ai_layoff_trap_the_future_of_everything_is/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIレイオフの罠」、「あらゆるものの未来は嘘である」、「推測：新しい仕事」、その他多数のAI関連リンク（Hacker Newsより&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;皆さん、AI Hacker Newsletterの第28号をお送りしました。このニュースレターでは、AIに関するリンクやディスカッションを毎週お届けしています。このメールに含まれるリンクをいくつか紹介しよう：  より少ないコードで&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The AI Layoff Trap, The Future of Everything Is Lies, I Guess: New Jobs and many other AI Links from Hacker News&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sqttj9/the_ai_layoff_trap_the_future_of_everything_is/</guid>
-      <pubDate>Mon, 20 Apr 2026 16:09:50 GMT</pubDate>
+      <title>[r/artificial] メモリ・プラグインとクロード・コードのカスタムプラグインをベースに、経験蒸留システムを作る。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1srrpts/make_an_experience_distillation_system_based_on/</link>
+      <description>&lt;p&gt;&lt;strong&gt;メモリ・プラグインとクロード・コードのカスタムプラグインをベースに、経験蒸留システムを作る。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;クロード・コードのメモリ・プラグインをベースにした経験蒸留システムの作り方について、とても参考になる記事（無料）を公開しました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Make an experience distillation system based on the memory plugin and custom plugin for Claude Code&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1srrpts/make_an_experience_distillation_system_based_on/</guid>
+      <pubDate>Tue, 21 Apr 2026 15:50:59 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 2025年、自費出版された書籍の数は250万冊から350万冊へと前年比40％増に急増した。これらの書籍の無作為サンプルをAI検出ツールにかけると、AIと判定される書籍が前年比40％増加した。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sq7bpd/evidence_mounts_that_aiwritten_books_are/</link>
-      <description>&lt;p&gt;&lt;strong&gt;2025年、自費出版された書籍の数は250万冊から350万冊へと前年比40％増に急増した。これらの書籍の無作為サンプルをAI検出ツールにかけると、AIと判定される書籍が前年比40％増加した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ニューヨーク・タイムズ紙：2024年から2025年にかけて発表された小説を中心に調査したところ、A.I.によって実質的に書かれた小説が全体の20％近くを占めていた。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Evidence mounts that AI-written books are consuming the publishing industry: in 2025, the number of self-published books jumped by 40% YoY, from 2.5 million to 3.5 million. Running a random sample of these books through an AI detection tool shows a 40% YoY increase in books flagged as AI.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sq7bpd/evidence_mounts_that_aiwritten_books_are/</guid>
-      <pubDate>Sun, 19 Apr 2026 22:34:52 GMT</pubDate>
+      <title>[r/artificial] AIについての率直な意見</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sr1vhi/honest_opinion_about_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIについての率直な意見&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は本職の開発者ですが、AIを使って自分でできることも、まったくわからないことも作ってきました。AIを使った日々のコーディングでは、何をすればいいのかがよくわかる。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Honest opinion about AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sr1vhi/honest_opinion_about_ai/</guid>
+      <pubDate>Mon, 20 Apr 2026 20:25:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] DMを処理してくれるv2のAIを作ったから、もう人と話さなくていいんだ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sqzm28/i_made_a_v2_ai_that_handles_my_dms_so_i_dont_have/</link>
-      <description>&lt;p&gt;&lt;strong&gt;DMを処理してくれるv2のAIを作ったから、もう人と話さなくていいんだ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;チャットアシスタントのV2を作ったが、正直なところ、違和感を感じ始めている。会話を読み、自動的に返信し、人々が興味を失わないように口調を調整する。さらに- ウェブ検索&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I made a v2 AI that handles my DMs so I don’t have to talk to people anymore&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sqzm28/i_made_a_v2_ai_that_handles_my_dms_so_i_dont_have/</guid>
-      <pubDate>Mon, 20 Apr 2026 19:16:06 GMT</pubDate>
+      <title>[r/artificial] 私のAIシステムは答えの途中でランダムにフランス語に切り替わってしまう。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1srn8nc/my_ai_system_kept_randomly_switching_to_french/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私のAIシステムは答えの途中でランダムにフランス語に切り替わってしまう。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は、問い合わせの言語に応じてドイツ語か英語で回答する必要があるRAGシステムを構築した。簡単そうに聞こえる。そうではない。ソース・ドキュメントはほとんどがドイツ語だが、中にはフランス語の法律用語も含まれている。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: My AI system kept randomly switching to French mid-answer and it took me way too long to figure out why&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1srn8nc/my_ai_system_kept_randomly_switching_to_french/</guid>
+      <pubDate>Tue, 21 Apr 2026 13:10:56 GMT</pubDate>
     </item>
     <item>
       <title>[r/LocalLLaMA] ベスト・ローカルLLM - 2026年4月</title>
@@ -160,31 +184,40 @@
       <pubDate>Mon, 13 Apr 2026 21:00:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] Qwen 3.6 Max Preview が Qwen Chat ウェブサイトで公開されました。現在、中国のモデルの中で最も高いAA-Intelligence Indexスコア（52）を持っています（オープンソースになるのでしょうか？）</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sqlcan/qwen_36_max_preview_just_went_live_on_the_qwen/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Qwen 3.6 Max Preview が Qwen Chat ウェブサイトで公開されました。現在、中国のモデルの中で最も高いAA-Intelligence Indexスコア（52）を持っています（オープンソースになるのでしょうか？）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;From AiBattle on 𝕏: https://x.com/AiBattle_/status/2046132538960158901 https://chat.qwen.ai/ &amp;#32; posted by &amp;#32; /u/Nunki08 [link] &amp;#32; [comments].&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Qwen 3.6 Max Preview just went live on the Qwen Chat website. It currently has the highest AA-Intelligence Index score among Chinese models (52) (Will it be open source?)&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sqlcan/qwen_36_max_preview_just_went_live_on_the_qwen/</guid>
-      <pubDate>Mon, 20 Apr 2026 10:26:43 GMT</pubDate>
+      <title>[r/LocalLLaMA] 新モデルが出るたびに、古いモデルは時代遅れになる。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1srhzii/every_time_a_new_model_comes_out_the_old_one_is/</link>
+      <description>&lt;p&gt;&lt;strong&gt;新モデルが出るたびに、古いモデルは時代遅れになる。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/FullChampionship7564 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Every time a new model comes out, the old one is obsolete of course&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1srhzii/every_time_a_new_model_comes_out_the_old_one_is/</guid>
+      <pubDate>Tue, 21 Apr 2026 08:51:10 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] Qwen3.6-27B待ち 爪が残っていない...。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sqnxwt/waiting_qwen3627b_i_have_no_nails_left/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Qwen3.6-27B待ち 爪が残っていない...。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/DOAMOD [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Waiting Qwen3.6-27B I have no nails left...&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sqnxwt/waiting_qwen3627b_i_have_no_nails_left/</guid>
-      <pubDate>Mon, 20 Apr 2026 12:31:15 GMT</pubDate>
+      <title>[r/LocalLLaMA] 不評な意見：OpenClawとそのクローンたちは、自分が何をしているかを知っている人にとってはほとんど役に立たないツールだ。CLI、Claude Code、Codexなどを使ったことがない人にとっては、ある意味感動的だ。8n8やmakeのようなワークフローツールも使ったことがない。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1srkah3/unpopular_opinion_openclaw_and_all_its_clones_are/</link>
+      <description>&lt;p&gt;&lt;strong&gt;不評な意見：OpenClawとそのクローンたちは、自分が何をしているかを知っている人にとってはほとんど役に立たないツールだ。CLI、Claude Code、Codexなどを使ったことがない人にとっては、ある意味感動的だ。8n8やmakeのようなワークフローツールも使ったことがない。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenClawとそのクローンたちは、自分が何をしているかを知っている人にとっては、ほとんど役に立たないツールのように思える。CLI、Claude Code、Codexを使ったことがない人にとっては、ある意味感動的なものだ。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Unpopular opinion: OpenClaw and all its clones are almost useless tools for those who know what they're doing. It's kind of impressive for someone who has never used a CLI, Claude Code, Codex, etc. Nor used any workflow tool like 8n8 or make.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1srkah3/unpopular_opinion_openclaw_and_all_its_clones_are/</guid>
+      <pubDate>Tue, 21 Apr 2026 11:00:07 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] エルメスは2020年からペアリングのリクエストを大量のアカウントにメールで送った。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sqqasu/hermes_just_mass_emailed_a_bunch_of_accounts_from/</link>
-      <description>&lt;p&gt;&lt;strong&gt;エルメスは2020年からペアリングのリクエストを大量のアカウントにメールで送った。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;エルメスのメール統合は双方向のチャットチャンネルであり、受信トレイリーダーではありません。メールを読むことだけを期待して接続した場合、代わりにすべてのメール送信者を見知らぬ人として扱う可能性があります。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Hermes just mass emailed a bunch of accounts from 2020 with pairing requests.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sqqasu/hermes_just_mass_emailed_a_bunch_of_accounts_from/</guid>
-      <pubDate>Mon, 20 Apr 2026 14:03:45 GMT</pubDate>
+      <title>[r/LocalLLaMA] オープンWebUIデスクトップリリース</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1srhnvn/open_webui_desktop_released/</link>
+      <description>&lt;p&gt;&lt;strong&gt;オープンWebUIデスクトップリリース&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;llama.cppも含まれているようです。全部ローカルで実行してもいいし、リモートサーバーに接続してもいい。 &amp;#32; posted by &amp;#32; /u/My_Unbiased_Opinion [link] &amp;#32; [comments].&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Open WebUI Desktop Released!&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1srhnvn/open_webui_desktop_released/</guid>
+      <pubDate>Tue, 21 Apr 2026 08:31:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] シングルRTX 5080でゼロから235M param LLM</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1srsxqs/235m_param_llm_from_scratch_on_a_single_rtx_5080/</link>
+      <description>&lt;p&gt;&lt;strong&gt;シングルRTX 5080でゼロから235M param LLM&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;やあみんな、しばらくこれに取り組んでいたんだけど、ここでも共有しようと思ったんだ。PyTorchで完全にゼロから小さな変換言語モデルを作ったんだ。事前に学習した重みも、HuggingFacも使っていません。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: 235M param LLM from scratch on a single RTX 5080&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1srsxqs/235m_param_llm_from_scratch_on_a_single_rtx_5080/</guid>
+      <pubDate>Tue, 21 Apr 2026 16:32:40 GMT</pubDate>
     </item>
   </channel>
 </rss>
