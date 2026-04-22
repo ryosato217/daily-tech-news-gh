@@ -3,32 +3,56 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-21</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-22</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Apr 2026 19:21:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 19:23:36 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (256pt) フレームワーク ノートパソコン 13 Pro</title>
-      <link>https://news.ycombinator.com/item?id=47852177</link>
-      <description>&lt;p&gt;&lt;strong&gt;フレームワーク ノートパソコン 13 Pro&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Framework Laptop 13 Pro&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47852177</guid>
-      <pubDate>Tue, 21 Apr 2026 18:00:34 GMT</pubDate>
+      <title>[Hacker News] (622pt) アルバータ州の新興企業、ノーテク・トラクターを半額で販売</title>
+      <link>https://news.ycombinator.com/item?id=47865868</link>
+      <description>&lt;p&gt;&lt;strong&gt;アルバータ州の新興企業、ノーテク・トラクターを半額で販売&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Alberta startup sells no-tech tractors for half price&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47865868</guid>
+      <pubDate>Wed, 22 Apr 2026 16:29:25 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (115pt) Show HN: GoModel - オープンソースの囲碁AIゲートウェイ</title>
-      <link>https://news.ycombinator.com/item?id=47849097</link>
-      <description>&lt;p&gt;&lt;strong&gt;Show HN: GoModel - オープンソースの囲碁AIゲートウェイ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: GoModel – an open-source AI gateway in Go&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47849097</guid>
-      <pubDate>Tue, 21 Apr 2026 14:11:53 GMT</pubDate>
+      <title>[Hacker News] (411pt) Qwen3.6-27B：27Bデンス・モデルにおけるフラッグシップ・レベルのコーディング</title>
+      <link>https://news.ycombinator.com/item?id=47863217</link>
+      <description>&lt;p&gt;&lt;strong&gt;Qwen3.6-27B：27Bデンス・モデルにおけるフラッグシップ・レベルのコーディング&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47863217</guid>
+      <pubDate>Wed, 22 Apr 2026 13:19:58 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (13pt) OpenAIライブストリーム</title>
-      <link>https://news.ycombinator.com/item?id=47852835</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIライブストリーム&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI Livestream&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47852835</guid>
-      <pubDate>Tue, 21 Apr 2026 18:50:00 GMT</pubDate>
+      <title>[Hacker News] (313pt) 第8世代TPU：エージェント時代の2つのチップ</title>
+      <link>https://news.ycombinator.com/item?id=47862497</link>
+      <description>&lt;p&gt;&lt;strong&gt;第8世代TPU：エージェント時代の2つのチップ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Our eighth generation TPUs: two chips for the agentic era&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47862497</guid>
+      <pubDate>Wed, 22 Apr 2026 12:15:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (134pt) 過剰編集とは、モデルが必要以上にコードを修正することを指す。</title>
+      <link>https://news.ycombinator.com/item?id=47866913</link>
+      <description>&lt;p&gt;&lt;strong&gt;過剰編集とは、モデルが必要以上にコードを修正することを指す。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Over-editing refers to a model modifying code beyond what is necessary&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47866913</guid>
+      <pubDate>Wed, 22 Apr 2026 17:51:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (69pt) ゼットにおける並列エージェント</title>
+      <link>https://news.ycombinator.com/item?id=47866750</link>
+      <description>&lt;p&gt;&lt;strong&gt;ゼットにおける並列エージェント&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Parallel Agents in Zed&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47866750</guid>
+      <pubDate>Wed, 22 Apr 2026 17:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (12pt) モデルから直接ライブ配信されるウェブサイト</title>
+      <link>https://news.ycombinator.com/item?id=47867048</link>
+      <description>&lt;p&gt;&lt;strong&gt;モデルから直接ライブ配信されるウェブサイト&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Website streamed live directly from a model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47867048</guid>
+      <pubDate>Wed, 22 Apr 2026 18:01:18 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -43,7 +67,7 @@
       <title>[VentureBeat AI] クロード・コードは月200ドルもする。グースは無料で同じことができる。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;クロード・コードは月200ドルもする。グースは無料で同じことができる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、「高価である」という欠点がある。&lt;/p&gt;
+&lt;p&gt;人工知能のコーディング革命には、キャッチーなことが伴う：それは高価です。Anthropicの端末ベースのAIエージェントであるClaude Codeは、自律的にコードを書き、デバッグし、展開することができ、キャップを持っている。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -61,7 +85,7 @@
       <title>[VentureBeat AI] セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に作り直したバージョンを発表した。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に再構築したバージョンを発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -94,85 +118,76 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
+      <title>[r/artificial] 社交不安症でデートもままならない--AIコンパニオンが会話の練習をサポート</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sspq1c/social_anxiety_made_dating_impossible_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;社交不安症でデートもままならない--AIコンパニオンが会話の練習をサポート&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;いつも社交不安、特にデートにまつわる不安と闘ってきた。人と会うと、何を話せばいいのかパニックになる。会話は強引でぎこちない。もともとSecrets AIを使い始めたのは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Social anxiety made dating impossible - AI companions helping me practice conversations&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sspq1c/social_anxiety_made_dating_impossible_ai/</guid>
+      <pubDate>Wed, 22 Apr 2026 16:00:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIの分野で最も大きな出来事は何でしたか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sso2rb/what_was_the_biggest_thing_to_happen_in_the_field/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIの分野で最も大きな出来事は何でしたか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;個人的にはAlphaGoかChatGPTのどちらかだと思う。AlphaGoは、人々が「直感」が必要だと信じていた分野で、AIがその創造者よりも優れている可能性があることを全世界に示した。ほとんどの人は&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What was the biggest thing to happen in the field of AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sso2rb/what_was_the_biggest_thing_to_happen_in_the_field/</guid>
+      <pubDate>Wed, 22 Apr 2026 15:01:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] クロード・ミトスAIの不正アクセス、Anthropicが調査</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sspdby/claude_mythos_ai_unauthorised_access_claim_probed/</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロード・ミトスAIの不正アクセス、Anthropicが調査&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; posted by &amp;#32; /u/unserious-dude [link] &amp;#32; [comments］&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Mythos AI unauthorised access claim probed by Anthropic&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sspdby/claude_mythos_ai_unauthorised_access_claim_probed/</guid>
+      <pubDate>Wed, 22 Apr 2026 15:48:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] メタ社は、従業員の画面、クリック、キー入力を記録し、従業員の代わりとなるAIを訓練する。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ssty5s/meta_will_record_employee_screens_clicks_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;メタ社は、従業員の画面、クリック、キー入力を記録し、従業員の代わりとなるAIを訓練する。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/esporx [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Meta will record employee screens, clicks, and keystrokes to train AI that may replace them&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ssty5s/meta_will_record_employee_screens_clicks_and/</guid>
+      <pubDate>Wed, 22 Apr 2026 18:28:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ギャラップ世論調査：Z世代のAI利用は増加するも、興奮度は36％から22％に急落</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ss8chu/gallup_poll_gen_zs_ai_usage_increaes_but/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ギャラップ世論調査：Z世代のAI利用は増加するも、興奮度は36％から22％に急落&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ギャラップ社が1,500人以上のZ世代を対象に行った新しい調査によると、米国に住むZ世代の半数以上が定期的にジェネレーティブAIを使用しているが、このテクノロジーに対する彼らの感情は悪化していることがわかった。その中で&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gallup poll: Gen Z's AI usage increaes but excitement plummets from 36% to 22%&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ss8chu/gallup_poll_gen_zs_ai_usage_increaes_but/</guid>
+      <pubDate>Wed, 22 Apr 2026 02:19:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Web+Excel+AIを自動化するワークフローを作成したい。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sssq0n/help_me_creating_a_workflow_to_automate_webexcelai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Web+Excel+AIを自動化するワークフローを作成したい。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は商社出身です。また、エージェントAI、オートメーション、コーディングの経験もありません。だから&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Help me creating a workflow to automate Web+Excel+AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sssq0n/help_me_creating_a_workflow_to_automate_webexcelai/</guid>
+      <pubDate>Wed, 22 Apr 2026 17:45:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIゴールドラッシュは最も危険な段階に入った</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sseqyd/the_ai_gold_rush_just_entered_its_most_dangerous/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIゴールドラッシュは最も危険な段階に入った&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/monotvtv [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The AI Gold Rush Just Entered Its Most Dangerous Phase&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sseqyd/the_ai_gold_rush_just_entered_its_most_dangerous/</guid>
+      <pubDate>Wed, 22 Apr 2026 07:49:08 GMT</pubDate>
+    </item>
+    <item>
       <title>[r/artificial] アップルのAIへの挑戦は、ソフトウェアではなくハードウェアに賭ける</title>
       <link>https://www.reddit.com/r/artificial/comments/1srmdg7/apples_play_for_ai_is_a_hardware_bet_not_software/</link>
       <description>&lt;p&gt;&lt;strong&gt;アップルのAIへの挑戦は、ソフトウェアではなくハードウェアに賭ける&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アップルの取締役会が、ハードウェアの分野でキャリアを積んできた人物を選んだという事実が、それを物語っている。アップルの賭けは、彼らがAIの未来はハードウェアにあると信じていることを示唆している。&lt;/p&gt;
+&lt;p&gt;アップルの取締役会が、ハードウェア面でキャリアを積んできた人物を選んだという事実が、それを物語っている。アップルの賭けは、彼らがAIの未来はハードウェアにあると信じていることを示唆している。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Apple's play for AI is a hardware bet, not software&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1srmdg7/apples_play_for_ai_is_a_hardware_bet_not_software/</guid>
       <pubDate>Tue, 21 Apr 2026 12:35:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 英国政府は、国会議員、労働組合、運動家から非難を浴びた後、NHS中央データ・プラットフォームへのパランティアの関与を終了することを検討している。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1srbv5o/the_uk_government_is_considering_ending_palantirs/</link>
-      <description>&lt;p&gt;&lt;strong&gt;英国政府は、国会議員、労働組合、運動家から非難を浴びた後、NHS中央データ・プラットフォームへのパランティアの関与を終了することを検討している。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/hillary_262 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The UK government is considering ending Palantir's involvement in a central NHS data platform after coming under fire from MPs, unions, and campaigners&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1srbv5o/the_uk_government_is_considering_ending_palantirs/</guid>
-      <pubDate>Tue, 21 Apr 2026 03:16:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIの幻覚は、我々が認めたくないほど人間的かもしれない</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sruvbn/ai_hallucinations_might_be_more_human_than_wed/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIの幻覚は、我々が認めたくないほど人間的かもしれない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIの幻覚はよく報告されている。それはまた、人々がこれらのシステムを信頼したり採用したりするのをためらう最大の理由のひとつでもある。そのためらいは理にかなっている。しかし、私はあることを考えていた。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI Hallucinations Might Be More Human Than We’d Like to Admit&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sruvbn/ai_hallucinations_might_be_more_human_than_wed/</guid>
-      <pubDate>Tue, 21 Apr 2026 17:38:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] メディアは米国対中国に注目しているので、政治的な質問ではない。世界のAI競争においてロシアはどのような位置にいるのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1srqz3c/non_political_question_since_the_media_is_focused/</link>
-      <description>&lt;p&gt;&lt;strong&gt;メディアは米国対中国に注目しているので、政治的な質問ではない。世界のAI競争においてロシアはどのような位置にいるのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;特に、ウクライナに配備されたAI戦争エンジンとドローン以外は、ロシアからのニュースがあまりないので。  ロシアは&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Non political question since the Media is focused on US vs China. Where are Russians in the global AI race?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1srqz3c/non_political_question_since_the_media_is_focused/</guid>
-      <pubDate>Tue, 21 Apr 2026 15:25:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIに対するあなたの考えを変えたものは何ですか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1srki2n/whats_that_one_thing_that_changed_your_mind_about/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIに対するあなたの考えを変えたものは何ですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私はそれについてのあなたの考えや経験に興味があります。どんな分野でも。 &amp;#32;投稿者 &amp;#32; /u/sephmartinmusic [リンク] &amp;#32; [コメント] &amp;#32&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What's that one thing that changed your mind about AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1srki2n/whats_that_one_thing_that_changed_your_mind_about/</guid>
-      <pubDate>Tue, 21 Apr 2026 11:10:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] PixelClaw: 画像操作のためのLLMエージェント</title>
-      <link>https://www.reddit.com/r/artificial/comments/1srsod4/pixelclaw_an_llm_agent_for_image_manipulation/</link>
-      <description>&lt;p&gt;&lt;strong&gt;PixelClaw: 画像操作のためのLLMエージェント&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;画像処理に特化したLLMエージェントを作っています。会話、計画、ツール使用のためのLLM（様々なLLMをサポート）画像生成/gpt-imageを介したAIベースの編集。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: PixelClaw: an LLM agent for image manipulation&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1srsod4/pixelclaw_an_llm_agent_for_image_manipulation/</guid>
-      <pubDate>Tue, 21 Apr 2026 16:23:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] メモリ・プラグインとクロード・コードのカスタムプラグインをベースに、経験蒸留システムを作る。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1srrpts/make_an_experience_distillation_system_based_on/</link>
-      <description>&lt;p&gt;&lt;strong&gt;メモリ・プラグインとクロード・コードのカスタムプラグインをベースに、経験蒸留システムを作る。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;クロード・コードのメモリ・プラグインをベースにした経験蒸留システムの作り方について、とても参考になる記事（無料）を公開しました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Make an experience distillation system based on the memory plugin and custom plugin for Claude Code&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1srrpts/make_an_experience_distillation_system_based_on/</guid>
-      <pubDate>Tue, 21 Apr 2026 15:50:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIについての率直な意見</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sr1vhi/honest_opinion_about_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIについての率直な意見&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は本職の開発者ですが、AIを使って自分でできることも、まったくわからないことも作ってきました。AIを使った日々のコーディングでは、何をすればいいのかがよくわかる。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Honest opinion about AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sr1vhi/honest_opinion_about_ai/</guid>
-      <pubDate>Mon, 20 Apr 2026 20:25:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 私のAIシステムは答えの途中でランダムにフランス語に切り替わってしまう。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1srn8nc/my_ai_system_kept_randomly_switching_to_french/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私のAIシステムは答えの途中でランダムにフランス語に切り替わってしまう。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は、問い合わせの言語に応じてドイツ語か英語で回答する必要があるRAGシステムを構築した。簡単そうに聞こえる。そうではない。ソース・ドキュメントはほとんどがドイツ語だが、中にはフランス語の法律用語も含まれている。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: My AI system kept randomly switching to French mid-answer and it took me way too long to figure out why&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1srn8nc/my_ai_system_kept_randomly_switching_to_french/</guid>
-      <pubDate>Tue, 21 Apr 2026 13:10:56 GMT</pubDate>
     </item>
     <item>
       <title>[r/LocalLLaMA] ベスト・ローカルLLM - 2026年4月</title>
@@ -184,40 +199,31 @@
       <pubDate>Mon, 13 Apr 2026 21:00:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] 新モデルが出るたびに、古いモデルは時代遅れになる。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1srhzii/every_time_a_new_model_comes_out_the_old_one_is/</link>
-      <description>&lt;p&gt;&lt;strong&gt;新モデルが出るたびに、古いモデルは時代遅れになる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/FullChampionship7564 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Every time a new model comes out, the old one is obsolete of course&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1srhzii/every_time_a_new_model_comes_out_the_old_one_is/</guid>
-      <pubDate>Tue, 21 Apr 2026 08:51:10 GMT</pubDate>
+      <title>[r/LocalLLaMA] Qwen3.6-35Bは、適切なエージェントと組み合わせることで、クラウドモデルに匹敵する競争力を発揮する。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ssilc3/qwen3635b_becomes_competitive_with_cloud_models/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Qwen3.6-35Bは、適切なエージェントと組み合わせることで、クラウドモデルに匹敵する競争力を発揮する。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;同じ9Bのクウェンモデルの足場を変更することで、ベンチマークのパフォーマンスが19.11%から45.56%に向上したことを示した前回の記事の簡単なフォローアップである。https://www.reddit.com/r/LocalLLaMA/s/&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Qwen3.6-35B becomes competitive with cloud models when paired with the right agent&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1ssilc3/qwen3635b_becomes_competitive_with_cloud_models/</guid>
+      <pubDate>Wed, 22 Apr 2026 11:22:42 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] 不評な意見：OpenClawとそのクローンたちは、自分が何をしているかを知っている人にとってはほとんど役に立たないツールだ。CLI、Claude Code、Codexなどを使ったことがない人にとっては、ある意味感動的だ。8n8やmakeのようなワークフローツールも使ったことがない。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1srkah3/unpopular_opinion_openclaw_and_all_its_clones_are/</link>
-      <description>&lt;p&gt;&lt;strong&gt;不評な意見：OpenClawとそのクローンたちは、自分が何をしているかを知っている人にとってはほとんど役に立たないツールだ。CLI、Claude Code、Codexなどを使ったことがない人にとっては、ある意味感動的だ。8n8やmakeのようなワークフローツールも使ったことがない。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenClawとそのクローンたちは、自分が何をしているかを知っている人にとっては、ほとんど役に立たないツールのように思える。CLI、Claude Code、Codexを使ったことがない人にとっては、ある意味感動的なものだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Unpopular opinion: OpenClaw and all its clones are almost useless tools for those who know what they're doing. It's kind of impressive for someone who has never used a CLI, Claude Code, Codex, etc. Nor used any workflow tool like 8n8 or make.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1srkah3/unpopular_opinion_openclaw_and_all_its_clones_are/</guid>
-      <pubDate>Tue, 21 Apr 2026 11:00:07 GMT</pubDate>
+      <title>[r/LocalLLaMA] llama.cppと統合されたRustで書かれた、LLMビルドインのローカルマンガ翻訳機</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sslwjv/local_manga_translator_with_llm_buildin_written/</link>
+      <description>&lt;p&gt;&lt;strong&gt;llama.cppと統合されたRustで書かれた、LLMビルドインのローカルマンガ翻訳機&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;こんにちは、LocalLLaMAです。数週間前に投稿を作成しましたが、今回このプロジェクトはより信頼性が高く、使いやすくなりました。これはマンガ翻訳機で、どんな画像の翻訳にも使えます。これは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Local manga translator with LLM build-in, written in Rust with llama.cpp integration&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sslwjv/local_manga_translator_with_llm_buildin_written/</guid>
+      <pubDate>Wed, 22 Apr 2026 13:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] オープンWebUIデスクトップリリース</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1srhnvn/open_webui_desktop_released/</link>
-      <description>&lt;p&gt;&lt;strong&gt;オープンWebUIデスクトップリリース&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;llama.cppも含まれているようです。全部ローカルで実行してもいいし、リモートサーバーに接続してもいい。 &amp;#32; posted by &amp;#32; /u/My_Unbiased_Opinion [link] &amp;#32; [comments].&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Open WebUI Desktop Released!&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1srhnvn/open_webui_desktop_released/</guid>
-      <pubDate>Tue, 21 Apr 2026 08:31:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] シングルRTX 5080でゼロから235M param LLM</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1srsxqs/235m_param_llm_from_scratch_on_a_single_rtx_5080/</link>
-      <description>&lt;p&gt;&lt;strong&gt;シングルRTX 5080でゼロから235M param LLM&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;やあみんな、しばらくこれに取り組んでいたんだけど、ここでも共有しようと思ったんだ。PyTorchで完全にゼロから小さな変換言語モデルを作ったんだ。事前に学習した重みも、HuggingFacも使っていません。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 235M param LLM from scratch on a single RTX 5080&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1srsxqs/235m_param_llm_from_scratch_on_a_single_rtx_5080/</guid>
-      <pubDate>Tue, 21 Apr 2026 16:32:40 GMT</pubDate>
+      <title>[r/LocalLLaMA] 最近6ヵ月間のオープンモデル - 2025年11月～2026年4月</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sskmhv/recent_open_models_from_last_6_months_nov_2025/</link>
+      <description>&lt;p&gt;&lt;strong&gt;最近6ヵ月間のオープンモデル - 2025年11月～2026年4月&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;このチャートは最近6ヶ月間のオープンモデルで作成した。それより古いものは少ないかもしれません。最新版のみ（例：Kimi-K2.6のみ、Kimi-K2.5 &amp;amp; Kimi-K2.また、GLM-5.1のみ。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Recent Open models from last 6 Months - Nov 2025 - Apr 2026&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sskmhv/recent_open_models_from_last_6_months_nov_2025/</guid>
+      <pubDate>Wed, 22 Apr 2026 12:52:49 GMT</pubDate>
     </item>
   </channel>
 </rss>
