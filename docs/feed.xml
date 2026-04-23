@@ -3,56 +3,40 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-22</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-23</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 22 Apr 2026 19:23:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 19:21:58 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (622pt) アルバータ州の新興企業、ノーテク・トラクターを半額で販売</title>
-      <link>https://news.ycombinator.com/item?id=47865868</link>
-      <description>&lt;p&gt;&lt;strong&gt;アルバータ州の新興企業、ノーテク・トラクターを半額で販売&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Alberta startup sells no-tech tractors for half price&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47865868</guid>
-      <pubDate>Wed, 22 Apr 2026 16:29:25 GMT</pubDate>
+      <title>[Hacker News] (465pt) GPT-5.5</title>
+      <link>https://news.ycombinator.com/item?id=47879092</link>
+      <description>&lt;p&gt;&lt;strong&gt;GPT-5.5&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GPT-5.5&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47879092</guid>
+      <pubDate>Thu, 23 Apr 2026 18:01:39 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (411pt) Qwen3.6-27B：27Bデンス・モデルにおけるフラッグシップ・レベルのコーディング</title>
-      <link>https://news.ycombinator.com/item?id=47863217</link>
-      <description>&lt;p&gt;&lt;strong&gt;Qwen3.6-27B：27Bデンス・モデルにおけるフラッグシップ・レベルのコーディング&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47863217</guid>
-      <pubDate>Wed, 22 Apr 2026 13:19:58 GMT</pubDate>
+      <title>[Hacker News] (432pt) BitwardenのCLIがCheckmarxのサプライチェーンキャンペーンで侵害される</title>
+      <link>https://news.ycombinator.com/item?id=47876043</link>
+      <description>&lt;p&gt;&lt;strong&gt;BitwardenのCLIがCheckmarxのサプライチェーンキャンペーンで侵害される&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47876043</guid>
+      <pubDate>Thu, 23 Apr 2026 14:17:08 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (313pt) 第8世代TPU：エージェント時代の2つのチップ</title>
-      <link>https://news.ycombinator.com/item?id=47862497</link>
-      <description>&lt;p&gt;&lt;strong&gt;第8世代TPU：エージェント時代の2つのチップ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Our eighth generation TPUs: two chips for the agentic era&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47862497</guid>
-      <pubDate>Wed, 22 Apr 2026 12:15:29 GMT</pubDate>
+      <title>[Hacker News] (250pt) 最近のクロード・コード品質報告書に関する最新情報</title>
+      <link>https://news.ycombinator.com/item?id=47878905</link>
+      <description>&lt;p&gt;&lt;strong&gt;最近のクロード・コード品質報告書に関する最新情報&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: An update on recent Claude Code quality reports&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47878905</guid>
+      <pubDate>Thu, 23 Apr 2026 17:48:38 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (134pt) 過剰編集とは、モデルが必要以上にコードを修正することを指す。</title>
-      <link>https://news.ycombinator.com/item?id=47866913</link>
-      <description>&lt;p&gt;&lt;strong&gt;過剰編集とは、モデルが必要以上にコードを修正することを指す。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Over-editing refers to a model modifying code beyond what is necessary&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47866913</guid>
-      <pubDate>Wed, 22 Apr 2026 17:51:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (69pt) ゼットにおける並列エージェント</title>
-      <link>https://news.ycombinator.com/item?id=47866750</link>
-      <description>&lt;p&gt;&lt;strong&gt;ゼットにおける並列エージェント&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Parallel Agents in Zed&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47866750</guid>
-      <pubDate>Wed, 22 Apr 2026 17:38:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (12pt) モデルから直接ライブ配信されるウェブサイト</title>
-      <link>https://news.ycombinator.com/item?id=47867048</link>
-      <description>&lt;p&gt;&lt;strong&gt;モデルから直接ライブ配信されるウェブサイト&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Website streamed live directly from a model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47867048</guid>
-      <pubDate>Wed, 22 Apr 2026 18:01:18 GMT</pubDate>
+      <title>[Hacker News] (56pt) MeshCore開発チーム、商標紛争とAI生成コードをめぐり分裂</title>
+      <link>https://news.ycombinator.com/item?id=47878117</link>
+      <description>&lt;p&gt;&lt;strong&gt;MeshCore開発チーム、商標紛争とAI生成コードをめぐり分裂&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: MeshCore development team splits over trademark dispute and AI-generated code&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47878117</guid>
+      <pubDate>Thu, 23 Apr 2026 16:55:13 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -85,7 +69,7 @@
       <title>[VentureBeat AI] セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に再構築したバージョンを発表した。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に作り直したバージョンを発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -118,76 +102,85 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 社交不安症でデートもままならない--AIコンパニオンが会話の練習をサポート</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sspq1c/social_anxiety_made_dating_impossible_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;社交不安症でデートもままならない--AIコンパニオンが会話の練習をサポート&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;いつも社交不安、特にデートにまつわる不安と闘ってきた。人と会うと、何を話せばいいのかパニックになる。会話は強引でぎこちない。もともとSecrets AIを使い始めたのは&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Social anxiety made dating impossible - AI companions helping me practice conversations&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sspq1c/social_anxiety_made_dating_impossible_ai/</guid>
-      <pubDate>Wed, 22 Apr 2026 16:00:41 GMT</pubDate>
+      <title>[r/artificial] AIを25年間研究してきたイェール大学の倫理学者によれば、真の危険は超知能ではない。道徳的知性の欠如である。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1stkefq/a_yale_ethicist_who_has_studied_ai_for_25_years/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIを25年間研究してきたイェール大学の倫理学者によれば、真の危険は超知能ではない。道徳的知性の欠如である。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は最近、ウェンデル・ウォラックと話をすることができた。彼はChatGPT以前からAI倫理の研究に携わっており、ハイプの前、テック業界のほとんどの人が注目する前からAI倫理を研究している。彼は『Moral』を書いた。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A Yale ethicist who has studied AI for 25 years says the real danger isn’t superintelligence. It’s the absence of moral intelligence.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1stkefq/a_yale_ethicist_who_has_studied_ai_for_25_years/</guid>
+      <pubDate>Thu, 23 Apr 2026 14:29:36 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIの分野で最も大きな出来事は何でしたか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sso2rb/what_was_the_biggest_thing_to_happen_in_the_field/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIの分野で最も大きな出来事は何でしたか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;個人的にはAlphaGoかChatGPTのどちらかだと思う。AlphaGoは、人々が「直感」が必要だと信じていた分野で、AIがその創造者よりも優れている可能性があることを全世界に示した。ほとんどの人は&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What was the biggest thing to happen in the field of AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sso2rb/what_was_the_biggest_thing_to_happen_in_the_field/</guid>
-      <pubDate>Wed, 22 Apr 2026 15:01:59 GMT</pubDate>
+      <title>[r/artificial] アンソロピックは連邦裁判所に対し、一度配備された自社モデルをコントロールすることはできないと述べた。その正直な一文が、責任の所在を変えることになる。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sthpl8/anthropic_told_a_federal_court_it_cant_control/</link>
+      <description>&lt;p&gt;&lt;strong&gt;アンソロピックは連邦裁判所に対し、一度配備された自社モデルをコントロールすることはできないと述べた。その正直な一文が、責任の所在を変えることになる。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;連邦控訴裁判所において、Anthropic社は印象的な主張を行った：一旦クロードが顧客（国防総省のネットワークのような）のインフラに配備されると、それを変更、更新、リコールすることはできない。その&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic told a federal court it can't control its own model once deployed. That honest sentence changes the liability conversation.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sthpl8/anthropic_told_a_federal_court_it_cant_control/</guid>
+      <pubDate>Thu, 23 Apr 2026 12:44:44 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] クロード・ミトスAIの不正アクセス、Anthropicが調査</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sspdby/claude_mythos_ai_unauthorised_access_claim_probed/</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード・ミトスAIの不正アクセス、Anthropicが調査&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; posted by &amp;#32; /u/unserious-dude [link] &amp;#32; [comments］&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Mythos AI unauthorised access claim probed by Anthropic&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sspdby/claude_mythos_ai_unauthorised_access_claim_probed/</guid>
-      <pubDate>Wed, 22 Apr 2026 15:48:11 GMT</pubDate>
+      <title>[r/artificial] 連邦判事、AIチャットには弁護士と依頼人の秘匿特権はないと判決。あるCEOが削除したChatGPTの会話が復元され、法廷で不利な証拠として使用された。同じ日、別の判事が逆の判決を下した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1st4y15/a_federal_judge_ruled_ai_chats_have_no/</link>
+      <description>&lt;p&gt;&lt;strong&gt;連邦判事、AIチャットには弁護士と依頼人の秘匿特権はないと判決。あるCEOが削除したChatGPTの会話が復元され、法廷で不利な証拠として使用された。同じ日、別の判事が逆の判決を下した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;連邦判事は、あなたのAIの会話は差し押さえられ、法廷で不利な証拠として使用される可能性があるとの判決を下した。**ヘプナー事件（2026年2月）：** - ブラッドリー・ヘプナー元CEOは、次のように述べている。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A federal judge ruled AI chats have no attorney-client privilege. A CEO's deleted ChatGPT conversations were recovered and used against him in court. On the same day, a different judge ruled the opposite.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1st4y15/a_federal_judge_ruled_ai_chats_have_no/</guid>
+      <pubDate>Thu, 23 Apr 2026 01:44:20 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] メタ社は、従業員の画面、クリック、キー入力を記録し、従業員の代わりとなるAIを訓練する。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ssty5s/meta_will_record_employee_screens_clicks_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;メタ社は、従業員の画面、クリック、キー入力を記録し、従業員の代わりとなるAIを訓練する。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/esporx [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Meta will record employee screens, clicks, and keystrokes to train AI that may replace them&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ssty5s/meta_will_record_employee_screens_clicks_and/</guid>
-      <pubDate>Wed, 22 Apr 2026 18:28:24 GMT</pubDate>
+      <title>[r/artificial] AIは私の人生を救うかもしれないし、そうでなければできなかったであろう8つのことをさせてくれた。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1stny9s/ai_might_save_my_life_and_has_let_me_do_8_things/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIは私の人生を救うかもしれないし、そうでなければできなかったであろう8つのことをさせてくれた。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;過去20年間の血液検査の結果を分析し、医師と検討するための健康行動計画全体を見直した。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI might save my life and has let me do 8 things I would not have done otherwise&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1stny9s/ai_might_save_my_life_and_has_let_me_do_8_things/</guid>
+      <pubDate>Thu, 23 Apr 2026 16:36:50 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ギャラップ世論調査：Z世代のAI利用は増加するも、興奮度は36％から22％に急落</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ss8chu/gallup_poll_gen_zs_ai_usage_increaes_but/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ギャラップ世論調査：Z世代のAI利用は増加するも、興奮度は36％から22％に急落&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ギャラップ社が1,500人以上のZ世代を対象に行った新しい調査によると、米国に住むZ世代の半数以上が定期的にジェネレーティブAIを使用しているが、このテクノロジーに対する彼らの感情は悪化していることがわかった。その中で&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gallup poll: Gen Z's AI usage increaes but excitement plummets from 36% to 22%&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ss8chu/gallup_poll_gen_zs_ai_usage_increaes_but/</guid>
-      <pubDate>Wed, 22 Apr 2026 02:19:19 GMT</pubDate>
+      <title>[r/artificial] クロードの &quot;スキル&quot;（カスタムSKILL.md命令ファイル）はChatGPTにエクスポートして使用できますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1stphh6/can_claudes_skills_custom_skillmd_instruction/</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロードの &quot;スキル&quot;（カスタムSKILL.md命令ファイル）はChatGPTにエクスポートして使用できますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;みなさん、私はClaude.aiをプロジェクト内でカスタムスキルのセットアップと一緒に使っています。基本的にはMarkdownファイル（SKILL.mdファイル）のフォルダがあり、それがクロードの永続的な指示として機能します。各スキル&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Can Claude’s “Skills” (custom SKILL.md instruction files) be exported and used in ChatGPT?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1stphh6/can_claudes_skills_custom_skillmd_instruction/</guid>
+      <pubDate>Thu, 23 Apr 2026 17:30:21 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Web+Excel+AIを自動化するワークフローを作成したい。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sssq0n/help_me_creating_a_workflow_to_automate_webexcelai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Web+Excel+AIを自動化するワークフローを作成したい。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は商社出身です。また、エージェントAI、オートメーション、コーディングの経験もありません。だから&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Help me creating a workflow to automate Web+Excel+AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sssq0n/help_me_creating_a_workflow_to_automate_webexcelai/</guid>
-      <pubDate>Wed, 22 Apr 2026 17:45:53 GMT</pubDate>
+      <title>[r/artificial] ジェミニ対グロック：「迷惑の塔」をプレイする</title>
+      <link>https://www.reddit.com/r/artificial/comments/1stp093/gemini_vs_grok_playing_towers_of_annoy/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ジェミニ対グロック：「迷惑の塔」をプレイする&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LLMは、ハノイの塔の2人用敵対的変種をプレイするPython 3.10クライアントを書くように求められました。ルールヒーローはディスクを移動させる。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gemini vs Grok: Playing Towers of Annoy&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1stp093/gemini_vs_grok_playing_towers_of_annoy/</guid>
+      <pubDate>Thu, 23 Apr 2026 17:14:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIゴールドラッシュは最も危険な段階に入った</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sseqyd/the_ai_gold_rush_just_entered_its_most_dangerous/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIゴールドラッシュは最も危険な段階に入った&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/monotvtv [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The AI Gold Rush Just Entered Its Most Dangerous Phase&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sseqyd/the_ai_gold_rush_just_entered_its_most_dangerous/</guid>
-      <pubDate>Wed, 22 Apr 2026 07:49:08 GMT</pubDate>
+      <title>[r/artificial] 人間神話は何もないハンバーガーになりつつある</title>
+      <link>https://www.reddit.com/r/artificial/comments/1stogic/anthropic_mythos_shaping_up_as_nothingburger/</link>
+      <description>&lt;p&gt;&lt;strong&gt;人間神話は何もないハンバーガーになりつつある&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/sourdub [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic Mythos shaping up as nothingburger&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1stogic/anthropic_mythos_shaping_up_as_nothingburger/</guid>
+      <pubDate>Thu, 23 Apr 2026 16:54:58 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] アップルのAIへの挑戦は、ソフトウェアではなくハードウェアに賭ける</title>
-      <link>https://www.reddit.com/r/artificial/comments/1srmdg7/apples_play_for_ai_is_a_hardware_bet_not_software/</link>
-      <description>&lt;p&gt;&lt;strong&gt;アップルのAIへの挑戦は、ソフトウェアではなくハードウェアに賭ける&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アップルの取締役会が、ハードウェア面でキャリアを積んできた人物を選んだという事実が、それを物語っている。アップルの賭けは、彼らがAIの未来はハードウェアにあると信じていることを示唆している。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Apple's play for AI is a hardware bet, not software&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1srmdg7/apples_play_for_ai_is_a_hardware_bet_not_software/</guid>
-      <pubDate>Tue, 21 Apr 2026 12:35:57 GMT</pubDate>
+      <title>[r/artificial] AIツールは物事を簡単にするものなのか、それともやるべき仕事の種類を変えるだけのものなのか。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1st8uaq/are_ai_tools_making_things_easier_or_are_they/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIツールは物事を簡単にするものなのか、それともやるべき仕事の種類を変えるだけのものなのか。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIツールを使えば、多くのアイデアや方法を素早く思いつくことができる。  例えば、サイドプロジェクトや簡単なプランに取り組んでいる場合、次のようなことができる。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Are AI tools making things easier or are they just changing the type of work that needs to be done&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1st8uaq/are_ai_tools_making_things_easier_or_are_they/</guid>
+      <pubDate>Thu, 23 Apr 2026 04:46:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 22のAIイメージモデル（GPTイメージ2を含む）のコスト分析</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sth87q/cost_analysis_of_22_ai_image_models_incl_gpt/</link>
+      <description>&lt;p&gt;&lt;strong&gt;22のAIイメージモデル（GPTイメージ2を含む）のコスト分析&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;クラウドAIイメージ生成のコスト分析を更新しました。FLUX 2シリーズと、もちろんGPT Image 2の新しい安価な競合製品を追加した。GPT Image 2の速度は、FLUX 2と比較してあまり向上していません。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Cost Analysis of 22 AI Image Models (incl. GPT Image 2)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sth87q/cost_analysis_of_22_ai_image_models_incl_gpt/</guid>
+      <pubDate>Thu, 23 Apr 2026 12:23:30 GMT</pubDate>
     </item>
     <item>
       <title>[r/LocalLLaMA] ベスト・ローカルLLM - 2026年4月</title>
@@ -199,31 +192,40 @@
       <pubDate>Mon, 13 Apr 2026 21:00:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] Qwen3.6-35Bは、適切なエージェントと組み合わせることで、クラウドモデルに匹敵する競争力を発揮する。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ssilc3/qwen3635b_becomes_competitive_with_cloud_models/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Qwen3.6-35Bは、適切なエージェントと組み合わせることで、クラウドモデルに匹敵する競争力を発揮する。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;同じ9Bのクウェンモデルの足場を変更することで、ベンチマークのパフォーマンスが19.11%から45.56%に向上したことを示した前回の記事の簡単なフォローアップである。https://www.reddit.com/r/LocalLLaMA/s/&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Qwen3.6-35B becomes competitive with cloud models when paired with the right agent&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1ssilc3/qwen3635b_becomes_competitive_with_cloud_models/</guid>
-      <pubDate>Wed, 22 Apr 2026 11:22:42 GMT</pubDate>
+      <title>[r/LocalLLaMA] 敵対的蒸留」に関する米政府メモ - オープンモデルの規制強化に向かうのか？</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1stmx00/us_gov_memo_on_adversarial_distillation_are_we/</link>
+      <description>&lt;p&gt;&lt;strong&gt;敵対的蒸留」に関する米政府メモ - オープンモデルの規制強化に向かうのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;科学技術政策局からのメモを見つけた。主なポイントは、プロキシアカウントとジェイルブレイク技術を使用したモデルの能力の大規模な抽出に関する懸念のようだ。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: US gov memo on “adversarial distillation” - are we heading toward tighter controls on open models?&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1stmx00/us_gov_memo_on_adversarial_distillation_are_we/</guid>
+      <pubDate>Thu, 23 Apr 2026 15:59:39 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] llama.cppと統合されたRustで書かれた、LLMビルドインのローカルマンガ翻訳機</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sslwjv/local_manga_translator_with_llm_buildin_written/</link>
-      <description>&lt;p&gt;&lt;strong&gt;llama.cppと統合されたRustで書かれた、LLMビルドインのローカルマンガ翻訳機&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;こんにちは、LocalLLaMAです。数週間前に投稿を作成しましたが、今回このプロジェクトはより信頼性が高く、使いやすくなりました。これはマンガ翻訳機で、どんな画像の翻訳にも使えます。これは&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Local manga translator with LLM build-in, written in Rust with llama.cpp integration&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sslwjv/local_manga_translator_with_llm_buildin_written/</guid>
-      <pubDate>Wed, 22 Apr 2026 13:42:28 GMT</pubDate>
+      <title>[r/LocalLLaMA] ローカルのQwen3.6 35bでPI Coding Agentを使い始めてしばらく経つが、実に素晴らしい。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1stjwg5/been_using_pi_coding_agent_with_local_qwen36_35b/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ローカルのQwen3.6 35bでPI Coding Agentを使い始めてしばらく経つが、実に素晴らしい。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;PI Coding AgentとQwen3.6 35b a3b q4_k_xlモデルを実際のプロジェクトで使ってみたが、正直、ここまでうまくいくとは思わなかった。本当のゲーム・チェンジャーは、プラン・ファースト・スキルだった。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Been using PI Coding Agent with local Qwen3.6 35b for a while now and its actually insane&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1stjwg5/been_using_pi_coding_agent_with_local_qwen36_35b/</guid>
+      <pubDate>Thu, 23 Apr 2026 14:11:06 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] 最近6ヵ月間のオープンモデル - 2025年11月～2026年4月</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sskmhv/recent_open_models_from_last_6_months_nov_2025/</link>
-      <description>&lt;p&gt;&lt;strong&gt;最近6ヵ月間のオープンモデル - 2025年11月～2026年4月&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;このチャートは最近6ヶ月間のオープンモデルで作成した。それより古いものは少ないかもしれません。最新版のみ（例：Kimi-K2.6のみ、Kimi-K2.5 &amp;amp; Kimi-K2.また、GLM-5.1のみ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Recent Open models from last 6 Months - Nov 2025 - Apr 2026&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sskmhv/recent_open_models_from_last_6_months_nov_2025/</guid>
-      <pubDate>Wed, 22 Apr 2026 12:52:49 GMT</pubDate>
+      <title>[r/LocalLLaMA] テンセント、Hy3プレビューをリリース - オープンソース295B 21BのアクティブMoE</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1stk2mz/tencent_releases_hy3_preview_open_source_295b_21b/</link>
+      <description>&lt;p&gt;&lt;strong&gt;テンセント、Hy3プレビューをリリース - オープンソース295B 21BのアクティブMoE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ウェイト: tencent/Hy3-preview - 抱きしめる顔 &amp;#32;投稿者: &amp;#32; /u/TKGaming_11 [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Tencent Releases Hy3 preview - Open Source 295B 21B Active MoE&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1stk2mz/tencent_releases_hy3_preview_open_source_295b_21b/</guid>
+      <pubDate>Thu, 23 Apr 2026 14:17:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] クウェン3.6 27B、人工的な分析で代理店に大きな利益をもたらす - ソネット4.6とのタイアップ</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1strodp/qwen_36_27b_makes_huge_gains_in_agency_on/</link>
+      <description>&lt;p&gt;&lt;strong&gt;クウェン3.6 27B、人工的な分析で代理店に大きな利益をもたらす - ソネット4.6とのタイアップ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Qwen3.6 27BがAA&amp;#39;のAgentic IndexでSonnet 4.6と肩を並べ、Gemini 3.1 Pro Preview、GPT 5.2、5.3、MiniMax 2.7を抜いたのは異常だ。この3つの指数すべてで上昇したが、そのうちの1つ、Gemini 3.1 Pro Previewは、Gemini 3.1 Pro Previewを上回った。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Qwen 3.6 27B Makes Huge Gains in Agency on Artificial Analysis - Ties with Sonnet 4.6&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1strodp/qwen_36_27b_makes_huge_gains_in_agency_on/</guid>
+      <pubDate>Thu, 23 Apr 2026 18:47:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
