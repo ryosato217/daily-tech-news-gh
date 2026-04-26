@@ -3,32 +3,24 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-25</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-26</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Apr 2026 19:02:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 19:04:46 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (376pt) 1-Bit北斎「大波」（2023年）</title>
-      <link>https://news.ycombinator.com/item?id=47863570</link>
-      <description>&lt;p&gt;&lt;strong&gt;1-Bit北斎「大波」（2023年）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 1-Bit Hokusai's &quot;The Great Wave&quot; (2023)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47863570</guid>
-      <pubDate>Wed, 22 Apr 2026 13:46:23 GMT</pubDate>
+      <title>[Hacker News] (663pt) ChatGPTで武装したアマチュアがErdős問題を解く</title>
+      <link>https://news.ycombinator.com/item?id=47903126</link>
+      <description>&lt;p&gt;&lt;strong&gt;ChatGPTで武装したアマチュアがErdős問題を解く&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Amateur armed with ChatGPT solves an Erdős problem&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47903126</guid>
+      <pubDate>Sat, 25 Apr 2026 17:40:38 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (71pt) フレームワークノートPC 13 Pro：大幅なアップグレードとLinuxを前面に</title>
-      <link>https://news.ycombinator.com/item?id=47902816</link>
-      <description>&lt;p&gt;&lt;strong&gt;フレームワークノートPC 13 Pro：大幅なアップグレードとLinuxを前面に&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Framework Laptop 13 Pro: Major Upgrades and Linux Front and Center&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47902816</guid>
-      <pubDate>Sat, 25 Apr 2026 16:54:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (23pt) 北斎とテッセレーション</title>
-      <link>https://news.ycombinator.com/item?id=47902993</link>
-      <description>&lt;p&gt;&lt;strong&gt;北斎とテッセレーション&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Hokusai and Tesselations&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47902993</guid>
-      <pubDate>Sat, 25 Apr 2026 17:21:22 GMT</pubDate>
+      <title>[Hacker News] (107pt) GoDaddyが何の文書もなしに見知らぬ人にドメインを与えた</title>
+      <link>https://news.ycombinator.com/item?id=47911780</link>
+      <description>&lt;p&gt;&lt;strong&gt;GoDaddyが何の文書もなしに見知らぬ人にドメインを与えた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GoDaddy Gave a Domain to a Stranger Without Any Documentation&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47911780</guid>
+      <pubDate>Sun, 26 Apr 2026 16:57:56 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -49,9 +41,9 @@
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] リッスン・ラボ、AI顧客面談を拡大するための広告塔採用スタントで6,900万ドルを調達</title>
+      <title>[VentureBeat AI] リッスン・ラボ、AI顧客面談の規模を拡大するための広告塔採用スタントで6,900万ドルを調達</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
-      <description>&lt;p&gt;&lt;strong&gt;リッスン・ラボ、AI顧客面談を拡大するための広告塔採用スタントで6,900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;リッスン・ラボ、AI顧客面談の規模を拡大するための広告塔採用スタントで6,900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;アルフレッド・ワールフォルスは選択肢がなくなっていた。彼のスタートアップ、リッスン・ラボは100人以上のエンジニアを雇う必要があったが、マーク・ザッカーバーグの1億ドルのオファーに対抗するのは不可能に思えた。そこで彼は&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
@@ -94,6 +86,24 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
+      <title>[r/artificial] パランティア社員が語る「ファシズムへの転落」。Slackのメッセージ、現職および元職員へのインタビューは、会社が混乱している様子を描き出している。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1svitaf/palantir_employees_are_talking_about_companys/</link>
+      <description>&lt;p&gt;&lt;strong&gt;パランティア社員が語る「ファシズムへの転落」。Slackのメッセージ、現職および元職員へのインタビューは、会社が混乱している様子を描き出している。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/esporx [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Palantir employees are talking about company's &quot;descent into fascism&quot;. Slack messages, interviews with current and former works paint picture of company in turmoil.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1svitaf/palantir_employees_are_talking_about_companys/</guid>
+      <pubDate>Sat, 25 Apr 2026 17:48:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 誰かがAIを使ってデューンの一節を説明した。それが議論のすべてだ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sw9w50/someone_used_ai_to_explain_a_dune_passage_warning/</link>
+      <description>&lt;p&gt;&lt;strong&gt;誰かがAIを使ってデューンの一節を説明した。それが議論のすべてだ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;グローブ・アンド・メール紙の論説委員会は3月、「AIは松葉杖にも踏み台にもなり得る」と題する記事を掲載した。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Someone used AI to explain a Dune passage warning against using AI to do your thinking. That's the whole debate&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sw9w50/someone_used_ai_to_explain_a_dune_passage_warning/</guid>
+      <pubDate>Sun, 26 Apr 2026 15:02:47 GMT</pubDate>
+    </item>
+    <item>
       <title>[r/artificial] アルファ世代の男子は、現実の彼女より「AI彼女」を好む</title>
       <link>https://www.reddit.com/r/artificial/comments/1svesyt/gen_alpha_boys_are_preferring_ai_girlfriends_over/</link>
       <description>&lt;p&gt;&lt;strong&gt;アルファ世代の男子は、現実の彼女より「AI彼女」を好む&lt;/strong&gt;&lt;/p&gt;
@@ -103,85 +113,49 @@
       <pubDate>Sat, 25 Apr 2026 15:12:53 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] パランティア社員が語る「ファシズムへの転落」。Slackのメッセージ、現職および元職員へのインタビューは、会社が混乱状態にあることを描き出している。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1svitaf/palantir_employees_are_talking_about_companys/</link>
-      <description>&lt;p&gt;&lt;strong&gt;パランティア社員が語る「ファシズムへの転落」。Slackのメッセージ、現職および元職員へのインタビューは、会社が混乱状態にあることを描き出している。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/esporx [リンク] &amp;#32; [コメント] &amp;#32; [コメント] [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Palantir employees are talking about company's &quot;descent into fascism&quot;. Slack messages, interviews with current and former works paint picture of company in turmoil.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1svitaf/palantir_employees_are_talking_about_companys/</guid>
-      <pubDate>Sat, 25 Apr 2026 17:48:39 GMT</pubDate>
+      <title>[r/artificial] Claude、Gemini、Mimo、DeepSeekによってコード化されたボットが、ポリオミノ（テトリスのピースのようなもの。）</title>
+      <link>https://www.reddit.com/r/artificial/comments/1swb12w/bots_coded_by_claude_gemini_mimo_and_deepseek/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Claude、Gemini、Mimo、DeepSeekによってコード化されたボットが、ポリオミノ（テトリスのピースのようなもの。）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ChatGPT GPT 5.5はDOAでした。投稿者: &amp;#32; /u/reditzer [リンク] &amp;#32; [コメント].&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Bots coded by Claude, Gemini, Mimo and DeepSeek stacking polyominoes (think Tetris pieces, but with n blocks).&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1swb12w/bots_coded_by_claude_gemini_mimo_and_deepseek/</guid>
+      <pubDate>Sun, 26 Apr 2026 15:46:08 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] フォーチュン100のAI利用</title>
-      <link>https://www.reddit.com/r/artificial/comments/1svfkdt/fortune_100_ai_use/</link>
-      <description>&lt;p&gt;&lt;strong&gt;フォーチュン100のAI利用&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私はフォーチュン100社に名を連ねる企業に勤めているが、ハイテク企業ではない。この会社では、従業員の生産性を高めるためにAIの活用が進んでいる。社内にAIチャットツールを導入し、次のような選択を可能にしている。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Fortune 100 AI Use&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1svfkdt/fortune_100_ai_use/</guid>
-      <pubDate>Sat, 25 Apr 2026 15:43:11 GMT</pubDate>
+      <title>[r/artificial] バグを発見する新しいLinuxカーネルAIボットは、Framework Desktop上のローカルLLM + AMD Ryzen AI Max</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sw5kl3/the_new_linux_kernel_ai_bot_uncovering_bugs_is_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;バグを発見する新しいLinuxカーネルAIボットは、Framework Desktop上のローカルLLM + AMD Ryzen AI Max&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Fcking_Chuck [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The new Linux kernel AI bot uncovering bugs is a local LLM on Framework Desktop + AMD Ryzen AI Max&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sw5kl3/the_new_linux_kernel_ai_bot_uncovering_bugs_is_a/</guid>
+      <pubDate>Sun, 26 Apr 2026 11:56:08 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 危険すぎて公開できない」がAIの新常識になりつつある</title>
-      <link>https://www.reddit.com/r/artificial/comments/1svjxhl/too_dangerous_to_release_is_becoming_ais_new/</link>
-      <description>&lt;p&gt;&lt;strong&gt;危険すぎて公開できない」がAIの新常識になりつつある&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/simrobwest [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 'Too Dangerous to Release' Is Becoming AI's New Normal&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1svjxhl/too_dangerous_to_release_is_becoming_ais_new/</guid>
-      <pubDate>Sat, 25 Apr 2026 18:30:51 GMT</pubDate>
+      <title>[r/artificial] AIがパーソナルになり、ビッグ・テック・モデルを壊すとしたら？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1swbsu2/what_if_ai_becomes_personaland_breaks_the_big/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIがパーソナルになり、ビッグ・テック・モデルを壊すとしたら？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIの目覚ましい進歩のせいで、多くの人々が自分自身の将来に不安を感じている。考えてみれば、5年前にはほとんど誰も心配していなかったことだ、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What If AI Becomes Personal—And Breaks the Big Tech Model?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1swbsu2/what_if_ai_becomes_personaland_breaks_the_big/</guid>
+      <pubDate>Sun, 26 Apr 2026 16:14:59 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] GPT-5.5：「史上最強のエージェント・コーディング・モデル」は自らのゲームで大失敗（LiveBench）</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sv4l94/gpt55_strongest_agentic_coding_model_ever_failing/</link>
-      <description>&lt;p&gt;&lt;strong&gt;GPT-5.5：「史上最強のエージェント・コーディング・モデル」は自らのゲームで大失敗（LiveBench）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;おっと！ &amp;quot;GPT-5.5は、これまでで最も強力なエージェントコーディングモデルです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: GPT-5.5: 'strongest agentic coding model ever' failing spectacularly at its own game (LiveBench)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sv4l94/gpt55_strongest_agentic_coding_model_ever_failing/</guid>
-      <pubDate>Sat, 25 Apr 2026 06:39:40 GMT</pubDate>
+      <title>[r/artificial] 広告／コンテンツ用のAI動画ツールを6つテストしてみた。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sw1xos/i_tested_6_ai_video_tools_for_adscontent_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;広告／コンテンツ用のAI動画ツールを6つテストしてみた。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近、コンテンツ＋広告制作をスピードアップするために、いくつかのAI動画ツールを試している。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I tested 6 AI video tools for ads/content and here's what I found&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sw1xos/i_tested_6_ai_video_tools_for_adscontent_and/</guid>
+      <pubDate>Sun, 26 Apr 2026 08:30:39 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] GPT-5ナノに「バーレーンに住んでいる」と言うと、ソネット4.6に「どこに住んでいるか」と聞かれ、すぐにわかった。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1svixo0/built_crossmodel_persistent_memory_told_gpt5_nano/</link>
-      <description>&lt;p&gt;&lt;strong&gt;GPT-5ナノに「バーレーンに住んでいる」と言うと、ソネット4.6に「どこに住んでいるか」と聞かれ、すぐにわかった。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://reddit.com/link/1svixo0/video/hgwrueuekdxg1/player トリックもコピーペーストもない。全く異なる2つのAIモデル、別々の会話-一方はもう一方に言われたことを覚えている。仕組み&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Built cross-model persistent memory - told GPT-5 Nano I live in Bahrain, asked Sonnet 4.6 where I live, it knew instantly&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1svixo0/built_crossmodel_persistent_memory_told_gpt5_nano/</guid>
-      <pubDate>Sat, 25 Apr 2026 17:53:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] アントロピック・クロード・パートナー・ネットワークに参加 - CCAFの証明書へのアクセスを希望する人のためのスポットがある。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sv02t1/got_into_the_anthropic_claude_partner_network/</link>
-      <description>&lt;p&gt;&lt;strong&gt;アントロピック・クロード・パートナー・ネットワークに参加 - CCAFの証明書へのアクセスを希望する人のためのスポットがある。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ちょうどアントロピック・クロード・パートナー・ネットワークに受け入れられたところだ。その条件のひとつは、CPNラーニングパスを10人のメンバーと共に修了することです。ラーニングパスは、アンソロの4つのコースです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Got into the Anthropic Claude Partner Network — have spots for people who want CCAF cert access&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sv02t1/got_into_the_anthropic_claude_partner_network/</guid>
-      <pubDate>Sat, 25 Apr 2026 02:48:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 実際に役立つAI vs 誇大広告にすぎないAI</title>
-      <link>https://www.reddit.com/r/artificial/comments/1svkq7v/the_ai_that_actually_helps_vs_the_ai_thats_just/</link>
-      <description>&lt;p&gt;&lt;strong&gt;実際に役立つAI vs 誇大広告にすぎないAI&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今、奇妙な分裂が起きている。いくつかのAIツールは、人々の生活を本当に便利にしている。他のものは、本当の問題を解決していないため、使われることなく放置されている。私は次のことに気づいた。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The AI that actually helps vs the AI that's just hype&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1svkq7v/the_ai_that_actually_helps_vs_the_ai_thats_just/</guid>
-      <pubDate>Sat, 25 Apr 2026 19:01:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIツールライブラリが更新され、新しいツール、まったく新しいカテゴリー、新しいホームが追加された。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1svcwmq/updated_the_ai_tools_library_new_tools_a_whole/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIツールライブラリが更新され、新しいツール、まったく新しいカテゴリー、新しいホームが追加された。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;tolop.space（そう、新ドメインだ-詳しくは後述する）とは？&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: updated the AI tools library, new tools, a whole new category, and a new home&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1svcwmq/updated_the_ai_tools_library_new_tools_a_whole/</guid>
-      <pubDate>Sat, 25 Apr 2026 13:56:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIエージェントのセットアップと設定を行うオープンソースツールをリリースしました。700の星を獲得し、成長を続けています。どんな機能が欲しいですか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sv9o4y/we_released_an_open_source_tool_that_handles_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIエージェントのセットアップと設定を行うオープンソースツールをリリースしました。700の星を獲得し、成長を続けています。どんな機能が欲しいですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;皆さん、しばらく前に、AIエージェントを一貫してセットアップするのがいかに大変か、私たちは苛立ちました。プロジェクトごとに独自のアプローチがあり、コンフィグがばらばらで、ローカルで動作するものとローカルで動作しないもののギャップがありました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: We released an open source tool that handles AI agent setup and config. 700 stars and growing. What features do you want to see?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sv9o4y/we_released_an_open_source_tool_that_handles_ai/</guid>
-      <pubDate>Sat, 25 Apr 2026 11:30:46 GMT</pubDate>
+      <title>[r/artificial] 我々は、APIレイヤーでLLMエージェントのルールを強制するオープンソースのプロキシを構築した - 700 GitHub stars</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sw3hij/we_built_an_opensource_proxy_that_enforces_llm/</link>
+      <description>&lt;p&gt;&lt;strong&gt;我々は、APIレイヤーでLLMエージェントのルールを強制するオープンソースのプロキシを構築した - 700 GitHub stars&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;この問題はAIエージェントを使うすべての人に影響するので、ここにクロスポストする。プロンプトベースのガードレールは失敗します。モデルは、デモではあなたのシステムプロンプトに従いますが、コンテキストが大きくなるとルールを無視します。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: We built an open-source proxy that enforces LLM agent rules at the API layer - 700 GitHub stars&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sw3hij/we_built_an_opensource_proxy_that_enforces_llm/</guid>
+      <pubDate>Sun, 26 Apr 2026 10:02:24 GMT</pubDate>
     </item>
     <item>
       <title>[r/LocalLLaMA] AMAのお知らせ：Nous Research、Hermes Agentを支えるオープンソースラボ (水曜日、午前8時-午前11時PST)</title>
@@ -193,13 +167,49 @@
       <pubDate>Fri, 24 Apr 2026 23:52:19 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] Qwen3.6-27B、vllm 0.19による1x RTX 5090、218kコンテキスト・ウィンドウ、約80tpsで動作。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sv8eua/qwen3627b_at_80_tps_with_218k_context_window_on/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Qwen3.6-27B、vllm 0.19による1x RTX 5090、218kコンテキスト・ウィンドウ、約80tpsで動作。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Qwen3.6-27Bが数日前にリリースされ、MTPを搭載したNVFP4がHFで早くもドロップされた。https://huggingface.co/sakamakismile/Qwen3.6-27B-Text-NVFP4-MTP Qwen3.5-27Bで使用したのと同じレシピで、次のことができる。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Qwen3.6-27B at ~80 tps with 218k context window on 1x RTX 5090 served by vllm 0.19&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sv8eua/qwen3627b_at_80_tps_with_218k_context_window_on/</guid>
-      <pubDate>Sat, 25 Apr 2026 10:21:45 GMT</pubDate>
+      <title>[r/LocalLLaMA] Qwen3.6 35B A3B Heretic (KLD 0.0015!) 信じられないモデル。最高の35Bだ！</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sw5fb7/qwen36_35b_a3b_heretic_kld_00015_incredible_model/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Qwen3.6 35B A3B Heretic (KLD 0.0015!) 信じられないモデル。最高の35Bだ！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これを数日間使っている。Qwen 3.6 35B用のノーカットモデルとしては、私が見つけた中で断然ベストです。IQ4XS、Q8 KVcache、262Kコンテクストで、24GBのVRAMに収まるし、マルチ・ターン・ツールでも失敗しない。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Qwen3.6 35B A3B Heretic (KLD 0.0015!) Incredible model. Best 35B I have found!&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sw5fb7/qwen36_35b_a3b_heretic_kld_00015_incredible_model/</guid>
+      <pubDate>Sun, 26 Apr 2026 11:48:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] アンスロスのモデルは、私が読んだ通り良いものですか？</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sw8uyf/are_unsloth_models_as_good_as_i_read/</link>
+      <description>&lt;p&gt;&lt;strong&gt;アンスロスのモデルは、私が読んだ通り良いものですか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;どなたか、アンスロスが提供するモデルとその対抗モデルを比較された方はいらっしゃいますか？例えば：私はqwen3.6:35b-a3b Q4_K_Mを使用していますが、私のMBP 64GBでは約39 t/sです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Are Unsloth models as good as I read?&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sw8uyf/are_unsloth_models_as_good_as_i_read/</guid>
+      <pubDate>Sun, 26 Apr 2026 14:22:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] Qwen3.6-27B-INT4がvllm 0.19を介して1x RTX 5090で256kのコンテキスト長で100 tpsのクロックを記録。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sw21op/qwen3627bint4_clocking_100_tps_with_256k_context/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Qwen3.6-27B-INT4がvllm 0.19を介して1x RTX 5090で256kのコンテキスト長で100 tpsのクロックを記録。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;コミュニティのおかげでQwen3.6-27Bのスピードは向上し続けている。以下は昨日の私のレシピを改良したもので、なんと100tps以上（TG）を実現した。モデル： https://huggingface.co/Lorbus/Qw&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Qwen3.6-27B-INT4 clocking 100 tps with 256k context length on 1x RTX 5090 via vllm 0.19&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sw21op/qwen3627bint4_clocking_100_tps_with_256k_context/</guid>
+      <pubDate>Sun, 26 Apr 2026 08:37:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] OpenAIによるPIIの検出とマスキングの新モデル</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sw000s/new_model_for_detecting_and_masking_pii_from/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIによるPIIの検出とマスキングの新モデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/doesitoffendyou [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: New model for detecting and masking PII from OpenAI&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sw000s/new_model_for_detecting_and_masking_pii_from/</guid>
+      <pubDate>Sun, 26 Apr 2026 06:40:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] 27b～31bモデル用ハードウェアの選択肢。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sw7e0g/hardware_choice_for_27b_to_31b_models/</link>
+      <description>&lt;p&gt;&lt;strong&gt;27b～31bモデル用ハードウェアの選択肢。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は27bと31bのモデルがとても印象的だと思うようになりました。  私は16GBのAMD Radeon 7800xtを持っている。かなりいい性能です。700ドルでした。ここで質問です：  デュアルGPUというアプローチは、本当にいいのでしょうか？&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Hardware Choice for 27b to 31b models.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sw7e0g/hardware_choice_for_27b_to_31b_models/</guid>
+      <pubDate>Sun, 26 Apr 2026 13:21:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
