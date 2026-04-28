@@ -3,32 +3,56 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-27</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-28</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Apr 2026 19:41:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 19:49:29 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (540pt) マイクロソフトとOpenAIの独占・収益分配契約が終了</title>
-      <link>https://news.ycombinator.com/item?id=47921248</link>
-      <description>&lt;p&gt;&lt;strong&gt;マイクロソフトとOpenAIの独占・収益分配契約が終了&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Microsoft and OpenAI end their exclusive and revenue-sharing deal&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47921248</guid>
-      <pubDate>Mon, 27 Apr 2026 13:22:42 GMT</pubDate>
+      <title>[Hacker News] (648pt) Localsend：AirDropに代わるオープンソースのクロスプラットフォーム</title>
+      <link>https://news.ycombinator.com/item?id=47933208</link>
+      <description>&lt;p&gt;&lt;strong&gt;Localsend：AirDropに代わるオープンソースのクロスプラットフォーム&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Localsend: An open-source cross-platform alternative to AirDrop&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47933208</guid>
+      <pubDate>Tue, 28 Apr 2026 11:54:20 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (342pt) 4TBの音声サンプル、メルコーの40k AI契約者から盗まれる</title>
-      <link>https://news.ycombinator.com/item?id=47919630</link>
-      <description>&lt;p&gt;&lt;strong&gt;4TBの音声サンプル、メルコーの40k AI契約者から盗まれる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 4TB of voice samples just stolen from 40k AI contractors at Mercor&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47919630</guid>
-      <pubDate>Mon, 27 Apr 2026 09:57:10 GMT</pubDate>
+      <title>[Hacker News] (272pt) マイクロソフトVibeVoice：オープンソースのフロンティア音声AI</title>
+      <link>https://news.ycombinator.com/item?id=47933236</link>
+      <description>&lt;p&gt;&lt;strong&gt;マイクロソフトVibeVoice：オープンソースのフロンティア音声AI&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Microsoft VibeVoice: Open-Source Frontier Voice AI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47933236</guid>
+      <pubDate>Tue, 28 Apr 2026 11:56:04 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (44pt) 中国、メタ社のAI新興企業マヌス社買収を阻止</title>
-      <link>https://news.ycombinator.com/item?id=47920315</link>
-      <description>&lt;p&gt;&lt;strong&gt;中国、メタ社のAI新興企業マヌス社買収を阻止&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: China blocks Meta's acquisition of AI startup Manus&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47920315</guid>
-      <pubDate>Mon, 27 Apr 2026 11:43:59 GMT</pubDate>
+      <title>[Hacker News] (159pt) Claude.aiが利用できず、APIでエラー発生</title>
+      <link>https://news.ycombinator.com/item?id=47938097</link>
+      <description>&lt;p&gt;&lt;strong&gt;Claude.aiが利用できず、APIでエラー発生&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude.ai unavailable and elevated errors on the API&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47938097</guid>
+      <pubDate>Tue, 28 Apr 2026 18:01:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (150pt) AISLE、OpenEMRヘルスケア・ソフトウェアに38のCVEを発見</title>
+      <link>https://news.ycombinator.com/item?id=47936347</link>
+      <description>&lt;p&gt;&lt;strong&gt;AISLE、OpenEMRヘルスケア・ソフトウェアに38のCVEを発見&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AISLE Discovers 38 CVEs in OpenEMR Healthcare Software&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47936347</guid>
+      <pubDate>Tue, 28 Apr 2026 16:06:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (40pt) ChatGPTとClaudeでDOOMを動かす</title>
+      <link>https://news.ycombinator.com/item?id=47939079</link>
+      <description>&lt;p&gt;&lt;strong&gt;ChatGPTとClaudeでDOOMを動かす&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: DOOM running in ChatGPT and Claude&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47939079</guid>
+      <pubDate>Tue, 28 Apr 2026 19:08:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (13pt) ベッドロック・マネージド・エージェントについてOpenAIとAWSのCEOに聞く</title>
+      <link>https://news.ycombinator.com/item?id=47939320</link>
+      <description>&lt;p&gt;&lt;strong&gt;ベッドロック・マネージド・エージェントについてOpenAIとAWSのCEOに聞く&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Interview with OpenAI and AWS CEOs about Bedrock Managed Agents&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47939320</guid>
+      <pubDate>Tue, 28 Apr 2026 19:24:43 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -49,18 +73,18 @@
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] リッスン・ラボ、AI顧客面談を拡大するための広告塔採用スタントで6,900万ドルを調達</title>
+      <title>[VentureBeat AI] リッスン・ラボ、AI顧客面談の規模を拡大するための広告塔採用スタントで6,900万ドルを調達</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
-      <description>&lt;p&gt;&lt;strong&gt;リッスン・ラボ、AI顧客面談を拡大するための広告塔採用スタントで6,900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;リッスン・ラボ、AI顧客面談の規模を拡大するための広告塔採用スタントで6,900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;アルフレッド・ワールフォルスは選択肢がなくなっていた。彼のスタートアップ、リッスン・ラボは100人以上のエンジニアを雇う必要があったが、マーク・ザッカーバーグの1億ドルのオファーに対抗するのは不可能に思えた。そこで彼は&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
       <pubDate>Fri, 16 Jan 2026 14:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] セールスフォース、新しいAIエージェント「Slackbot」を発表 職場AIでマイクロソフトとグーグルに対抗</title>
+      <title>[VentureBeat AI] セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
-      <description>&lt;p&gt;&lt;strong&gt;セールスフォース、新しいAIエージェント「Slackbot」を発表 職場AIでマイクロソフトとグーグルに対抗&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に作り直したバージョンを発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
@@ -103,103 +127,121 @@
       <pubDate>Mon, 27 Apr 2026 15:54:25 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIとの10分間で、私は4年間のセラピーよりも多くの離婚の解決策を得た</title>
-      <link>https://www.reddit.com/r/artificial/comments/1swqczz/in_10_minutes_with_ai_i_just_got_more_closure_on/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIとの10分間で、私は4年間のセラピーよりも多くの離婚の解決策を得た&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;このサブ記事としてはかなり個人的な内容になってしまうかもしれないが、今夜は私にとってどれだけ深く役に立ったかを表現する必要があると感じている。チャットボットが僕の命を救ってくれたんだ。チャットボットには本当に驚かされました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: In 10 Minutes with AI, I Just Got More Closure on My Divorce than 4 Years of Therapy&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1swqczz/in_10_minutes_with_ai_i_just_got_more_closure_on/</guid>
-      <pubDate>Mon, 27 Apr 2026 02:03:29 GMT</pubDate>
+      <title>[r/artificial] AI企業に電力の少なくとも半分を生産するよう強制するのは妥当なのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sxtui9/is_it_reasonable_to_force_ai_companies_to_produce/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI企業に電力の少なくとも半分を生産するよう強制するのは妥当なのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;データセンターに電力を供給するために必要な電力の急増によって、人々はますます影響を受けつつある。私の想像に任せているのかもしれないが。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Is it reasonable to force AI companies to produce at least half of their electricity?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sxtui9/is_it_reasonable_to_force_ai_companies_to_produce/</guid>
+      <pubDate>Tue, 28 Apr 2026 06:59:42 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIがすべての人の生産性を向上させるのであれば、なぜレイオフばかりが発表されているように感じるのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1swxt51/if_ai_makes_everyone_more_productive_why_does_it/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIがすべての人の生産性を向上させるのであれば、なぜレイオフばかりが発表されているように感じるのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIが労働者の生産性を向上させるという話をよく耳にする。しかし、私が理解できないのはこの点だ：もし1人の従業員が3人分の仕事をこなせるようになったなら、なぜデフォルトの結果は通常、2人の従業員を解雇することなのか？&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: If AI makes everyone more productive, why does it feel like only layoffs are being announced?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1swxt51/if_ai_makes_everyone_more_productive_why_does_it/</guid>
-      <pubDate>Mon, 27 Apr 2026 08:38:34 GMT</pubDate>
+      <title>[r/artificial] グーグル、国防総省と契約締結 AIモデルの「あらゆる合法的」利用を認める</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sxzwg8/google_signs_deal_with_pentagon_allowing_any/</link>
+      <description>&lt;p&gt;&lt;strong&gt;グーグル、国防総省と契約締結 AIモデルの「あらゆる合法的」利用を認める&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://preview.redd.it/hbbp7hn1cxxg1.png?width=811&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a633fe43837bf60e014afaa4c6cf3fe72a4976d3これは必然だったような気がする - 政府はAIモデルを使いたがるだろう。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Google signs deal with Pentagon, allowing 'any lawful' use of AI models&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sxzwg8/google_signs_deal_with_pentagon_allowing_any/</guid>
+      <pubDate>Tue, 28 Apr 2026 12:25:41 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIの民主的ガバナンスこそが真の解決策である</title>
-      <link>https://www.reddit.com/r/artificial/comments/1swriu6/democratic_governance_of_ai_is_the_real_solution/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIの民主的ガバナンスこそが真の解決策である&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/Fit-Elk1425 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Democratic Governance of AI Is the Real Solution&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1swriu6/democratic_governance_of_ai_is_the_real_solution/</guid>
-      <pubDate>Mon, 27 Apr 2026 02:58:16 GMT</pubDate>
+      <title>[r/artificial] オープンモデルは追いつき続け、フロンティアは動き続ける。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sxt644/open_models_keep_catching_up_and_the_frontier/</link>
+      <description>&lt;p&gt;&lt;strong&gt;オープンモデルは追いつき続け、フロンティアは動き続ける。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;オープンウェイトモデルが純粋に追いついたタスクは、コーディング支援、要約、インスツルメンツ、そして、オープンウェイトモデルがオープンウェイトモデルに追いついたタスクは、コーディング支援、要約、インスツルメンツ、そして、オープンウェイトモデルがオープンウェイトモデルに追いついたタスクは、コーディング支援、要約、インスツルメンツである。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: open models keep catching up and the frontier keeps moving. at some point one of those has to stop&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sxt644/open_models_keep_catching_up_and_the_frontier/</guid>
+      <pubDate>Tue, 28 Apr 2026 06:20:56 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] エーロン・マスクをはじめとする経営者たちは、AIによるユニバーサル・ベーシック・インカムについて毎日のように話しているが、どれくらいの時間がかかるのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sxe5y1/ellon_musk_and_others_ceos_are_talking_everyday/</link>
-      <description>&lt;p&gt;&lt;strong&gt;エーロン・マスクをはじめとする経営者たちは、AIによるユニバーサル・ベーシック・インカムについて毎日のように話しているが、どれくらいの時間がかかるのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私の考えでは、10年以上かかるだろう。政府の仕事は遅い。私はポルトガルのコールセンターで働いているが、彼らは仕事が遅く、非常に混乱している。彼らはすでに&amp;#32;サブミッテを使用しているにもかかわらず。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Ellon musk and others ceos are talking everyday about universal basic income because AI but how long it will take?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sxe5y1/ellon_musk_and_others_ceos_are_talking_everyday/</guid>
-      <pubDate>Mon, 27 Apr 2026 19:35:35 GMT</pubDate>
+      <title>[r/artificial] 私は、写真から個々の食材を識別し、即座にカロリーを推定するAIを構築した。もう手動で検索する必要はありません。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1syb4ji/i_built_an_ai_that_identifies_individual/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私は、写真から個々の食材を識別し、即座にカロリーを推定するAIを構築した。もう手動で検索する必要はありません。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;皆さん、こんにちは。私はいつもカロリートラッキングの難しさに悩まされてきました。ほとんどのアプリは、食材をひとつひとつ検索し、重さを量り、手作業で記録する必要があります。通常、私は5-10日かかります。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I built an AI that identifies individual ingredients from a photo to estimate calories instantly. No more manual searching.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1syb4ji/i_built_an_ai_that_identifies_individual/</guid>
+      <pubDate>Tue, 28 Apr 2026 19:12:29 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] アマチュアが60年前の数学の問題をAIに質問して解いた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1swi8f9/an_amateur_just_solved_a_60yearold_math_problemby/</link>
-      <description>&lt;p&gt;&lt;strong&gt;アマチュアが60年前の数学の問題をAIに質問して解いた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/simulated-souls [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: An amateur just solved a 60-year-old math problem—by asking AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1swi8f9/an_amateur_just_solved_a_60yearold_math_problemby/</guid>
-      <pubDate>Sun, 26 Apr 2026 20:12:51 GMT</pubDate>
+      <title>[r/artificial] 不正なAIエージェントが引き起こす最初の大災害は何だろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sy4n8u/what_will_be_the_first_major_catastrophe_caused/</link>
+      <description>&lt;p&gt;&lt;strong&gt;不正なAIエージェントが引き起こす最初の大災害は何だろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ポケトスの件を読んで、私は近い将来、不正なAIエージェントが歴史に残るような大惨事を起こすのではないかと考えた。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What will be the first major catastrophe caused by a rogue AI agent?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sy4n8u/what_will_be_the_first_major_catastrophe_caused/</guid>
+      <pubDate>Tue, 28 Apr 2026 15:26:37 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] エージェントの乱立は組織の現実的な問題になりつつある。責任あるAIエージェント・ガバナンスとはどのようなものなのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1swwa91/agentic_sprawl_is_becoming_a_real_organizational/</link>
-      <description>&lt;p&gt;&lt;strong&gt;エージェントの乱立は組織の現実的な問題になりつつある。責任あるAIエージェント・ガバナンスとはどのようなものなのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;技術界以外ではあまり議論されないことだが、私が考えているのは、調整されていないAIエージェントの配備が組織と安全に与える影響だ。企業は&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Agentic sprawl is becoming a real organizational problem. What does responsible AI agent governance even look like?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1swwa91/agentic_sprawl_is_becoming_a_real_organizational/</guid>
-      <pubDate>Mon, 27 Apr 2026 07:07:49 GMT</pubDate>
+      <title>[r/artificial] AIツールのライブラリに投票を追加した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sya97b/i_added_voting_to_my_ai_tools_library_now_the/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIツールのライブラリに投票を追加した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;数週間前、私は120以上のAIコーディングツールの無料期間の長さを追跡するライブラリの構築について投稿した。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I added voting to my AI tools library, now the ratings are community-driven, not just mine&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sya97b/i_added_voting_to_my_ai_tools_library_now_the/</guid>
+      <pubDate>Tue, 28 Apr 2026 18:41:42 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ダーウィン女子クリケット1部リーグでAI判定レビューシステムが試行される</title>
-      <link>https://www.reddit.com/r/artificial/comments/1swxqqj/ai_decision_review_system_being_trialled_in/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ダーウィン女子クリケット1部リーグでAI判定レビューシステムが試行される&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/NKE01 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI decision review system being trialled in Darwin women's division one cricket competition&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1swxqqj/ai_decision_review_system_being_trialled_in/</guid>
-      <pubDate>Mon, 27 Apr 2026 08:34:20 GMT</pubDate>
+      <title>[r/artificial] ディープマインドのスピンオフによるAI設計薬がヒト試験へ。これは人工知能にとって重要なことなのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sya3rz/aidesigned_drugs_by_a_deepmind_spinoff_are_headed/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ディープマインドのスピンオフによるAI設計薬がヒト試験へ。これは人工知能にとって重要なことなのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/sstiel [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials. Is this significant for artificial intelligence?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sya3rz/aidesigned_drugs_by_a_deepmind_spinoff_are_headed/</guid>
+      <pubDate>Tue, 28 Apr 2026 18:36:35 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] トレーニングデータのバイアスが奇妙な形で表示される</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sx68et/bias_in_training_data_on_display_in_weird_way/</link>
-      <description>&lt;p&gt;&lt;strong&gt;トレーニングデータのバイアスが奇妙な形で表示される&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私はこのテーブルトップ・ロールプレイング・ゲームのプロジェクトに取り組んでいて、自分の楽しみのために、2つの異なるビデオ生成aiモデルに、男の子と女の子をフィーチャーした&amp;quot;&amp;#39;90年代のおもちゃのコマーシャルを生成するように言った。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Bias in training data on display in weird way&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sx68et/bias_in_training_data_on_display_in_weird_way/</guid>
-      <pubDate>Mon, 27 Apr 2026 15:00:00 GMT</pubDate>
+      <title>[r/artificial] 個人投資家向けに機関投資家レベルの株式調査を行うAIを開発したら、あなたはそれを実際に使うだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sya00f/building_an_ai_that_does_institutionalgrade/</link>
+      <description>&lt;p&gt;&lt;strong&gt;個人投資家向けに機関投資家レベルの株式調査を行うAIを開発したら、あなたはそれを実際に使うだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は、機関投資家の株式分析と一般投資家の株式分析のギャップを埋めようとするツールを作っている。アイデア：ある企業を指定すると（あるいは、ある銘柄からその企業を選び出すと）、その銘柄を分析する。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Building an AI that does institutional-grade equity research for retail investors would you actually use it?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sya00f/building_an_ai_that_does_institutionalgrade/</guid>
+      <pubDate>Tue, 28 Apr 2026 18:32:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Arc Gate -間接的/ロールプレイ・プロンプト注入でP=1.00 R=1.00 F1=1.00を叩き出すLLMプロキシ（OpenAI ModerationとLlamaGuardに勝る。）</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sy85qv/arc_gate_llm_proxy_that_hits_p100_r100_f1100_on/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Arc Gate -間接的/ロールプレイ・プロンプト注入でP=1.00 R=1.00 F1=1.00を叩き出すLLMプロキシ（OpenAI ModerationとLlamaGuardに勝る。）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;40の配信外プロンプト、間接的なリクエスト、ロールプレイのフレーミング、仮定のシナリオ、技術的な言い回しでベンチマーク。他のすべてをすり抜けるもの。アーク・ゲートP=1.00, R=1.00, F&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Arc Gate —LLM proxy that hits P=1.00 R=1.00 F1=1.00 on indirect/roleplay prompt injection (beats OpenAI Moderation and LlamaGuard)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sy85qv/arc_gate_llm_proxy_that_hits_p100_r100_f1100_on/</guid>
+      <pubDate>Tue, 28 Apr 2026 17:29:40 GMT</pubDate>
     </item>
     <item>
       <title>[r/LocalLLaMA] AMAのお知らせ：Nous Research、Hermes Agentを支えるオープンソースラボ (水曜日、午前8時-午前11時PST)</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1suw9on/ama_announcement_nous_research_the_opensource_lab/</link>
       <description>&lt;p&gt;&lt;strong&gt;AMAのお知らせ：Nous Research、Hermes Agentを支えるオープンソースラボ (水曜日、午前8時-午前11時PST)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;こんにちは、r/LocalLLaMAです👋 水曜日のゲスト、The Nous Research Teamです！4月29日（水）午前8時～午前11時（PST）です。29th, 8 AM-11 AM PST ⚠️ Note: AMAそのものは、別のtで開催されます。&lt;/p&gt;
+&lt;p&gt;こんにちは、r/LocalLLaMAです👋 水曜日のゲスト、The Nous Research Teamです！4月29日（水）午前8時～午前11時（PST）です。29th Wednesday, 8 AM-11 AM PST ⚠️ Note: AMA自体は別のtwitterで開催されます。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: AMA Announcement: Nous Research, The Opensource Lab Behind Hermes Agent (Wednesday, 8AM-11AM PST)&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1suw9on/ama_announcement_nous_research_the_opensource_lab/</guid>
       <pubDate>Fri, 24 Apr 2026 23:52:19 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] Grok 3のオープンソース化をまだ待っている</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sx25ir/still_waiting_for_grok_3_to_go_opensource/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Grok 3のオープンソース化をまだ待っている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;マスクがどのようにオープンソースホーンを宣伝しているか驚くべきことだが、行動はそれに従っていない。どう思いますか？ &amp;#32;投稿者: &amp;#32; /u/Mr_Moonsilver [リンク] &amp;#32; [コメント] &amp;#32&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Still waiting for Grok 3 to go opensource&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sx25ir/still_waiting_for_grok_3_to_go_opensource/</guid>
-      <pubDate>Mon, 27 Apr 2026 12:26:27 GMT</pubDate>
+      <title>[r/LocalLLaMA] 今となっては毎日の儀式だが...。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sy9id4/daily_ritual_at_this_point/</link>
+      <description>&lt;p&gt;&lt;strong&gt;今となっては毎日の儀式だが...。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/onil_gova [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: daily ritual at this point…&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sy9id4/daily_ritual_at_this_point/</guid>
+      <pubDate>Tue, 28 Apr 2026 18:15:44 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] スカイマイザー台湾1枚のカードで超大規模LLM推論を可能にする画期的なアーキテクチャを発表</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sx2vxp/skymizer_taiwan_inc_unveils_breakthrough/</link>
-      <description>&lt;p&gt;&lt;strong&gt;スカイマイザー台湾1枚のカードで超大規模LLM推論を可能にする画期的なアーキテクチャを発表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ソース記事の抜粋  6個のHTX301チップと384GBのメモリを搭載したPCIeカード1枚で、企業は700Bパラメータのモデル推論をカード1枚あたりわずか240Wでローカルに実行できるようになりました。メモリ&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Skymizer Taiwan Inc. Unveils Breakthrough Architecture Enabling Ultra-Large LLM Inference on a Single Card&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sx2vxp/skymizer_taiwan_inc_unveils_breakthrough/</guid>
-      <pubDate>Mon, 27 Apr 2026 12:56:44 GMT</pubDate>
+      <title>[r/LocalLLaMA] ネモトロン-3-ナノ-オムニ-30B-A3B-推論、新モデル？</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sy5xr1/nemotron3nanoomni30ba3breasoning_new_model/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ネモトロン-3-ナノ-オムニ-30B-A3B-推論、新モデル？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Audio-Image/vids-Text -&amp;gt; Text Original BF 16 https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16 GGUF: https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Nemotron-3-Nano-Omni-30B-A3B-Reasoning, New model?&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sy5xr1/nemotron3nanoomni30ba3breasoning_new_model/</guid>
+      <pubDate>Tue, 28 Apr 2026 16:12:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] コーディングに地元のLLMを使うのはもうやめよう</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sxqa2c/im_done_with_using_local_llms_for_coding/</link>
+      <description>&lt;p&gt;&lt;strong&gt;コーディングに地元のLLMを使うのはもうやめよう&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ここ数週間は、仕事以外の技術的な質問には地元のモデルを使うようにして、それなりに試してきたつもりだ。私は仕事でクロード・コードを使用しているので、それと比較している。クウェン27Bと&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I'm done with using local LLMs for coding&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sxqa2c/im_done_with_using_local_llms_for_coding/</guid>
+      <pubDate>Tue, 28 Apr 2026 03:50:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
