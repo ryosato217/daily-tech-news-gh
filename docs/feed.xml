@@ -3,32 +3,32 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-29</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-30</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Apr 2026 19:44:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 19:42:03 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (165pt) コピー失敗 - CVE-2026-31431</title>
-      <link>https://news.ycombinator.com/item?id=47952181</link>
-      <description>&lt;p&gt;&lt;strong&gt;コピー失敗 - CVE-2026-31431&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Copy Fail – CVE-2026-31431&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47952181</guid>
-      <pubDate>Wed, 29 Apr 2026 18:13:53 GMT</pubDate>
+      <title>[Hacker News] (609pt) Claude Codeは、&quot;OpenClaw &quot;とコミットした場合、リクエストを拒否するか、追加料金を請求する。</title>
+      <link>https://news.ycombinator.com/item?id=47963204</link>
+      <description>&lt;p&gt;&lt;strong&gt;Claude Codeは、&quot;OpenClaw &quot;とコミットした場合、リクエストを拒否するか、追加料金を請求する。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Code refuses requests or charges extra if your commits mention &quot;OpenClaw&quot;&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47963204</guid>
+      <pubDate>Thu, 30 Apr 2026 14:36:58 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (42pt) ランプのシーツAIが財務情報を流出させる</title>
-      <link>https://news.ycombinator.com/item?id=47951786</link>
-      <description>&lt;p&gt;&lt;strong&gt;ランプのシーツAIが財務情報を流出させる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Ramp's Sheets AI Exfiltrates Financials&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47951786</guid>
-      <pubDate>Wed, 29 Apr 2026 17:44:21 GMT</pubDate>
+      <title>[Hacker News] (201pt) PyTorch Lightning AIトレーニングライブラリにShai-Huludをテーマとしたマルウェアが見つかる</title>
+      <link>https://news.ycombinator.com/item?id=47964617</link>
+      <description>&lt;p&gt;&lt;strong&gt;PyTorch Lightning AIトレーニングライブラリにShai-Huludをテーマとしたマルウェアが見つかる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47964617</guid>
+      <pubDate>Thu, 30 Apr 2026 16:09:26 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (32pt) &quot;AIを使わない人は取り残される&quot;</title>
-      <link>https://news.ycombinator.com/item?id=47953011</link>
-      <description>&lt;p&gt;&lt;strong&gt;&quot;AIを使わない人は取り残される&quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: &quot;People who don't use AI will be left behind&quot;&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47953011</guid>
-      <pubDate>Wed, 29 Apr 2026 19:15:52 GMT</pubDate>
+      <title>[Hacker News] (180pt) CopyFailはディストリビューターに開示されていなかった</title>
+      <link>https://news.ycombinator.com/item?id=47965108</link>
+      <description>&lt;p&gt;&lt;strong&gt;CopyFailはディストリビューターに開示されていなかった&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: CopyFail Was Not Disclosed to Distros&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47965108</guid>
+      <pubDate>Thu, 30 Apr 2026 16:43:47 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -49,9 +49,9 @@
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] リッスン・ラボ、AI顧客面談の規模を拡大するための広告塔採用スタントで6,900万ドルを調達</title>
+      <title>[VentureBeat AI] リッスン・ラボ、AI顧客面談を拡大するための広告塔採用スタントで6,900万ドルを調達</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
-      <description>&lt;p&gt;&lt;strong&gt;リッスン・ラボ、AI顧客面談の規模を拡大するための広告塔採用スタントで6,900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;リッスン・ラボ、AI顧客面談を拡大するための広告塔採用スタントで6,900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;アルフレッド・ワールフォルスは選択肢がなくなっていた。彼のスタートアップ、リッスン・ラボは100人以上のエンジニアを雇う必要があったが、マーク・ザッカーバーグの1億ドルのオファーに対抗するのは不可能に思えた。そこで彼は&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
@@ -94,85 +94,58 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 計算コストは従業員のコストをはるかに超えている」：エヌビディア幹部、AIは人間の労働者に給料を払うより高いと語る</title>
-      <link>https://www.reddit.com/r/artificial/comments/1syp2jz/the_cost_of_compute_is_far_beyond_the_costs_of/</link>
-      <description>&lt;p&gt;&lt;strong&gt;計算コストは従業員のコストをはるかに超えている」：エヌビディア幹部、AIは人間の労働者に給料を払うより高いと語る&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;エヌビディアの応用ディープラーニング担当バイスプレジデント、ブライアン・カタンザロは最近、彼のチームにとって「コンピュートコストは従業員のコストをはるかに超えている」と述べ、AIは現在、以下のような状況にあると強調した。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: ‘The cost of compute is far beyond the costs of the employees’: Nvidia exec says right now AI is more expensive than paying human workers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1syp2jz/the_cost_of_compute_is_far_beyond_the_costs_of/</guid>
-      <pubDate>Wed, 29 Apr 2026 05:02:40 GMT</pubDate>
+      <title>[r/artificial] グーグルは、アクセンチュア、デロイト、BMWのようなトップ企業による実装を強調し、実際のGenAI使用事例のリストを1,302に拡大した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1szrff2/google_has_expanded_its_list_of_realworld_genai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;グーグルは、アクセンチュア、デロイト、BMWのようなトップ企業による実装を強調し、実際のGenAI使用事例のリストを1,302に拡大した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/Simplilearn [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Google has expanded its list of real-world GenAI use cases to 1,302, highlighting implementations from top companies like Accenture, Deloitte, and BMW.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1szrff2/google_has_expanded_its_list_of_realworld_genai/</guid>
+      <pubDate>Thu, 30 Apr 2026 09:46:36 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] GoogleがDeep Research Maxをリリース - 自ら専門家級のレポートを書く自律型リサーチエージェント</title>
-      <link>https://www.reddit.com/r/artificial/comments/1syxef3/google_just_released_deep_research_max_an/</link>
-      <description>&lt;p&gt;&lt;strong&gt;GoogleがDeep Research Maxをリリース - 自ら専門家級のレポートを書く自律型リサーチエージェント&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;グーグルは先週、ひっそりと面白いものを発表した。彼らは、ディープリサーチエージェント（Gemini API経由で利用可能）を更新し、Gemini 3.1 Pro上に構築された&amp;quot;Max&amp;quot;ティアを導入した。具体的には&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Google just released Deep Research Max — an autonomous research agent that writes expert-grade reports on its own&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1syxef3/google_just_released_deep_research_max_an/</guid>
-      <pubDate>Wed, 29 Apr 2026 12:29:52 GMT</pubDate>
+      <title>[r/artificial] イーロン・マスク、自身のxAIスタートアップのモデルは部分的にOpenAIの技術で訓練されたと語る</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t03h0n/elon_musk_says_his_xai_startups_models_were/</link>
+      <description>&lt;p&gt;&lt;strong&gt;イーロン・マスク、自身のxAIスタートアップのモデルは部分的にOpenAIの技術で訓練されたと語る&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; /u/UberDrive [リンク] &amp;#32; [コメント] から投稿されました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Elon Musk says his xAI startup’s models were partially trained on OpenAI’s tech&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t03h0n/elon_musk_says_his_xai_startups_models_were/</guid>
+      <pubDate>Thu, 30 Apr 2026 17:45:51 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIに暴言を吐くのは変ですか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sytzb2/is_it_weird_to_rant_to_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIに暴言を吐くのは変ですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;たとえAIの返答が魂のないものであったとしても（AIは意見を形成することができないし、アルゴリズムや何かを作る必要があるからだ）。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: is it weird to rant to AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sytzb2/is_it_weird_to_rant_to_ai/</guid>
-      <pubDate>Wed, 29 Apr 2026 09:39:39 GMT</pubDate>
+      <title>[r/artificial] AIアシスタントはすでに、ユーザーに代わって企業のウェブサイトを訪問している。ほとんどのウェブサイトは、彼らにとって有益なことは何もない。これが今、形成されつつあるギャップだ。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t06cl3/ai_assistants_are_already_visiting_business/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIアシスタントはすでに、ユーザーに代わって企業のウェブサイトを訪問している。ほとんどのウェブサイトは、彼らにとって有益なことは何もない。これが今、形成されつつあるギャップだ。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIに予約やツールの比較を依頼すると、AIは実際にウェブサイトを訪問してそれを実行しようとします。価格設定、予約ページ、問い合わせフォームなど、情報は問題なく見つかります。そして停止する。それは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI assistants are already visiting business websites on behalf of users. Most websites have nothing useful for them to do. This is the gap forming right now.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t06cl3/ai_assistants_are_already_visiting_business/</guid>
+      <pubDate>Thu, 30 Apr 2026 19:28:27 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] あなたのブラウザ上でAgentic AIを実行し、学習し、テストすることができます！</title>
-      <link>https://www.reddit.com/r/artificial/comments/1syzh75/run_learn_and_test_agentic_ai_on_your_browser_for/</link>
-      <description>&lt;p&gt;&lt;strong&gt;あなたのブラウザ上でAgentic AIを実行し、学習し、テストすることができます！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;皆さん、ここ数ヶ月の間に、エージェントAIについて学ぶ方法に大きな隔たりがあることに気づきました。RAG、ツール・コール、スウォームに関する理論的なブログ記事や詳細なホワイトペーパーは山ほどありますが、私たちがエージェントAIについて学ぶ方法には大きな隔たりがあることに気づきました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Run, learn and test Agentic AI on your browser, for free and no setup!&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1syzh75/run_learn_and_test_agentic_ai_on_your_browser_for/</guid>
-      <pubDate>Wed, 29 Apr 2026 13:53:13 GMT</pubDate>
+      <title>[r/artificial] SpaceX、OpenAI、Anthropicはすでに上場企業</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t06c6e/spacex_openai_and_anthropic_are_already_public/</link>
+      <description>&lt;p&gt;&lt;strong&gt;SpaceX、OpenAI、Anthropicはすでに上場企業&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/ThereWas [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: SpaceX, OpenAI and Anthropic are already public companies&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t06c6e/spacex_openai_and_anthropic_are_already_public/</guid>
+      <pubDate>Thu, 30 Apr 2026 19:28:04 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 87%のコスト削減と3秒以下のレイテンシー：私は永続的なクロード・エージェント用に &quot;Warm-Cache &quot;ハーネスを構築した。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1syw5al/87_cost_savings_sub3s_latency_i_built_a_warmcache/</link>
-      <description>&lt;p&gt;&lt;strong&gt;87%のコスト削減と3秒以下のレイテンシー：私は永続的なクロード・エージェント用に &quot;Warm-Cache &quot;ハーネスを構築した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;金魚問題はお金がかかる。私は配管を修理することにした。ほとんどのクロードの実装は、プロンプト・キャッシングに最適化されていないため、90％のコストをテーブルの上に残している。私は&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 87% Cost Savings &amp; Sub-3s Latency: I built a &quot;Warm-Cache&quot; harness for persistent Claude agents.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1syw5al/87_cost_savings_sub3s_latency_i_built_a_warmcache/</guid>
-      <pubDate>Wed, 29 Apr 2026 11:33:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] IBM、シカゴ拠点にAIと量子の新規雇用750件を計画</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sz8vag/ibm_plans_750_new_ai_and_quantum_jobs_in_its/</link>
-      <description>&lt;p&gt;&lt;strong&gt;IBM、シカゴ拠点にAIと量子の新規雇用750件を計画&lt;/strong&gt;&lt;/p&gt;
+      <title>[r/artificial] 元Twitter CEO、AIインフラ新興企業に1億ドルのシリーズB資金調達を発表</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t049rm/former_twitter_ceo_announces_100m_series_b/</link>
+      <description>&lt;p&gt;&lt;strong&gt;元Twitter CEO、AIインフラ新興企業に1億ドルのシリーズB資金調達を発表&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/LinkedInNews [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: IBM plans 750 new AI and quantum jobs in its Chicago hub&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sz8vag/ibm_plans_750_new_ai_and_quantum_jobs_in_its/</guid>
-      <pubDate>Wed, 29 Apr 2026 19:23:56 GMT</pubDate>
+&lt;p&gt;&lt;small&gt;原題: Former Twitter CEO announces $100M Series B funding for AI infrastructure startup&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t049rm/former_twitter_ceo_announces_100m_series_b/</guid>
+      <pubDate>Thu, 30 Apr 2026 18:13:40 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Snapchat、AIエージェントによる会話感覚のチャット広告を開始</title>
-      <link>https://www.reddit.com/r/artificial/comments/1synpjx/snapchat_moves_ads_into_chats_with_ai_agents/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Snapchat、AIエージェントによる会話感覚のチャット広告を開始&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/sksarkpoes3 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Snapchat moves ads into chats with AI agents designed to feel like conversation&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1synpjx/snapchat_moves_ads_into_chats_with_ai_agents/</guid>
-      <pubDate>Wed, 29 Apr 2026 03:54:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] OpenAI ModerationとLlamaGuardに勝るプロンプト・インジェクション・プロキシを構築 - 攻撃をブロックする様子をライブでご覧ください。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sz7slh/built_a_prompt_injection_proxy_that_beats_openai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAI ModerationとLlamaGuardに勝るプロンプト・インジェクション・プロキシを構築 - 攻撃をブロックする様子をライブでご覧ください。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Built Arc Gate - OpenAI互換のエンドポイントの前に設置し、プロンプトインジェクションがあなたのモデルに到達する前にブロックします。サインアップなし、コードなし、セットアップなし: https://web-production-6e47f.up.r&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Built a prompt injection proxy that beats OpenAI Moderation and LlamaGuard — see it block attacks live&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sz7slh/built_a_prompt_injection_proxy_that_beats_openai/</guid>
-      <pubDate>Wed, 29 Apr 2026 18:46:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] OpenAI ModerationとLlamaGuardを凌駕するプロンプト・インジェクション・プロキシを構築 - ここをクリックせずに30秒で試す</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sz6cuz/built_a_prompt_injection_proxy_that_beats_openai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAI ModerationとLlamaGuardを凌駕するプロンプト・インジェクション・プロキシを構築 - ここをクリックせずに30秒で試す&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Built Arc Gate - OpenAI互換のエンドポイントの前に置かれ、モデルに到達する前にプロンプトインジェクションをブロックします。ベースURLを変更するだけです： from openai import OpenAI client = OpenAI( api&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Built a prompt injection proxy that beats OpenAI Moderation and LlamaGuard — try it in 30 seconds without leaving this&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sz6cuz/built_a_prompt_injection_proxy_that_beats_openai/</guid>
-      <pubDate>Wed, 29 Apr 2026 17:57:02 GMT</pubDate>
+      <title>[r/artificial] すべてのクラウドおよび推論プロバイダーでGPUとLLMの価格をリアルタイムで追跡</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t03eqq/track_realtime_gpu_and_llm_pricing_across_all/</link>
+      <description>&lt;p&gt;&lt;strong&gt;すべてのクラウドおよび推論プロバイダーでGPUとLLMの価格をリアルタイムで追跡&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Deploybaseは、クラウドや推論プロバイダーのGPUとLLMの価格をリアルタイムで追跡するためのダッシュボードです。パフォーマンスの統計や価格設定の履歴を表示したり、比較したり、ブックマークしてトラフィックに追加することができます。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Track real-time GPU and LLM pricing across all cloud and inference providers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t03eqq/track_realtime_gpu_and_llm_pricing_across_all/</guid>
+      <pubDate>Thu, 30 Apr 2026 17:43:33 GMT</pubDate>
     </item>
     <item>
       <title>[r/LocalLLaMA] AMAのお知らせ：Nous Research、Hermes Agentを支えるオープンソースラボ (水曜日、午前8時-午前11時PST)</title>
@@ -184,22 +157,49 @@
       <pubDate>Fri, 24 Apr 2026 23:52:19 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] mistralai/Mistral-Medium-3.5-128B - ハグリングフェイス</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sz1qer/mistralaimistralmedium35128b_hugging_face/</link>
-      <description>&lt;p&gt;&lt;strong&gt;mistralai/Mistral-Medium-3.5-128B - ハグリングフェイス&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://huggingface.co/unsloth/Mistral-Medium-3.5-128B-GGUF ミストラル・ミディアム3.5 128B ミストラル・ミディアム3.5は、我々の最初のフラッグシップ・マージド・モデルである。256kのコンテキストウィンドウを持つ高密度の128Bのモデルで、次のような処理を行います。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: mistralai/Mistral-Medium-3.5-128B · Hugging Face&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sz1qer/mistralaimistralmedium35128b_hugging_face/</guid>
-      <pubDate>Wed, 29 Apr 2026 15:14:40 GMT</pubDate>
+      <title>[r/LocalLLaMA] ディープシーク、「視覚的プリミティブで考える」フレームワークを発表</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1szwi1d/deepseek_released_thinkingwithvisualprimitives/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ディープシーク、「視覚的プリミティブで考える」フレームワークを発表&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://preview.redd.it/47r9qee44cyg1.png?width=1450&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0d6f9687115be6ff96d0a194d95232ac0413a7e9ディープシークは、北京大学および清華大学と共同で、「DeepSeek」を開発した。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: DeepSeek released 'Thinking-with-Visual-Primitives' framework&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1szwi1d/deepseek_released_thinkingwithvisualprimitives/</guid>
+      <pubDate>Thu, 30 Apr 2026 13:43:54 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] IBM Granite 4.1モデル・ファミリー（3B/8B/30B）のご紹介</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sz23wn/introducing_the_ibm_granite_41_family_of_models/</link>
-      <description>&lt;p&gt;&lt;strong&gt;IBM Granite 4.1モデル・ファミリー（3B/8B/30B）のご紹介&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/abkibaarnsit [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Introducing the IBM Granite 4.1 family of models (3B/8B/30B)&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sz23wn/introducing_the_ibm_granite_41_family_of_models/</guid>
-      <pubDate>Wed, 29 Apr 2026 15:27:58 GMT</pubDate>
+      <title>[r/LocalLLaMA] Qwen-Scope：Qwen 3.5モデル用公式スパースオートエンコーダー(SAE)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1szrbub/qwenscope_official_sparse_autoencoders_saes_for/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Qwen-Scope：Qwen 3.5モデル用公式スパースオートエンコーダー(SAE)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;QwenチームはQwen 3.5ファミリー（2Bから35B MoEまで）用のスパースオートエンコーダー（SAE）のコレクションであるQwen-Scopeをリリースした。全レイヤーにわたる残差ストリームの内部特徴をマッピングしている。何&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Qwen-Scope: Official Sparse Autoencoders (SAEs) for Qwen 3.5 models&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1szrbub/qwenscope_official_sparse_autoencoders_saes_for/</guid>
+      <pubDate>Thu, 30 Apr 2026 09:40:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] Qwen 3.6 27Bと35Bは、他の～30Bのモデルを時代遅れにするのか？</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t00d2m/are_qwen_36_27b_and_35b_making_other_30b_models/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Qwen 3.6 27Bと35Bは、他の～30Bのモデルを時代遅れにするのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Qwen 3.6 27BとQwen 3.6 35Bは、基本的に古い～30Bモデルのほとんどを無意味なものにしてしまったのだろうか？Qwen coder 30B、GPT OSS 20B、Gemmaのようなモデル、特にコーディングやエージェントの仕事には勝っているようだが......。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Are Qwen 3.6 27B and 35B making other ~30B models obsolete?&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t00d2m/are_qwen_36_27b_and_35b_making_other_30b_models/</guid>
+      <pubDate>Thu, 30 Apr 2026 15:54:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] Qwen-3.6-27Bと独自モデルの比較。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1szv6z0/actual_comparison_between_locally_ran_qwen3627b/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Qwen-3.6-27Bと独自モデルの比較。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;みなさん、こんにちは！最近、Qwen-3.6-27Bと下位のクラウドモデルをハードタスクで比較した経験について、ロシア語で文章を書きました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Actual comparison between locally ran Qwen-3.6-27B and proprietary models&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1szv6z0/actual_comparison_between_locally_ran_qwen3627b/</guid>
+      <pubDate>Thu, 30 Apr 2026 12:51:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] PSA:llama-swapが新しいグループ分け機能「マトリックス」をリリース。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1szwjrp/psa_llamaswap_released_a_new_grouping_feature/</link>
+      <description>&lt;p&gt;&lt;strong&gt;PSA:llama-swapが新しいグループ分け機能「マトリックス」をリリース。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;以前は、モデルは1つのグループにしか存在できませんでした。単独で実行されるべき大きなモデルのためのグループ、STT＋大きなモデルのためのグループ、RAのためのグループなどです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: PSA: llama-swap released a new grouping feature, matrix, allowing you to fine tune which models can run together&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1szwjrp/psa_llamaswap_released_a_new_grouping_feature/</guid>
+      <pubDate>Thu, 30 Apr 2026 13:45:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
