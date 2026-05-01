@@ -3,32 +3,24 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-04-30</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-01</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Apr 2026 19:42:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 19:20:23 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (609pt) Claude Codeは、&quot;OpenClaw &quot;とコミットした場合、リクエストを拒否するか、追加料金を請求する。</title>
-      <link>https://news.ycombinator.com/item?id=47963204</link>
-      <description>&lt;p&gt;&lt;strong&gt;Claude Codeは、&quot;OpenClaw &quot;とコミットした場合、リクエストを拒否するか、追加料金を請求する。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Code refuses requests or charges extra if your commits mention &quot;OpenClaw&quot;&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47963204</guid>
-      <pubDate>Thu, 30 Apr 2026 14:36:58 GMT</pubDate>
+      <title>[Hacker News] (108pt) AIが使用する水の量は、一般に考えられているよりも少ない</title>
+      <link>https://news.ycombinator.com/item?id=47977383</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが使用する水の量は、一般に考えられているよりも少ない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI uses less water than the public thinks&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47977383</guid>
+      <pubDate>Fri, 01 May 2026 17:18:58 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (201pt) PyTorch Lightning AIトレーニングライブラリにShai-Huludをテーマとしたマルウェアが見つかる</title>
-      <link>https://news.ycombinator.com/item?id=47964617</link>
-      <description>&lt;p&gt;&lt;strong&gt;PyTorch Lightning AIトレーニングライブラリにShai-Huludをテーマとしたマルウェアが見つかる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47964617</guid>
-      <pubDate>Thu, 30 Apr 2026 16:09:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (180pt) CopyFailはディストリビューターに開示されていなかった</title>
-      <link>https://news.ycombinator.com/item?id=47965108</link>
-      <description>&lt;p&gt;&lt;strong&gt;CopyFailはディストリビューターに開示されていなかった&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: CopyFail Was Not Disclosed to Distros&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47965108</guid>
-      <pubDate>Thu, 30 Apr 2026 16:43:47 GMT</pubDate>
+      <title>[Hacker News] (44pt) Spotify、AIと人間のアーティストを区別する「Verified」バッジを追加</title>
+      <link>https://news.ycombinator.com/item?id=47976856</link>
+      <description>&lt;p&gt;&lt;strong&gt;Spotify、AIと人間のアーティストを区別する「Verified」バッジを追加&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Spotify adds 'Verified' badges to distinguish human artists from AI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47976856</guid>
+      <pubDate>Fri, 01 May 2026 16:42:41 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -43,7 +35,7 @@
       <title>[VentureBeat AI] クロード・コードは月200ドルもする。グースは無料で同じことができる。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;クロード・コードは月200ドルもする。グースは無料で同じことができる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、「高価である」という欠点がある。&lt;/p&gt;
+&lt;p&gt;人工知能のコーディング革命には、キャッチーなことが伴う：それは高価です。Anthropicの端末ベースのAIエージェントであるClaude Codeは、自律的にコードを書き、デバッグし、展開することができ、キャップを持っている。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -61,7 +53,7 @@
       <title>[VentureBeat AI] セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に作り直したバージョンを発表した。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に再構築したバージョンを発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -94,58 +86,76 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] グーグルは、アクセンチュア、デロイト、BMWのようなトップ企業による実装を強調し、実際のGenAI使用事例のリストを1,302に拡大した。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1szrff2/google_has_expanded_its_list_of_realworld_genai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;グーグルは、アクセンチュア、デロイト、BMWのようなトップ企業による実装を強調し、実際のGenAI使用事例のリストを1,302に拡大した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/Simplilearn [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Google has expanded its list of real-world GenAI use cases to 1,302, highlighting implementations from top companies like Accenture, Deloitte, and BMW.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1szrff2/google_has_expanded_its_list_of_realworld_genai/</guid>
-      <pubDate>Thu, 30 Apr 2026 09:46:36 GMT</pubDate>
+      <title>[r/artificial] Anthropicは100万人のクロードの会話を分析した。6％の人がクロードに、仕事を辞めるべきか、誰と付き合うべきか、国を移すべきかどうかを尋ねていた。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t0qlvx/anthropic_just_analyzed_1_million_claude/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropicは100万人のクロードの会話を分析した。6％の人がクロードに、仕事を辞めるべきか、誰と付き合うべきか、国を移すべきかどうかを尋ねていた。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;昨日、研究結果が発表された。私が衝撃を受けたのはその内容だ：人々が実際にクロードに指導を求めたことの内訳である：  健康状態：27％ 進路の決定：26% 人間関係&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic just analyzed 1 million Claude conversations. 6% of people were asking Claude whether to quit their jobs, who to date, and if they should move countries.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t0qlvx/anthropic_just_analyzed_1_million_claude/</guid>
+      <pubDate>Fri, 01 May 2026 11:23:16 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] イーロン・マスク、自身のxAIスタートアップのモデルは部分的にOpenAIの技術で訓練されたと語る</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t03h0n/elon_musk_says_his_xai_startups_models_were/</link>
-      <description>&lt;p&gt;&lt;strong&gt;イーロン・マスク、自身のxAIスタートアップのモデルは部分的にOpenAIの技術で訓練されたと語る&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; /u/UberDrive [リンク] &amp;#32; [コメント] から投稿されました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Elon Musk says his xAI startup’s models were partially trained on OpenAI’s tech&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t03h0n/elon_musk_says_his_xai_startups_models_were/</guid>
-      <pubDate>Thu, 30 Apr 2026 17:45:51 GMT</pubDate>
+      <title>[r/artificial] 中国、AIによる人員削減を禁止 エヌビディアCEO、AIが2年間で50万人の雇用を創出と発表</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t0tk5q/china_bans_ai_layoffs_as_nvidia_ceo_says_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;中国、AIによる人員削減を禁止 エヌビディアCEO、AIが2年間で50万人の雇用を創出と発表&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; posted by &amp;#32; /u/andix3 [link] &amp;#32; [comments］&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: China Bans AI Layoffs as Nvidia CEO Says AI Created 500K Jobs in 2 Years&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t0tk5q/china_bans_ai_layoffs_as_nvidia_ceo_says_ai/</guid>
+      <pubDate>Fri, 01 May 2026 13:32:12 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIアシスタントはすでに、ユーザーに代わって企業のウェブサイトを訪問している。ほとんどのウェブサイトは、彼らにとって有益なことは何もない。これが今、形成されつつあるギャップだ。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t06cl3/ai_assistants_are_already_visiting_business/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIアシスタントはすでに、ユーザーに代わって企業のウェブサイトを訪問している。ほとんどのウェブサイトは、彼らにとって有益なことは何もない。これが今、形成されつつあるギャップだ。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIに予約やツールの比較を依頼すると、AIは実際にウェブサイトを訪問してそれを実行しようとします。価格設定、予約ページ、問い合わせフォームなど、情報は問題なく見つかります。そして停止する。それは&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI assistants are already visiting business websites on behalf of users. Most websites have nothing useful for them to do. This is the gap forming right now.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t06cl3/ai_assistants_are_already_visiting_business/</guid>
-      <pubDate>Thu, 30 Apr 2026 19:28:27 GMT</pubDate>
+      <title>[r/artificial] マーク・ザッカーバーグ氏、AIコストが8,000人レイオフの一因と報道</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t0cy0n/mark_zuckerberg_says_ai_costs_contributed_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;マーク・ザッカーバーグ氏、AIコストが8,000人レイオフの一因と報道&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/esporx [リンク] &amp;#32; [コメント] &amp;#32; [コメント] [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t0cy0n/mark_zuckerberg_says_ai_costs_contributed_to/</guid>
+      <pubDate>Thu, 30 Apr 2026 23:46:05 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] SpaceX、OpenAI、Anthropicはすでに上場企業</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t06c6e/spacex_openai_and_anthropic_are_already_public/</link>
-      <description>&lt;p&gt;&lt;strong&gt;SpaceX、OpenAI、Anthropicはすでに上場企業&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/ThereWas [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: SpaceX, OpenAI and Anthropic are already public companies&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t06c6e/spacex_openai_and_anthropic_are_already_public/</guid>
-      <pubDate>Thu, 30 Apr 2026 19:28:04 GMT</pubDate>
+      <title>[r/artificial] 私は、AIタスクを低コストで処理する最適なモデルに自動的に送信するルーターを構築した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t0soki/i_built_a_router_that_automatically_sends_your_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私は、AIタスクを低コストで処理する最適なモデルに自動的に送信するルーターを構築した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;そのきっかけとなったのは、要約、作図、分類、抽出など、人々が日常的にAIを使っていることのほとんどは、実際にはフロンティアモデルを必要としないということだ。有能な8-70Bモード&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I built a router that automatically sends your AI tasks to the most appropriate model to handle them at low cost - 9,200 tasks in, $21 saved at $0.14 actual cost&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t0soki/i_built_a_router_that_automatically_sends_your_ai/</guid>
+      <pubDate>Fri, 01 May 2026 12:56:46 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 元Twitter CEO、AIインフラ新興企業に1億ドルのシリーズB資金調達を発表</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t049rm/former_twitter_ceo_announces_100m_series_b/</link>
-      <description>&lt;p&gt;&lt;strong&gt;元Twitter CEO、AIインフラ新興企業に1億ドルのシリーズB資金調達を発表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/LinkedInNews [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Former Twitter CEO announces $100M Series B funding for AI infrastructure startup&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t049rm/former_twitter_ceo_announces_100m_series_b/</guid>
-      <pubDate>Thu, 30 Apr 2026 18:13:40 GMT</pubDate>
+      <title>[r/artificial] ハーバード大学の救急トリアージ診断試験でAIが医師を上回る</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t0p7ej/ai_outperforms_doctors_in_harvard_trial_of/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ハーバード大学の救急トリアージ診断試験でAIが医師を上回る&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/SufficientPrice7633 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI outperforms doctors in Harvard trial of emergency triage diagnoses&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t0p7ej/ai_outperforms_doctors_in_harvard_trial_of/</guid>
+      <pubDate>Fri, 01 May 2026 10:10:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] すべてのクラウドおよび推論プロバイダーでGPUとLLMの価格をリアルタイムで追跡</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t03eqq/track_realtime_gpu_and_llm_pricing_across_all/</link>
-      <description>&lt;p&gt;&lt;strong&gt;すべてのクラウドおよび推論プロバイダーでGPUとLLMの価格をリアルタイムで追跡&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Deploybaseは、クラウドや推論プロバイダーのGPUとLLMの価格をリアルタイムで追跡するためのダッシュボードです。パフォーマンスの統計や価格設定の履歴を表示したり、比較したり、ブックマークしてトラフィックに追加することができます。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Track real-time GPU and LLM pricing across all cloud and inference providers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t03eqq/track_realtime_gpu_and_llm_pricing_across_all/</guid>
-      <pubDate>Thu, 30 Apr 2026 17:43:33 GMT</pubDate>
+      <title>[r/artificial] インターネットはAIエージェントのための新しいレイヤーを必要としている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t0wpu8/the_internet_needs_a_new_layer_for_ai_agents/</link>
+      <description>&lt;p&gt;&lt;strong&gt;インターネットはAIエージェントのための新しいレイヤーを必要としている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;将来、誰もが自分専用のAIエージェントを持つようになるだろう。単なるチャットボットではなく、あなたのために働く実際のエージェントだ。AIエージェントは、コードを書き、タスクを自動化し、ワークフローを調整し、情報を検索する。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Internet Needs a New Layer for AI Agents&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t0wpu8/the_internet_needs_a_new_layer_for_ai_agents/</guid>
+      <pubDate>Fri, 01 May 2026 15:30:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIのズレをオープンソースで診断。モデル、業界にとらわれない。実行は無料。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t12f08/opensource_diagnostic_for_ai_misalignment_model/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIのズレをオープンソースで診断。モデル、業界にとらわれない。実行は無料。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今週初めにiFixAiを出荷しました。AIのズレを診断するオープンソース。捏造、操作、欺瞞、予測不可能性、不透明性にわたる32のテスト。オープンソースで、無料で実行できる。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Open-source diagnostic for AI misalignment. Model agnostic, industry agnostic. Free to Run.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t12f08/opensource_diagnostic_for_ai_misalignment_model/</guid>
+      <pubDate>Fri, 01 May 2026 18:54:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 私は、上級弁護士が文書にコメントを残すことによってAIの知識を修正できるシステムを構築した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t117d5/i_built_a_system_where_senior_lawyers_can_correct/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私は、上級弁護士が文書にコメントを残すことによってAIの知識を修正できるシステムを構築した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ある法律事務所のためにAIリサーチ・アシスタントを構築したとき、私が「あったらいいな」と思っていた機能が、彼らが最も使う機能であることが判明した。このシステムには注釈機能がある。どんなユーザーでも、そのテキストを選択することができる。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I built a system where senior lawyers can correct the AI's knowledge by leaving comments on documents. here's why it matters more than better embeddings&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t117d5/i_built_a_system_where_senior_lawyers_can_correct/</guid>
+      <pubDate>Fri, 01 May 2026 18:10:44 GMT</pubDate>
     </item>
     <item>
       <title>[r/LocalLLaMA] AMAのお知らせ：Nous Research、Hermes Agentを支えるオープンソースラボ (水曜日、午前8時-午前11時PST)</title>
@@ -157,49 +167,22 @@
       <pubDate>Fri, 24 Apr 2026 23:52:19 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] ディープシーク、「視覚的プリミティブで考える」フレームワークを発表</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1szwi1d/deepseek_released_thinkingwithvisualprimitives/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ディープシーク、「視覚的プリミティブで考える」フレームワークを発表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://preview.redd.it/47r9qee44cyg1.png?width=1450&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0d6f9687115be6ff96d0a194d95232ac0413a7e9ディープシークは、北京大学および清華大学と共同で、「DeepSeek」を開発した。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: DeepSeek released 'Thinking-with-Visual-Primitives' framework&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1szwi1d/deepseek_released_thinkingwithvisualprimitives/</guid>
-      <pubDate>Thu, 30 Apr 2026 13:43:54 GMT</pubDate>
+      <title>[r/LocalLLaMA] MiMo-V2.5-Pro-実際に最高のオープンウエイトモデル</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t0s5t4/mimov25pro_the_actual_best_openweights_model/</link>
+      <description>&lt;p&gt;&lt;strong&gt;MiMo-V2.5-Pro-実際に最高のオープンウエイトモデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kimi K2.6による印象的なシェイクアップに続き、XiaomiのMiMo-V2.5-Proの結果が出ました。これは、私が作成したベンチマークに基づいています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: MiMo-V2.5-Pro - the actual best open-weights model&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t0s5t4/mimov25pro_the_actual_best_openweights_model/</guid>
+      <pubDate>Fri, 01 May 2026 12:34:18 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] Qwen-Scope：Qwen 3.5モデル用公式スパースオートエンコーダー(SAE)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1szrbub/qwenscope_official_sparse_autoencoders_saes_for/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Qwen-Scope：Qwen 3.5モデル用公式スパースオートエンコーダー(SAE)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;QwenチームはQwen 3.5ファミリー（2Bから35B MoEまで）用のスパースオートエンコーダー（SAE）のコレクションであるQwen-Scopeをリリースした。全レイヤーにわたる残差ストリームの内部特徴をマッピングしている。何&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Qwen-Scope: Official Sparse Autoencoders (SAEs) for Qwen 3.5 models&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1szrbub/qwenscope_official_sparse_autoencoders_saes_for/</guid>
-      <pubDate>Thu, 30 Apr 2026 09:40:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] Qwen 3.6 27Bと35Bは、他の～30Bのモデルを時代遅れにするのか？</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t00d2m/are_qwen_36_27b_and_35b_making_other_30b_models/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Qwen 3.6 27Bと35Bは、他の～30Bのモデルを時代遅れにするのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Qwen 3.6 27BとQwen 3.6 35Bは、基本的に古い～30Bモデルのほとんどを無意味なものにしてしまったのだろうか？Qwen coder 30B、GPT OSS 20B、Gemmaのようなモデル、特にコーディングやエージェントの仕事には勝っているようだが......。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Are Qwen 3.6 27B and 35B making other ~30B models obsolete?&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t00d2m/are_qwen_36_27b_and_35b_making_other_30b_models/</guid>
-      <pubDate>Thu, 30 Apr 2026 15:54:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] Qwen-3.6-27Bと独自モデルの比較。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1szv6z0/actual_comparison_between_locally_ran_qwen3627b/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Qwen-3.6-27Bと独自モデルの比較。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;みなさん、こんにちは！最近、Qwen-3.6-27Bと下位のクラウドモデルをハードタスクで比較した経験について、ロシア語で文章を書きました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Actual comparison between locally ran Qwen-3.6-27B and proprietary models&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1szv6z0/actual_comparison_between_locally_ran_qwen3627b/</guid>
-      <pubDate>Thu, 30 Apr 2026 12:51:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] PSA:llama-swapが新しいグループ分け機能「マトリックス」をリリース。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1szwjrp/psa_llamaswap_released_a_new_grouping_feature/</link>
-      <description>&lt;p&gt;&lt;strong&gt;PSA:llama-swapが新しいグループ分け機能「マトリックス」をリリース。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;以前は、モデルは1つのグループにしか存在できませんでした。単独で実行されるべき大きなモデルのためのグループ、STT＋大きなモデルのためのグループ、RAのためのグループなどです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: PSA: llama-swap released a new grouping feature, matrix, allowing you to fine tune which models can run together&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1szwjrp/psa_llamaswap_released_a_new_grouping_feature/</guid>
-      <pubDate>Thu, 30 Apr 2026 13:45:50 GMT</pubDate>
+      <title>[r/LocalLLaMA] GitHub - intel/auto-round：高精度な低ビットLLM推論のためのSOTA量子化アルゴリズム。CPU/XPU/CUDA用にシームレスに最適化されており、マルチデータ型をサポートし、vLLM、SGLang、Transformersと完全な互換性があります。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t0ucxj/github_intelautoround_a_sota_quantization/</link>
+      <description>&lt;p&gt;&lt;strong&gt;GitHub - intel/auto-round：高精度な低ビットLLM推論のためのSOTA量子化アルゴリズム。CPU/XPU/CUDA用にシームレスに最適化されており、マルチデータ型をサポートし、vLLM、SGLang、Transformersと完全な互換性があります。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/muyuu [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GitHub - intel/auto-round: A SOTA quantization algorithm for high-accuracy low-bit LLM inference, seamlessly optimized for CPU/XPU/CUDA, with multi-datatype support and full compatibility with vLLM, SGLang, and Transformers.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t0ucxj/github_intelautoround_a_sota_quantization/</guid>
+      <pubDate>Fri, 01 May 2026 14:03:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
