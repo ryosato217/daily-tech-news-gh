@@ -3,17 +3,9 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-02</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-03</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 02 May 2026 19:10:20 GMT</lastBuildDate>
-    <item>
-      <title>[Hacker News] (21pt) Flueは次世代のエージェントを構築するためのTypeScriptフレームワークである。</title>
-      <link>https://news.ycombinator.com/item?id=47988501</link>
-      <description>&lt;p&gt;&lt;strong&gt;Flueは次世代のエージェントを構築するためのTypeScriptフレームワークである。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Flue is a TypeScript framework for building the next generation of agents&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47988501</guid>
-      <pubDate>Sat, 02 May 2026 17:32:07 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 May 2026 19:09:14 GMT</lastBuildDate>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
@@ -27,7 +19,7 @@
       <title>[VentureBeat AI] クロード・コードは月200ドルもする。グースは無料で同じことができる。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;クロード・コードは月200ドルもする。グースは無料で同じことができる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能のコーディング革命には、キャッチーなことが伴う：それは高価です。Anthropicの端末ベースのAIエージェントであるClaude Codeは、自律的にコードを書き、デバッグし、展開することができ、キャップを持っている。&lt;/p&gt;
+&lt;p&gt;人工知能のコーディング革命には、キャッチーなことが伴う：それは高価です。Anthropicの端末ベースのAIエージェントであるClaude Codeは、自律的にコードを書き、デバッグし、デプロイすることができ、キャップを持っている。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -78,6 +70,24 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
+      <title>[r/artificial] AIが腫瘍が発生する前に膵臓がんの兆候を発見</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t2r7nb/ai_finds_signs_of_pancreatic_cancer_before_tumors/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが腫瘍が発生する前に膵臓がんの兆候を発見&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Fcking_Chuck [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI finds signs of pancreatic cancer before tumors develop&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t2r7nb/ai_finds_signs_of_pancreatic_cancer_before_tumors/</guid>
+      <pubDate>Sun, 03 May 2026 17:09:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 現代の通説に反する：AIは収入を増やすために使うことができる（そして使うべきだ）。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t2lrn0/contrary_to_contemporary_belief_ai_can_and_should/</link>
+      <description>&lt;p&gt;&lt;strong&gt;現代の通説に反する：AIは収入を増やすために使うことができる（そして使うべきだ）。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIの失業、恐怖、不確実性、疑念にこれほど注目。AnthropicとDarioが取っている立場を理解している人はいるだろうか？  もしAIが大量失業を引き起こす可能性があるのなら、それは強力なものになるだろう。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Contrary to contemporary belief: AI can (and should) be used to increase your income&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t2lrn0/contrary_to_contemporary_belief_ai_can_and_should/</guid>
+      <pubDate>Sun, 03 May 2026 13:40:03 GMT</pubDate>
+    </item>
+    <item>
       <title>[r/artificial] Uber、2026年のAIコーディング予算を4カ月で全額消化 - エンジニア1人当たり月50～20万ドル</title>
       <link>https://www.reddit.com/r/artificial/comments/1t1mhx6/uber_burned_its_entire_2026_ai_coding_budget_in_4/</link>
       <description>&lt;p&gt;&lt;strong&gt;Uber、2026年のAIコーディング予算を4カ月で全額消化 - エンジニア1人当たり月50～20万ドル&lt;/strong&gt;&lt;/p&gt;
@@ -87,58 +97,40 @@
       <pubDate>Sat, 02 May 2026 10:44:48 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ハリウッドが恐れるAI革命はすでに起きている</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t1wgf2/the_ai_revolution_hollywood_feared_is_already/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ハリウッドが恐れるAI革命はすでに起きている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Few-Reveal6853 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The AI Revolution Hollywood Feared Is Already Happening&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t1wgf2/the_ai_revolution_hollywood_feared_is_already/</guid>
-      <pubDate>Sat, 02 May 2026 17:41:36 GMT</pubDate>
+      <title>[r/artificial] T6 アクティブ - AI再帰翻訳機実験</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t2okqd/t6_active_ai_recursive_translator_experiment/</link>
+      <description>&lt;p&gt;&lt;strong&gt;T6 アクティブ - AI再帰翻訳機実験&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;T6 Active - AI Recursive Translator Experiment これは何ですか？これは、AIシステムが言語を処理する方法を変更するために設計されたポータブルなプロンプトです。このプロンプトは、AIシステムが言語を処理する方法を変えるように設計されています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: T6 Active — AI Recursive Translator Experiment&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t2okqd/t6_active_ai_recursive_translator_experiment/</guid>
+      <pubDate>Sun, 03 May 2026 15:30:31 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 上院司法委員会、AIチャットボット利用者のID確認を義務付けるホーリーのGUARD法を推進</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t16w2v/senate_judiciary_committee_advances_hawleys_guard/</link>
-      <description>&lt;p&gt;&lt;strong&gt;上院司法委員会、AIチャットボット利用者のID確認を義務付けるホーリーのGUARD法を推進&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Gloomy_Nebula_5138 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Senate Judiciary Committee Advances Hawley's GUARD Act, Mandating ID Verification for AI Chatbot Users&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t16w2v/senate_judiciary_committee_advances_hawleys_guard/</guid>
-      <pubDate>Fri, 01 May 2026 21:42:10 GMT</pubDate>
+      <title>[r/artificial] AIが万能アミノ酸を部分的に欠く細菌の作製に貢献</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t2tizq/ai_helps_create_bacterium_thats_partially_missing/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが万能アミノ酸を部分的に欠く細菌の作製に貢献&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Fcking_Chuck [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI helps create bacterium that’s partially missing a universal amino acid&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t2tizq/ai_helps_create_bacterium_thats_partially_missing/</guid>
+      <pubDate>Sun, 03 May 2026 18:34:49 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIWire、信頼できる情報源のみからのAIニュースを毎日配信。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t1t7lq/aiwire_daily_ai_news_from_trusted_sources_only_so/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIWire、信頼できる情報源のみからのAIニュースを毎日配信。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;皆さん、こんにちは！  AIの動きは速い。AIについていくには、毎日TwitterやReddit、ニュースレター、そして何十もの技術ブログをチェックする必要がある。AIWireは、そのような状況を打破するために作りました。それは&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AIWire, daily AI news from trusted sources only, so the noise never reaches your feed&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t1t7lq/aiwire_daily_ai_news_from_trusted_sources_only_so/</guid>
-      <pubDate>Sat, 02 May 2026 15:37:38 GMT</pubDate>
+      <title>[r/artificial] AIによる音声生成には、品質だけでなくワークフローの問題もある</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t2rde5/ai_voice_generation_has_a_workflow_problem_not/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIによる音声生成には、品質だけでなくワークフローの問題もある&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI音声ツールをめぐる議論のほとんどは、モデルの品質に焦点を当てている。どの程度自然な声なのか？クローニングはどの程度優れているのか？感情を扱えるか？複数の言語を話すことができるのか？それらは重要だが、私は次のように思う。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI voice generation has a workflow problem, not just a quality problem&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t2rde5/ai_voice_generation_has_a_workflow_problem_not/</guid>
+      <pubDate>Sun, 03 May 2026 17:15:42 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] クロード神話プレビュー GameJam出場者</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t1svme/claude_mythos_preview_gamejam_contestant/</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード神話プレビュー GameJam出場者&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;クロードは、Godongエンジンのトレーニングゼロで、Mythosプレビューを使って、Godongエンジンのシンプルなユーザーガイド付きプロンプトで、このインディーゲームジャムチャレンジを作成することができました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude mythos preview GameJam contestant&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t1svme/claude_mythos_preview_gamejam_contestant/</guid>
-      <pubDate>Sat, 02 May 2026 15:24:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 私は50ドルを支払うが、誰がAIモデルの旅を始める手助けをしてくれるのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t1xpjy/i_am_paying_50_who_help_start_ai_model_journey/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私は50ドルを支払うが、誰がAIモデルの旅を始める手助けをしてくれるのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIモデルの旅を始めるのを手伝ってくれる人、50ドル払います。基本的な顔写真は8-10枚くらいあります。同じキャラクターのビデオコンテンツが必要だ。問題なのは、ナノバナナや他のスタッフが全員、AIモデルであることだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I am paying 50$ who help start AI model journey?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t1xpjy/i_am_paying_50_who_help_start_ai_model_journey/</guid>
-      <pubDate>Sat, 02 May 2026 18:28:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 新しいエージェントをスピンアップすると壊れたり、サブエージェントセッションを適切に追跡できないメモリシステムにはうんざりしていた。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t1qlyw/i_got_tired_of_memory_systems_that_break_when_you/</link>
-      <description>&lt;p&gt;&lt;strong&gt;新しいエージェントをスピンアップすると壊れたり、サブエージェントセッションを適切に追跡できないメモリシステムにはうんざりしていた。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;そこで私は、以下のようなメモリーレイヤーを作りました：- エルメスやスタック内の他のエージェントとシームレスに動作します。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I got tired of memory systems that break when you spin up new agents or fail to track sub-agent sessions properly.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t1qlyw/i_got_tired_of_memory_systems_that_break_when_you/</guid>
-      <pubDate>Sat, 02 May 2026 13:56:25 GMT</pubDate>
+      <title>[r/artificial] AIが正しい診断で医師を打ち負かし始めている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t26als/ai_is_starting_to_beat_doctors_at_making_correct/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが正しい診断で医師を打ち負かし始めている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Fcking_Chuck [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI is starting to beat doctors at making correct diagnoses&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t26als/ai_is_starting_to_beat_doctors_at_making_correct/</guid>
+      <pubDate>Sun, 03 May 2026 00:19:46 GMT</pubDate>
     </item>
     <item>
       <title>[r/LocalLLaMA] AMAのお知らせ：Nous Research、Hermes Agentを支えるオープンソースラボ (水曜日、午前8時-午前11時PST)</title>
@@ -159,49 +151,49 @@
       <pubDate>Mon, 13 Apr 2026 21:00:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] ようやくたどり着いた：Qwen3.6-27B + エージェント検索; 95.7%のSimpleQA、シングル3090、完全ローカル。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t1n6o8/we_are_finally_there_qwen3627b_agentic_search_957/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ようやくたどり着いた：Qwen3.6-27B + エージェント検索; 95.7%のSimpleQA、シングル3090、完全ローカル。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;LDRのメンテナです。r/LocalLLaMAコミュニティの強力なサポートのおかげで、LDRはとても発展しました。しばらく報告しなかったのは、LDRのコミュニティでもう目立つような投稿はできないと思ったからです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: We are finally there: Qwen3.6-27B + agentic search; 95.7% SimpleQA on a single 3090, fully local&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t1n6o8/we_are_finally_there_qwen3627b_agentic_search_957/</guid>
-      <pubDate>Sat, 02 May 2026 11:21:25 GMT</pubDate>
+      <title>[r/LocalLLaMA] 1tk/secから20-100tk/secの巨大モデルまで、なんという時代だろう。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t2s7ik/what_a_time_to_be_alive_from_1tksec_to_20100tksec/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1tk/secから20-100tk/secの巨大モデルまで、なんという時代だろう。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://www.reddit.com/r/LocalLLaMA/comments/1eb6to7/llama_405b_q4_k_m_quantization_running_locally/ https://www.reddit.com/r/LocalLLaMA/comments/1ebbgkr/llama_31_405b_q5_k_m_running_on_amd_epyc_9374f&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What a time to be alive from 1tk/sec to 20-100tk/sec for huge models&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t2s7ik/what_a_time_to_be_alive_from_1tksec_to_20100tksec/</guid>
+      <pubDate>Sun, 03 May 2026 17:46:33 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] インフルエンサーに金を払い、中国のAIを脅威と決めつけるダークマネー・キャンペーン</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t1i4yg/a_darkmoney_campaign_is_paying_influencers_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;インフルエンサーに金を払い、中国のAIを脅威と決めつけるダークマネー・キャンペーン&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ビルド・アメリカン・AIは、OpenAIとアンドリーセン・ホロウィッツの幹部が出資するスーパーPACとつながりのある非営利団体で、AI支持のメッセージを広め、中国への恐怖を煽るキャンペーンに資金を提供している。  ローカル&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t1i4yg/a_darkmoney_campaign_is_paying_influencers_to/</guid>
-      <pubDate>Sat, 02 May 2026 06:35:02 GMT</pubDate>
+      <title>[r/LocalLLaMA] [Hummingbird+：LLM推論用低コストFPGAに関する論文】Qwen3-30B-A3B Q4 18t/sトークンジェネ、24GB、量産予定コスト150ドル</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t2kpzn/paper_on_hummingbird_lowcost_fpgas_for_llm/</link>
+      <description>&lt;p&gt;&lt;strong&gt;[Hummingbird+：LLM推論用低コストFPGAに関する論文】Qwen3-30B-A3B Q4 18t/sトークンジェネ、24GB、量産予定コスト150ドル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/ayake_ayake [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: [Paper on Hummingbird+: low-cost FPGAs for LLM inference] Qwen3-30B-A3B Q4 at 18 t/s token-gen, 24GB, expected $150 mass production cost&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t2kpzn/paper_on_hummingbird_lowcost_fpgas_for_llm/</guid>
+      <pubDate>Sun, 03 May 2026 12:55:26 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] PyTorchもBLASも依存関係もない。CPUで学習。0.83Mパラメータ、完全解析バックプロップ、76分でval loss 1.64。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t1x9jv/i_built_a_transformer_in_c17_from_scratch_no/</link>
-      <description>&lt;p&gt;&lt;strong&gt;PyTorchもBLASも依存関係もない。CPUで学習。0.83Mパラメータ、完全解析バックプロップ、76分でval loss 1.64。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ここ数ヶ月、私はC++17で実装された完全なGPTスタイルの言語モデルであるQuadtrix.cppに取り組んできた。PyTorchはない。LibTorchもない。BLASなし。自動微分ライブラリもない。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I built a transformer in C++17 from scratch — no PyTorch, no BLAS, no dependencies. Trains on CPU. 0.83M params, full analytical backprop, 76 min to val loss 1.64.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t1x9jv/i_built_a_transformer_in_c17_from_scratch_no/</guid>
-      <pubDate>Sat, 02 May 2026 18:11:34 GMT</pubDate>
+      <title>[r/LocalLLaMA] オープン・ウェイトモデル殿堂入り</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t2lwn0/open_weights_models_hall_of_fame/</link>
+      <description>&lt;p&gt;&lt;strong&gt;オープン・ウェイトモデル殿堂入り&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は多くのquot;whengguf&amp;quot;タイプの投稿を読んでいる。たまには立ち止まって、感謝の気持ちを持つべきだと思う。私たちに多くの楽しみと生産性を与えてくれたすべての人々や企業に心から感謝したい、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Open Weights Models Hall of Fame&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t2lwn0/open_weights_models_hall_of_fame/</guid>
+      <pubDate>Sun, 03 May 2026 13:45:55 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] Qwen3.6-27B (72 tok/s、RTX 3090、Windows)、ネイティブvLLM (WSLなし、Dockerなし)、ポータブルランチャーとインストーラーを使用。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t1judm/qwen3627b_at_72_toks_on_rtx_3090_on_windows_using/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Qwen3.6-27B (72 tok/s、RTX 3090、Windows)、ネイティブvLLM (WSLなし、Dockerなし)、ポータブルランチャーとインストーラーを使用。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ここでの切り口は、Windowsネイティブ、WSLなし。シンプルなインストール、オープンソース、遠隔測定なし。何かを売ったり宣伝したりするわけではない。https://github.com/devnen/qwen3.6-windows-server 数字（RTX 3090、Windows&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Qwen3.6-27B at 72 tok/s on RTX 3090 on Windows using native vLLM (no WSL, no Docker), portable launcher and installer&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t1judm/qwen3627b_at_72_toks_on_rtx_3090_on_windows_using/</guid>
-      <pubDate>Sat, 02 May 2026 08:12:35 GMT</pubDate>
+      <title>[r/LocalLLaMA] ローカルAI開発を待ち望んでいた方は、ぜひ試してみてほしい。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t2icy1/if_youve_been_waiting_to_try_local_ai_development/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ローカルAI開発を待ち望んでいた方は、ぜひ試してみてほしい。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は長い間、ローカルモデルはローカル開発において私の基準に達していない、あるいはGHCP、クロード・コード、カーソルなどに対抗できるものではない、と俗物的に感じていた。しかし、私は間違っていた。その&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: If you've been waiting to try local AI development, please try it&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t2icy1/if_youve_been_waiting_to_try_local_ai_development/</guid>
+      <pubDate>Sun, 03 May 2026 11:00:18 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] [RELEASE] - ついに僕の最初のTTSモデルがリリースされた！🎙️ フレア-TTS 28M</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t1mmnd/release_finally_my_first_tts_model_is_out/</link>
-      <description>&lt;p&gt;&lt;strong&gt;[RELEASE] - ついに僕の最初のTTSモデルがリリースされた！🎙️ フレア-TTS 28M&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;こんにちは、r/LocalLLaMA ！新しいモデルで戻ってきました。今日は特別なモデルです😃 Flare-TTS 28Mです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: [RELEASE] - Finally, my first TTS model is out! 🎙️ Flare-TTS 28M&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t1mmnd/release_finally_my_first_tts_model_is_out/</guid>
-      <pubDate>Sat, 02 May 2026 10:52:10 GMT</pubDate>
+      <title>[r/LocalLLaMA] ハグ顔モデルのビジュアライザーを作ってみた</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t24y4p/i_made_a_visualizer_for_hugging_face_models/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ハグ顔モデルのビジュアライザーを作ってみた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ハギング・フェイス・モデルのアーキテクチャを視覚的に探索するための小さなツール、hfviewer.comを作った。Hugging FaceのURLを貼り付けると、そのアーキテクチャをインタラクティブに視覚化することができます。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I made a visualizer for Hugging Face models&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t24y4p/i_made_a_visualizer_for_hugging_face_models/</guid>
+      <pubDate>Sat, 02 May 2026 23:18:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
