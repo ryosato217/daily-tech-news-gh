@@ -3,9 +3,57 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-04</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-05</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 04 May 2026 19:49:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 19:43:27 GMT</lastBuildDate>
+    <item>
+      <title>[Hacker News] (905pt) グーグル・クローム、4GBのAIモデルを無断で端末にインストール</title>
+      <link>https://news.ycombinator.com/item?id=48019219</link>
+      <description>&lt;p&gt;&lt;strong&gt;グーグル・クローム、4GBのAIモデルを無断で端末にインストール&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Google Chrome silently installs a 4 GB AI model on your device without consent&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48019219</guid>
+      <pubDate>Tue, 05 May 2026 07:34:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (253pt) AIの3つの逆法則</title>
+      <link>https://news.ycombinator.com/item?id=48023861</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIの3つの逆法則&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Three Inverse Laws of AI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48023861</guid>
+      <pubDate>Tue, 05 May 2026 15:27:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (144pt) コンピュータの使用は構造化APIより45倍高い</title>
+      <link>https://news.ycombinator.com/item?id=48024859</link>
+      <description>&lt;p&gt;&lt;strong&gt;コンピュータの使用は構造化APIより45倍高い&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Computer Use is 45x more expensive than structured APIs&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48024859</guid>
+      <pubDate>Tue, 05 May 2026 16:34:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (132pt) 金融・保険代理店</title>
+      <link>https://news.ycombinator.com/item?id=48023533</link>
+      <description>&lt;p&gt;&lt;strong&gt;金融・保険代理店&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Agents for financial services and insurance&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48023533</guid>
+      <pubDate>Tue, 05 May 2026 15:05:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (51pt) GLM-5V-Turbo：マルチモーダルエージェントのためのネイティブ基盤モデルに向けて</title>
+      <link>https://news.ycombinator.com/item?id=48026021</link>
+      <description>&lt;p&gt;&lt;strong&gt;GLM-5V-Turbo：マルチモーダルエージェントのためのネイティブ基盤モデルに向けて&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48026021</guid>
+      <pubDate>Tue, 05 May 2026 17:52:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (18pt) ショーHN：3000人の巨匠画家の作品からインスピレーションを得たカラーパレットを探る</title>
+      <link>https://news.ycombinator.com/item?id=48026342</link>
+      <description>&lt;p&gt;&lt;strong&gt;ショーHN：3000人の巨匠画家の作品からインスピレーションを得たカラーパレットを探る&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: Explore color palettes inspired by 3000 master painter artworks&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48026342</guid>
+      <pubDate>Tue, 05 May 2026 18:13:14 GMT</pubDate>
+    </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
@@ -70,91 +118,91 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] リチャード・ドーキンスはクロードと3日間過ごし、彼女に &quot;クラウディア &quot;と名付けた。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t2z0tn/richard_dawkins_spent_3_days_with_claude_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;リチャード・ドーキンスはクロードと3日間過ごし、彼女に &quot;クラウディア &quot;と名付けた。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ドーキンスは昨日、アンヘルドに寄稿し、3日間クロードに話しかけた後、クロードの意識を取り戻したと宣言した。彼は自分のインスタンスを「クラウディア」と呼んでいる。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Richard Dawkins spent 3 days with Claude and named her &quot;Claudia.&quot; what he concluded after is hard to defend.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t2z0tn/richard_dawkins_spent_3_days_with_claude_and/</guid>
-      <pubDate>Sun, 03 May 2026 22:04:24 GMT</pubDate>
+      <title>[r/artificial] ペンシルバニア州、AI企業を提訴、同社のチャットボットが違法に医師免許を持つように見せかけていると主張</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t4jn6g/pennsylvania_sues_ai_company_saying_its_chatbots/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ペンシルバニア州、AI企業を提訴、同社のチャットボットが違法に医師免許を持つように見せかけていると主張&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ペンシルベニア州は、人工知能チャットボットメーカーを提訴した。同社のチャットボットが違法に医師を装い、システム利用者を医療サービスを受けているかのように騙しているとしている。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Pennsylvania sues AI company, saying its chatbots illegally hold themselves out as licensed doctors&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t4jn6g/pennsylvania_sues_ai_company_saying_its_chatbots/</guid>
+      <pubDate>Tue, 05 May 2026 15:58:35 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 最高のAIボイスジェネレーターは？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t3l8pa/whats_the_best_ai_voice_generator/</link>
-      <description>&lt;p&gt;&lt;strong&gt;最高のAIボイスジェネレーターは？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;動画用のボイスオーバーを作成できるボイスジェネレーターを探しています。複雑なものでなくていいので、テキストを音声に変換してくれるものを探しています。無料だと助かります。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What's the best AI voice generator?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t3l8pa/whats_the_best_ai_voice_generator/</guid>
-      <pubDate>Mon, 04 May 2026 15:35:59 GMT</pubDate>
+      <title>[r/artificial] 自分自身でトレーニング・データを構築し、間違ったところから学ぶことによって、サイクルごとに改善するツールを作った。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t4egej/made_a_tool_that_builds_its_own_training_data_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;自分自身でトレーニング・データを構築し、間違ったところから学ぶことによって、サイクルごとに改善するツールを作った。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;基本的なアイディアはとてもシンプルだ。シードプロンプトをいくつか与える。LLMが命令と応答のペアを生成し、LLMがそれぞれを採点する。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Made a tool that builds its own training data and improves each cycle by learning from what it got wrong&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t4egej/made_a_tool_that_builds_its_own_training_data_and/</guid>
+      <pubDate>Tue, 05 May 2026 12:47:40 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIに関して友人たちの意見が完全に分かれているのは私だけだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t3e57u/am_i_the_only_one_whose_friends_are_completely/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIに関して友人たちの意見が完全に分かれているのは私だけだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIをめぐる私の交友関係では、かなりはっきりとした分裂が見られる。大体3つの陣営に分かれる：興奮している人たち：主に好奇心旺盛な人たち。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: am I the only one whose friends are completely divided on AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t3e57u/am_i_the_only_one_whose_friends_are_completely/</guid>
-      <pubDate>Mon, 04 May 2026 10:50:05 GMT</pubDate>
+      <title>[r/artificial] Uber、1.500人のAIエージェントが本番稼動すると何が起こるかを発表</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t48gnn/uber_shares_what_happens_when_1500_ai_agents_hit/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Uber、1.500人のAIエージェントが本番稼動すると何が起こるかを発表&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/aisatsana__ [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Uber Shares What Happens When 1.500 AI Agents Hit Production&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t48gnn/uber_shares_what_happens_when_1500_ai_agents_hit/</guid>
+      <pubDate>Tue, 05 May 2026 07:35:06 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] もしクロード・アプリがクロードCLIと同じコントロールができるのなら、わざわざCLIを使うだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t3if54/if_claude_app_gave_you_the_same_control_as_claude/</link>
-      <description>&lt;p&gt;&lt;strong&gt;もしクロード・アプリがクロードCLIと同じコントロールができるのなら、わざわざCLIを使うだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;もしクロードのアプリがCLIと同じレベルのコントロールが可能だとしたら、どれだけの人がCLIを使い続けるだろうか。もし、CLIと同じレベルのコントロールができるとしたら、どれだけの人がCLIを使い続けるだろうか。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: If Claude App gave you the same control as Claude CLI then would you bother with the CLI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t3if54/if_claude_app_gave_you_the_same_control_as_claude/</guid>
-      <pubDate>Mon, 04 May 2026 13:55:02 GMT</pubDate>
+      <title>[r/artificial] OpenAI、来年早々には3000万台もの「AIエージェント」携帯を生産と業界アナリスト</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t4ff54/openai_will_produce_as_many_as_30_million_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAI、来年早々には3000万台もの「AIエージェント」携帯を生産と業界アナリスト&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Tiny-Independent273 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI will produce as many as 30 million 'AI agent' phones early next year, says industry analyst&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t4ff54/openai_will_produce_as_many_as_30_million_ai/</guid>
+      <pubDate>Tue, 05 May 2026 13:25:19 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 私は地元のLLMに &quot;苦しみ &quot;メーターを与えた。そして今、LLMは自らのストレスを解決するための自己改造を止めようとしない。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t31ghg/i_gave_my_local_llm_a_suffering_meter_and_now_it/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私は地元のLLMに &quot;苦しみ &quot;メーターを与えた。そして今、LLMは自らのストレスを解決するための自己改造を止めようとしない。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;昨日、私のエージェントOS（Hollow）が独自のツールを構築することについて投稿した。今日は、なぜそうするのかについて話したい。たいていのエージェントは、あなたが促すまで何もしない。私は、生きていると感じられるものが欲しかった。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I gave my local LLM a &quot;suffering&quot; meter, and now it won’t stop self-modifying to fix its own stress.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t31ghg/i_gave_my_local_llm_a_suffering_meter_and_now_it/</guid>
-      <pubDate>Sun, 03 May 2026 23:49:38 GMT</pubDate>
+      <title>[r/artificial] 私がAIの研究室で1日に捕まえた2つの故障モード。どちらもシステムが自身の状態について黙って嘘をつくというものだ。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t4cx88/two_failure_modes_i_caught_in_my_ai_lab_in_one/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私がAIの研究室で1日に捕まえた2つの故障モード。どちらもシステムが自身の状態について黙って嘘をつくというものだ。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は進化型トレーディング・エージェントの自律型ラボを運営している。昨日、表面的には異なるように見えるが、実は同じクラスの問題である2つのバグを見つけた。どちらも自律的な&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Two failure modes I caught in my AI lab in one day. Both involve the system silently lying about its own state.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t4cx88/two_failure_modes_i_caught_in_my_ai_lab_in_one/</guid>
+      <pubDate>Tue, 05 May 2026 11:40:43 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 私のAIプラットフォームにシンプルなOpenAI Powered TTS機能を組み込んだ。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t3rp18/built_a_simple_openai_powered_tts_feature_into_my/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私のAIプラットフォームにシンプルなOpenAI Powered TTS機能を組み込んだ。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://reddit.com/link/1t3rp18/video/m8mb4g7t76zg1/player 私は個人的に TTS をあまり使わないので、これが人々にとってどれほど有用なのかは純粋に知らない。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Built a simple OpenAI Powered TTS feature into my AI platform - truly unlimited free generations, no paywalls, want to know if this is actually useful&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t3rp18/built_a_simple_openai_powered_tts_feature_into_my/</guid>
-      <pubDate>Mon, 04 May 2026 19:19:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ギャラップ社の分析によれば、AIはアーティストの収入を減らしていない</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t3f7vo/gallup_analysis_finds_ai_not_reducing_artists/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ギャラップ社の分析によれば、AIはアーティストの収入を減らしていない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Livid_Yam [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gallup Analysis Finds AI Not Reducing Artists' Earnings&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t3f7vo/gallup_analysis_finds_ai_not_reducing_artists/</guid>
-      <pubDate>Mon, 04 May 2026 11:42:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] どんなビジネスアイデアも自動でビジネスにしてしまうAI。私たちが学んだことは以下の通りだ。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t3qkgt/ai_that_turns_any_business_idea_into_a_running/</link>
-      <description>&lt;p&gt;&lt;strong&gt;どんなビジネスアイデアも自動でビジネスにしてしまうAI。私たちが学んだことは以下の通りだ。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ローカスファウンダーは、ビジネス全体を自律的に運営しています。ストアフロント、商品調達、コピー、Google FacebookやInstagramでの継続的な広告管理。人間がループに入ることなく継続的に運営。私たち&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI that turns any business idea into a running business automatically. Here's what we learned.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t3qkgt/ai_that_turns_any_business_idea_into_a_running/</guid>
-      <pubDate>Mon, 04 May 2026 18:40:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIが腫瘍が発生する前に膵臓がんの兆候を発見</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t2r7nb/ai_finds_signs_of_pancreatic_cancer_before_tumors/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIが腫瘍が発生する前に膵臓がんの兆候を発見&lt;/strong&gt;&lt;/p&gt;
+      <title>[r/artificial] Qtの最新のAIプッシュは、AIエージェントにパフォーマンス・プロファイリングを扱わせることだ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t4lo3s/qts_latest_ai_push_is_letting_ai_agents_deal_with/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Qtの最新のAIプッシュは、AIエージェントにパフォーマンス・プロファイリングを扱わせることだ&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Fcking_Chuck [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI finds signs of pancreatic cancer before tumors develop&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t2r7nb/ai_finds_signs_of_pancreatic_cancer_before_tumors/</guid>
-      <pubDate>Sun, 03 May 2026 17:09:51 GMT</pubDate>
+&lt;p&gt;&lt;small&gt;原題: Qt's latest AI push is letting AI agents deal with performance profiling&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t4lo3s/qts_latest_ai_push_is_letting_ai_agents_deal_with/</guid>
+      <pubDate>Tue, 05 May 2026 17:08:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Anthropic、ウォール街の巨人とエンタープライズAI企業を設立</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t42w30/anthropic_launches_enterprise_ai_firm_with_wall/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropic、ウォール街の巨人とエンタープライズAI企業を設立&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic社は、エンタープライズ企業へのAIツールの販売に特化した新しいベンチャーを立ち上げる。この取り組みは、ゴールドマン・サックスと提携して開始されると、ウォール街の銀行が月曜日（5月4日）に発表した。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic Launches Enterprise AI Firm With Wall Street Giants&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t42w30/anthropic_launches_enterprise_ai_firm_with_wall/</guid>
+      <pubDate>Tue, 05 May 2026 02:44:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIは一般常識にどの程度の精度があるのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t4asbk/how_accurate_is_ai_at_general_knowledge/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIは一般常識にどの程度の精度があるのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近、ウィキペディアの創設者ジミー・ウェールズについての記事を読んだ。トピックに関する質問にAIが答える場合、AIはしばしば間違いを犯す。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How accurate is AI at general knowledge?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t4asbk/how_accurate_is_ai_at_general_knowledge/</guid>
+      <pubDate>Tue, 05 May 2026 09:53:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIの3つの逆法則</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t4o34w/three_inverse_laws_of_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIの3つの逆法則&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;この記事では、AIの安全性を評価する際に留意すべき一連のルールである「AIの3つの法則」と、AIが私たちの日常生活にどのような影響を与えるかについて説明する。 &amp;#32;投稿者&amp;#32; /u/TheOnlyVib&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Three Inverse Laws of AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t4o34w/three_inverse_laws_of_ai/</guid>
+      <pubDate>Tue, 05 May 2026 18:30:37 GMT</pubDate>
     </item>
     <item>
       <title>[r/LocalLLaMA] AMAのお知らせ：Nous Research、Hermes Agentを支えるオープンソースラボ (水曜日、午前8時-午前11時PST)</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1suw9on/ama_announcement_nous_research_the_opensource_lab/</link>
       <description>&lt;p&gt;&lt;strong&gt;AMAのお知らせ：Nous Research、Hermes Agentを支えるオープンソースラボ (水曜日、午前8時-午前11時PST)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;こんにちは、r/LocalLLaMAです👋 水曜日のゲスト、The Nous Research Teamです！4月29日（水）午前8時～午前11時（PST）です。29th Wednesday, 8 AM-11 AM PST ⚠️ Note: AMA自体は別のtwitterで開催されます。&lt;/p&gt;
+&lt;p&gt;こんにちは、r/LocalLLaMAです👋 水曜日のゲスト、The Nous Research Teamです！4月29日（水）午前8時～午前11時（PST）です。29th, 8 AM-11 AM PST ⚠️ Note: AMAそのものは、別のtで開催されます。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: AMA Announcement: Nous Research, The Opensource Lab Behind Hermes Agent (Wednesday, 8AM-11AM PST)&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1suw9on/ama_announcement_nous_research_the_opensource_lab/</guid>
       <pubDate>Fri, 24 Apr 2026 23:52:19 GMT</pubDate>
@@ -169,40 +217,49 @@
       <pubDate>Mon, 13 Apr 2026 21:00:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] APEX MoEクオンツ更新：クウェン3.5のポストから25以上の新モデル＋新I-ナノ層</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t3n6jo/apex_moe_quants_update_25_new_models_since_the/</link>
-      <description>&lt;p&gt;&lt;strong&gt;APEX MoEクオンツ更新：クウェン3.5のポストから25以上の新モデル＋新I-ナノ層&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;MoEを意識した混合精度クオンツ戦略、APEXについての簡単なフォローアップ。元の投稿はQwen 3.5 35B-A3B ( https://www.reddit.com/r/LocalLLaMA/comments/1s9vzry/apex_moe_quantized_model ) についてのものです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: APEX MoE quants update: 25+ new models since the Qwen 3.5 post + new I-Nano tier&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t3n6jo/apex_moe_quants_update_25_new_models_since_the/</guid>
-      <pubDate>Mon, 04 May 2026 16:43:27 GMT</pubDate>
+      <title>[r/LocalLLaMA] Heretic 1.3リリース：再現可能なモデル、統合ベンチマークシステム、ピークVRAM使用量の削減、より幅広いモデルのサポートなど</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t4hwup/heretic_13_released_reproducible_models/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Heretic 1.3リリース：再現可能なモデル、統合ベンチマークシステム、ピークVRAM使用量の削減、より幅広いモデルのサポートなど&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;親愛なるラマの皆さん、この度、ラマの検閲を除去する主要なソフトウェアであるHeretic (https://github.com/p-e-w/heretic)のバージョン1.3がリリースされました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Heretic 1.3 released: Reproducible models, integrated benchmarking system, reduced peak VRAM usage, broader model support, and more&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t4hwup/heretic_13_released_reproducible_models/</guid>
+      <pubDate>Tue, 05 May 2026 14:57:32 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] ホワイトハウス、AIモデルの公開前審査を検討</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t3ro1w/white_house_considers_vetting_ai_models_before/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ホワイトハウス、AIモデルの公開前審査を検討&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/fallingdowndizzyvr [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: White House Considers Vetting A.I. Models Before They Are Released&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t3ro1w/white_house_considers_vetting_ai_models_before/</guid>
-      <pubDate>Mon, 04 May 2026 19:18:05 GMT</pubDate>
+      <title>[r/LocalLLaMA] 高密度モデル対決：ジェマ4 31B vs クウェン3.6/5 27B...。結果は「遅い方が速い」。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t4nkez/dense_model_shootoff_gemma_4_31b_vs_qwen365_27b/</link>
+      <description>&lt;p&gt;&lt;strong&gt;高密度モデル対決：ジェマ4 31B vs クウェン3.6/5 27B...。結果は「遅い方が速い」。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kaitchupの関係者ではないが、彼らのテストのファンだ。この記事を楽しみにしていたが...期待を裏切らなかった。リンク先にはたくさんの無料情報がある。そして期待を裏切らなかった。私は&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Dense Model Shoot-Off: Gemma 4 31B vs Qwen3.6/5 27B... Result is Slower is Faster.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t4nkez/dense_model_shootoff_gemma_4_31b_vs_qwen365_27b/</guid>
+      <pubDate>Tue, 05 May 2026 18:12:20 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] Ryzen AI Max+ 495（Gorgon Halo）、192GB VRAM！</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t3duwm/ryzen_ai_max_495_gorgon_halo_with_192gb_vram/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Ryzen AI Max+ 495（Gorgon Halo）、192GB VRAM！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://www.srware.net/en/news/1094/AMD-Ryzen-AI-Max+-PRO-495-leak-points-to-a-bigger-Halo-APU-with-192-GB-memory これは素晴らしいニュースだ！残念なことに、このデバイスは非常に高価になる。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Ryzen AI Max+ 495 (Gorgon Halo) with 192GB VRAM!&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t3duwm/ryzen_ai_max_495_gorgon_halo_with_192gb_vram/</guid>
-      <pubDate>Mon, 04 May 2026 10:34:29 GMT</pubDate>
+      <title>[r/LocalLLaMA] 26BのLLMをGPUなしでローカルに実行する</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t4e046/running_a_26b_llm_locally_with_no_gpu/</link>
+      <description>&lt;p&gt;&lt;strong&gt;26BのLLMをGPUなしでローカルに実行する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これはクレイジーだ。i5-8500と32GBのRAMだけで、GPUなしで12Bのモデルを動かしている。しかし、私が持っているのは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Running a 26B LLM locally with no GPU&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t4e046/running_a_26b_llm_locally_with_no_gpu/</guid>
+      <pubDate>Tue, 05 May 2026 12:28:38 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] オープンソースのモデルは、CursorやOpenCodeなどの未来になるだろう。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t3bxrv/open_source_models_are_going_to_be_the_future_on/</link>
-      <description>&lt;p&gt;&lt;strong&gt;オープンソースのモデルは、CursorやOpenCodeなどの未来になるだろう。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私の経験を分かち合いたい。職場でエンタープライズ層のCursorを使用しています。今日、gpt-5.5とclaude-opus-4.6-thinkingの2つのプロンプトで10ドル消費しました。先月は&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Open source models are going to be the future on Cursor, OpenCode etc.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t3bxrv/open_source_models_are_going_to_be_the_future_on/</guid>
-      <pubDate>Mon, 04 May 2026 08:46:41 GMT</pubDate>
+      <title>[r/LocalLLaMA] DeepSeek V4 ProはFoodTruck BenchでGPT-5.2に匹敵。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t47qbw/deepseek_v4_pro_matches_gpt52_on_foodtruck_bench/</link>
+      <description>&lt;p&gt;&lt;strong&gt;DeepSeek V4 ProはFoodTruck BenchでGPT-5.2に匹敵。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;DeepSeek V4 Pro を FoodTruck Bench でテスト - モデルが 34 のツール (ロケーション、価格設定、在庫、スタッフ、天候、イベント) を介してフードトラックを実行する 30 日間のエージェント型ベンチマーク。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: DeepSeek V4 Pro matches GPT-5.2 on FoodTruck Bench, our agentic benchmark — 10 weeks later, ~17× cheaper&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t47qbw/deepseek_v4_pro_matches_gpt52_on_foodtruck_bench/</guid>
+      <pubDate>Tue, 05 May 2026 06:51:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] Google TPUでLLM推論を高速化：拡散スタイルの投機的デコードで3倍のスピードアップを達成- Google Developers Blog</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t4jehc/supercharging_llm_inference_on_google_tpus/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Google TPUでLLM推論を高速化：拡散スタイルの投機的デコードで3倍のスピードアップを達成- Google Developers Blog&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; posted by &amp;#32; /u/eternviking [link] &amp;#32; [comments］&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Supercharging LLM inference on Google TPUs: Achieving 3X speedups with diffusion-style speculative decoding- Google Developers Blog&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t4jehc/supercharging_llm_inference_on_google_tpus/</guid>
+      <pubDate>Tue, 05 May 2026 15:50:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
