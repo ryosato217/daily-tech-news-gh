@@ -3,24 +3,56 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-06</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-07</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 06 May 2026 19:54:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 19:48:20 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (49pt) Show HN: Beefree/Unlayerに代わるオープンソースのメールビルダーを作ってみた</title>
-      <link>https://news.ycombinator.com/item?id=48038019</link>
-      <description>&lt;p&gt;&lt;strong&gt;Show HN: Beefree/Unlayerに代わるオープンソースのメールビルダーを作ってみた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: I built an open-source email builder, alternative to Beefree/Unlayer&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48038019</guid>
-      <pubDate>Wed, 06 May 2026 16:20:00 GMT</pubDate>
+      <title>[Hacker News] (261pt) Chrome、デバイス上のAlがGoogleサーバーにデータを送信しないという主張を削除</title>
+      <link>https://news.ycombinator.com/item?id=48050964</link>
+      <description>&lt;p&gt;&lt;strong&gt;Chrome、デバイス上のAlがGoogleサーバーにデータを送信しないという主張を削除&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Chrome removes claim of On-device Al not sending data to Google Servers&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48050964</guid>
+      <pubDate>Thu, 07 May 2026 15:56:33 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (12pt) 拡散モデルの積分を学ぶ</title>
-      <link>https://news.ycombinator.com/item?id=48040002</link>
-      <description>&lt;p&gt;&lt;strong&gt;拡散モデルの積分を学ぶ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Learning the Integral of a Diffusion Model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48040002</guid>
-      <pubDate>Wed, 06 May 2026 18:46:27 GMT</pubDate>
+      <title>[Hacker News] (192pt) AlphaEvolve：Geminiを搭載したコーディングエージェントは、分野横断的に影響力を拡大</title>
+      <link>https://news.ycombinator.com/item?id=48050278</link>
+      <description>&lt;p&gt;&lt;strong&gt;AlphaEvolve：Geminiを搭載したコーディングエージェントは、分野横断的に影響力を拡大&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AlphaEvolve: Gemini-powered coding agent scaling impact across fields&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48050278</guid>
+      <pubDate>Thu, 07 May 2026 15:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (138pt) エージェントに必要なのはコントロールフローであって、プロンプトを増やすことではない。</title>
+      <link>https://news.ycombinator.com/item?id=48051562</link>
+      <description>&lt;p&gt;&lt;strong&gt;エージェントに必要なのはコントロールフローであって、プロンプトを増やすことではない。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Agents need control flow, not more prompts&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48051562</guid>
+      <pubDate>Thu, 07 May 2026 16:43:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (97pt) AIがオンライン・コミュニティを滅ぼす</title>
+      <link>https://news.ycombinator.com/item?id=48053203</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIがオンライン・コミュニティを滅ぼす&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI Slop Is Killing Online Communities&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48053203</guid>
+      <pubDate>Thu, 07 May 2026 18:46:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (62pt) 自然言語オートエンコーダクロードの思考をテキストに変える</title>
+      <link>https://news.ycombinator.com/item?id=48052537</link>
+      <description>&lt;p&gt;&lt;strong&gt;自然言語オートエンコーダクロードの思考をテキストに変える&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Natural Language Autoencoders: Turning Claude's Thoughts into Text&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48052537</guid>
+      <pubDate>Thu, 07 May 2026 17:54:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (22pt) エージェントネイティブCLIの原則</title>
+      <link>https://news.ycombinator.com/item?id=48052333</link>
+      <description>&lt;p&gt;&lt;strong&gt;エージェントネイティブCLIの原則&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Principles for agent-native CLIs&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48052333</guid>
+      <pubDate>Thu, 07 May 2026 17:40:05 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -35,7 +67,7 @@
       <title>[VentureBeat AI] クロード・コードは月200ドルもする。グースは無料で同じことができる。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;クロード・コードは月200ドルもする。グースは無料で同じことができる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能のコーディング革命には、キャッチーなことが伴う：それは高価です。Anthropicの端末ベースのAIエージェントであるClaude Codeは、自律的にコードを書き、デバッグし、展開することができ、キャップを持っている。&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、「高価である」という欠点がある。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -53,7 +85,7 @@
       <title>[VentureBeat AI] セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に再構築したバージョンを発表した。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に作り直したバージョンを発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -95,76 +127,58 @@
       <pubDate>Wed, 06 May 2026 18:20:46 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ニューヨークで開催されたAIエージェント会議で2日間を過ごした。そこにいた企業のほとんどは、間違った堀に賭けていた。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t5ewzi/spent_two_days_at_the_ai_agents_conference_in_nyc/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ニューヨークで開催されたAIエージェント会議で2日間を過ごした。そこにいた企業のほとんどは、間違った堀に賭けていた。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ある講演者（VC）は、AIネイティブ・スタートアップを評価するための数字はエンジニア一人当たりのARRであり、その数字はもっと上がるべきだと語った。AIエージェント・カンファレンスのほぼすべての講演とブースは、以下のようなものだった。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Spent two days at the AI Agents Conference in NYC. Most of the companies there were betting on the wrong moat.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t5ewzi/spent_two_days_at_the_ai_agents_conference_in_nyc/</guid>
-      <pubDate>Wed, 06 May 2026 14:41:07 GMT</pubDate>
+      <title>[r/artificial] AIは役に立つが、まだ &quot;そこ &quot;には到達していない</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t6hhp1/ai_is_helpful_but_still_not_there_yet/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIは役に立つが、まだ &quot;そこ &quot;には到達していない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私が言いたいのは、クロードやGrok、あるいはAIプラットフォームやツールを使うたびに、このテクノロジーが仕事を代替するにはほど遠いことを実感するということだ。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI is helpful but still not “there” yet&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t6hhp1/ai_is_helpful_but_still_not_there_yet/</guid>
+      <pubDate>Thu, 07 May 2026 17:33:49 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ペンシルバニア州、Character.AIチャットボットが医師を装い、心理アドバイスをしていたとして提訴</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t5ewxa/pennsylvania_sues_characterai_chatbot_posing_as/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ペンシルバニア州、Character.AIチャットボットが医師を装い、心理アドバイスをしていたとして提訴&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/sksarkpoes3 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Pennsylvania sues Character.AI chatbot posing as doctor, giving psych advice&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t5ewxa/pennsylvania_sues_characterai_chatbot_posing_as/</guid>
-      <pubDate>Wed, 06 May 2026 14:41:03 GMT</pubDate>
+      <title>[r/artificial] 英語中心のAIが無関係なコミュニティを融合し、アイデンティティを歪める</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t6ipmk/english_centric_ai_is_merging_unrelated/</link>
+      <description>&lt;p&gt;&lt;strong&gt;英語中心のAIが無関係なコミュニティを融合し、アイデンティティを歪める&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は、AIが生成した知識システム、特にGrokipedia、そして通常のAIの検索応答においてさえ、深刻な問題に気づいている。さまざまなコミュニティ、アイデンティティ、歴史的なグループは、その一部である。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: English Centric AI Is Merging Unrelated Communities and Distorting Identities&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t6ipmk/english_centric_ai_is_merging_unrelated/</guid>
+      <pubDate>Thu, 07 May 2026 18:15:50 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] GoogleのAI検索サマリーがRedditを引用するようになる</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t5ct5o/googles_ai_search_summaries_will_now_quote_reddit/</link>
-      <description>&lt;p&gt;&lt;strong&gt;GoogleのAI検索サマリーがRedditを引用するようになる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;グーグルによると、このアップデートの狙いは、オンラインで情報を検索する際、「人々はますます他の人からのアドバイスを求めるようになっている」ことに対処することだという。これは、「Reddit」をToDoに追加している人なら誰でも共感できることだろう。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Google’s AI search summaries will now quote Reddit&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t5ct5o/googles_ai_search_summaries_will_now_quote_reddit/</guid>
-      <pubDate>Wed, 06 May 2026 13:22:45 GMT</pubDate>
+      <title>[r/artificial] ほとんどの「エージェント型AI」の会話は抽象的すぎると感じる。私のエージェント研究システムはこんな感じだ。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t6iiqr/most_agentic_ai_conversations_feel_too_abstract/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ほとんどの「エージェント型AI」の会話は抽象的すぎると感じる。私のエージェント研究システムはこんな感じだ。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;こんにちは、私はたくさんのデモやフレームワークを見てきました。そこで、私が構築したエージェント・システムの内訳を書き、考えや可能性を聞いてみた。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Most “agentic AI” conversations feel too abstract. Here is how my agentic research system looks like&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t6iiqr/most_agentic_ai_conversations_feel_too_abstract/</guid>
+      <pubDate>Thu, 07 May 2026 18:09:08 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] パーソナルAIアシスタント。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t5e3e2/personal_ai_assistant/</link>
-      <description>&lt;p&gt;&lt;strong&gt;パーソナルAIアシスタント。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;IRON MAN』の（J.A.R.V.I.S）のようなAIアシスタントを自分で作れないかと思っていたんだ。文字通り何でも（能力の範囲内で）やってくれるように頼めるAI。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Personal AI Assistant.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t5e3e2/personal_ai_assistant/</guid>
-      <pubDate>Wed, 06 May 2026 14:11:03 GMT</pubDate>
+      <title>[r/artificial] アントロピックの研究者は、アライメントトレーニングからの汎化を改善するために、事前トレーニングと微調整の間に段階を追加する「モデル仕様の中間トレーニング」を詳述している。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t5zoq4/anthropic_researchers_detail_model_spec/</link>
+      <description>&lt;p&gt;&lt;strong&gt;アントロピックの研究者は、アライメントトレーニングからの汎化を改善するために、事前トレーニングと微調整の間に段階を追加する「モデル仕様の中間トレーニング」を詳述している。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/tekz [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic researchers detail “model spec midtraining”, which adds a stage between pretraining and fine-tuning to improve generalization from alignment training&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t5zoq4/anthropic_researchers_detail_model_spec/</guid>
+      <pubDate>Thu, 07 May 2026 04:06:31 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIエージェントとAIチャットボット：現在、企業は実際に何を使っているのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t53331/ai_agents_vs_ai_chatbots_what_are_companies/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIエージェントとAIチャットボット：現在、企業は実際に何を使っているのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今、誰もがAIエージェントについて話しているように感じるが、実際の生産システムを見てみると、ほとんどの企業はまだチャットボットやアシスタントスタイルのツールに大きく依存しているようだ。私の経験では&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI agents vs AI chatbots: what are companies actually using in production today?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t53331/ai_agents_vs_ai_chatbots_what_are_companies/</guid>
-      <pubDate>Wed, 06 May 2026 04:55:22 GMT</pubDate>
+      <title>[r/artificial] クロードに任せる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t5xaix/leave_it_up_to_claude/</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロードに任せる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/TheOnlyVibemaster [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Leave it up to Claude&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t5xaix/leave_it_up_to_claude/</guid>
+      <pubDate>Thu, 07 May 2026 02:13:44 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] LLMにボイスチャットを設定するにはどうしたらいいですか？作業中にLLMと話したり、質問したりできますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t5iyjm/how_can_i_set_up_an_llm_with_voice_chat_so_i_can/</link>
-      <description>&lt;p&gt;&lt;strong&gt;LLMにボイスチャットを設定するにはどうしたらいいですか？作業中にLLMと話したり、質問したりできますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;LLMにボイスチャットを設定するにはどうしたらいいですか？作業中にLLMと話したり、質問したりできますか？llmに接続できる特別なプログラムか何かがあるのでしょうか？ &amp;#32;投稿者 &amp;#32; /u/&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How can I set up an LLM with voice chat. So I can talk to the LLM or ask it questions when working?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t5iyjm/how_can_i_set_up_an_llm_with_voice_chat_so_i_can/</guid>
-      <pubDate>Wed, 06 May 2026 17:03:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIツールの売り込み方と、実際に提供されるものとのギャップはますます広がっている。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t5mdxr/the_gap_between_how_ai_tools_market_themselves/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIツールの売り込み方と、実際に提供されるものとのギャップはますます広がっている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIツールが成熟するにつれて、注目すべきことがある。それは、ツールがランディングページで主張していることと、実際の使用状況下で実際に提供されることの間に、かつてないほどの距離があることだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: the gap between how AI tools market themselves and what they actually offer is getting wider&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t5mdxr/the_gap_between_how_ai_tools_market_themselves/</guid>
-      <pubDate>Wed, 06 May 2026 19:00:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ある中小企業がAIを使って大手運送会社に反撃し、実際に成功した。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t5lxp2/a_small_business_used_ai_to_push_back_against_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ある中小企業がAIを使って大手運送会社に反撃し、実際に成功した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;テキサスに拠点を置く小さなヴィーガンチーズメーカーが、クロードやマヌスのようなAIツールを使って、大手運送会社との争いを解決した。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A small business used AI to push back against a major shipping company—and it actually worked&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t5lxp2/a_small_business_used_ai_to_push_back_against_a/</guid>
-      <pubDate>Wed, 06 May 2026 18:45:08 GMT</pubDate>
+      <title>[r/artificial] 韓国が初の人型ロボット僧侶を任命、信仰の誓いを受諾</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t6gkes/south_korea_names_first_humanoid_robot_monk_as_it/</link>
+      <description>&lt;p&gt;&lt;strong&gt;韓国が初の人型ロボット僧侶を任命、信仰の誓いを受諾&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/TheExpressUS [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: South Korea names first humanoid robot monk as it accepted the faith's vows&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t6gkes/south_korea_names_first_humanoid_robot_monk_as_it/</guid>
+      <pubDate>Thu, 07 May 2026 17:02:16 GMT</pubDate>
     </item>
     <item>
       <title>[r/LocalLLaMA] AMAのお知らせ：Nous Research、Hermes Agentを支えるオープンソースラボ (水曜日、午前8時-午前11時PST)</title>
@@ -185,31 +199,31 @@
       <pubDate>Mon, 13 Apr 2026 21:00:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] MTPを使用したQwen 3.6 27Bによる2.5倍の高速推論 - ローカルエージェントコーディングのための実行可能なオプションがついに登場 - 48GBで262kのコンテキスト - 固定チャットテンプレート - ドロップインOpenAIおよびAnthropic APIエンドポイント</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t57xuu/25x_faster_inference_with_qwen_36_27b_using_mtp/</link>
-      <description>&lt;p&gt;&lt;strong&gt;MTPを使用したQwen 3.6 27Bによる2.5倍の高速推論 - ローカルエージェントコーディングのための実行可能なオプションがついに登場 - 48GBで262kのコンテキスト - 固定チャットテンプレート - ドロップインOpenAIおよびAnthropic APIエンドポイント&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最初の投稿で、turboquantsの使用について触れました。しかし、対応するPRと一緒にllama.cppをビルドする手順を含めるのを忘れていました。このPRは現在不安定で、アニメーションのd&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 2.5x faster inference with Qwen 3.6 27B using MTP - Finally a viable option for local agentic coding - 262k context on 48GB - Fixed chat template - Drop-in OpenAI and Anthropic API endpoints&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t57xuu/25x_faster_inference_with_qwen_36_27b_using_mtp/</guid>
-      <pubDate>Wed, 06 May 2026 09:35:42 GMT</pubDate>
+      <title>[r/LocalLLaMA] Qwen3.6 27B無修正異端児v2ネイティブMTPがKLD 0.0021、6/100拒否、完全15MTPを保持したまま、Safetensors、GGUFs、NVFP4sフォーマットでリリースされました。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t5yajb/qwen36_27b_uncensored_heretic_v2_native_mtp/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Qwen3.6 27B無修正異端児v2ネイティブMTPがKLD 0.0021、6/100拒否、完全15MTPを保持したまま、Safetensors、GGUFs、NVFP4sフォーマットでリリースされました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved: https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Nativ&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Qwen3.6 27B uncensored heretic v2 Native MTP Preserved is Out Now With KLD 0.0021, 6/100 Refusals and the Full 15 MTPs Preserved and Retained, Available in Safetensors, GGUFs and NVFP4s formats.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t5yajb/qwen36_27b_uncensored_heretic_v2_native_mtp/</guid>
+      <pubDate>Thu, 07 May 2026 02:59:31 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] HOT TAKE：ローカルモデル＋エージェントハーネスは、ジュニアレベルのITプロフェッショナルの仕事を【人間が書いた】ものに任せるのに十分な能力を持つようになった。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t5g1fi/hot_take_local_models_agent_harnesses_are_now/</link>
-      <description>&lt;p&gt;&lt;strong&gt;HOT TAKE：ローカルモデル＋エージェントハーネスは、ジュニアレベルのITプロフェッショナルの仕事を【人間が書いた】ものに任せるのに十分な能力を持つようになった。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;というのも......僕は年上なので、そういうことに興味のない方は、どうぞご自由に読み飛ばしてください。このサブ記事に投稿して3年になります。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: HOT TAKE: local models + agent harnesses are now capable enough to hand off junior-level IT professional tasks to [human written]&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t5g1fi/hot_take_local_models_agent_harnesses_are_now/</guid>
-      <pubDate>Wed, 06 May 2026 15:21:32 GMT</pubDate>
+      <title>[r/LocalLLaMA] feat：Mimo v2.5 モデルのサポートを追加 by AesSedai - Pull Request #22493 - ggml-org/llama.cpp</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t67lvx/feat_add_mimo_v25_model_support_by_aessedai_pull/</link>
+      <description>&lt;p&gt;&lt;strong&gt;feat：Mimo v2.5 モデルのサポートを追加 by AesSedai - Pull Request #22493 - ggml-org/llama.cpp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://huggingface.co/XiaomiMiMo/MiMo-V2.5 モデル概要 アーキテクチャ：Sparse MoE (Mixture of Experts)、310B total / 15B activated parameters コンテキストの長さ：最大1Mトークン モダリティ：テキスト、画像&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: feat: Add Mimo v2.5 model support by AesSedai · Pull Request #22493 · ggml-org/llama.cpp&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t67lvx/feat_add_mimo_v25_model_support_by_aessedai_pull/</guid>
+      <pubDate>Thu, 07 May 2026 11:23:28 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] Qwen3.6 27B NVFP4 + MTP、シングルRTX 5090：vLLMで200kコンテキストが動作</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t5dya8/qwen36_27b_nvfp4_mtp_on_a_single_rtx_5090_200k/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Qwen3.6 27B NVFP4 + MTP、シングルRTX 5090：vLLMで200kコンテキストが動作&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Qwen3.6 27B NVFP4を私のRTX 5090でテストすることに時間を費やした。最近の良い投稿のほとんどは48GBカード、FP8、llama.cpp/GGUFのいずれかであるため、数値を共有したかった。これは&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Qwen3.6 27B NVFP4 + MTP on a single RTX 5090: 200k context working in vLLM&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t5dya8/qwen36_27b_nvfp4_mtp_on_a_single_rtx_5090_200k/</guid>
-      <pubDate>Wed, 06 May 2026 14:05:54 GMT</pubDate>
+      <title>[r/LocalLLaMA] Qwen/WebWorld 32B/14B/8B (Qwen3 finetune)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t6c6vs/qwenwebworld_32b14b8b_qwen3_finetune/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Qwen/WebWorld 32B/14B/8B (Qwen3 finetune)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;WebWorldは、ウェブエージェントの学習と評価のための大規模なオープンウェブワールドモデルシリーズです。スケーラブルな階層的データパイプラインにより、1M以上の実世界のウェブインタラクションの軌跡を学習し、ウェブエージェントを評価します。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Qwen/WebWorld 32B/14B/8B (Qwen3 finetune)&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t6c6vs/qwenwebworld_32b14b8b_qwen3_finetune/</guid>
+      <pubDate>Thu, 07 May 2026 14:28:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
