@@ -3,32 +3,24 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-08</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-09</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 08 May 2026 19:27:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 19:12:34 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (376pt) ブラウザが教えてくれたことを、何も聞かずに表示するウェブページ。</title>
-      <link>https://news.ycombinator.com/item?id=48062178</link>
-      <description>&lt;p&gt;&lt;strong&gt;ブラウザが教えてくれたことを、何も聞かずに表示するウェブページ。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A web page that shows you everything the browser told it without asking&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48062178</guid>
-      <pubDate>Fri, 08 May 2026 12:37:05 GMT</pubDate>
+      <title>[Hacker News] (362pt) クロード・コードを使うHTMLの理不尽な有効性</title>
+      <link>https://news.ycombinator.com/item?id=48071940</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロード・コードを使うHTMLの理不尽な有効性&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Using Claude Code: The unreasonable effectiveness of HTML&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48071940</guid>
+      <pubDate>Sat, 09 May 2026 04:53:52 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (140pt) RAMで動作するRaspberry Pi Zeroでウェブサイトを提供する</title>
-      <link>https://news.ycombinator.com/item?id=48064312</link>
-      <description>&lt;p&gt;&lt;strong&gt;RAMで動作するRaspberry Pi Zeroでウェブサイトを提供する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Serving a website on a Raspberry Pi Zero running in RAM&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48064312</guid>
-      <pubDate>Fri, 08 May 2026 15:10:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (51pt) AIは2つの脆弱性文化を壊す</title>
-      <link>https://news.ycombinator.com/item?id=48066524</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIは2つの脆弱性文化を壊す&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI Is Breaking Two Vulnerability Cultures&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48066524</guid>
-      <pubDate>Fri, 08 May 2026 17:55:08 GMT</pubDate>
+      <title>[Hacker News] (257pt) LLMは委任すると文書を破損する</title>
+      <link>https://news.ycombinator.com/item?id=48073246</link>
+      <description>&lt;p&gt;&lt;strong&gt;LLMは委任すると文書を破損する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: LLMs corrupt your documents when you delegate&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48073246</guid>
+      <pubDate>Sat, 09 May 2026 08:44:34 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -43,7 +35,7 @@
       <title>[VentureBeat AI] クロード・コードは月200ドルもする。グースは無料で同じことができる。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;クロード・コードは月200ドルもする。グースは無料で同じことができる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、「高価である」という欠点がある。&lt;/p&gt;
+&lt;p&gt;人工知能のコーディング革命には、キャッチーなことが伴う：それは高価です。Anthropicの端末ベースのAIエージェントであるClaude Codeは、自律的にコードを書き、デバッグし、展開することができ、キャップを持っている。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -61,7 +53,7 @@
       <title>[VentureBeat AI] セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に作り直したバージョンを発表した。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に再構築したバージョンを発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -103,6 +95,33 @@
       <pubDate>Fri, 08 May 2026 06:23:32 GMT</pubDate>
     </item>
     <item>
+      <title>[r/artificial] GPT-5.5はトークンの消費は少ないかもしれないが、現金の消費は常に多い</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t80mvk/gpt55_may_burn_fewer_tokens_but_it_always_burns/</link>
+      <description>&lt;p&gt;&lt;strong&gt;GPT-5.5はトークンの消費は少ないかもしれないが、現金の消費は常に多い&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/NISMO1968 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GPT-5.5 may burn fewer tokens, but it always burns more cash&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t80mvk/gpt55_may_burn_fewer_tokens_but_it_always_burns/</guid>
+      <pubDate>Sat, 09 May 2026 09:58:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 5つのエンタープライズAIエージェント群（Lemonade、CrowdStrike、Siemens）を実行可能なブラウザテンプレートにリバースエンジニアリング。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t84u9c/5_enterprise_ai_agent_swarms_lemonade_crowdstrike/</link>
+      <description>&lt;p&gt;&lt;strong&gt;5つのエンタープライズAIエージェント群（Lemonade、CrowdStrike、Siemens）を実行可能なブラウザテンプレートにリバースエンジニアリング。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;皆さん、インディーズの開発者がAIを使って構築しているもの（主にシンプルなカスタマーサポートのチャットボット）と、企業で実際に導入されているものとの間には、今、大きな断絶があります。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: 5 enterprise AI agent swarms (Lemonade, CrowdStrike, Siemens) reverse-engineered into runnable browser templates.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t84u9c/5_enterprise_ai_agent_swarms_lemonade_crowdstrike/</guid>
+      <pubDate>Sat, 09 May 2026 13:19:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 倫理的なAIの実現に向け、科学技術はますます宗教に傾倒している</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t82imt/tech_is_turning_increasingly_to_religion_in_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;倫理的なAIの実現に向け、科学技術はますます宗教に傾倒している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;様々な宗教団体の指導者たちが先週、Anthropic社やOpenAI社を含む企業の代表者たちと、ニューヨークで開催された第1回「Faith-AI Covenant」円卓会議に出席し、どのようにするのが最善かを話し合った。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Tech is turning increasingly to religion in a quest to create ethical AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t82imt/tech_is_turning_increasingly_to_religion_in_a/</guid>
+      <pubDate>Sat, 09 May 2026 11:34:04 GMT</pubDate>
+    </item>
+    <item>
       <title>[r/artificial] 新しいAIモデル、人間の医師より3年早く膵臓がんを発見</title>
       <link>https://www.reddit.com/r/artificial/comments/1t7au63/new_ai_model_spots_pancreatic_cancer_up_to_3/</link>
       <description>&lt;p&gt;&lt;strong&gt;新しいAIモデル、人間の医師より3年早く膵臓がんを発見&lt;/strong&gt;&lt;/p&gt;
@@ -112,13 +131,13 @@
       <pubDate>Fri, 08 May 2026 15:12:35 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIツールはPCの改造文化のように感じ始めている</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t7gfud/ai_tooling_is_starting_to_feel_like_pc_modding/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIツールはPCの改造文化のように感じ始めている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ローカルAIのセットアップは、2つの全く異なるコミュニティに分裂しようとしていると思う。一方は、実際のプロダクション・ワークフローを重視する：エージェントの自動化APIの推論効率データ品質の再現&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI tooling is starting to feel like PC modding culture&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t7gfud/ai_tooling_is_starting_to_feel_like_pc_modding/</guid>
-      <pubDate>Fri, 08 May 2026 18:30:05 GMT</pubDate>
+      <title>[r/artificial] 私はコーディング・エージェントにおけるAIの &quot;メモリー &quot;のベンチマークを作った。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t7m8bg/i_built_a_benchmark_for_ai_memory_in_coding/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私はコーディング・エージェントにおけるAIの &quot;メモリー &quot;のベンチマークを作った。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ほとんどのAIの記憶ベンチマークは、意味的記憶をテストする。しかし、コーディングエージェントはそのような失敗はしない。彼らはただ忘れてしまうのではなく、以前の決定を破ってしまうのだ。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I built a benchmark for AI “memory” in coding agents. looking for others to beat it.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t7m8bg/i_built_a_benchmark_for_ai_memory_in_coding/</guid>
+      <pubDate>Fri, 08 May 2026 22:05:37 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] AMDのローカル・オープンソースAIがGmailと簡単に対話可能に</title>
@@ -128,51 +147,6 @@
 &lt;p&gt;&lt;small&gt;原題: AMD's local, open-source AI can now easily interact with your Gmail&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t77n9a/amds_local_opensource_ai_can_now_easily_interact/</guid>
       <pubDate>Fri, 08 May 2026 13:15:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] エッジAIは結局、自律性、ロボット工学、あるいは局所的な私的推論に重要な役割を果たすと思いますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t78u2r/do_you_think_edge_ai_ends_up_mattering_more_for/</link>
-      <description>&lt;p&gt;&lt;strong&gt;エッジAIは結局、自律性、ロボット工学、あるいは局所的な私的推論に重要な役割を果たすと思いますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIの議論の多くはまだクラウドファーストのように感じられるが、最も興味深いシフトのいくつかはエッジで起こっているようだ。特に重要と思われるいくつかの分野： - 自律性とロボット工学&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Do you think edge AI ends up mattering more for autonomy, robotics, or local private inference?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t78u2r/do_you_think_edge_ai_ends_up_mattering_more_for/</guid>
-      <pubDate>Fri, 08 May 2026 14:00:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 無料のAIニュースフィードを構築し、もう5つのタブを開く必要がなくなった。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t73frb/built_a_free_ai_news_feed_so_i_dont_need_5_tabs/</link>
-      <description>&lt;p&gt;&lt;strong&gt;無料のAIニュースフィードを構築し、もう5つのタブを開く必要がなくなった。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;皆さん、こんにちは👋 AIは動きが速い。ツイッター、ユーチューブ、ニュースレター、そして12もの技術サイトを毎日チェックすることだ。そのどれもが一箇所にまとまっていない。それを解決するためにAIWireを作りました。1つのクリーンなフィード。20以上の信頼できる&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Built a free AI news feed so I don't need 5 tabs open anymore, trusted sources only, updates every 30 min&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t73frb/built_a_free_ai_news_feed_so_i_dont_need_5_tabs/</guid>
-      <pubDate>Fri, 08 May 2026 10:00:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 長い動画に最適なAI動画ジェネレーターは？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t78zcm/whats_the_best_ai_video_generator_for_long_videos/</link>
-      <description>&lt;p&gt;&lt;strong&gt;長い動画に最適なAI動画ジェネレーターは？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;もっと長いビデオを作るために、どんなものがあるか試してみたいんだ。5～20分くらいで、それ以上は必要ないだろう。それ以上長いものは必要ないだろう。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What's the best AI video generator for long videos?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t78zcm/whats_the_best_ai_video_generator_for_long_videos/</guid>
-      <pubDate>Fri, 08 May 2026 14:06:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ベトナムは最も包括的な単独法、日本は罰則なし、韓国はQwenウェイトを使用したネイバーを主権LLM競争から排除した。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t7h9gt/compiled_every_national_ai_strategy_in_asia/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ベトナムは最も包括的な単独法、日本は罰則なし、韓国はQwenウェイトを使用したネイバーを主権LLM競争から排除した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アジア各国のAI戦略をまとめた。見出しは、アジアの主要10カ国が現在、AIに特化した法律または包括的な国家戦略を持っており、それらはすべて非常に優れているということです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Compiled every national AI strategy in Asia — Vietnam has the most comprehensive standalone law, Japan has no penalties, Korea just eliminated Naver from sovereign LLM competition for using Qwen weights&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t7h9gt/compiled_every_national_ai_strategy_in_asia/</guid>
-      <pubDate>Fri, 08 May 2026 19:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] **フリー、BYOAK、オープンソースである。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t7ai7r/built_my_own_modelagnostic_ai_workstation_because/</link>
-      <description>&lt;p&gt;&lt;strong&gt;**フリー、BYOAK、オープンソースである。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;モデルを切り替えるたびにコンテキストを再構築するのに疲れた。ペルソナがOpenAIの壁に囲まれた庭の中で生活することに疲れました。それを解決するために何かを作った。**Architect&amp;#39;sDomain**、ワークステーションUIです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: **Built my own model-agnostic AI workstation because I was tired of platform lock-in — free, BYOAK, open source**&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t7ai7r/built_my_own_modelagnostic_ai_workstation_because/</guid>
-      <pubDate>Fri, 08 May 2026 15:01:07 GMT</pubDate>
     </item>
     <item>
       <title>[r/LocalLLaMA] AMAのお知らせ：Nous Research、Hermes Agentを支えるオープンソースラボ (水曜日、午前8時-午前11時PST)</title>
@@ -193,22 +167,22 @@
       <pubDate>Mon, 13 Apr 2026 21:00:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] vLLM ROCmが実験的バックエンドとしてLemonadeに追加されました。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t7g70j/vllm_rocm_has_been_added_to_lemonade_as_an/</link>
-      <description>&lt;p&gt;&lt;strong&gt;vLLM ROCmが実験的バックエンドとしてLemonadeに追加されました。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;vLLMは.safetensorsのLLMをGGUFに変換する前に実行する能力を持っており、探求すべき新しいエンジンである。個人的には、u/krishna2910-amd/ u/mikkophとu/sa1まで試したことがなかった。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: vLLM ROCm has been added to Lemonade as an experimental backend&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t7g70j/vllm_rocm_has_been_added_to_lemonade_as_an/</guid>
-      <pubDate>Fri, 08 May 2026 18:21:15 GMT</pubDate>
+      <title>[r/LocalLLaMA] シェル・シルヴァスタインがLLM（とその幻覚）を予言、cira 1981</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t7s9n4/shel_silverstein_predicts_llms_and_its/</link>
+      <description>&lt;p&gt;&lt;strong&gt;シェル・シルヴァスタインがLLM（とその幻覚）を予言、cira 1981&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;子供の頃好きだった詩人、シェル・シルヴァスタインのことを思い出していたら、偶然この漫画と詩に出くわした。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Shel Silverstein predicts LLM's (and its hallucinations), cira 1981&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t7s9n4/shel_silverstein_predicts_llms_and_its/</guid>
+      <pubDate>Sat, 09 May 2026 02:32:07 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] 新しいエージェントAPI/ハーネスの数はめまぐるしく、誰もが自分の犬をリリースしている。比較をまとめたスレッドを立てられないだろうか？</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t7d9h0/the_amount_of_new_agent_apisharnesses_are/</link>
-      <description>&lt;p&gt;&lt;strong&gt;新しいエージェントAPI/ハーネスの数はめまぐるしく、誰もが自分の犬をリリースしている。比較をまとめたスレッドを立てられないだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;複数試したと仮定して、それらを比較してください。また、ハードウェアのスペックとソフトウェアのスタック、および変更点を投稿してください。 &amp;#32; 投稿者 &amp;#32; /u/jinnyjuice [link] &amp;#32; [c&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The amount of new agent APIs/harnesses are dizzying, with everyone and their dog releasing their own. Can we do a compilation thread of comparisons?&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t7d9h0/the_amount_of_new_agent_apisharnesses_are/</guid>
-      <pubDate>Fri, 08 May 2026 16:39:44 GMT</pubDate>
+      <title>[r/LocalLLaMA] Qwen3.6 35B A3B 無修正の異端児ネイティブMTPがKLD 0.0015、10/100拒否、19のMTPが保存され保持され、Safetensors、GGUFで利用可能になりました。NVFP4、NVFP4 GGUFおよびGPTQ-Int4フォーマットで利用可能。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t7qfaq/qwen36_35b_a3b_uncensored_heretic_native_mtp/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Qwen3.6 35B A3B 無修正の異端児ネイティブMTPがKLD 0.0015、10/100拒否、19のMTPが保存され保持され、Safetensors、GGUFで利用可能になりました。NVFP4、NVFP4 GGUFおよびGPTQ-Int4フォーマットで利用可能。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;llmfan46/Qwen3.6-35B-A3B-uncensored-hertic-Native-MTP-Preserved: https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved llmfan46/Qwen3.6-35B-A3B-uncensored-hertic-Na&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Qwen3.6 35B A3B uncensored heretic Native MTP Preserved is Out Now With KLD 0.0015, 10/100 Refusals and the Full 19 MTPs Preserved and Retained, Available in Safetensors, GGUFs. NVFP4, NVFP4 GGUFs and GPTQ-Int4 Formats&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t7qfaq/qwen36_35b_a3b_uncensored_heretic_native_mtp/</guid>
+      <pubDate>Sat, 09 May 2026 01:06:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
