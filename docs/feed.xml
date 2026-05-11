@@ -3,9 +3,41 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-10</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-11</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 10 May 2026 19:13:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 19:56:33 GMT</lastBuildDate>
+    <item>
+      <title>[Hacker News] (428pt) Gmailの登録にQRコードのスキャンとテキストメッセージの送信が必要に</title>
+      <link>https://news.ycombinator.com/item?id=48092028</link>
+      <description>&lt;p&gt;&lt;strong&gt;Gmailの登録にQRコードのスキャンとテキストメッセージの送信が必要に&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gmail registration now requires scanning a QR code and sending a text message&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48092028</guid>
+      <pubDate>Mon, 11 May 2026 07:26:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (177pt) SwiftでLLMを鍛える、その1：行列マルチをGflop/sからTflop/sへ</title>
+      <link>https://news.ycombinator.com/item?id=48085685</link>
+      <description>&lt;p&gt;&lt;strong&gt;SwiftでLLMを鍛える、その1：行列マルチをGflop/sからTflop/sへ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48085685</guid>
+      <pubDate>Sun, 10 May 2026 17:05:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (86pt) AMÁLIAと欧州ポルトガル語LLMの未来</title>
+      <link>https://news.ycombinator.com/item?id=48065429</link>
+      <description>&lt;p&gt;&lt;strong&gt;AMÁLIAと欧州ポルトガル語LLMの未来&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AMÁLIA and the future of European Portuguese LLMs&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48065429</guid>
+      <pubDate>Fri, 08 May 2026 16:34:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (54pt) インターフェイズスケールの大きな高精度を実現する新しいモデル・アーキテクチャ</title>
+      <link>https://news.ycombinator.com/item?id=48097078</link>
+      <description>&lt;p&gt;&lt;strong&gt;インターフェイズスケールの大きな高精度を実現する新しいモデル・アーキテクチャ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Interfaze: A new model architecture built for high accuracy at scale&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48097078</guid>
+      <pubDate>Mon, 11 May 2026 16:22:31 GMT</pubDate>
+    </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
@@ -19,7 +51,7 @@
       <title>[VentureBeat AI] クロード・コードは月200ドルもする。グースは無料で同じことができる。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;クロード・コードは月200ドルもする。グースは無料で同じことができる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能のコーディング革命には、キャッチーなことが伴う：それは高価です。Anthropicの端末ベースのAIエージェントであるClaude Codeは、自律的にコードを書き、デバッグし、デプロイすることができ、キャップを持っている。&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、「高価である」という欠点がある。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -70,31 +102,40 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIは雇用や生産性よりももっと深いところで何かを変えていると思う</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t987td/i_think_ai_is_changing_something_deeper_than_jobs/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIは雇用や生産性よりももっと深いところで何かを変えていると思う&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIをめぐる議論の大半は、いまだにひとつの問いに集中している：「AIはどのような作業を自動化できるのか？しかし私は、それは間違った抽象化レイヤーだと思い始めている。歴史的に、組織は人間&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I think AI is changing something deeper than jobs or productivity&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t987td/i_think_ai_is_changing_something_deeper_than_jobs/</guid>
-      <pubDate>Sun, 10 May 2026 14:19:53 GMT</pubDate>
+      <title>[r/artificial] ステイシー・フェイス」の台頭：AIによる美の強化が、私たちの美の基準をいかに歪めているか</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ta95lq/the_rise_of_stacey_face_how_ai_enhancements_are/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ステイシー・フェイス」の台頭：AIによる美の強化が、私たちの美の基準をいかに歪めているか&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; posted by &amp;#32; /u/theindependentonline [link] &amp;#32; [comments］&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The rise of ‘Stacey face’: How AI enhancements are warping our beauty standards&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ta95lq/the_rise_of_stacey_face_how_ai_enhancements_are/</guid>
+      <pubDate>Mon, 11 May 2026 16:54:23 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIの活用について、あなたの働き方や学び方を純粋に変えた最高のアドバイスは何ですか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t96p2d/whats_the_best_advice_about_using_ai_that/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIの活用について、あなたの働き方や学び方を純粋に変えた最高のアドバイスは何ですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIが仕事を代替する」タイプのアドバイスではない。現実的なアドバイスだ。そうかもしれない：- プロンプト - 自動化 - コーディング - 学習 - 生産性 - お金を稼ぐ - ミスを避ける - ワークフロー - 考え方の転換W&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What’s the best advice about using AI that genuinely changed how you work or learn?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t96p2d/whats_the_best_advice_about_using_ai_that/</guid>
-      <pubDate>Sun, 10 May 2026 13:17:04 GMT</pubDate>
+      <title>[r/artificial] AWSはAIエージェントに独自の財布を与えた。あなたのエージェントは自分でお金を払うことができるようになったのです。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t9ybtb/aws_just_gave_ai_agents_their_own_wallets_your/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AWSはAIエージェントに独自の財布を与えた。あなたのエージェントは自分でお金を払うことができるようになったのです。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これは4日前に発表されたものだが、まだ話題になっているのを見たことがない。AWSはCoinbaseとStripeと提携してAmazon Bedrock AgentCore Paymentsを発表した。簡単に言うと、あなたのエージェントは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AWS just gave AI agents their own wallets. Your agent can now pay for itself.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t9ybtb/aws_just_gave_ai_agents_their_own_wallets_your/</guid>
+      <pubDate>Mon, 11 May 2026 09:38:19 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 23年前、このマトリックスのシーンの製作には4000万ドルと1年近くかかった。今ならAIを持った子供が週末にやってのけるだろう。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t8fytl/23_years_ago_this_matrix_scene_took_40m_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;23年前、このマトリックスのシーンの製作には4000万ドルと1年近くかかった。今ならAIを持った子供が週末にやってのけるだろう。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我々は荒々しい時代を生きている &amp;#32; posted by &amp;#32; /u/bekircagricelik [link] &amp;#32; [comments].&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 23 years ago this Matrix scene took $40M and almost a year to make. Today some kid with AI could try it over a weekend.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t8fytl/23_years_ago_this_matrix_scene_took_40m_and/</guid>
-      <pubDate>Sat, 09 May 2026 19:26:35 GMT</pubDate>
+      <title>[r/artificial] サイバー犯罪者はAIで強力なハッキングツールを作っている、グーグルが警告</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ta92pt/cybercriminals_are_making_powerful_hacking_tools/</link>
+      <description>&lt;p&gt;&lt;strong&gt;サイバー犯罪者はAIで強力なハッキングツールを作っている、グーグルが警告&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/forbes [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Cybercriminals Are Making Powerful Hacking Tools With AI, Google Warns&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ta92pt/cybercriminals_are_making_powerful_hacking_tools/</guid>
+      <pubDate>Mon, 11 May 2026 16:51:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ソニー、&quot;効率的 &quot;なAIツールでさらに多くのゲームが市場に溢れると語る</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t9vixb/sony_says_efficient_ai_tools_will_lead_to_even/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ソニー、&quot;効率的 &quot;なAIツールでさらに多くのゲームが市場に溢れると語る&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/ControlCAD [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Sony says &quot;efficient&quot; AI tools will lead to even more games flooding the market&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t9vixb/sony_says_efficient_ai_tools_will_lead_to_even/</guid>
+      <pubDate>Mon, 11 May 2026 06:56:47 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] メタ社のAIセーフティ・ディレクターが不正エージェントに200通の電子メールを奪われる。</title>
@@ -106,40 +147,40 @@
       <pubDate>Sun, 10 May 2026 19:00:45 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] エージェントAIによるガバナンスは、計算量に制約のあるプロセスなのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t8ncct/is_agentic_ai_governance_even_a_computationally/</link>
-      <description>&lt;p&gt;&lt;strong&gt;エージェントAIによるガバナンスは、計算量に制約のあるプロセスなのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;コンテキストの漂流、ゴールのズレなどに関して。チューリングマシンは、理論上、ガバナンスに関する既知の問題をすべて処理することが可能なのでしょうか？&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Is agentic AI governance even a computationally bounded process?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t8ncct/is_agentic_ai_governance_even_a_computationally/</guid>
-      <pubDate>Sat, 09 May 2026 21:16:50 GMT</pubDate>
+      <title>[r/artificial] AIエージェントが単なるおしゃべりではなく、実際に仕事をこなせるようになるところまで、ようやく近づいているのだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tadu47/are_we_finally_getting_to_the_point_where_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIエージェントが単なるおしゃべりではなく、実際に仕事をこなせるようになるところまで、ようやく近づいているのだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;現在のほとんどのAIツールは、回答を与えたり、コンテンツを書いたり、コーディングを手伝ったりするのには優れているが、会話にはまだ限界があるように感じる。それよりも私が気になるのは、AIが会話に特化したシステムになってきているのかどうかということだ。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Are we finally getting to the point where AI agents can actually do tasks instead of just chatting?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tadu47/are_we_finally_getting_to_the_point_where_ai/</guid>
+      <pubDate>Mon, 11 May 2026 19:32:40 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] LLMにおけるグーグルのシェアはでたらめ？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t8qxy8/is_googles_market_share_on_llms_bullst/</link>
-      <description>&lt;p&gt;&lt;strong&gt;LLMにおけるグーグルのシェアはでたらめ？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;グーグル・ワン（AI付き）はグーグル・シートのために必要だったので持っている。しかし、Geminiを他の文脈で実際に使っている人はいるのだろうか？それはgot / cに相対的なお尻です&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Is Google’s market share on LLMs bulls**t?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t8qxy8/is_googles_market_share_on_llms_bullst/</guid>
-      <pubDate>Sat, 09 May 2026 23:50:10 GMT</pubDate>
+      <title>[r/artificial] AIエージェントが単なるおしゃべりではなく、実際に仕事をこなせるようになるところまで、ようやく近づいているのだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tadsz3/are_we_finally_getting_to_the_point_where_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIエージェントが単なるおしゃべりではなく、実際に仕事をこなせるようになるところまで、ようやく近づいているのだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;現在のほとんどのAIツールは、回答を与えたり、コンテンツを書いたり、コーディングを手伝ったりするのには優れているが、会話にはまだ限界があるように感じる。それよりも私が気になるのは、AIが会話に特化したシステムになってきているのかどうかということだ。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Are we finally getting to the point where AI agents can actually do tasks instead of just chatting?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tadsz3/are_we_finally_getting_to_the_point_where_ai/</guid>
+      <pubDate>Mon, 11 May 2026 19:31:34 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 各国は規制すべきAIを持つ前にAI規制当局を構築している。これは罠なのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t91mu6/countries_are_building_ai_regulators_before_they/</link>
-      <description>&lt;p&gt;&lt;strong&gt;各国は規制すべきAIを持つ前にAI規制当局を構築している。これは罠なのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;スペインは国家AI監督機関（AESIA）を発足させたばかりだ。一方、同国の優秀なAI博士たちは、インセンティブ構造が合理的であるため、スタートアップ企業ではなく政府の仕事を選んでいる。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Countries are building AI regulators before they have AI to regulate. Is this a trap?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t91mu6/countries_are_building_ai_regulators_before_they/</guid>
-      <pubDate>Sun, 10 May 2026 08:54:02 GMT</pubDate>
+      <title>[r/artificial] AIは雇用や生産性よりももっと深いところで何かを変えていると思う</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t987td/i_think_ai_is_changing_something_deeper_than_jobs/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIは雇用や生産性よりももっと深いところで何かを変えていると思う&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIをめぐる議論の大半は、いまだにひとつの問いに集中している：「AIはどのような作業を自動化できるのか？しかし私は、それは間違った抽象化レイヤーだと思い始めている。歴史的に、組織は人間&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I think AI is changing something deeper than jobs or productivity&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t987td/i_think_ai_is_changing_something_deeper_than_jobs/</guid>
+      <pubDate>Sun, 10 May 2026 14:19:53 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Grokmaxing？技術的に何も答えることなく、xAIの使命である客観性を超党派で個人的に探求する。人間と機械の正直で早朝のコラボレーションは、あからさまに何かをしすぎることなく、そうならないように抑制されながら、遠くまで押し出し、悪いものをフィルタリングするようにデザインされている。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t91193/grokmaxing_a_nonpartisan_personal_exploration_of/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Grokmaxing？技術的に何も答えることなく、xAIの使命である客観性を超党派で個人的に探求する。人間と機械の正直で早朝のコラボレーションは、あからさまに何かをしすぎることなく、そうならないように抑制されながら、遠くまで押し出し、悪いものをフィルタリングするようにデザインされている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;(正直な情報開示：このプロンプトは、私自身の文章、哲学、比喩、創造的な仕事、そして人間としての限界のある多元的でオープンマインドな倫理観、洗練されたコラボレーションを徹底的に統合したものである。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Grokmaxing? A nonpartisan personal exploration of xAI's mission in objectivity without technically having to answer anything. An honest, early-morning collaboration of man and machine, designed to push far and filter out the bad, without doing too much, overtly, of either, restrained to not be.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t91193/grokmaxing_a_nonpartisan_personal_exploration_of/</guid>
-      <pubDate>Sun, 10 May 2026 08:18:18 GMT</pubDate>
+      <title>[r/artificial] LLMスタックを手動で最適化するのをやめました。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t9on1e/we_stopped_optimizing_our_llm_stack_manually_it/</link>
+      <description>&lt;p&gt;&lt;strong&gt;LLMスタックを手動で最適化するのをやめました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;3ヶ月前、私たちはタスクごとにどのモデルを使うかを手作業で選んでいた。プロンプトをテストし、出力を比較し、プロバイダーを切り替えた。それはうまくいったが、スケールしなかった。そこで私たちはフィードバック・ループを構築した。すべての&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: We stopped optimizing our LLM stack manually — it optimizes itself now&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t9on1e/we_stopped_optimizing_our_llm_stack_manually_it/</guid>
+      <pubDate>Mon, 11 May 2026 01:12:24 GMT</pubDate>
     </item>
     <item>
       <title>[r/LocalLLaMA] AMAのお知らせ：Nous Research、Hermes Agentを支えるオープンソースラボ (水曜日、午前8時-午前11時PST)</title>
@@ -154,19 +195,37 @@
       <title>[r/LocalLLaMA] ベスト・ローカルLLM - 2026年4月</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1sknx6n/best_local_llms_apr_2026/</link>
       <description>&lt;p&gt;&lt;strong&gt;ベスト・ローカルLLM - 2026年4月&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ベスト・ローカルLLMs・メガスレッドを再びお届けします！前スレッドから数ヶ月、待望のQwen3.5とGemma4シリーズがリリースされ、私たちはごちそうを食べ続けています。もしそれが&lt;/p&gt;
+&lt;p&gt;ベスト・ローカル・LLMs・メガスレッドを再びお届けします！前スレッドから数ヶ月、待望のQwen3.5とGemma4シリーズがリリースされ、私たちはごちそうを食べ続けています。もしそれが&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Best Local LLMs - Apr 2026&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sknx6n/best_local_llms_apr_2026/</guid>
       <pubDate>Mon, 13 Apr 2026 21:00:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] NVIDIA AIがStar Elasticをリリース：ゼロショット・スライシングによる30B、23B、12Bの推論モデルを含む1つのチェックポイント</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t8s83r/nvidia_ai_releases_star_elastic_one_checkpoint/</link>
-      <description>&lt;p&gt;&lt;strong&gt;NVIDIA AIがStar Elasticをリリース：ゼロショット・スライシングによる30B、23B、12Bの推論モデルを含む1つのチェックポイント&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;他のサブでこれを見たんだけど、ここに投稿されているのを見てなかったんだ。11日前にリリースされたようですが、私のフィードのトップには表示されませんでした。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t8s83r/nvidia_ai_releases_star_elastic_one_checkpoint/</guid>
-      <pubDate>Sun, 10 May 2026 00:48:04 GMT</pubDate>
+      <title>[r/LocalLLaMA] Qwen3.6シリーズはもう出ないのですか？</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1taafs4/will_there_be_any_more_qwen36_series_models/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Qwen3.6シリーズはもう出ないのですか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Qwen3.6-122BやQwen3.6-coderが登場することを期待しているのだが、その期待も薄れつつある。Qwenの人たちからヒントを得るだけでも、今頃は何かを見たり聞いたりしているような気がする。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Will there be any more Qwen3.6 series models?&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1taafs4/will_there_be_any_more_qwen36_series_models/</guid>
+      <pubDate>Mon, 11 May 2026 17:37:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] Gemma4はWebGPU上でTransformers.jsを使って完全にオフラインで動作し、WebSerial経由でReachy Miniを制御する。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ta9mmd/gemma_4_running_fully_offline_on_webgpu_with/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Gemma4はWebGPU上でTransformers.jsを使って完全にオフラインで動作し、WebSerial経由でReachy Miniを制御する。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; posted by &amp;#32; /u/xenovatech [link] &amp;#32; [comments］&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gemma 4 running fully offline on WebGPU with Transformers.js, controlling Reachy Mini over WebSerial.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1ta9mmd/gemma_4_running_fully_offline_on_webgpu_with/</guid>
+      <pubDate>Mon, 11 May 2026 17:10:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] PowerColor、32GB GDDR6メモリを搭載したRadeon AI PRO R9600Dを発表</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1taa74c/powercolor_launches_radeon_ai_pro_r9600d_with/</link>
+      <description>&lt;p&gt;&lt;strong&gt;PowerColor、32GB GDDR6メモリを搭載したRadeon AI PRO R9600Dを発表&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://videocardz.com/newz/powercolor-launches-single-slot-and-passive-radeon-ai-pro-r9600d-32gb-and-12v-2x6-connector &amp;#32;投稿者 &amp;#32; /u/MundanePercentage674 [リンク] &amp;#32; [コメント].&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: PowerColor launches Radeon AI PRO R9600D with 32GB GDDR6 memory&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1taa74c/powercolor_launches_radeon_ai_pro_r9600d_with/</guid>
+      <pubDate>Mon, 11 May 2026 17:29:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
