@@ -3,40 +3,40 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-11</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-12</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 11 May 2026 19:56:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 20:01:51 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (428pt) Gmailの登録にQRコードのスキャンとテキストメッセージの送信が必要に</title>
-      <link>https://news.ycombinator.com/item?id=48092028</link>
-      <description>&lt;p&gt;&lt;strong&gt;Gmailの登録にQRコードのスキャンとテキストメッセージの送信が必要に&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gmail registration now requires scanning a QR code and sending a text message&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48092028</guid>
-      <pubDate>Mon, 11 May 2026 07:26:54 GMT</pubDate>
+      <title>[Hacker News] (848pt) バンブーラボはオープンソースの社会契約を悪用している</title>
+      <link>https://news.ycombinator.com/item?id=48109224</link>
+      <description>&lt;p&gt;&lt;strong&gt;バンブーラボはオープンソースの社会契約を悪用している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Bambu Lab is abusing the open source social contract&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48109224</guid>
+      <pubDate>Tue, 12 May 2026 14:54:41 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (177pt) SwiftでLLMを鍛える、その1：行列マルチをGflop/sからTflop/sへ</title>
-      <link>https://news.ycombinator.com/item?id=48085685</link>
-      <description>&lt;p&gt;&lt;strong&gt;SwiftでLLMを鍛える、その1：行列マルチをGflop/sからTflop/sへ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48085685</guid>
-      <pubDate>Sun, 10 May 2026 17:05:05 GMT</pubDate>
+      <title>[Hacker News] (187pt) シニア開発者が専門知識を伝えられない理由</title>
+      <link>https://news.ycombinator.com/item?id=48109460</link>
+      <description>&lt;p&gt;&lt;strong&gt;シニア開発者が専門知識を伝えられない理由&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Why senior developers fail to communicate their expertise&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48109460</guid>
+      <pubDate>Tue, 12 May 2026 15:08:40 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (86pt) AMÁLIAと欧州ポルトガル語LLMの未来</title>
-      <link>https://news.ycombinator.com/item?id=48065429</link>
-      <description>&lt;p&gt;&lt;strong&gt;AMÁLIAと欧州ポルトガル語LLMの未来&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AMÁLIA and the future of European Portuguese LLMs&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48065429</guid>
-      <pubDate>Fri, 08 May 2026 16:34:45 GMT</pubDate>
+      <title>[Hacker News] (180pt) オブシディアン・プラグインの未来</title>
+      <link>https://news.ycombinator.com/item?id=48109970</link>
+      <description>&lt;p&gt;&lt;strong&gt;オブシディアン・プラグインの未来&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Future of Obsidian Plugins&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48109970</guid>
+      <pubDate>Tue, 12 May 2026 15:45:54 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (54pt) インターフェイズスケールの大きな高精度を実現する新しいモデル・アーキテクチャ</title>
-      <link>https://news.ycombinator.com/item?id=48097078</link>
-      <description>&lt;p&gt;&lt;strong&gt;インターフェイズスケールの大きな高精度を実現する新しいモデル・アーキテクチャ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Interfaze: A new model architecture built for high accuracy at scale&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48097078</guid>
-      <pubDate>Mon, 11 May 2026 16:22:31 GMT</pubDate>
+      <title>[Hacker News] (63pt) ショーHN：ニードル：私たちはジェミニ・ツールの呼び出しを26Mモデルに蒸留した</title>
+      <link>https://news.ycombinator.com/item?id=48111896</link>
+      <description>&lt;p&gt;&lt;strong&gt;ショーHN：ニードル：私たちはジェミニ・ツールの呼び出しを26Mモデルに蒸留した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48111896</guid>
+      <pubDate>Tue, 12 May 2026 18:03:11 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -102,6 +102,42 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
+      <title>[r/artificial] 莫大な暴落が待ち構えている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tax3dz/my_god_there_is_an_enormous_crash_just_waiting_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;莫大な暴落が待ち構えている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;昨日、仕事用のGPTにとても簡単なスプレッドシートの要約作業をやってもらった。5分で終わった。おそらく30分かそこらで自分でもできただろう。多額の補助金をもらっている&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: My god there is an enormous crash just waiting to happen&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tax3dz/my_god_there_is_an_enormous_crash_just_waiting_to/</guid>
+      <pubDate>Tue, 12 May 2026 10:06:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 子供たちのために、レシートプリンターで「デイリー・ブリーフ」を作った。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tbasiz/i_made_an_agentic_daily_brief_for_my_kids_with_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;子供たちのために、レシートプリンターで「デイリー・ブリーフ」を作った。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;何をするのかエージェントがデータを収集、管理し、wifi対応のレシートプリンター（フェノールフリーの紙）に送信 午前1時、cronが3人の子供全員のデータを生成する（子供ごとにユニークなデータソース whe&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I made an agentic &quot;Daily Brief&quot; for my kids with a receipt printer&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tbasiz/i_made_an_agentic_daily_brief_for_my_kids_with_a/</guid>
+      <pubDate>Tue, 12 May 2026 18:46:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] グーグル、AIが生成したコードで2FAを回避するハッカーをゼロデイ脆弱性で検知</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tb5quh/google_detects_hackers_using_aigenerated_code_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;グーグル、AIが生成したコードで2FAを回避するハッカーをゼロデイ脆弱性で検知&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Odd-Onion-6776 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Google detects hackers using AI-generated code to bypass 2FA with zero-day vulnerability&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tb5quh/google_detects_hackers_using_aigenerated_code_to/</guid>
+      <pubDate>Tue, 12 May 2026 15:54:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIは雇用を置き換えるよりも、制度を再構築するかもしれない</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tb1299/ai_may_reshape_institutions_more_than_it_replaces/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIは雇用を置き換えるよりも、制度を再構築するかもしれない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は、次の大きなAI論争は、知性についてではないと思う。それは表現に関するものだろう。現在、AIの話題のほとんどはモデルに焦点を当てている：どのモデルがより賢いか、どのエージェントがより速いか／優れているか、といった具合だ。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI May Reshape Institutions More Than It Replaces Jobs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tb1299/ai_may_reshape_institutions_more_than_it_replaces/</guid>
+      <pubDate>Tue, 12 May 2026 13:05:12 GMT</pubDate>
+    </item>
+    <item>
       <title>[r/artificial] ステイシー・フェイス」の台頭：AIによる美の強化が、私たちの美の基準をいかに歪めているか</title>
       <link>https://www.reddit.com/r/artificial/comments/1ta95lq/the_rise_of_stacey_face_how_ai_enhancements_are/</link>
       <description>&lt;p&gt;&lt;strong&gt;ステイシー・フェイス」の台頭：AIによる美の強化が、私たちの美の基準をいかに歪めているか&lt;/strong&gt;&lt;/p&gt;
@@ -111,13 +147,13 @@
       <pubDate>Mon, 11 May 2026 16:54:23 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AWSはAIエージェントに独自の財布を与えた。あなたのエージェントは自分でお金を払うことができるようになったのです。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t9ybtb/aws_just_gave_ai_agents_their_own_wallets_your/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AWSはAIエージェントに独自の財布を与えた。あなたのエージェントは自分でお金を払うことができるようになったのです。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;これは4日前に発表されたものだが、まだ話題になっているのを見たことがない。AWSはCoinbaseとStripeと提携してAmazon Bedrock AgentCore Paymentsを発表した。簡単に言うと、あなたのエージェントは&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AWS just gave AI agents their own wallets. Your agent can now pay for itself.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t9ybtb/aws_just_gave_ai_agents_their_own_wallets_your/</guid>
-      <pubDate>Mon, 11 May 2026 09:38:19 GMT</pubDate>
+      <title>[r/artificial] グーグル、AIを使って企業のデジタル防御の未知の弱点を突くハッカーを妨害</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tak7x9/google_disrupts_hackers_using_ai_to_exploit_an/</link>
+      <description>&lt;p&gt;&lt;strong&gt;グーグル、AIを使って企業のデジタル防御の未知の弱点を突くハッカーを妨害&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;グーグルは攻撃者と標的に関する限定的な情報を共有したが、巨大企業の脅威インテリジェンス部門でチーフアナリストを務めるジョン・ハルトクイスト氏は、サイバーセキュリティの専門家たちがこのような事態を招いたことを意味すると述べた。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Google disrupts hackers using AI to exploit an unknown weakness in a company's digital defense&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tak7x9/google_disrupts_hackers_using_ai_to_exploit_an/</guid>
+      <pubDate>Mon, 11 May 2026 23:31:18 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] サイバー犯罪者はAIで強力なハッキングツールを作っている、グーグルが警告</title>
@@ -129,58 +165,13 @@
       <pubDate>Mon, 11 May 2026 16:51:49 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ソニー、&quot;効率的 &quot;なAIツールでさらに多くのゲームが市場に溢れると語る</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t9vixb/sony_says_efficient_ai_tools_will_lead_to_even/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ソニー、&quot;効率的 &quot;なAIツールでさらに多くのゲームが市場に溢れると語る&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/ControlCAD [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Sony says &quot;efficient&quot; AI tools will lead to even more games flooding the market&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t9vixb/sony_says_efficient_ai_tools_will_lead_to_even/</guid>
-      <pubDate>Mon, 11 May 2026 06:56:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] メタ社のAIセーフティ・ディレクターが不正エージェントに200通の電子メールを奪われる。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t9fnwv/metas_own_ai_safety_director_lost_200_emails_to_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;メタ社のAIセーフティ・ディレクターが不正エージェントに200通の電子メールを奪われる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIを人間の価値観に沿わせるためにメタ社が特別に雇った人物は、彼女が送った停止命令をすべて無視するAIエージェントによって受信トレイを消去された。彼女はquot;Do not do that.とタイプした。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Meta's own AI safety director lost 200 emails to a rogue agent and she couldn't stop it from her phone&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t9fnwv/metas_own_ai_safety_director_lost_200_emails_to_a/</guid>
-      <pubDate>Sun, 10 May 2026 19:00:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIエージェントが単なるおしゃべりではなく、実際に仕事をこなせるようになるところまで、ようやく近づいているのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tadu47/are_we_finally_getting_to_the_point_where_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIエージェントが単なるおしゃべりではなく、実際に仕事をこなせるようになるところまで、ようやく近づいているのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;現在のほとんどのAIツールは、回答を与えたり、コンテンツを書いたり、コーディングを手伝ったりするのには優れているが、会話にはまだ限界があるように感じる。それよりも私が気になるのは、AIが会話に特化したシステムになってきているのかどうかということだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Are we finally getting to the point where AI agents can actually do tasks instead of just chatting?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tadu47/are_we_finally_getting_to_the_point_where_ai/</guid>
-      <pubDate>Mon, 11 May 2026 19:32:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIエージェントが単なるおしゃべりではなく、実際に仕事をこなせるようになるところまで、ようやく近づいているのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tadsz3/are_we_finally_getting_to_the_point_where_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIエージェントが単なるおしゃべりではなく、実際に仕事をこなせるようになるところまで、ようやく近づいているのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;現在のほとんどのAIツールは、回答を与えたり、コンテンツを書いたり、コーディングを手伝ったりするのには優れているが、会話にはまだ限界があるように感じる。それよりも私が気になるのは、AIが会話に特化したシステムになってきているのかどうかということだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Are we finally getting to the point where AI agents can actually do tasks instead of just chatting?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tadsz3/are_we_finally_getting_to_the_point_where_ai/</guid>
-      <pubDate>Mon, 11 May 2026 19:31:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIは雇用や生産性よりももっと深いところで何かを変えていると思う</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t987td/i_think_ai_is_changing_something_deeper_than_jobs/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIは雇用や生産性よりももっと深いところで何かを変えていると思う&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIをめぐる議論の大半は、いまだにひとつの問いに集中している：「AIはどのような作業を自動化できるのか？しかし私は、それは間違った抽象化レイヤーだと思い始めている。歴史的に、組織は人間&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I think AI is changing something deeper than jobs or productivity&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t987td/i_think_ai_is_changing_something_deeper_than_jobs/</guid>
-      <pubDate>Sun, 10 May 2026 14:19:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] LLMスタックを手動で最適化するのをやめました。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t9on1e/we_stopped_optimizing_our_llm_stack_manually_it/</link>
-      <description>&lt;p&gt;&lt;strong&gt;LLMスタックを手動で最適化するのをやめました。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;3ヶ月前、私たちはタスクごとにどのモデルを使うかを手作業で選んでいた。プロンプトをテストし、出力を比較し、プロバイダーを切り替えた。それはうまくいったが、スケールしなかった。そこで私たちはフィードバック・ループを構築した。すべての&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: We stopped optimizing our LLM stack manually — it optimizes itself now&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t9on1e/we_stopped_optimizing_our_llm_stack_manually_it/</guid>
-      <pubDate>Mon, 11 May 2026 01:12:24 GMT</pubDate>
+      <title>[r/artificial] 大量殺人AIチャットボット裁判、2件目が到着</title>
+      <link>https://www.reddit.com/r/artificial/comments/1taqiby/second_massshooting_ai_chatbot_court_case_arrives/</link>
+      <description>&lt;p&gt;&lt;strong&gt;大量殺人AIチャットボット裁判、2件目が到着&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIの精神的被害を主張する裁判は、もともとは10代の自殺から始まり、成人の自殺、成人の殺人自殺、そして最近ではステイシー対アルトマンの一連の裁判に発展している。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Second mass-shooting AI chatbot court case arrives&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1taqiby/second_massshooting_ai_chatbot_court_case_arrives/</guid>
+      <pubDate>Tue, 12 May 2026 04:10:44 GMT</pubDate>
     </item>
     <item>
       <title>[r/LocalLLaMA] AMAのお知らせ：Nous Research、Hermes Agentを支えるオープンソースラボ (水曜日、午前8時-午前11時PST)</title>
@@ -195,37 +186,37 @@
       <title>[r/LocalLLaMA] ベスト・ローカルLLM - 2026年4月</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1sknx6n/best_local_llms_apr_2026/</link>
       <description>&lt;p&gt;&lt;strong&gt;ベスト・ローカルLLM - 2026年4月&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ベスト・ローカル・LLMs・メガスレッドを再びお届けします！前スレッドから数ヶ月、待望のQwen3.5とGemma4シリーズがリリースされ、私たちはごちそうを食べ続けています。もしそれが&lt;/p&gt;
+&lt;p&gt;ベスト・ローカルLLMs・メガスレッドを再びお届けします！前スレッドから数ヶ月、待望のQwen3.5とGemma4シリーズがリリースされ、私たちはごちそうを食べ続けています。もしそれが&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Best Local LLMs - Apr 2026&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sknx6n/best_local_llms_apr_2026/</guid>
       <pubDate>Mon, 13 Apr 2026 21:00:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] Qwen3.6シリーズはもう出ないのですか？</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1taafs4/will_there_be_any_more_qwen36_series_models/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Qwen3.6シリーズはもう出ないのですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Qwen3.6-122BやQwen3.6-coderが登場することを期待しているのだが、その期待も薄れつつある。Qwenの人たちからヒントを得るだけでも、今頃は何かを見たり聞いたりしているような気がする。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Will there be any more Qwen3.6 series models?&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1taafs4/will_there_be_any_more_qwen36_series_models/</guid>
-      <pubDate>Mon, 11 May 2026 17:37:30 GMT</pubDate>
+      <title>[r/LocalLLaMA] クロード・コードをゼロから作ってみよう！</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tb6nkx/lets_build_claude_code_from_scratch/</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロード・コードをゼロから作ってみよう！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;というわけで、クロード・コードをゼロから作る方法についてビデオを作りました。ビデオはこちら：https://youtu.be/8pDfgBEy8bg と Github: https://github.com/CohleM/nanoclaude フィードバックをお待ちしています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Let's build claude code from scratch!&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tb6nkx/lets_build_claude_code_from_scratch/</guid>
+      <pubDate>Tue, 12 May 2026 16:25:14 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] Gemma4はWebGPU上でTransformers.jsを使って完全にオフラインで動作し、WebSerial経由でReachy Miniを制御する。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ta9mmd/gemma_4_running_fully_offline_on_webgpu_with/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Gemma4はWebGPU上でTransformers.jsを使って完全にオフラインで動作し、WebSerial経由でReachy Miniを制御する。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; posted by &amp;#32; /u/xenovatech [link] &amp;#32; [comments］&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gemma 4 running fully offline on WebGPU with Transformers.js, controlling Reachy Mini over WebSerial.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1ta9mmd/gemma_4_running_fully_offline_on_webgpu_with/</guid>
-      <pubDate>Mon, 11 May 2026 17:10:18 GMT</pubDate>
+      <title>[r/LocalLLaMA] 針：ジェミニ・ツールの呼び出しを26Mのモデルに蒸留した</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tb9b0r/needle_we_distilled_gemini_tool_calling_into_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;針：ジェミニ・ツールの呼び出しを26Mのモデルに蒸留した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私たちは、26Mパラメータの関数呼び出し（ツール使用）モデルであるNeedleをオープンソース化した。民生用デバイス上で、6000トーク/秒のプリフィルと1200トーク/秒のデコードで動作する。私たちはいつも、以下のような努力の少なさに不満を感じていた。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Needle: We Distilled Gemini Tool Calling Into a 26M Model&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tb9b0r/needle_we_distilled_gemini_tool_calling_into_a/</guid>
+      <pubDate>Tue, 12 May 2026 17:56:09 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] PowerColor、32GB GDDR6メモリを搭載したRadeon AI PRO R9600Dを発表</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1taa74c/powercolor_launches_radeon_ai_pro_r9600d_with/</link>
-      <description>&lt;p&gt;&lt;strong&gt;PowerColor、32GB GDDR6メモリを搭載したRadeon AI PRO R9600Dを発表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://videocardz.com/newz/powercolor-launches-single-slot-and-passive-radeon-ai-pro-r9600d-32gb-and-12v-2x6-connector &amp;#32;投稿者 &amp;#32; /u/MundanePercentage674 [リンク] &amp;#32; [コメント].&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: PowerColor launches Radeon AI PRO R9600D with 32GB GDDR6 memory&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1taa74c/powercolor_launches_radeon_ai_pro_r9600d_with/</guid>
-      <pubDate>Mon, 11 May 2026 17:29:32 GMT</pubDate>
+      <title>[r/LocalLLaMA] MagicQuant (v2.0) - ハイブリッド混合GGUFモデル + Unsloth Dynamic Learned Quantコンフィギュレーション + 優勝者折りたたみ付きベンチマークテーブル 他</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tb3sja/magicquant_v20_hybrid_mixed_gguf_models_unsloth/</link>
+      <description>&lt;p&gt;&lt;strong&gt;MagicQuant (v2.0) - ハイブリッド混合GGUFモデル + Unsloth Dynamic Learned Quantコンフィギュレーション + 優勝者折りたたみ付きベンチマークテーブル 他&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は過去5ヶ月以上かけて、ハイブリッドGGUFクオンツミックスを作成するパイプラインを構築した。また、クオンツからテンソルへの割り当てを利用することで、アンスロー（あるいは他の）モデルから学ぶこともできるようにした。そしていくつかのアーク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: MagicQuant (v2.0) - Hybrid Mixed GGUF Models + Unsloth Dynamic Learned Quant Configurations + Benchmark table with collapsed winners and more&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tb3sja/magicquant_v20_hybrid_mixed_gguf_models_unsloth/</guid>
+      <pubDate>Tue, 12 May 2026 14:46:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
