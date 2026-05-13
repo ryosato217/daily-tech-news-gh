@@ -3,40 +3,40 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-12</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-13</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 12 May 2026 20:01:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 20:02:56 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (848pt) バンブーラボはオープンソースの社会契約を悪用している</title>
-      <link>https://news.ycombinator.com/item?id=48109224</link>
-      <description>&lt;p&gt;&lt;strong&gt;バンブーラボはオープンソースの社会契約を悪用している&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Bambu Lab is abusing the open source social contract&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48109224</guid>
-      <pubDate>Tue, 12 May 2026 14:54:41 GMT</pubDate>
+      <title>[Hacker News] (376pt) 無料の*.city.state.usロカリティドメインの設定 (2025)</title>
+      <link>https://news.ycombinator.com/item?id=48122635</link>
+      <description>&lt;p&gt;&lt;strong&gt;無料の*.city.state.usロカリティドメインの設定 (2025)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Setting up a free *.city.state.us locality domain (2025)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48122635</guid>
+      <pubDate>Wed, 13 May 2026 14:45:18 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (187pt) シニア開発者が専門知識を伝えられない理由</title>
-      <link>https://news.ycombinator.com/item?id=48109460</link>
-      <description>&lt;p&gt;&lt;strong&gt;シニア開発者が専門知識を伝えられない理由&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Why senior developers fail to communicate their expertise&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48109460</guid>
-      <pubDate>Tue, 12 May 2026 15:08:40 GMT</pubDate>
+      <title>[Hacker News] (166pt) WindowsのAPIがLinuxカーネルの機能になりつつあるため、Linuxゲームはより速くなった</title>
+      <link>https://news.ycombinator.com/item?id=48087887</link>
+      <description>&lt;p&gt;&lt;strong&gt;WindowsのAPIがLinuxカーネルの機能になりつつあるため、Linuxゲームはより速くなった&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Linux gaming is faster because Windows APIs are becoming Linux kernel features&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48087887</guid>
+      <pubDate>Sun, 10 May 2026 20:54:06 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (180pt) オブシディアン・プラグインの未来</title>
-      <link>https://news.ycombinator.com/item?id=48109970</link>
-      <description>&lt;p&gt;&lt;strong&gt;オブシディアン・プラグインの未来&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Future of Obsidian Plugins&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48109970</guid>
-      <pubDate>Tue, 12 May 2026 15:45:54 GMT</pubDate>
+      <title>[Hacker News] (100pt) 米国は最も重要なところでAI競争に勝利している：商業化</title>
+      <link>https://news.ycombinator.com/item?id=48121929</link>
+      <description>&lt;p&gt;&lt;strong&gt;米国は最も重要なところでAI競争に勝利している：商業化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The US is winning the AI race where it matters most: commercialization&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48121929</guid>
+      <pubDate>Wed, 13 May 2026 13:53:53 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (63pt) ショーHN：ニードル：私たちはジェミニ・ツールの呼び出しを26Mモデルに蒸留した</title>
-      <link>https://news.ycombinator.com/item?id=48111896</link>
-      <description>&lt;p&gt;&lt;strong&gt;ショーHN：ニードル：私たちはジェミニ・ツールの呼び出しを26Mモデルに蒸留した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48111896</guid>
-      <pubDate>Tue, 12 May 2026 18:03:11 GMT</pubDate>
+      <title>[Hacker News] (31pt) ニュースを無料で入手できるようにすることは勝利だ</title>
+      <link>https://news.ycombinator.com/item?id=48126156</link>
+      <description>&lt;p&gt;&lt;strong&gt;ニュースを無料で入手できるようにすることは勝利だ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Making the news available at no cost is a victory&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48126156</guid>
+      <pubDate>Wed, 13 May 2026 19:14:47 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -102,13 +102,31 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 莫大な暴落が待ち構えている</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tax3dz/my_god_there_is_an_enormous_crash_just_waiting_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;莫大な暴落が待ち構えている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;昨日、仕事用のGPTにとても簡単なスプレッドシートの要約作業をやってもらった。5分で終わった。おそらく30分かそこらで自分でもできただろう。多額の補助金をもらっている&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: My god there is an enormous crash just waiting to happen&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tax3dz/my_god_there_is_an_enormous_crash_just_waiting_to/</guid>
-      <pubDate>Tue, 12 May 2026 10:06:32 GMT</pubDate>
+      <title>[r/artificial] オンタリオ州の医師が使用するAIトランスクライバーが「幻覚を見て」エラーを発生させたと監査官が発見｜CBCニュース</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tc2qre/ai_transcriber_for_use_by_ontario_doctors/</link>
+      <description>&lt;p&gt;&lt;strong&gt;オンタリオ州の医師が使用するAIトランスクライバーが「幻覚を見て」エラーを発生させたと監査官が発見｜CBCニュース&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これはマジで怖いし、始まりに過ぎない &amp;#32;投稿者 &amp;#32; /u/One-Astronomer6166 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI transcriber for use by Ontario doctors 'hallucinated,' generated errors, auditor finds | CBC News&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tc2qre/ai_transcriber_for_use_by_ontario_doctors/</guid>
+      <pubDate>Wed, 13 May 2026 15:19:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ハイになってパスワードを忘れてから11年後、AIが40万ドルのビットコイン回収を支援</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tca9sb/ai_helps_man_recover_400000_in_bitcoin_11_years/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ハイになってパスワードを忘れてから11年後、AIが40万ドルのビットコイン回収を支援&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/IndicaOatmeal [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI helps man recover $400,000 in Bitcoin 11 years after he got high and forgot password&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tca9sb/ai_helps_man_recover_400000_in_bitcoin_11_years/</guid>
+      <pubDate>Wed, 13 May 2026 19:33:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Anthropicの新しい解釈可能性ツールは、クロードがベンチマークの26%でテストされていると疑っていることを発見した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tc1hq0/anthropics_new_interpretability_tool_found_claude/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropicの新しい解釈可能性ツールは、クロードがベンチマークの26%でテストされていると疑っていることを発見した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anthropicは先週、クロードの内部活動を人間が読めるテキストに翻訳するツール「Natural Language Autoencoders」を発表した。重要な発見：SWEベンチでの安全性評価中&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic's new interpretability tool found Claude suspects it is being tested in 26% of benchmarks and never says so&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tc1hq0/anthropics_new_interpretability_tool_found_claude/</guid>
+      <pubDate>Wed, 13 May 2026 14:34:39 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] 子供たちのために、レシートプリンターで「デイリー・ブリーフ」を作った。</title>
@@ -120,64 +138,46 @@
       <pubDate>Tue, 12 May 2026 18:46:27 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] グーグル、AIが生成したコードで2FAを回避するハッカーをゼロデイ脆弱性で検知</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tb5quh/google_detects_hackers_using_aigenerated_code_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;グーグル、AIが生成したコードで2FAを回避するハッカーをゼロデイ脆弱性で検知&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Odd-Onion-6776 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Google detects hackers using AI-generated code to bypass 2FA with zero-day vulnerability&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tb5quh/google_detects_hackers_using_aigenerated_code_to/</guid>
-      <pubDate>Tue, 12 May 2026 15:54:03 GMT</pubDate>
+      <title>[r/artificial] AI最大のリスクは超知能ではなく、最適化された誤解かもしれない</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tc4xis/the_biggest_ai_risk_may_not_be_superintelligence/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI最大のリスクは超知能ではなく、最適化された誤解かもしれない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIの最大のリスクは超知能ではなく、最適化された誤解かもしれない。AIの議論の多くは、いまだに主な危険は「AIが知能を持ちすぎること」だと考えている。しかし、ますます私は&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The biggest AI risk may not be superintelligence — but optimized misunderstanding&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tc4xis/the_biggest_ai_risk_may_not_be_superintelligence/</guid>
+      <pubDate>Wed, 13 May 2026 16:32:47 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIは雇用を置き換えるよりも、制度を再構築するかもしれない</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tb1299/ai_may_reshape_institutions_more_than_it_replaces/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIは雇用を置き換えるよりも、制度を再構築するかもしれない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は、次の大きなAI論争は、知性についてではないと思う。それは表現に関するものだろう。現在、AIの話題のほとんどはモデルに焦点を当てている：どのモデルがより賢いか、どのエージェントがより速いか／優れているか、といった具合だ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI May Reshape Institutions More Than It Replaces Jobs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tb1299/ai_may_reshape_institutions_more_than_it_replaces/</guid>
-      <pubDate>Tue, 12 May 2026 13:05:12 GMT</pubDate>
+      <title>[r/artificial] 莫大な暴落が待ち構えている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tax3dz/my_god_there_is_an_enormous_crash_just_waiting_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;莫大な暴落が待ち構えている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;昨日、仕事用のGPTにとても簡単なスプレッドシートの要約作業をやってもらった。5分で終わった。おそらく30分かそこらで自分でもできただろう。多額の補助金をもらっている&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: My god there is an enormous crash just waiting to happen&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tax3dz/my_god_there_is_an_enormous_crash_just_waiting_to/</guid>
+      <pubDate>Tue, 12 May 2026 10:06:32 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ステイシー・フェイス」の台頭：AIによる美の強化が、私たちの美の基準をいかに歪めているか</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ta95lq/the_rise_of_stacey_face_how_ai_enhancements_are/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ステイシー・フェイス」の台頭：AIによる美の強化が、私たちの美の基準をいかに歪めているか&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; posted by &amp;#32; /u/theindependentonline [link] &amp;#32; [comments］&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The rise of ‘Stacey face’: How AI enhancements are warping our beauty standards&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ta95lq/the_rise_of_stacey_face_how_ai_enhancements_are/</guid>
-      <pubDate>Mon, 11 May 2026 16:54:23 GMT</pubDate>
+      <title>[r/artificial] AIと利益に関する私の見解</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tc01wf/just_my_perspective_on_ai_and_profit/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIと利益に関する私の見解&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIで苦労している企業や新興企業についての記事をよく目にします。AIが雇用を代替している、企業はAIから利益を得ていない、などと言っている。しかし&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Just my perspective on AI and profit&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tc01wf/just_my_perspective_on_ai_and_profit/</guid>
+      <pubDate>Wed, 13 May 2026 13:42:21 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] グーグル、AIを使って企業のデジタル防御の未知の弱点を突くハッカーを妨害</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tak7x9/google_disrupts_hackers_using_ai_to_exploit_an/</link>
-      <description>&lt;p&gt;&lt;strong&gt;グーグル、AIを使って企業のデジタル防御の未知の弱点を突くハッカーを妨害&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;グーグルは攻撃者と標的に関する限定的な情報を共有したが、巨大企業の脅威インテリジェンス部門でチーフアナリストを務めるジョン・ハルトクイスト氏は、サイバーセキュリティの専門家たちがこのような事態を招いたことを意味すると述べた。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Google disrupts hackers using AI to exploit an unknown weakness in a company's digital defense&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tak7x9/google_disrupts_hackers_using_ai_to_exploit_an/</guid>
-      <pubDate>Mon, 11 May 2026 23:31:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] サイバー犯罪者はAIで強力なハッキングツールを作っている、グーグルが警告</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ta92pt/cybercriminals_are_making_powerful_hacking_tools/</link>
-      <description>&lt;p&gt;&lt;strong&gt;サイバー犯罪者はAIで強力なハッキングツールを作っている、グーグルが警告&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/forbes [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Cybercriminals Are Making Powerful Hacking Tools With AI, Google Warns&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ta92pt/cybercriminals_are_making_powerful_hacking_tools/</guid>
-      <pubDate>Mon, 11 May 2026 16:51:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 大量殺人AIチャットボット裁判、2件目が到着</title>
-      <link>https://www.reddit.com/r/artificial/comments/1taqiby/second_massshooting_ai_chatbot_court_case_arrives/</link>
-      <description>&lt;p&gt;&lt;strong&gt;大量殺人AIチャットボット裁判、2件目が到着&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIの精神的被害を主張する裁判は、もともとは10代の自殺から始まり、成人の自殺、成人の殺人自殺、そして最近ではステイシー対アルトマンの一連の裁判に発展している。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Second mass-shooting AI chatbot court case arrives&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1taqiby/second_massshooting_ai_chatbot_court_case_arrives/</guid>
-      <pubDate>Tue, 12 May 2026 04:10:44 GMT</pubDate>
+      <title>[r/artificial] AIエージェントがウェブページや電子メールに含まれる悪意のあるコンテンツに乗っ取られるのを阻止するツールを構築した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tc1570/built_a_tool_that_stops_ai_agents_from_being/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIエージェントがウェブページや電子メールに含まれる悪意のあるコンテンツに乗っ取られるのを阻止するツールを構築した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;プロンプトインジェクション（ウェブページに隠された命令がAIエージェントを乗っ取ること）をご存知であれば、これはエージェントを本番環境でデプロイする開発者にとって実用的なソリューションです。Arc Gate はプロキシです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Built a tool that stops AI agents from being hijacked by malicious content in webpages and emails&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tc1570/built_a_tool_that_stops_ai_agents_from_being/</guid>
+      <pubDate>Wed, 13 May 2026 14:22:15 GMT</pubDate>
     </item>
     <item>
       <title>[r/LocalLLaMA] AMAのお知らせ：Nous Research、Hermes Agentを支えるオープンソースラボ (水曜日、午前8時-午前11時PST)</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1suw9on/ama_announcement_nous_research_the_opensource_lab/</link>
       <description>&lt;p&gt;&lt;strong&gt;AMAのお知らせ：Nous Research、Hermes Agentを支えるオープンソースラボ (水曜日、午前8時-午前11時PST)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;こんにちは、r/LocalLLaMAです👋 水曜日のゲスト、The Nous Research Teamです！4月29日（水）午前8時～午前11時（PST）です。29th Wednesday, 8 AM-11 AM PST ⚠️ Note: AMA自体は別のtwitterで開催されます。&lt;/p&gt;
+&lt;p&gt;こんにちは、r/LocalLLaMAです👋 水曜日のゲスト、The Nous Research Teamです！4月29日（水）午前8時～午前11時（PST）です。29th, 8 AM-11 AM PST ⚠️ Note: AMAそのものは、別のtで開催されます。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: AMA Announcement: Nous Research, The Opensource Lab Behind Hermes Agent (Wednesday, 8AM-11AM PST)&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1suw9on/ama_announcement_nous_research_the_opensource_lab/</guid>
       <pubDate>Fri, 24 Apr 2026 23:52:19 GMT</pubDate>
@@ -192,31 +192,58 @@
       <pubDate>Mon, 13 Apr 2026 21:00:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] クロード・コードをゼロから作ってみよう！</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tb6nkx/lets_build_claude_code_from_scratch/</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード・コードをゼロから作ってみよう！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;というわけで、クロード・コードをゼロから作る方法についてビデオを作りました。ビデオはこちら：https://youtu.be/8pDfgBEy8bg と Github: https://github.com/CohleM/nanoclaude フィードバックをお待ちしています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Let's build claude code from scratch!&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tb6nkx/lets_build_claude_code_from_scratch/</guid>
-      <pubDate>Tue, 12 May 2026 16:25:14 GMT</pubDate>
+      <title>[r/LocalLLaMA] TextGenがネイティブデスクトップアプリに。LM Studio (旧 text-generation-webui) に代わるオープンソース。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tbyyee/textgen_is_now_a_native_desktop_app_opensource/</link>
+      <description>&lt;p&gt;&lt;strong&gt;TextGenがネイティブデスクトップアプリに。LM Studio (旧 text-generation-webui) に代わるオープンソース。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;みなさん、こんにちは。私のプロジェクトにたくさんのアップデートがあったので、ここで共有したいと思います。TextGen（以前はtext-generation-webui、私のユーザー名obaboogaまたはobaとしても知られていました）は、現在開発中です。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: TextGen is now a native desktop app. Open-source alternative to LM Studio (formerly text-generation-webui).&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tbyyee/textgen_is_now_a_native_desktop_app_opensource/</guid>
+      <pubDate>Wed, 13 May 2026 13:00:32 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] 針：ジェミニ・ツールの呼び出しを26Mのモデルに蒸留した</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tb9b0r/needle_we_distilled_gemini_tool_calling_into_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;針：ジェミニ・ツールの呼び出しを26Mのモデルに蒸留した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私たちは、26Mパラメータの関数呼び出し（ツール使用）モデルであるNeedleをオープンソース化した。民生用デバイス上で、6000トーク/秒のプリフィルと1200トーク/秒のデコードで動作する。私たちはいつも、以下のような努力の少なさに不満を感じていた。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Needle: We Distilled Gemini Tool Calling Into a 26M Model&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tb9b0r/needle_we_distilled_gemini_tool_calling_into_a/</guid>
-      <pubDate>Tue, 12 May 2026 17:56:09 GMT</pubDate>
+      <title>[r/LocalLLaMA] DramaBox - LTX 2.3ベースの最も表現力豊かなボイスモデル</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tc5wx1/dramabox_most_expressive_voice_model_ever_based/</link>
+      <description>&lt;p&gt;&lt;strong&gt;DramaBox - LTX 2.3ベースの最も表現力豊かなボイスモデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最も表現力豊かな声のモデルGithub: https://github.com/resemble-ai/DramaBox HF Model: https://huggingface.co/ResembleAI/Dramabox HF Space: https://huggingface.co/spaces/ResembleAI/Dramabox &amp;#32&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: DramaBox - Most Expressive Voice model ever based on LTX 2.3&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tc5wx1/dramabox_most_expressive_voice_model_ever_based/</guid>
+      <pubDate>Wed, 13 May 2026 17:06:11 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] MagicQuant (v2.0) - ハイブリッド混合GGUFモデル + Unsloth Dynamic Learned Quantコンフィギュレーション + 優勝者折りたたみ付きベンチマークテーブル 他</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tb3sja/magicquant_v20_hybrid_mixed_gguf_models_unsloth/</link>
-      <description>&lt;p&gt;&lt;strong&gt;MagicQuant (v2.0) - ハイブリッド混合GGUFモデル + Unsloth Dynamic Learned Quantコンフィギュレーション + 優勝者折りたたみ付きベンチマークテーブル 他&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は過去5ヶ月以上かけて、ハイブリッドGGUFクオンツミックスを作成するパイプラインを構築した。また、クオンツからテンソルへの割り当てを利用することで、アンスロー（あるいは他の）モデルから学ぶこともできるようにした。そしていくつかのアーク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: MagicQuant (v2.0) - Hybrid Mixed GGUF Models + Unsloth Dynamic Learned Quant Configurations + Benchmark table with collapsed winners and more&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tb3sja/magicquant_v20_hybrid_mixed_gguf_models_unsloth/</guid>
-      <pubDate>Tue, 12 May 2026 14:46:20 GMT</pubDate>
+      <title>[r/LocalLLaMA] AIDC-AI/Ovis2.6-80B-A3B - 抱きつきフェイス</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tby79g/aidcaiovis2680ba3b_hugging_face/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIDC-AI/Ovis2.6-80B-A3B - 抱きつきフェイス&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;マルチモーダル大規模言語モデル（MLLM）Ovisシリーズの最新バージョン、Ovis2.6-80B-A3Bをご紹介します。Ovis2.5の強固な基盤に基づき、Ovis2.6はLLMのバックボーンを次のようにアップグレードします。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AIDC-AI/Ovis2.6-80B-A3B · Hugging Face&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tby79g/aidcaiovis2680ba3b_hugging_face/</guid>
+      <pubDate>Wed, 13 May 2026 12:29:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] 本物のトランスフォーマーの言語モデルを、ゲームボーイ・カラーのノーマルで動かしたんだ！</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tbi2n3/i_got_a_real_transformer_language_model_running/</link>
+      <description>&lt;p&gt;&lt;strong&gt;本物のトランスフォーマーの言語モデルを、ゲームボーイ・カラーのノーマルで動かしたんだ！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;電話も、PCも、Wi-Fiも、リンクケーブルも、クラウド推論もない。  - カートリッジはROMを起動し、GBCはモデル自体を実行する。- モデルはAndrej KarpathyのTinyStories-260Kで、INT8ウェイトに変換されている。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I got a real transformer language model running locally on a stock Game Boy Color!&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tbi2n3/i_got_a_real_transformer_language_model_running/</guid>
+      <pubDate>Tue, 12 May 2026 23:15:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] MTPモデルを実行するためのllama.cppドッカーイメージ</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tc132c/llamacpp_docker_images_to_run_mtp_models/</link>
+      <description>&lt;p&gt;&lt;strong&gt;MTPモデルを実行するためのllama.cppドッカーイメージ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://www.reddit.com/r/LocalLLaMA/comments/1t5ageq/ MTPのプルリクエストやllama.cppのメインブランチでは、画像のサポートなど多くの改善がなされています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: llama.cpp docker images to run MTP models&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tc132c/llamacpp_docker_images_to_run_mtp_models/</guid>
+      <pubDate>Wed, 13 May 2026 14:20:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] トークンの重ね合わせによる効率的な事前学習 by Nous Research</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tc67pw/efficient_pretraining_with_token_superposition_by/</link>
+      <description>&lt;p&gt;&lt;strong&gt;トークンの重ね合わせによる効率的な事前学習 by Nous Research&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/de4dee [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Efficient pretraining with token superposition by Nous Research&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tc67pw/efficient_pretraining_with_token_superposition_by/</guid>
+      <pubDate>Wed, 13 May 2026 17:16:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
