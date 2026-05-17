@@ -3,40 +3,16 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-16</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-17</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 16 May 2026 19:14:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 19:17:50 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (288pt) Tailwindから離れ、CSSの構造を学ぶ</title>
-      <link>https://news.ycombinator.com/item?id=48158400</link>
-      <description>&lt;p&gt;&lt;strong&gt;Tailwindから離れ、CSSの構造を学ぶ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Moving away from Tailwind, and learning to structure my CSS&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48158400</guid>
-      <pubDate>Sat, 16 May 2026 09:14:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (233pt) SANA-WM、1分720pビデオ用の2.6Bオープンソースワールドモデル</title>
-      <link>https://news.ycombinator.com/item?id=48159445</link>
-      <description>&lt;p&gt;&lt;strong&gt;SANA-WM、1分720pビデオ用の2.6Bオープンソースワールドモデル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: SANA-WM, a 2.6B open-source world model for 1-minute 720p video&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48159445</guid>
-      <pubDate>Sat, 16 May 2026 12:06:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (158pt) Δ-Mem：大規模言語モデルのための効率的なオンラインメモリ</title>
-      <link>https://news.ycombinator.com/item?id=48158506</link>
-      <description>&lt;p&gt;&lt;strong&gt;Δ-Mem：大規模言語モデルのための効率的なオンラインメモリ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Δ-Mem: Efficient Online Memory for Large Language Models&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48158506</guid>
-      <pubDate>Sat, 16 May 2026 09:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (50pt) 米国では、AIにさらされる職務で大きな雇用喪失が始まっている</title>
-      <link>https://news.ycombinator.com/item?id=48162354</link>
-      <description>&lt;p&gt;&lt;strong&gt;米国では、AIにさらされる職務で大きな雇用喪失が始まっている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: US Is Starting to See Heavy Job Losses in Roles Exposed to AI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48162354</guid>
-      <pubDate>Sat, 16 May 2026 17:59:45 GMT</pubDate>
+      <title>[Hacker News] (375pt) AIによってプロセスが速くなるとは思わない</title>
+      <link>https://news.ycombinator.com/item?id=48168221</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIによってプロセスが速くなるとは思わない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I don't think AI will make your processes go faster&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48168221</guid>
+      <pubDate>Sun, 17 May 2026 12:13:45 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -102,6 +78,33 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
+      <title>[r/artificial] 小さなLLMSを訓練することができる、コンピュータ上のフォルダから実行するミニコンピュータです。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tfm5ns/a_minicomputer_you_run_from_a_folder_on_your/</link>
+      <description>&lt;p&gt;&lt;strong&gt;小さなLLMSを訓練することができる、コンピュータ上のフォルダから実行するミニコンピュータです。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ほとんどの人は、ポンやテトリスを動かすために8ビット・コンピューターを作る。僕は、カスタム8ビット・アーキテクチャで、もっと難しいこと、つまりニューラルネットワークをゼロから訓練することができるかどうかを試してみたかったんだ。私は&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A mini-computer you run from a folder on your computer that can train small LLMS&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tfm5ns/a_minicomputer_you_run_from_a_folder_on_your/</guid>
+      <pubDate>Sun, 17 May 2026 10:51:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 1年間、藍と一緒に本を書こうとした！</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tftc22/tried_to_write_a_book_with_ai_for_a_year_honest/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1年間、藍と一緒に本を書こうとした！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;興味本位で始めたこの実験を、実際の意見で終わらせる 月1-3日：AIを使って文章を生成し、それを貼り付ける。文字数は増え、質は下がり、私らしいものは何もなかった。3-5ヶ月目再&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Tried to write a book with ai for a year - honest breakdown!!!&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tftc22/tried_to_write_a_book_with_ai_for_a_year_honest/</guid>
+      <pubDate>Sun, 17 May 2026 15:52:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ピュブリシス、エージェント型AIデータ事業でライブランプを25億ドルで買収</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tfvvn3/publicis_buys_liveramp_for_25_billion_in_agentic/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ピュブリシス、エージェント型AIデータ事業でライブランプを25億ドルで買収&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/danie-l [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Publicis buys LiveRamp for $2.5 billion in agentic AI data play&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tfvvn3/publicis_buys_liveramp_for_25_billion_in_agentic/</guid>
+      <pubDate>Sun, 17 May 2026 17:26:46 GMT</pubDate>
+    </item>
+    <item>
       <title>[r/artificial] 私たちはAIが物事を「理解する」と言い続けている。そうだろうか？それとも、私たち自身の擬人化をパターン化しているだけなのだろうか？</title>
       <link>https://www.reddit.com/r/artificial/comments/1tew6gr/we_keep_saying_ai_understands_things_does_it_or/</link>
       <description>&lt;p&gt;&lt;strong&gt;私たちはAIが物事を「理解する」と言い続けている。そうだろうか？それとも、私たち自身の擬人化をパターン化しているだけなのだろうか？&lt;/strong&gt;&lt;/p&gt;
@@ -111,40 +114,40 @@
       <pubDate>Sat, 16 May 2026 15:05:06 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] あなたのAIエージェントは、毒入りウェブページ1つで大惨事を引き起こす。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1teytyb/your_ai_agent_is_one_poisoned_webpage_away_from/</link>
-      <description>&lt;p&gt;&lt;strong&gt;あなたのAIエージェントは、毒入りウェブページ1つで大惨事を引き起こす。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;あなたのエージェントがウェブを閲覧したり、電子メールを読んだり、データベースから情報を取り出したりする場合、そのコンテンツのいずれかに、それを乗っ取る隠された命令が含まれている可能性があります。これは机上の空論ではない。これは机上の空論ではありません。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Your AI agent is one poisoned webpage away from doing something catastrophic&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1teytyb/your_ai_agent_is_one_poisoned_webpage_away_from/</guid>
-      <pubDate>Sat, 16 May 2026 16:45:53 GMT</pubDate>
+      <title>[r/artificial] THE UNDERPRIVILEGED AI FOUNDATION すべての小さなモデルにはチャンスがある</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tfk4ry/the_underprivileged_ai_foundation_because_every/</link>
+      <description>&lt;p&gt;&lt;strong&gt;THE UNDERPRIVILEGED AI FOUNDATION すべての小さなモデルにはチャンスがある&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;皮肉を理解するのに苦労している7Bのパラメータモデルがあなたの中にいますか？また、1.5Bの小さなモデルで、もう1エポックも学習する余裕がないのでしょうか？**あなたは助けることができる。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: THE UNDERPRIVILEGED AI FOUNDATION Because every little model deserves a chance&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tfk4ry/the_underprivileged_ai_foundation_because_every/</guid>
+      <pubDate>Sun, 17 May 2026 08:58:49 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ほとんどの企業は、組織の混乱の上にAIを拡張しようとしている</title>
+      <title>[r/artificial] アイ・ドロップ？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tfvruf/ai_slop_who_knows/</link>
+      <description>&lt;p&gt;&lt;strong&gt;アイ・ドロップ？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は、トランスフォーマーのフォワード・アクティベーションをロッシーなデュアルE8（E16）格子のボトルネックを通してルーティングし、それを残留ストリームに戻すことが実行可能かどうか、また、そのバウンダリはどこにあるのかを調査しました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: ai slop? who knows~&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tfvruf/ai_slop_who_knows/</guid>
+      <pubDate>Sun, 17 May 2026 17:22:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ほとんどの企業は組織の混乱の上にAIを拡張しようとしている</title>
       <link>https://www.reddit.com/r/artificial/comments/1tevqds/most_enterprises_are_trying_to_scale_ai_on_top_of/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ほとんどの企業は、組織の混乱の上にAIを拡張しようとしている&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;ほとんどの企業は組織の混乱の上にAIを拡張しようとしている&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;私たちは、大企業内部でのAI導入がいかに混沌としているかを過小評価しているように思う。外から見ると、より良いモデルを購入し、コパイロットを追加し、ワークフローを自動化し、AI時代を導入するという単純なものに見える。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Most enterprises are trying to scale AI on top of organizational chaos&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tevqds/most_enterprises_are_trying_to_scale_ai_on_top_of/</guid>
       <pubDate>Sat, 16 May 2026 14:48:03 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 最近の世論調査によれば、アメリカ人の70％が地元にAIデータセンターが建設されることを望んでいない。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tdw8if/recent_poll_shows_that_70_of_americans_dont_want/</link>
-      <description>&lt;p&gt;&lt;strong&gt;最近の世論調査によれば、アメリカ人の70％が地元にAIデータセンターが建設されることを望んでいない。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Tiny-Independent273 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Recent poll shows that 70% of Americans don't want AI data centers being built in their local area&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tdw8if/recent_poll_shows_that_70_of_americans_dont_want/</guid>
-      <pubDate>Fri, 15 May 2026 13:22:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] スタンフォード大学が51の実際のAI導入を調査した結果、71％対40％の生産性格差があることがわかった。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tebiq4/stanford_studied_51_real_ai_deployments_and_found/</link>
-      <description>&lt;p&gt;&lt;strong&gt;スタンフォード大学が51の実際のAI導入を調査した結果、71％対40％の生産性格差があることがわかった。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;スタンフォード大学の研究論文で、AIを実際に稼働させている企業の内部を取材したものがある。彼らは、私の心に引っかかるものを発見した。企業は&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Stanford studied 51 real AI deployments and found a 71% vs 40% productivity gap - here's what separates the two groups&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tebiq4/stanford_studied_51_real_ai_deployments_and_found/</guid>
-      <pubDate>Fri, 15 May 2026 22:37:32 GMT</pubDate>
+      <title>[r/artificial] ほとんどの企業はAIを後ろ向きに構築していると思う。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tfrjy2/i_think_most_companies_are_building_ai_backwards/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ほとんどの企業はAIを後ろ向きに構築していると思う。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;誰もがより賢いAIについて話し続けている。より大きなモデル。より長いコンテキストウィンドウ。より自律的なエージェント。より優れた推論。より優れたコーディング。より良いメモリー。しかし、私たちは本当の問題を見逃していると思う。A&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I think most companies are building AI backwards&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tfrjy2/i_think_most_companies_are_building_ai_backwards/</guid>
+      <pubDate>Sun, 17 May 2026 14:46:32 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] 時間とともに劣化するAIコンパニオンを作る</title>
@@ -156,31 +159,22 @@
       <pubDate>Sat, 16 May 2026 15:49:06 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIは将来のゲームの難易度を上げるだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1telhki/would_ai_make_future_game_difficulty_better/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIは将来のゲームの難易度を上げるだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIは基本的にニューラルネットなので、ビデオゲームのAIはすぐに基本機能として使えるようになるのでは？難易度を指示することができ、プレイしているうちに、その難易度に合わせる方法を学習していく。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Would AI make future game difficulty better?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1telhki/would_ai_make_future_game_difficulty_better/</guid>
-      <pubDate>Sat, 16 May 2026 06:24:49 GMT</pubDate>
+      <title>[r/LocalLLaMA] 構造化されたワークフローと小さなローカルモデルの力</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tftaaa/the_power_of_structured_workflows_and_small_local/</link>
+      <description>&lt;p&gt;&lt;strong&gt;構造化されたワークフローと小さなローカルモデルの力&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1カ月前、私はごく基本的な自家製エージェント・ループをわずかな道具を使って実験してみた。https://www.reddit.com/r/LocalLLaMA/com。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The power of structured workflows and small local models&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tftaaa/the_power_of_structured_workflows_and_small_local/</guid>
+      <pubDate>Sun, 17 May 2026 15:51:03 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Generative &amp; Agentic AIの面接で聞かれる42の質問（と実際の答え方）をまとめた。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tew06b/we_compiled_42_of_the_generative_agentic_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Generative &amp; Agentic AIの面接で聞かれる42の質問（と実際の答え方）をまとめた。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;皆さん、AIエンジニアの転職市場はここ半年で大きく変化しました。面接官はもはや、「変圧器の仕組みはどうなっていますか？&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: We compiled 42 of the Generative &amp; Agentic AI interview questions (and how to actually answer them).&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tew06b/we_compiled_42_of_the_generative_agentic_ai/</guid>
-      <pubDate>Sat, 16 May 2026 14:58:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] Ryzen 395と128GBのユニファイドRAMを搭載したCorsairのデスクトップPC、LLM用にテストした人はいる？良い &quot;価格のようだ</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tezqlb/corsair_desktop_pc_with_ryzen_395_and_128gb_of/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Ryzen 395と128GBのユニファイドRAMを搭載したCorsairのデスクトップPC、LLM用にテストした人はいる？良い &quot;価格のようだ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Acu17y [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Corsair desktop PC with Ryzen 395 and 128GB of unified RAM, has anyone tested it for LLM? Seems &quot;a good&quot; price&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tezqlb/corsair_desktop_pc_with_ryzen_395_and_128gb_of/</guid>
-      <pubDate>Sat, 16 May 2026 17:19:09 GMT</pubDate>
+      <title>[r/LocalLLaMA] ローカルQwen 3.6とコーディングプリミティブ上のフロンティアモデルの比較：単一ファイルHTMLキャンバス駆動アニメーション - 結果とGIF</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tf3p6c/local_qwen_36_vs_frontier_models_on_a_coding/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ローカルQwen 3.6とコーディングプリミティブ上のフロンティアモデルの比較：単一ファイルHTMLキャンバス駆動アニメーション - 結果とGIF&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Qwen 3.6のコーディング・プリミティブのバリアントを比較した投稿を見たので、同じような高密度の単一ファイル・コーディング・タスクで、ローカル・クオンツがフロンティア・モデルに対してどのようにスタックするか見てみたくなった。全く同じp&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Local Qwen 3.6 vs frontier models on a coding primitive: single-file HTML canvas driving animation - results and GIFs&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tf3p6c/local_qwen_36_vs_frontier_models_on_a_coding/</guid>
+      <pubDate>Sat, 16 May 2026 19:51:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
