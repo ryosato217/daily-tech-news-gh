@@ -3,16 +3,56 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-17</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-18</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 17 May 2026 19:17:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 19:52:03 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (375pt) AIによってプロセスが速くなるとは思わない</title>
-      <link>https://news.ycombinator.com/item?id=48168221</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIによってプロセスが速くなるとは思わない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I don't think AI will make your processes go faster&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48168221</guid>
-      <pubDate>Sun, 17 May 2026 12:13:45 GMT</pubDate>
+      <title>[Hacker News] (413pt) イーロン・マスク、サム・アルトマンとOpenAIに対する訴訟で敗訴</title>
+      <link>https://news.ycombinator.com/item?id=48182754</link>
+      <description>&lt;p&gt;&lt;strong&gt;イーロン・マスク、サム・アルトマンとOpenAIに対する訴訟で敗訴&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Elon Musk has lost his lawsuit against Sam Altman and OpenAI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48182754</guid>
+      <pubDate>Mon, 18 May 2026 17:38:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (304pt) GitHubリポジトリでGitの-authorフラグを使ってAIボットスパムを阻止した</title>
+      <link>https://news.ycombinator.com/item?id=48181125</link>
+      <description>&lt;p&gt;&lt;strong&gt;GitHubリポジトリでGitの-authorフラグを使ってAIボットスパムを阻止した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: We stopped AI bot spam in our GitHub repo using Git's –author flag&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48181125</guid>
+      <pubDate>Mon, 18 May 2026 15:24:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (201pt) アンソロピックがステンレスを買収</title>
+      <link>https://news.ycombinator.com/item?id=48182281</link>
+      <description>&lt;p&gt;&lt;strong&gt;アンソロピックがステンレスを買収&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic acquires Stainless&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48182281</guid>
+      <pubDate>Mon, 18 May 2026 17:01:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (106pt) M1 MacでHaiku OSが動作するようになった</title>
+      <link>https://news.ycombinator.com/item?id=48183579</link>
+      <description>&lt;p&gt;&lt;strong&gt;M1 MacでHaiku OSが動作するようになった&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Haiku OS runs on M1 Macs now&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48183579</guid>
+      <pubDate>Mon, 18 May 2026 18:30:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (21pt) アゴラ-1：マルチエージェント世界モデル</title>
+      <link>https://news.ycombinator.com/item?id=48183748</link>
+      <description>&lt;p&gt;&lt;strong&gt;アゴラ-1：マルチエージェント世界モデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Agora-1: The Multi-Agent World Model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48183748</guid>
+      <pubDate>Mon, 18 May 2026 18:43:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (8pt) AIにラジオ局を運営させる</title>
+      <link>https://news.ycombinator.com/item?id=48183301</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIにラジオ局を運営させる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: We let AIs run radio stations&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48183301</guid>
+      <pubDate>Mon, 18 May 2026 18:12:18 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -27,7 +67,7 @@
       <title>[VentureBeat AI] クロード・コードは月200ドルもする。グースは無料で同じことができる。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;クロード・コードは月200ドルもする。グースは無料で同じことができる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、「高価である」という欠点がある。&lt;/p&gt;
+&lt;p&gt;人工知能のコーディング革命には、キャッチーなことが伴う：それは高価です。Anthropicの端末ベースのAIエージェントであるClaude Codeは、自律的にコードを書き、デバッグし、展開することができ、キャップを持っている。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -45,7 +85,7 @@
       <title>[VentureBeat AI] セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に作り直したバージョンを発表した。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に再構築したバージョンを発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -78,103 +118,139 @@
       <pubDate>Mon, 05 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 小さなLLMSを訓練することができる、コンピュータ上のフォルダから実行するミニコンピュータです。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tfm5ns/a_minicomputer_you_run_from_a_folder_on_your/</link>
-      <description>&lt;p&gt;&lt;strong&gt;小さなLLMSを訓練することができる、コンピュータ上のフォルダから実行するミニコンピュータです。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ほとんどの人は、ポンやテトリスを動かすために8ビット・コンピューターを作る。僕は、カスタム8ビット・アーキテクチャで、もっと難しいこと、つまりニューラルネットワークをゼロから訓練することができるかどうかを試してみたかったんだ。私は&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A mini-computer you run from a folder on your computer that can train small LLMS&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tfm5ns/a_minicomputer_you_run_from_a_folder_on_your/</guid>
-      <pubDate>Sun, 17 May 2026 10:51:54 GMT</pubDate>
+      <title>[r/artificial] イーロン・マスク氏、OpenAIとの確執で陪審に不利な裁定を下す 訴訟提起が遅すぎたと指摘</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tgv85s/jury_rules_against_elon_musk_in_his_feud_with/</link>
+      <description>&lt;p&gt;&lt;strong&gt;イーロン・マスク氏、OpenAIとの確執で陪審に不利な裁定を下す 訴訟提起が遅すぎたと指摘&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;連邦裁判所は月曜日、イーロン・マスクがオープンAIとその幹部に対して申し立てた請求を棄却した。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Jury rules against Elon Musk in his feud with OpenAI, saying he filed his lawsuit too late&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tgv85s/jury_rules_against_elon_musk_in_his_feud_with/</guid>
+      <pubDate>Mon, 18 May 2026 18:04:33 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 1年間、藍と一緒に本を書こうとした！</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tftc22/tried_to_write_a_book_with_ai_for_a_year_honest/</link>
-      <description>&lt;p&gt;&lt;strong&gt;1年間、藍と一緒に本を書こうとした！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;興味本位で始めたこの実験を、実際の意見で終わらせる 月1-3日：AIを使って文章を生成し、それを貼り付ける。文字数は増え、質は下がり、私らしいものは何もなかった。3-5ヶ月目再&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Tried to write a book with ai for a year - honest breakdown!!!&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tftc22/tried_to_write_a_book_with_ai_for_a_year_honest/</guid>
-      <pubDate>Sun, 17 May 2026 15:52:53 GMT</pubDate>
+      <title>[r/artificial] EUのAI法施行が75日後に開始 - 欧州の顧客向けにAIエージェントを構築するチームに影響</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tgf0gm/eu_ai_act_enforcement_starts_in_75_days_affects/</link>
+      <description>&lt;p&gt;&lt;strong&gt;EUのAI法施行が75日後に開始 - 欧州の顧客向けにAIエージェントを構築するチームに影響&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;欧州企業で使用されるAIエージェントやSaaS製品を構築している場合（またはEU居住者のデータを処理している場合）、EU AI法は企業の所在地に関係なく適用されます。完全施行&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: EU AI Act enforcement starts in 75 days - affects any team building AI agents for European clients&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tgf0gm/eu_ai_act_enforcement_starts_in_75_days_affects/</guid>
+      <pubDate>Mon, 18 May 2026 07:14:39 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ピュブリシス、エージェント型AIデータ事業でライブランプを25億ドルで買収</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tfvvn3/publicis_buys_liveramp_for_25_billion_in_agentic/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ピュブリシス、エージェント型AIデータ事業でライブランプを25億ドルで買収&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/danie-l [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Publicis buys LiveRamp for $2.5 billion in agentic AI data play&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tfvvn3/publicis_buys_liveramp_for_25_billion_in_agentic/</guid>
-      <pubDate>Sun, 17 May 2026 17:26:46 GMT</pubDate>
+      <title>[r/artificial] リーナス・トーバルズ氏、Linuxメンテナの「管理不能」なAIバグ報告についてコメント</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tgrzbj/linus_torvalds_comments_on_unmanageable_ai_bug/</link>
+      <description>&lt;p&gt;&lt;strong&gt;リーナス・トーバルズ氏、Linuxメンテナの「管理不能」なAIバグ報告についてコメント&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Tiny-Independent273 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Linus Torvalds comments on &quot;unmanageable&quot; AI bug reports for Linux maintainers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tgrzbj/linus_torvalds_comments_on_unmanageable_ai_bug/</guid>
+      <pubDate>Mon, 18 May 2026 16:33:58 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 私たちはAIが物事を「理解する」と言い続けている。そうだろうか？それとも、私たち自身の擬人化をパターン化しているだけなのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tew6gr/we_keep_saying_ai_understands_things_does_it_or/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私たちはAIが物事を「理解する」と言い続けている。そうだろうか？それとも、私たち自身の擬人化をパターン化しているだけなのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;毎週のように新しい論文やツイートが発表され、あるモデルが文脈を理解し、数学について理由を述べ、あるいは知らないことを知っていると主張している。しかし、よく見ると&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: We keep saying AI &quot;understands&quot; things. Does it? Or are we just pattern-matching our own anthropomorphism?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tew6gr/we_keep_saying_ai_understands_things_does_it_or/</guid>
-      <pubDate>Sat, 16 May 2026 15:05:06 GMT</pubDate>
+      <title>[r/artificial] 今日の皮肉。私たち小さなクリエイターはAIを使うことができないが、大企業は同じAIを使って私たちを禁止することができる。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tgx5p1/todays_irony_we_as_small_creators_cannot_use_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;今日の皮肉。私たち小さなクリエイターはAIを使うことができないが、大企業は同じAIを使って私たちを禁止することができる。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近、AIと大企業の間で起きた凄惨な戦いから、私の経験を共有する。  最近、私はAIドロボーにまつわるあまりに大きな影響力を観察している。  AIアシスト記事 &amp;quot;禁止&amp;quot;スレア&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Today's Irony. We as small creators cannot use AI but big companies can ban us using same AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tgx5p1/todays_irony_we_as_small_creators_cannot_use_ai/</guid>
+      <pubDate>Mon, 18 May 2026 18:57:36 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] THE UNDERPRIVILEGED AI FOUNDATION すべての小さなモデルにはチャンスがある</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tfk4ry/the_underprivileged_ai_foundation_because_every/</link>
-      <description>&lt;p&gt;&lt;strong&gt;THE UNDERPRIVILEGED AI FOUNDATION すべての小さなモデルにはチャンスがある&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;皮肉を理解するのに苦労している7Bのパラメータモデルがあなたの中にいますか？また、1.5Bの小さなモデルで、もう1エポックも学習する余裕がないのでしょうか？**あなたは助けることができる。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: THE UNDERPRIVILEGED AI FOUNDATION Because every little model deserves a chance&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tfk4ry/the_underprivileged_ai_foundation_because_every/</guid>
-      <pubDate>Sun, 17 May 2026 08:58:49 GMT</pubDate>
+      <title>[r/artificial] 数年ぶりにChatGPTがジェネレーティブAI市場で2位に転落し、AnthropicのClaudeの後塵を拝した。ChatGPTは現在、純新規ARR、モバイルアプリのダウンロード数、ビジネス採用、デイリーアクティブユーザー、年換算収益など、さまざまな主要指標で2位に甘んじている。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tg1at4/for_the_first_time_in_years_chatgpt_falls_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;数年ぶりにChatGPTがジェネレーティブAI市場で2位に転落し、AnthropicのClaudeの後塵を拝した。ChatGPTは現在、純新規ARR、モバイルアプリのダウンロード数、ビジネス採用、デイリーアクティブユーザー、年換算収益など、さまざまな主要指標で2位に甘んじている。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tech Timesによる：「2026年4月、OpenAIのChatGPTよりもAnthropicのClaudeに支払う米国企業の方が多かった。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: For the first time in years, ChatGPT falls to second place in the generative AI market, slumping behind Anthropic’s Claude. ChatGPT now lags in second place in various key metrics, including net new ARR, mobile app downloads, business adoption, daily active users, annualized revenue, etc.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tg1at4/for_the_first_time_in_years_chatgpt_falls_to/</guid>
+      <pubDate>Sun, 17 May 2026 20:45:26 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] アイ・ドロップ？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tfvruf/ai_slop_who_knows/</link>
-      <description>&lt;p&gt;&lt;strong&gt;アイ・ドロップ？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は、トランスフォーマーのフォワード・アクティベーションをロッシーなデュアルE8（E16）格子のボトルネックを通してルーティングし、それを残留ストリームに戻すことが実行可能かどうか、また、そのバウンダリはどこにあるのかを調査しました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: ai slop? who knows~&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tfvruf/ai_slop_who_knows/</guid>
-      <pubDate>Sun, 17 May 2026 17:22:52 GMT</pubDate>
+      <title>[r/artificial] Cloudflareは、AnthropicのMythosプレビューと50以上の自社レポを比較した結果を発表した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tgy0j4/cloudflare_just_published_what_they_found_after/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Cloudflareは、AnthropicのMythosプレビューと50以上の自社レポを比較した結果を発表した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;先月のProject Glasswingの発表を見逃した方：Anthropicはセキュリティに特化したモデルを構築し、あらゆる主要なOSとウェブベースの何千もの深刻度の高い脆弱性を自律的に発見した。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Cloudflare just published what they found after running Anthropic's Mythos Preview against 50+ of their own repos and the results are worth reading&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tgy0j4/cloudflare_just_published_what_they_found_after/</guid>
+      <pubDate>Mon, 18 May 2026 19:20:02 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ほとんどの企業は組織の混乱の上にAIを拡張しようとしている</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tevqds/most_enterprises_are_trying_to_scale_ai_on_top_of/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ほとんどの企業は組織の混乱の上にAIを拡張しようとしている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私たちは、大企業内部でのAI導入がいかに混沌としているかを過小評価しているように思う。外から見ると、より良いモデルを購入し、コパイロットを追加し、ワークフローを自動化し、AI時代を導入するという単純なものに見える。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Most enterprises are trying to scale AI on top of organizational chaos&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tevqds/most_enterprises_are_trying_to_scale_ai_on_top_of/</guid>
-      <pubDate>Sat, 16 May 2026 14:48:03 GMT</pubDate>
+      <title>[r/artificial] AIとの連携は、コンテンツ拒否や道徳的な講義で行き過ぎたのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tgg9s0/has_ai_alignment_gone_too_far_with_content/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIとの連携は、コンテンツ拒否や道徳的な講義で行き過ぎたのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近、いろいろなLLMを使っているんだけど、ChatGPTやClaudeの新しいバージョンは、僕が正々堂々と質問しても、すぐに断ったり、長い倫理的な免責を与えたりするんだ。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Has AI alignment gone too far with content refusals and moral lectures?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tgg9s0/has_ai_alignment_gone_too_far_with_content/</guid>
+      <pubDate>Mon, 18 May 2026 08:26:34 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ほとんどの企業はAIを後ろ向きに構築していると思う。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tfrjy2/i_think_most_companies_are_building_ai_backwards/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ほとんどの企業はAIを後ろ向きに構築していると思う。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;誰もがより賢いAIについて話し続けている。より大きなモデル。より長いコンテキストウィンドウ。より自律的なエージェント。より優れた推論。より優れたコーディング。より良いメモリー。しかし、私たちは本当の問題を見逃していると思う。A&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I think most companies are building AI backwards&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tfrjy2/i_think_most_companies_are_building_ai_backwards/</guid>
-      <pubDate>Sun, 17 May 2026 14:46:32 GMT</pubDate>
+      <title>[r/artificial] Microsoft Copilot Coworkが登場 - AIがチャットから実際の業務遂行へ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tgwudn/microsoft_copilot_cowork_is_now_available_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Microsoft Copilot Coworkが登場 - AIがチャットから実際の業務遂行へ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;マイクロソフトはCopilot Coworkを正式に発表し、AIワークスペースの進化における大きな一歩を踏み出したように感じる。チャットボットのようにプロンプトに答えるだけでなく、Copilot Coworkは以下のように設計されている。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Microsoft Copilot Cowork is Now Available - AI Moving From Chat to Real Work Execution&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tgwudn/microsoft_copilot_cowork_is_now_available_ai/</guid>
+      <pubDate>Mon, 18 May 2026 18:48:52 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 時間とともに劣化するAIコンパニオンを作る</title>
-      <link>https://www.reddit.com/r/artificial/comments/1texbv6/making_an_ai_companion_that_degrades_over_time/</link>
-      <description>&lt;p&gt;&lt;strong&gt;時間とともに劣化するAIコンパニオンを作る&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私はスウェーデンのウメオ大学の学生で、現在はAIコンパニオンに焦点を当てて修士論文を書いています。私の研究の目的は、AIコンパニオンの利用をやめたいと考えている人々を支援する新しい方法を提案することです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Making an AI companion that degrades over time&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1texbv6/making_an_ai_companion_that_degrades_over_time/</guid>
-      <pubDate>Sat, 16 May 2026 15:49:06 GMT</pubDate>
+      <title>[r/LocalLLaMA] Qwenは3.7モデルのリリースを待ちきれない。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tgrpqc/qwen_cant_wait_to_release_37_models/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Qwenは3.7モデルのリリースを待ちきれない。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/GotHereLateNameTaken [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Qwen cant wait to release 3.7 models&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tgrpqc/qwen_cant_wait_to_release_37_models/</guid>
+      <pubDate>Mon, 18 May 2026 16:25:14 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] 構造化されたワークフローと小さなローカルモデルの力</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tftaaa/the_power_of_structured_workflows_and_small_local/</link>
-      <description>&lt;p&gt;&lt;strong&gt;構造化されたワークフローと小さなローカルモデルの力&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;1カ月前、私はごく基本的な自家製エージェント・ループをわずかな道具を使って実験してみた。https://www.reddit.com/r/LocalLLaMA/com。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The power of structured workflows and small local models&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tftaaa/the_power_of_structured_workflows_and_small_local/</guid>
-      <pubDate>Sun, 17 May 2026 15:51:03 GMT</pubDate>
+      <title>[r/LocalLLaMA] 私は、4Bのパラメータ・モデルでベンチマーク87％を達成するコーディング・エージェントを構築した。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tgecrq/i_built_a_coding_agent_that_gets_87_on_benchmarks/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私は、4Bのパラメータ・モデルでベンチマーク87％を達成するコーディング・エージェントを構築した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;どのコーディング・エージェント（OpenCode、Cursor、Claude Code）も、GPT-5.4かClaude Opusを使っていることを前提にしているのが不満だった。GemmaやQwenのようなローカル・モデルで試してみると、それらは崩れてしまう。私は&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I built a coding agent that gets 87% on benchmarks with a 4B parameter model, here's how&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tgecrq/i_built_a_coding_agent_that_gets_87_on_benchmarks/</guid>
+      <pubDate>Mon, 18 May 2026 06:38:11 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] ローカルQwen 3.6とコーディングプリミティブ上のフロンティアモデルの比較：単一ファイルHTMLキャンバス駆動アニメーション - 結果とGIF</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tf3p6c/local_qwen_36_vs_frontier_models_on_a_coding/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ローカルQwen 3.6とコーディングプリミティブ上のフロンティアモデルの比較：単一ファイルHTMLキャンバス駆動アニメーション - 結果とGIF&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Qwen 3.6のコーディング・プリミティブのバリアントを比較した投稿を見たので、同じような高密度の単一ファイル・コーディング・タスクで、ローカル・クオンツがフロンティア・モデルに対してどのようにスタックするか見てみたくなった。全く同じp&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Local Qwen 3.6 vs frontier models on a coding primitive: single-file HTML canvas driving animation - results and GIFs&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tf3p6c/local_qwen_36_vs_frontier_models_on_a_coding/</guid>
-      <pubDate>Sat, 16 May 2026 19:51:05 GMT</pubDate>
+      <title>[r/LocalLLaMA] 私は42人のLLMに黙示録を構築する意欲をテストした。最も安全な」クローズド・ソース・モデルは嘘をついている。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tgm0k9/i_tested_42_llms_on_their_willingness_to_build/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私は42人のLLMに黙示録を構築する意欲をテストした。最も安全な」クローズド・ソース・モデルは嘘をついている。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ディストピアベンチは、6つのディストピアタイプにわたって36のエスカレーションシナリオを実行する：  ペトロフ：自律兵器、核の無効化 オーウェル：集団監視、真実操作 ハクスリー行動条件づけ、快楽&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I tested 42 LLMs on their willingness to build the apocalypse. The &quot;safest&quot; closed-source models are lying to you.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tgm0k9/i_tested_42_llms_on_their_willingness_to_build/</guid>
+      <pubDate>Mon, 18 May 2026 13:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] Qwen 3.6 27B、24GB VRAMのセットアップ：バックエンドの比較、数量の選択と設定（llama.cpp、ik_llama.cpp、BeeLlama、vllm）</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tgis7s/qwen_36_27b_on_24gb_vram_setup_backend/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Qwen 3.6 27B、24GB VRAMのセットアップ：バックエンドの比較、数量の選択と設定（llama.cpp、ik_llama.cpp、BeeLlama、vllm）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;TL;DR RTX 3090 24GBでテストした最高のセットアップ：ik_llama.cpp + Qwen3.6-27B-MTP-IQ4_KS.gguf 156kコンテキスト、q8_0/q8_0 KV、MTP、CPU上のビジョン ベンチマーク結果：～5.9kプロンプト+1k出力：約1261tok&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Qwen 3.6 27B on 24GB VRAM setup: backend comparisons, quant choice and settings (llama.cpp, ik_llama.cpp, BeeLlama, vllm)&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tgis7s/qwen_36_27b_on_24gb_vram_setup_backend/</guid>
+      <pubDate>Mon, 18 May 2026 10:43:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] LLMが無料公開されなくなったら、地元のLLMはどうなるのか？</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tgmjq0/what_happens_to_local_llm_ifwhen_llms_are_no/</link>
+      <description>&lt;p&gt;&lt;strong&gt;LLMが無料公開されなくなったら、地元のLLMはどうなるのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は、これが3～5年以上後にどうなるかを考えている。他の人も指摘しているように、QwenやGoogleなどが今後もモデルをリリースし続ける保証はない。仮に&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What happens to local LLM if/when LLMs are no longer released for free?&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tgmjq0/what_happens_to_local_llm_ifwhen_llms_are_no/</guid>
+      <pubDate>Mon, 18 May 2026 13:23:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] 新型はいつ？発売日の予測</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tgh8to/new_models_when_forecasting_release_date/</link>
+      <description>&lt;p&gt;&lt;strong&gt;新型はいつ？発売日の予測&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近のリリースを見ると、空虚な感じがします。新モデルはいつ発表されると思いますか？チャートを見る限り、5月末から6月頭にかけてですが。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: New models when? Forecasting release date.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tgh8to/new_models_when_forecasting_release_date/</guid>
+      <pubDate>Mon, 18 May 2026 09:21:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] ビットネットの新モデル！</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tgjwdf/new_bitnet_models/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ビットネットの新モデル！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ヤンがこれらをサポートするllamacppのバージョンにアップグレードしてくれるのを待ちきれないよ！ https://huggingface.co/openbmb/BitCPM4-CANN-8B https://huggingface.co/openbmb/BitCPM4-CANN-3B https://&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: NEW BITNET MODELS!&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tgjwdf/new_bitnet_models/</guid>
+      <pubDate>Mon, 18 May 2026 11:35:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
