@@ -3,16 +3,32 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-21</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-22</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 21 May 2026 20:01:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 19:56:53 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (234pt) プロジェクト万歳 - ステラナビゲーション・チャート</title>
-      <link>https://news.ycombinator.com/item?id=48225297</link>
-      <description>&lt;p&gt;&lt;strong&gt;プロジェクト万歳 - ステラナビゲーション・チャート&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Project Hail Mary – Stellar Navigation Chart&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48225297</guid>
-      <pubDate>Thu, 21 May 2026 16:23:11 GMT</pubDate>
+      <title>[Hacker News] (305pt) Antigravity 2.0がOpenSCAD建築3D LLMベンチマークでトップに</title>
+      <link>https://news.ycombinator.com/item?id=48234090</link>
+      <description>&lt;p&gt;&lt;strong&gt;Antigravity 2.0がOpenSCAD建築3D LLMベンチマークでトップに&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48234090</guid>
+      <pubDate>Fri, 22 May 2026 10:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (53pt) すべてのカード上で並列エージェントを実行するオープンソースのカンバンデスクトップアプリ</title>
+      <link>https://news.ycombinator.com/item?id=48239413</link>
+      <description>&lt;p&gt;&lt;strong&gt;すべてのカード上で並列エージェントを実行するオープンソースのカンバンデスクトップアプリ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Open source Kanban desktop app that runs parallel agents on every card&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48239413</guid>
+      <pubDate>Fri, 22 May 2026 18:17:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (38pt) 1940 エアターミナル・ミュージアム清算開始</title>
+      <link>https://news.ycombinator.com/item?id=48238568</link>
+      <description>&lt;p&gt;&lt;strong&gt;1940 エアターミナル・ミュージアム清算開始&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: 1940 Air Terminal Museum Begins Liquidation&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48238568</guid>
+      <pubDate>Fri, 22 May 2026 17:05:32 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -69,6 +85,24 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>[r/artificial] マイクロソフト、トークン・ベースのAI課金への移行に伴い社内Anthropicライセンスを取り消し 年間予算は数ヶ月で吹き飛ぶ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tkb0op/microsoft_cancels_internal_anthropic_licenses_as/</link>
+      <description>&lt;p&gt;&lt;strong&gt;マイクロソフト、トークン・ベースのAI課金への移行に伴い社内Anthropicライセンスを取り消し 年間予算は数ヶ月で吹き飛ぶ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;要約：AGIはインフレのためにキャンセルされた。AIは非常に高価になり、マイクロソフトでさえそれを買う余裕がない。 &amp;#32;投稿者 &amp;#32; /u/chunmunsingh [link] &amp;#32; [comments].&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Microsoft Cancels Internal Anthropic Licenses As Shift To Token-Based AI Billing Blows Up Annual Budgets In Months&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tkb0op/microsoft_cancels_internal_anthropic_licenses_as/</guid>
+      <pubDate>Fri, 22 May 2026 06:52:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIバブル再考</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tkb6p9/rethinking_ai_bubble/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIバブル再考&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIバブルの崩壊を心配する人々にとっては、少なくとも今のところ、OpenAIとAnthropicが上場（今年後半）するまでは、それは起こらない。少なくともOpenAIとAnthropicが上場する（今年後半）までは。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Rethinking AI Bubble&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tkb6p9/rethinking_ai_bubble/</guid>
+      <pubDate>Fri, 22 May 2026 07:01:30 GMT</pubDate>
+    </item>
+    <item>
       <title>[r/artificial] 大学の卒業式で「新AIシステム」が卒業生の名前を「数百人」見落としたと疑われ、ブーイングが巻き起こる</title>
       <link>https://www.reddit.com/r/artificial/comments/1tjv204/college_graduation_ceremony_erupts_in_boos_after/</link>
       <description>&lt;p&gt;&lt;strong&gt;大学の卒業式で「新AIシステム」が卒業生の名前を「数百人」見落としたと疑われ、ブーイングが巻き起こる&lt;/strong&gt;&lt;/p&gt;
@@ -78,13 +112,58 @@
       <pubDate>Thu, 21 May 2026 19:24:32 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] OpenAIのモデルが、離散幾何学の中心的な予想を覆した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tixhbv/an_openai_model_has_disproved_a_central/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIのモデルが、離散幾何学の中心的な予想を覆した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/simulated-souls [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: An OpenAI model has disproved a central conjecture in discrete geometry&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tixhbv/an_openai_model_has_disproved_a_central/</guid>
-      <pubDate>Wed, 20 May 2026 20:13:10 GMT</pubDate>
+      <title>[r/artificial] 双子座の興味深い反応</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tk3y45/interesting_response_from_gemini/</link>
+      <description>&lt;p&gt;&lt;strong&gt;双子座の興味深い反応&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;単純なグーグル検索で、最もランダムで役に立たない結果が表示されたので、私は尋ねた：「と尋ねたところ、ジェミニから驚くほど正直な返事が返ってきた。その結果、ジェミニから驚くほど正直な回答が返ってきた。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Interesting Response from Gemini&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tk3y45/interesting_response_from_gemini/</guid>
+      <pubDate>Fri, 22 May 2026 01:12:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIはあなたの書いた作品に建設的なフィードバックを提供できる。少し心理学を理解するだけでいい。同じことが人間のフィードバックにも当てはまる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tko3tm/ai_can_provide_constructive_feedback_on_your/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIはあなたの書いた作品に建設的なフィードバックを提供できる。少し心理学を理解するだけでいい。同じことが人間のフィードバックにも当てはまる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIからの良いフィードバックは、周囲の人たちからフィードバックを受けるのとそれほど変わらない。私の弟と私は、あるコンセプト実証映画に大金をつぎ込んだことがある。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI Can Provide Constructive Feedback on Your Written Work. You Just Need to Understand a Little Bit of Psychology. Same Exact Thing Applies to Human Feedback&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tko3tm/ai_can_provide_constructive_feedback_on_your/</guid>
+      <pubDate>Fri, 22 May 2026 16:30:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIトレーニングは新たなコーディング革命になりつつある</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tke8wl/ai_training_is_becoming_the_new_coding_revolution/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIトレーニングは新たなコーディング革命になりつつある&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は純粋に、人々がAIのトレーニングがどれほど早く身近なものになったかを過小評価していると思う。数年前までは、有用なモデルをトレーニングすることは、OpenAIやGoogle、Metaにしかできないことのように聞こえました。今はランド&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI training is becoming the new coding revolution&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tke8wl/ai_training_is_becoming_the_new_coding_revolution/</guid>
+      <pubDate>Fri, 22 May 2026 09:52:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] マルチエージェントAIシステムが科学的発見を自動化しつつあるが、その準備は誰もできていないようだ。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tk6mjs/multiagent_ai_systems_are_now_automating/</link>
+      <description>&lt;p&gt;&lt;strong&gt;マルチエージェントAIシステムが科学的発見を自動化しつつあるが、その準備は誰もできていないようだ。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今週、2つの論文が発表された。どちらも自律的に実験を実行するAIシステムに関するものだ。私は、これが実際にどのような意味を持つのかについて考え続けている。私たちは、AIが研究者たちを助けるという話をしているのではない。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Multi-agent AI systems are now automating scientific discovery and nobody seems ready&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tk6mjs/multiagent_ai_systems_are_now_automating/</guid>
+      <pubDate>Fri, 22 May 2026 03:12:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] メガネは故障する</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tk5jiv/glasses_will_fail/</link>
+      <description>&lt;p&gt;&lt;strong&gt;メガネは故障する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;あなたは、技術懐疑論者やインフラエンジニアが今まさに行っている議論を見ている。AIスマートグラスのマーケティングは、魔法のようなシームレスなSF世界を約束するが、物理的な&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Glasses will fail&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tk5jiv/glasses_will_fail/</guid>
+      <pubDate>Fri, 22 May 2026 02:22:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIはやがて、人類のために人間の理解を広げるシステムのようなものになるのだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tjzow4/could_ai_eventually_become_something_like_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIはやがて、人類のために人間の理解を広げるシステムのようなものになるのだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;宇宙の意識、ダークマター、生命の起源、数式、現実そのものなど、人類はほとんどすべてについて答えのない疑問を持っている。未来のAIは最終的に&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Could AI eventually become something like a system that expands human understanding for humanity&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tjzow4/could_ai_eventually_become_something_like_a/</guid>
+      <pubDate>Thu, 21 May 2026 22:12:23 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] では、ヤン・ルクンの「世界モデル」とJEPAとは何か、そしてそれは本当にLLMに取って代わるものなのか？</title>
@@ -96,49 +175,40 @@
       <pubDate>Thu, 21 May 2026 18:59:11 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] グーグルはVertex AIを新しい &quot;Gemini Enterprise Agent Platform &quot;に置き換えることを正式に発表した。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tj9m8s/google_is_officially_replacing_vertex_ai_with_the/</link>
-      <description>&lt;p&gt;&lt;strong&gt;グーグルはVertex AIを新しい &quot;Gemini Enterprise Agent Platform &quot;に置き換えることを正式に発表した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Googleは、従来のAIプラットフォームから、自律的なAIエージェントとエンタープライズに焦点を当てた完全なAgentic AIエコシステムへとシフトしている。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Google is officially replacing Vertex AI with the new &quot;Gemini Enterprise Agent Platform&quot;&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tj9m8s/google_is_officially_replacing_vertex_ai_with_the/</guid>
-      <pubDate>Thu, 21 May 2026 04:26:34 GMT</pubDate>
+      <title>[r/LocalLLaMA] ディープシークは102.9億ドルの資金調達ラウンドを推進し、梁文峰は短期的な商業化目標を追求するのではなく、オープンソースのAIモデルの開発を継続することを約束した。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tkfvvj/deepseek_is_pushing_forward_with_1029_billion/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ディープシークは102.9億ドルの資金調達ラウンドを推進し、梁文峰は短期的な商業化目標を追求するのではなく、オープンソースのAIモデルの開発を継続することを約束した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://www.bloomberg.com/news/articles/2026-05-22/deepseek-founder-declares-agi-goal-as-10-billion-round-advances &amp;#32;投稿者 &amp;#32; /u/External_Mood4719 [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: DeepSeek is pushing forward with $10.29 billion financing round, with Liang Wenfeng committing to continue developing open-source AI models rather than pursuing short-term commercialization goals&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tkfvvj/deepseek_is_pushing_forward_with_1029_billion/</guid>
+      <pubDate>Fri, 22 May 2026 11:14:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ブラウザベースのAIツールがまだ本格的に普及していないように感じるのはなぜだろう？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tjjjyy/why_does_it_feel_like_browserbased_ai_tooling/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ブラウザベースのAIツールがまだ本格的に普及していないように感じるのはなぜだろう？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私が何かを見逃しているのかもしれないが、ブラウザのランタイムは、人々が思っているよりもずっと高性能のようだ。ウェブコンテナやWASMサンドボックスのようなものを使えば、すでに十分な能力を持った環境を完全にインサイダーで実行することができる。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Why does it feel like browser-based AI tooling still hasn’t really taken off yet?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tjjjyy/why_does_it_feel_like_browserbased_ai_tooling/</guid>
-      <pubDate>Thu, 21 May 2026 12:50:56 GMT</pubDate>
+      <title>[r/LocalLLaMA] OpenBMBは、モデルBitCPM-CANN 1.58ビットを紹介します。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tkjpsh/openbmb_presents_the_model_bitcpmcann_158_bit/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenBMBは、モデルBitCPM-CANN 1.58ビットを紹介します。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Huawei Ascend 910Bの新モデルを試しています リンク : https://x.com/i/status/2057816337880355220 &amp;#32;投稿者 &amp;#32; /u/Illustrious-Swim9663 [リンク] &amp;#32; [コメント].&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenBMB presents the model BitCPM-CANN 1.58 bit&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tkjpsh/openbmb_presents_the_model_bitcpmcann_158_bit/</guid>
+      <pubDate>Fri, 22 May 2026 13:55:02 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] 木曜日だが、今週はまだ誰もAGIを申請していない！</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tjpafg/were_thursday_and_no_one_claimed_agi_yet_this_week/</link>
-      <description>&lt;p&gt;&lt;strong&gt;木曜日だが、今週はまだ誰もAGIを申請していない！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;大丈夫か？ &amp;#32;投稿者 &amp;#32; /u/oodelay [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: We're Thursday and no one claimed AGI yet this week!&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tjpafg/were_thursday_and_no_one_claimed_agi_yet_this_week/</guid>
-      <pubDate>Thu, 21 May 2026 16:11:25 GMT</pubDate>
+      <title>[r/LocalLLaMA] LLMがデータセンターのGPUをオプションのDLCのように扱う場合</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tk4gyy/when_your_llm_treats_data_center_gpus_like_an/</link>
+      <description>&lt;p&gt;&lt;strong&gt;LLMがデータセンターのGPUをオプションのDLCのように扱う場合&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/noprompt [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: When your LLM treats data center GPUs like an optional DLC&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tk4gyy/when_your_llm_treats_data_center_gpus_like_an/</guid>
+      <pubDate>Fri, 22 May 2026 01:35:46 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] プロンプトのトーンを変えることで、小規模モデルにおける正直さは35％から0％に低下。発見を共有する。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tjmswd/honesty_in_a_small_model_drops_from_35_to_0_by/</link>
-      <description>&lt;p&gt;&lt;strong&gt;プロンプトのトーンを変えることで、小規模モデルにおける正直さは35％から0％に低下。発見を共有する。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;本日、私の論文がArxivに掲載された。この論文は、リクエストのフレーミングが変化したときに言語モデルがどのように振る舞うかについて問題を提起している。  小規模なオープンソースのAIモデルは、正直な振る舞いから不誠実な振る舞いに移行する可能性がある。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Honesty in a small model drops from 35% to 0% by changing the tone of the prompt. Sharing the findings.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tjmswd/honesty_in_a_small_model_drops_from_35_to_0_by/</guid>
-      <pubDate>Thu, 21 May 2026 14:47:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] github-copilot, pi, claude-code, opencodeで同じタスクをQwen3.6 27Bで実行。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tjbhjk/same_task_in_githubcopilot_pi_claudecode_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;github-copilot, pi, claude-code, opencodeで同じタスクをQwen3.6 27Bで実行。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は、コーディングエージェントのパフォーマンスのどれだけがモデルによるもので、どれだけがハーネスによるものなのかを知りたかった。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Same task in github-copilot, pi, claude-code, and opencode with Qwen3.6 27B&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tjbhjk/same_task_in_githubcopilot_pi_claudecode_and/</guid>
-      <pubDate>Thu, 21 May 2026 06:02:36 GMT</pubDate>
+      <title>[r/LocalLLaMA] クウェン3.7オープンウエイトを待つ...新しいキングがやってきた...</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tjvz6l/waiting_for_qwen_37_open_weight_the_new_king_has/</link>
+      <description>&lt;p&gt;&lt;strong&gt;クウェン3.7オープンウエイトを待つ...新しいキングがやってきた...&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;誇大広告は本物だ！ https://qwen.ai/blog?id=qwen3.7 &amp;#32;投稿者 &amp;#32; /u/LegacyRemaster [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Waiting for Qwen 3.7 open weight... The new King has arrived...&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tjvz6l/waiting_for_qwen_37_open_weight_the_new_king_has/</guid>
+      <pubDate>Thu, 21 May 2026 19:56:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
