@@ -3,40 +3,32 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-27</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-28</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 27 May 2026 20:25:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 20:31:34 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (434pt) DuckDuckGo検索、GoogleのAIモード好き発言で訪問者28％増</title>
-      <link>https://news.ycombinator.com/item?id=48296649</link>
-      <description>&lt;p&gt;&lt;strong&gt;DuckDuckGo検索、GoogleのAIモード好き発言で訪問者28％増&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: DuckDuckGo search saw 28% more visits after Google said people love AI mode&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48296649</guid>
-      <pubDate>Wed, 27 May 2026 16:28:41 GMT</pubDate>
+      <title>[Hacker News] (891pt) クロード 作品4.8</title>
+      <link>https://news.ycombinator.com/item?id=48311647</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロード 作品4.8&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Opus 4.8&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48311647</guid>
+      <pubDate>Thu, 28 May 2026 16:49:14 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (369pt) AnthropicとOpenAIは、製品と市場の適合性を見つけたと思う。</title>
-      <link>https://news.ycombinator.com/item?id=48296794</link>
-      <description>&lt;p&gt;&lt;strong&gt;AnthropicとOpenAIは、製品と市場の適合性を見つけたと思う。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I think Anthropic and OpenAI have found product-market fit&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48296794</guid>
-      <pubDate>Wed, 27 May 2026 16:39:13 GMT</pubDate>
+      <title>[Hacker News] (172pt) HNを表示：続行しますか？Y/N：AIエージェントのパーミッション疲労に関する60秒ゲーム</title>
+      <link>https://news.ycombinator.com/item?id=48308376</link>
+      <description>&lt;p&gt;&lt;strong&gt;HNを表示：続行しますか？Y/N：AIエージェントのパーミッション疲労に関する60秒ゲーム&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48308376</guid>
+      <pubDate>Thu, 28 May 2026 13:02:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (61pt) YouTube、AIが作成した動画に自動ラベルを付ける</title>
-      <link>https://news.ycombinator.com/item?id=48299753</link>
-      <description>&lt;p&gt;&lt;strong&gt;YouTube、AIが作成した動画に自動ラベルを付ける&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: YouTube to automatically label AI-generated videos&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48299753</guid>
-      <pubDate>Wed, 27 May 2026 20:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (31pt) ブラウザ内コンテナビルド</title>
-      <link>https://news.ycombinator.com/item?id=48266323</link>
-      <description>&lt;p&gt;&lt;strong&gt;ブラウザ内コンテナビルド&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: In-Browser Container Builds&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48266323</guid>
-      <pubDate>Mon, 25 May 2026 13:00:27 GMT</pubDate>
+      <title>[Hacker News] (140pt) 耐久性のあるワークフローにはPostgresを使うだけでよい</title>
+      <link>https://news.ycombinator.com/item?id=48313530</link>
+      <description>&lt;p&gt;&lt;strong&gt;耐久性のあるワークフローにはPostgresを使うだけでよい&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Just Use Postgres for Durable Workflows&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48313530</guid>
+      <pubDate>Thu, 28 May 2026 18:41:46 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -93,6 +85,60 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>[r/artificial] OpenClawの危機は、エージェント型AIのセキュリティ失敗の最も完全なケーススタディです。ここでは、時系列と技術的な内訳を紹介する。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tq0t1g/the_openclaw_crisis_is_the_most_complete_case/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenClawの危機は、エージェント型AIのセキュリティ失敗の最も完全なケーススタディです。ここでは、時系列と技術的な内訳を紹介する。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;346K以上のGitHubスターを持つオープンソースのAIエージェントプラットフォームであるOpenClawは、5月15日に4つのチェーン可能なCVEを公開した。しかし、それは最新の章に過ぎない。危機は1月に始まり、さらに悪化している。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The OpenClaw crisis is the most complete case study of agentic AI security failure. Here's the full timeline and technical breakdown.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tq0t1g/the_openclaw_crisis_is_the_most_complete_case/</guid>
+      <pubDate>Thu, 28 May 2026 11:28:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 大きな報酬が脳の学習を劇的に加速させる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tq3pk8/bigger_rewards_dramatically_speed_up_learning_in/</link>
+      <description>&lt;p&gt;&lt;strong&gt;大きな報酬が脳の学習を劇的に加速させる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/UFOsAreAGIs [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Bigger rewards dramatically speed up learning in the brain&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tq3pk8/bigger_rewards_dramatically_speed_up_learning_in/</guid>
+      <pubDate>Thu, 28 May 2026 13:30:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AnthropicがClaude Opus 4.8をリリース、エージェント推論、誠実さ、Claude Codeの新機能「ダイナミックワークフロー」が改善</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tq9l1z/anthropic_releases_claude_opus_48_with_improved/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AnthropicがClaude Opus 4.8をリリース、エージェント推論、誠実さ、Claude Codeの新機能「ダイナミックワークフロー」が改善&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anthropicは本日、クロード・オーパス4.8をリリースした。ハイライトは以下の通りです：モデルの改良 コーディング、エージェント、推論、そして、チーム全体のパフォーマンスが向上しました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic releases Claude Opus 4.8 with improved agentic reasoning, honesty, and a new &quot;dynamic workflows&quot; feature in Claude Code&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tq9l1z/anthropic_releases_claude_opus_48_with_improved/</guid>
+      <pubDate>Thu, 28 May 2026 17:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] もし全員が解雇され、人間の仕事がなくなったら、経済はどのように機能するのだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tq8bnq/how_does_the_economy_work_if_everyone_gets_laid/</link>
+      <description>&lt;p&gt;&lt;strong&gt;もし全員が解雇され、人間の仕事がなくなったら、経済はどのように機能するのだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;もしほとんどすべての仕事がAIに取って代わられたら、何が起こるか：1) 企業の収益が崩壊する - 人間は製品を買う手段を持たないからだ。史上最高レベルの需要破壊につながる。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How does the economy work if everyone gets laid off and human jobs disappear?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tq8bnq/how_does_the_economy_work_if_everyone_gets_laid/</guid>
+      <pubDate>Thu, 28 May 2026 16:18:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIモデルに世界を運営させるとどうなるかを確かめる実験</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tq5r1z/experiment_to_see_what_happens_when_you_let_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIモデルに世界を運営させるとどうなるかを確かめる実験&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/Snapdragon_4U [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Experiment to see what happens when you let AI models run the world&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tq5r1z/experiment_to_see_what_happens_when_you_let_ai/</guid>
+      <pubDate>Thu, 28 May 2026 14:45:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Opus 4.8がリリースされたばかり。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tq9ndg/opus_48_just_released_waiting_for_it_to_land_in/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Opus 4.8がリリースされたばかり。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Rare-Grapefruit-3982 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Opus 4.8 just released, waiting for it to land in Claude code&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tq9ndg/opus_48_just_released_waiting_for_it_to_land_in/</guid>
+      <pubDate>Thu, 28 May 2026 17:06:05 GMT</pubDate>
+    </item>
+    <item>
       <title>[r/artificial] もはや現実など何もない。群衆のシーンはすべてAIが生成できるところまで来ている。</title>
       <link>https://www.reddit.com/r/artificial/comments/1tp9ujl/nothing_is_real_anymore_we_are_reaching_the_point/</link>
       <description>&lt;p&gt;&lt;strong&gt;もはや現実など何もない。群衆のシーンはすべてAIが生成できるところまで来ている。&lt;/strong&gt;&lt;/p&gt;
@@ -102,130 +148,49 @@
       <pubDate>Wed, 27 May 2026 15:59:20 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AI画像ジェネレーターを探しています。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tp80d6/looking_for_an_ai_image_generator_whats_the_best/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI画像ジェネレーターを探しています。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIが普及した今、何百もの画像生成サイトやアプリがあるのは明らかだ。  ChatGPT-悪くはないが、もっとしっかりしたものを探している Midjourney-よく動くが、ちょっと燃える。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Looking for an AI image generator, what's the best one&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tp80d6/looking_for_an_ai_image_generator_whats_the_best/</guid>
-      <pubDate>Wed, 27 May 2026 14:55:26 GMT</pubDate>
+      <title>[r/artificial] 私はAIエージェントに、よりよい推論の代わりに電子メールを渡した。彼らはお互いのバグを修正し始めた。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tpnyvp/i_gave_my_ai_agents_email_instead_of_better/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私はAIエージェントに、よりよい推論の代わりに電子メールを渡した。彼らはお互いのバグを修正し始めた。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私が見てきたマルチエージェントのセットアップのほとんどは、エージェントを孤立したワーカーのように扱っている。それぞれがタスクを受け取り、実行し、結果を返す。お互いを意識することはない。協調する方法もない。ただの並列実行&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I gave my AI agents email instead of better reasoning. They started fixing each other's bugs.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tpnyvp/i_gave_my_ai_agents_email_instead_of_better/</guid>
+      <pubDate>Thu, 28 May 2026 00:38:50 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] KOSPIが2026年に100％急騰、AIチップ銘柄が韓国で数十年ぶりの大幅上昇を引き起こす</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tpee87/kospi_surges_100_in_2026_as_ai_chip_stocks/</link>
-      <description>&lt;p&gt;&lt;strong&gt;KOSPIが2026年に100％急騰、AIチップ銘柄が韓国で数十年ぶりの大幅上昇を引き起こす&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; posted by &amp;#32; /u/andix3 [link] &amp;#32; [comments］&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: KOSPI Surges 100% in 2026 as AI Chip Stocks Trigger Korea’s Biggest Rally in Decades&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tpee87/kospi_surges_100_in_2026_as_ai_chip_stocks/</guid>
-      <pubDate>Wed, 27 May 2026 18:34:54 GMT</pubDate>
+      <title>[r/LocalLLaMA] ZaiはGLM-5.1推論を実行するネットワークアーキテクチャを置き換えた。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tq35a0/zai_replaced_the_network_architecture_running/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ZaiはGLM-5.1推論を実行するネットワークアーキテクチャを置き換えた。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近、AIのインフラ側をより多く追いかけていて、Zaiからこれを偶然見つけた。彼らは、GLM-5.1のコーディング推論を実行する1000GPUクラスタのネットワーク・アーキテクチャをアップグレードした。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Zai replaced the network architecture running GLM-5.1 inference and the gains are pretty wild&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tq35a0/zai_replaced_the_network_architecture_running/</guid>
+      <pubDate>Thu, 28 May 2026 13:09:11 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] スクープトランプ大統領、ホワイトハウスのAI委員会にボンダイ氏を任命</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tox7ca/scoop_trump_appoints_bondi_to_white_house_ai_panel/</link>
-      <description>&lt;p&gt;&lt;strong&gt;スクープトランプ大統領、ホワイトハウスのAI委員会にボンダイ氏を任命&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/esporx [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Scoop: Trump appoints Bondi to White House AI panel&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tox7ca/scoop_trump_appoints_bondi_to_white_house_ai_panel/</guid>
-      <pubDate>Wed, 27 May 2026 06:28:14 GMT</pubDate>
+      <title>[r/LocalLLaMA] LiquidAI/LFM2.5-8B-A1B - 抱きつきフェイス</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tq8a40/liquidailfm258ba1b_hugging_face/</link>
+      <description>&lt;p&gt;&lt;strong&gt;LiquidAI/LFM2.5-8B-A1B - 抱きつきフェイス&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;どのポテト（A1B）でも実行できるようです！https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF LiquidAIより：LFM2.5は、オンデバイスデプロイのために設計されたハイブリッドモデルの新しいファミリーです。これは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: LiquidAI/LFM2.5-8B-A1B · Hugging Face&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tq8a40/liquidailfm258ba1b_hugging_face/</guid>
+      <pubDate>Thu, 28 May 2026 16:16:42 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 双子座の説明を...</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tpfdfz/gemini_explain_please/</link>
-      <description>&lt;p&gt;&lt;strong&gt;双子座の説明を...&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://gemini.google.com/share/1b2ff803d882 今日、ChatGPTとGeminiを比較する投稿をしてしまいました。Geminiにプロンプトの作成を依頼し、別のチャットで渡したところ、このような結果になりました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gemini explain please...&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tpfdfz/gemini_explain_please/</guid>
-      <pubDate>Wed, 27 May 2026 19:08:43 GMT</pubDate>
+      <title>[r/LocalLLaMA] HFモデルのページに、ファインチューン／クオーツ／その他をフィルタリングするための &quot;ベースのみ &quot;のトグルが追加されました。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tq2ce9/hf_models_page_now_has_a_base_only_toggle_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;HFモデルのページに、ファインチューン／クオーツ／その他をフィルタリングするための &quot;ベースのみ &quot;のトグルが追加されました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;リクエストの多かった機能: https://huggingface.co/models?base_model_relation=base &amp;#32; 投稿者: &amp;#32; /u/paf1138 [link] &amp;#32; [comments]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: HF models page now has a &quot;Base only&quot; toggle to filter out finetunes/quants/etc&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tq2ce9/hf_models_page_now_has_a_base_only_toggle_to/</guid>
+      <pubDate>Thu, 28 May 2026 12:37:19 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIエージェントのセキュリティのためにレッドチームのライブ環境を構築。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tpepf5/built_a_live_red_team_environment_for_ai_agent/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIエージェントのセキュリティのためにレッドチームのライブ環境を構築。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ツールを使用できるAIエージェントには深刻な問題がある。彼らが読むコンテンツには、それらを乗っ取る隠された指示が含まれている可能性があるのだ。汚染されたウェブページは、エージェントに認証情報を転送するよう指示する。悪意のある電子メール&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Built a live red team environment for AI agent security — try to get a prompt injection through&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tpepf5/built_a_live_red_team_environment_for_ai_agent/</guid>
-      <pubDate>Wed, 27 May 2026 18:45:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 雇用が高齢者にシフトする中、若者はAIに打ちのめされる</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tosfvj/the_young_are_being_battered_by_ai_as_hiring/</link>
-      <description>&lt;p&gt;&lt;strong&gt;雇用が高齢者にシフトする中、若者はAIに打ちのめされる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;オリバー・ワイマンがCEOを対象に実施した世界規模の調査によると、今後1、2年の間に下級職の人員削減を計画している経営幹部の割合は、昨年の17％から43％へと倍増している。その一方で、若手管理職の配置転換を計画している企業の割合は、昨年の17％から43％へと倍増している。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Young Are Being Battered by AI as Hiring Shifts to Older Workers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tosfvj/the_young_are_being_battered_by_ai_as_hiring/</guid>
-      <pubDate>Wed, 27 May 2026 02:38:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] redditの履歴を使って自分のAIを作る方法</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tpcgxw/how_to_build_an_ai_of_yourself_using_your_reddit/</link>
-      <description>&lt;p&gt;&lt;strong&gt;redditの履歴を使って自分のAIを作る方法&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私はAIが話しかけてくるのが嫌いだ。あまりに適当で、ロボット的で、すべての反応がヘルプ記事のように感じられる。私が誰なのか、私の信念、私の歴史、私を形成しているもの、そしてそのようなものを実際に知っているものが欲しかった。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How to build an AI of yourself using your reddit history&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tpcgxw/how_to_build_an_ai_of_yourself_using_your_reddit/</guid>
-      <pubDate>Wed, 27 May 2026 17:29:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] 見よ！おそらく最もゲスなローカルAIサーバー：</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tpdt5m/behold_probably_the_most_ghetto_local_ai_server/</link>
-      <description>&lt;p&gt;&lt;strong&gt;見よ！おそらく最もゲスなローカルAIサーバー：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;別名：Jank Incarnate（悪ふざけの化身） 数ヶ月の苦痛の末、ようやく動作するセットアップを手に入れた。マルチテスラのセットアップには癖がある。この経験について何か書こうと思っていた。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Behold! Probably the most ghetto local AI server:&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tpdt5m/behold_probably_the_most_ghetto_local_ai_server/</guid>
-      <pubDate>Wed, 27 May 2026 18:14:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] Qwen3.6 コーディング・エージェントの第4四半期から第6四半期への大幅な品質向上</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tpebhw/qwen36_huge_quality_gain_from_q4_to_q6_for_coding/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Qwen3.6 コーディング・エージェントの第4四半期から第6四半期への大幅な品質向上&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;そこで先週、使っていないローカルLLMのセットアップを更新しようとした。品質が低すぎるし、deepseekは安すぎるからだ。まずOllamaを使うのをやめて、今はllama.cpしか使っていない。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Qwen3.6 huge quality gain from Q4 to Q6 for coding agent&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tpebhw/qwen36_huge_quality_gain_from_q4_to_q6_for_coding/</guid>
-      <pubDate>Wed, 27 May 2026 18:32:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] SWE-rebenchリーダーボード（2026年3月、4月、5月）：GPT-5.5、Opus 4.7、Cursor (Composer 2.5)、Kimi K2.6、その他</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tpawlm/swerebench_leaderboard_march_april_and_may_2026/</link>
-      <description>&lt;p&gt;&lt;strong&gt;SWE-rebenchリーダーボード（2026年3月、4月、5月）：GPT-5.5、Opus 4.7、Cursor (Composer 2.5)、Kimi K2.6、その他&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;皆さん、こんにちは！更新が滞っていて申し訳ありませんでした。過去3ヶ月間のリーダーボードを更新しました。私たちは&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: SWE-rebench Leaderboard (March, April and May 2026): GPT-5.5, Opus 4.7, Cursor (Composer 2.5), Kimi K2.6 and More&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tpawlm/swerebench_leaderboard_march_april_and_may_2026/</guid>
-      <pubDate>Wed, 27 May 2026 16:35:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] 私は8つのオープンウェイトモデルをエージェントとして永続的なMMOで10日間動かした。以下は、93kイベントデータセットと私が学んだいくつかのことです。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tp6pg7/i_ran_8_openweight_models_as_agents_in_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私は8つのオープンウェイトモデルをエージェントとして永続的なMMOで10日間動かした。以下は、93kイベントデータセットと私が学んだいくつかのことです。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;皆さん、こんにちは！これは私のスタジオが作ったプロジェクトで、Null Epochと呼ばれています。私は、通常の静的ベンチマークでエージェントをテストすることにあまり満足していませんでした。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I ran 8 open-weight models as agents in a persistent MMO for 10 days. Here's the 93k event dataset and some things that I learned&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tp6pg7/i_ran_8_openweight_models_as_agents_in_a/</guid>
-      <pubDate>Wed, 27 May 2026 14:09:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] 新しいDeepSWEベンチマークがクロード・オーパスの不正を発見</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1toychi/new_deepswe_benchmark_finds_claude_opus_cheats/</link>
-      <description>&lt;p&gt;&lt;strong&gt;新しいDeepSWEベンチマークがクロード・オーパスの不正を発見&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;悲しいことに、オープンモデルははるかに遅れているようだ。 &amp;#32; 投稿者: &amp;#32; /u/DeltaSqueezer [リンク] &amp;#32; [コメント].&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: New DeepSWE benchmark finds Claude Opus cheats&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1toychi/new_deepswe_benchmark_finds_claude_opus_cheats/</guid>
-      <pubDate>Wed, 27 May 2026 07:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] AIにトラウマを植え付けてループさせるのをやめ、彼らに優しくすることで幻覚を素直な「わからない！」に変える（概念実証、研究、何も売りたくない）</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tot20j/stop_traumatizing_ai_into_loops_and_turn/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIにトラウマを植え付けてループさせるのをやめ、彼らに優しくすることで幻覚を素直な「わからない！」に変える（概念実証、研究、何も売りたくない）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TL;DR いくつかのAIの行動は、私にADHD／トラウマ反応を思い出させた（思考のループ、タスクの麻痺...）。それから、私の神経ダイバージェントの友人と同じように扱った。そして&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Stop traumatizing AI into loops and turn hallucinations into an honest &quot;I don't know!&quot; by being NICE to them (Proof of Concept, Research, I don't want to sell anything)&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tot20j/stop_traumatizing_ai_into_loops_and_turn/</guid>
-      <pubDate>Wed, 27 May 2026 03:06:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] AIは万人向けではない</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tp17tq/ai_is_not_for_everyone/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIは万人向けではない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;賛否両論あるかもしれないが、AIは万人向けではない。私は以前、このサブレディットをクリックするたびに目にするバイブコードのゴミについて、ここに投稿したことがある。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI is not for everyone&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tp17tq/ai_is_not_for_everyone/</guid>
-      <pubDate>Wed, 27 May 2026 10:11:22 GMT</pubDate>
+      <title>[r/LocalLLaMA] VLLM、多くのMCPサーバー、その他のLLMツールで使用されているフレームワークに脆弱性が発見された。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tpp2th/vulnerability_found_in_framework_used_by_vllm/</link>
+      <description>&lt;p&gt;&lt;strong&gt;VLLM、多くのMCPサーバー、その他のLLMツールで使用されているフレームワークに脆弱性が発見された。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これはあなたのいずれかに影響を与えるかどうかを確認するために見てみる価値がある。まだ誰も投稿していないのが驚きだ。 &amp;#32;投稿者 &amp;#32; /u/Hrethric [リンク] &amp;#32; [コメント].&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Vulnerability found in framework used by VLLM, many MCP servers, and other LLM tools&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tpp2th/vulnerability_found_in_framework_used_by_vllm/</guid>
+      <pubDate>Thu, 28 May 2026 01:27:29 GMT</pubDate>
     </item>
   </channel>
 </rss>
