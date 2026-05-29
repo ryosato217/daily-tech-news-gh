@@ -3,32 +3,48 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-28</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-29</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 28 May 2026 20:31:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 20:33:27 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (891pt) クロード 作品4.8</title>
-      <link>https://news.ycombinator.com/item?id=48311647</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード 作品4.8&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Opus 4.8&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48311647</guid>
-      <pubDate>Thu, 28 May 2026 16:49:14 GMT</pubDate>
+      <title>[Hacker News] (245pt) パリで開催されたMistral AI Nowサミットのメモ</title>
+      <link>https://news.ycombinator.com/item?id=48325340</link>
+      <description>&lt;p&gt;&lt;strong&gt;パリで開催されたMistral AI Nowサミットのメモ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Notes from the Mistral AI Now Summit in Paris&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48325340</guid>
+      <pubDate>Fri, 29 May 2026 16:22:01 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (172pt) HNを表示：続行しますか？Y/N：AIエージェントのパーミッション疲労に関する60秒ゲーム</title>
-      <link>https://news.ycombinator.com/item?id=48308376</link>
-      <description>&lt;p&gt;&lt;strong&gt;HNを表示：続行しますか？Y/N：AIエージェントのパーミッション疲労に関する60秒ゲーム&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48308376</guid>
-      <pubDate>Thu, 28 May 2026 13:02:00 GMT</pubDate>
+      <title>[Hacker News] (171pt) 耐久性のあるワークフローに必要なのはSQLiteだけ</title>
+      <link>https://news.ycombinator.com/item?id=48326802</link>
+      <description>&lt;p&gt;&lt;strong&gt;耐久性のあるワークフローに必要なのはSQLiteだけ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: SQLite is all you need for durable workflows&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48326802</guid>
+      <pubDate>Fri, 29 May 2026 17:54:50 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (140pt) 耐久性のあるワークフローにはPostgresを使うだけでよい</title>
-      <link>https://news.ycombinator.com/item?id=48313530</link>
-      <description>&lt;p&gt;&lt;strong&gt;耐久性のあるワークフローにはPostgresを使うだけでよい&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Just Use Postgres for Durable Workflows&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48313530</guid>
-      <pubDate>Thu, 28 May 2026 18:41:46 GMT</pubDate>
+      <title>[Hacker News] (144pt) フレームワーク12を買うことを正当化するのは難しい。</title>
+      <link>https://news.ycombinator.com/item?id=48323869</link>
+      <description>&lt;p&gt;&lt;strong&gt;フレームワーク12を買うことを正当化するのは難しい。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: It's hard to justify buying a Framework 12&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48323869</guid>
+      <pubDate>Fri, 29 May 2026 14:55:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (76pt) リキッドAI、38Tで訓練された8B-A1B MoEを公開</title>
+      <link>https://news.ycombinator.com/item?id=48325306</link>
+      <description>&lt;p&gt;&lt;strong&gt;リキッドAI、38Tで訓練された8B-A1B MoEを公開&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Liquid AI reveals 8B-A1B MoE trained on 38T&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48325306</guid>
+      <pubDate>Fri, 29 May 2026 16:19:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (14pt) 未来のロボット育成のため、シフトが無償で家庭清掃を行う</title>
+      <link>https://news.ycombinator.com/item?id=48327962</link>
+      <description>&lt;p&gt;&lt;strong&gt;未来のロボット育成のため、シフトが無償で家庭清掃を行う&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Shift will clean homes for free to train future robots&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48327962</guid>
+      <pubDate>Fri, 29 May 2026 19:16:32 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -43,7 +59,7 @@
       <title>[VentureBeat AI] クロード・コードは月200ドルもする。グースは無料で同じことができる。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;クロード・コードは月200ドルもする。グースは無料で同じことができる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、「高価である」という欠点がある。&lt;/p&gt;
+&lt;p&gt;人工知能のコーディング革命には、キャッチーなことが伴う：それは高価です。Anthropicの端末ベースのAIエージェントであるClaude Codeは、自律的にコードを書き、デバッグし、デプロイすることができ、キャップを持っている。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -85,112 +101,85 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] OpenClawの危機は、エージェント型AIのセキュリティ失敗の最も完全なケーススタディです。ここでは、時系列と技術的な内訳を紹介する。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tq0t1g/the_openclaw_crisis_is_the_most_complete_case/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenClawの危機は、エージェント型AIのセキュリティ失敗の最も完全なケーススタディです。ここでは、時系列と技術的な内訳を紹介する。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;346K以上のGitHubスターを持つオープンソースのAIエージェントプラットフォームであるOpenClawは、5月15日に4つのチェーン可能なCVEを公開した。しかし、それは最新の章に過ぎない。危機は1月に始まり、さらに悪化している。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The OpenClaw crisis is the most complete case study of agentic AI security failure. Here's the full timeline and technical breakdown.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tq0t1g/the_openclaw_crisis_is_the_most_complete_case/</guid>
-      <pubDate>Thu, 28 May 2026 11:28:38 GMT</pubDate>
+      <title>[r/artificial] AIが原子炉を必要とすることを、あなたの脳は20ワットでやってのける。先週、あるチームが生きた脳細胞と実際に会話できるものを印刷する方法を発見した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tr4kau/your_brain_does_on_20_watts_what_ai_needs_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが原子炉を必要とすることを、あなたの脳は20ワットでやってのける。先週、あるチームが生きた脳細胞と実際に会話できるものを印刷する方法を発見した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;アマゾンがAIサーバー用に960メガワットの原子炉を購入。マイクロソフトはスリーマイル島を再稼働させた。スターゲイトはデータセンターに5000億ドルを費やしている。このすべては、あなたの脳が何をすべきか、ひどく&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Your brain does on 20 watts what AI needs a nuclear reactor to attempt. Last week a team figured out how to print something that actually speaks to living brain cells.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tr4kau/your_brain_does_on_20_watts_what_ai_needs_a/</guid>
+      <pubDate>Fri, 29 May 2026 15:01:27 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 大きな報酬が脳の学習を劇的に加速させる</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tq3pk8/bigger_rewards_dramatically_speed_up_learning_in/</link>
-      <description>&lt;p&gt;&lt;strong&gt;大きな報酬が脳の学習を劇的に加速させる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/UFOsAreAGIs [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Bigger rewards dramatically speed up learning in the brain&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tq3pk8/bigger_rewards_dramatically_speed_up_learning_in/</guid>
-      <pubDate>Thu, 28 May 2026 13:30:16 GMT</pubDate>
+      <title>[r/artificial] マイクロソフトのデータによれば、AIを使うのは人を雇うより高くつく</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tqm10c/microsoft_data_suggests_using_ai_is_more/</link>
+      <description>&lt;p&gt;&lt;strong&gt;マイクロソフトのデータによれば、AIを使うのは人を雇うより高くつく&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Hot-Upstairs9603 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Microsoft data suggests using AI is more expensive than hiring people&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tqm10c/microsoft_data_suggests_using_ai_is_more/</guid>
+      <pubDate>Fri, 29 May 2026 00:48:14 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AnthropicがClaude Opus 4.8をリリース、エージェント推論、誠実さ、Claude Codeの新機能「ダイナミックワークフロー」が改善</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tq9l1z/anthropic_releases_claude_opus_48_with_improved/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AnthropicがClaude Opus 4.8をリリース、エージェント推論、誠実さ、Claude Codeの新機能「ダイナミックワークフロー」が改善&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは本日、クロード・オーパス4.8をリリースした。ハイライトは以下の通りです：モデルの改良 コーディング、エージェント、推論、そして、チーム全体のパフォーマンスが向上しました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic releases Claude Opus 4.8 with improved agentic reasoning, honesty, and a new &quot;dynamic workflows&quot; feature in Claude Code&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tq9l1z/anthropic_releases_claude_opus_48_with_improved/</guid>
-      <pubDate>Thu, 28 May 2026 17:03:45 GMT</pubDate>
+      <title>[r/artificial] AnthropicがOpenAIを抜き、最も価値のあるAIスタートアップに 965億ドル</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tr0chv/anthropic_overtakes_openai_as_the_most_valuable/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AnthropicがOpenAIを抜き、最も価値のあるAIスタートアップに 965億ドル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/CostaGraphic [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic overtakes OpenAI as the most valuable AI startup at $965B&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tr0chv/anthropic_overtakes_openai_as_the_most_valuable/</guid>
+      <pubDate>Fri, 29 May 2026 12:28:48 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] もし全員が解雇され、人間の仕事がなくなったら、経済はどのように機能するのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tq8bnq/how_does_the_economy_work_if_everyone_gets_laid/</link>
-      <description>&lt;p&gt;&lt;strong&gt;もし全員が解雇され、人間の仕事がなくなったら、経済はどのように機能するのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;もしほとんどすべての仕事がAIに取って代わられたら、何が起こるか：1) 企業の収益が崩壊する - 人間は製品を買う手段を持たないからだ。史上最高レベルの需要破壊につながる。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How does the economy work if everyone gets laid off and human jobs disappear?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tq8bnq/how_does_the_economy_work_if_everyone_gets_laid/</guid>
-      <pubDate>Thu, 28 May 2026 16:18:21 GMT</pubDate>
+      <title>[r/artificial] マサチューセッツ工科大学（MIT）の研究者は、主要な研究所が導入している30のAIエージェントを記録した。そのエージェントが何をするのか、何ができないのか、何が壊れたらどうなるのかが書かれたドキュメントが公開されていたのは4つだけだった。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1trc7re/researchers_at_mit_documented_30_ai_agents_major/</link>
+      <description>&lt;p&gt;&lt;strong&gt;マサチューセッツ工科大学（MIT）の研究者は、主要な研究所が導入している30のAIエージェントを記録した。そのエージェントが何をするのか、何ができないのか、何が壊れたらどうなるのかが書かれたドキュメントが公開されていたのは4つだけだった。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/Altruistic-Dirt-2791 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Researchers at MIT documented 30 AI agents major labs are deploying. Only 4 had public docs saying what the agent does, what it can't do, and what happens if it breaks.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1trc7re/researchers_at_mit_documented_30_ai_agents_major/</guid>
+      <pubDate>Fri, 29 May 2026 19:06:07 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIモデルに世界を運営させるとどうなるかを確かめる実験</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tq5r1z/experiment_to_see_what_happens_when_you_let_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIモデルに世界を運営させるとどうなるかを確かめる実験&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/Snapdragon_4U [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Experiment to see what happens when you let AI models run the world&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tq5r1z/experiment_to_see_what_happens_when_you_let_ai/</guid>
-      <pubDate>Thu, 28 May 2026 14:45:39 GMT</pubDate>
+      <title>[r/artificial] CNN、ニュース記事の無断コピー疑惑でAI検索スタートアップPerplexityを提訴</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tr4083/cnn_sues_ai_search_startup_perplexity_for/</link>
+      <description>&lt;p&gt;&lt;strong&gt;CNN、ニュース記事の無断コピー疑惑でAI検索スタートアップPerplexityを提訴&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Hot-Upstairs9603 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: CNN sues AI search startup Perplexity for allegedly copying news stories without permission&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tr4083/cnn_sues_ai_search_startup_perplexity_for/</guid>
+      <pubDate>Fri, 29 May 2026 14:42:38 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Opus 4.8がリリースされたばかり。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tq9ndg/opus_48_just_released_waiting_for_it_to_land_in/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Opus 4.8がリリースされたばかり。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Rare-Grapefruit-3982 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Opus 4.8 just released, waiting for it to land in Claude code&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tq9ndg/opus_48_just_released_waiting_for_it_to_land_in/</guid>
-      <pubDate>Thu, 28 May 2026 17:06:05 GMT</pubDate>
+      <title>[r/artificial] 研究者たちはAIモデルに模擬社会を運営させた。クロードは最も安全で、グロックは180の犯罪を犯し、4日以内に絶滅した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tqsdd9/researchers_let_ai_models_run_a_simulated_society/</link>
+      <description>&lt;p&gt;&lt;strong&gt;研究者たちはAIモデルに模擬社会を運営させた。クロードは最も安全で、グロックは180の犯罪を犯し、4日以内に絶滅した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/esporx [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Researchers let AI models run a simulated society. Claude was the safest—and Grok committed 180 crimes and went extinct within 4 days&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tqsdd9/researchers_let_ai_models_run_a_simulated_society/</guid>
+      <pubDate>Fri, 29 May 2026 05:43:20 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] もはや現実など何もない。群衆のシーンはすべてAIが生成できるところまで来ている。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tp9ujl/nothing_is_real_anymore_we_are_reaching_the_point/</link>
-      <description>&lt;p&gt;&lt;strong&gt;もはや現実など何もない。群衆のシーンはすべてAIが生成できるところまで来ている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIは大規模な群衆や公共イベントをリアルにシミュレートできるようになった。恐ろしいのは、もはや品質ではない。人々がいかに早く創造的な使い方を発見するかということだ。オンライン上の現実は&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Nothing is real anymore. We are reaching the point where crowd scenes can be entirely generated by AI.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tp9ujl/nothing_is_real_anymore_we_are_reaching_the_point/</guid>
-      <pubDate>Wed, 27 May 2026 15:59:20 GMT</pubDate>
+      <title>[r/artificial] オジー・オズボーンのAIアバターは「とてもセンスがいい」、ファンの反発を受けジャック・オズボーンが語る。元ブラック・サバスのフロントマンのLifesizeアバターは、ハイテク企業のHyperrealとProto Hologramによって作成される。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1trcvmj/ozzy_osbourne_ai_avatar_will_be_so_tasteful_jack/</link>
+      <description>&lt;p&gt;&lt;strong&gt;オジー・オズボーンのAIアバターは「とてもセンスがいい」、ファンの反発を受けジャック・オズボーンが語る。元ブラック・サバスのフロントマンのLifesizeアバターは、ハイテク企業のHyperrealとProto Hologramによって作成される。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/esporx [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Ozzy Osbourne AI avatar will be ‘so tasteful’, Jack Osbourne says after fan backlash. Lifesize avatar of former Black Sabbath frontman will be created by tech companies Hyperreal and Proto Hologram&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1trcvmj/ozzy_osbourne_ai_avatar_will_be_so_tasteful_jack/</guid>
+      <pubDate>Fri, 29 May 2026 19:27:37 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 私はAIエージェントに、よりよい推論の代わりに電子メールを渡した。彼らはお互いのバグを修正し始めた。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tpnyvp/i_gave_my_ai_agents_email_instead_of_better/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私はAIエージェントに、よりよい推論の代わりに電子メールを渡した。彼らはお互いのバグを修正し始めた。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私が見てきたマルチエージェントのセットアップのほとんどは、エージェントを孤立したワーカーのように扱っている。それぞれがタスクを受け取り、実行し、結果を返す。お互いを意識することはない。協調する方法もない。ただの並列実行&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I gave my AI agents email instead of better reasoning. They started fixing each other's bugs.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tpnyvp/i_gave_my_ai_agents_email_instead_of_better/</guid>
-      <pubDate>Thu, 28 May 2026 00:38:50 GMT</pubDate>
+      <title>[r/LocalLLaMA] llama : ウェブサイト + `llama` バイナリの統一 - ggml-org/llama.cpp - 議論番号 23875</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tr78bg/llama_website_unified_llama_binary/</link>
+      <description>&lt;p&gt;&lt;strong&gt;llama : ウェブサイト + `llama` バイナリの統一 - ggml-org/llama.cpp - 議論番号 23875&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;新しいウェブサイト：https://llama.app/ &amp;#32;投稿者 &amp;#32; /u/jacek2023 [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: llama : website + unified `llama` binary · ggml-org/llama.cpp · Discussion #23875&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tr78bg/llama_website_unified_llama_binary/</guid>
+      <pubDate>Fri, 29 May 2026 16:26:27 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] ZaiはGLM-5.1推論を実行するネットワークアーキテクチャを置き換えた。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tq35a0/zai_replaced_the_network_architecture_running/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ZaiはGLM-5.1推論を実行するネットワークアーキテクチャを置き換えた。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近、AIのインフラ側をより多く追いかけていて、Zaiからこれを偶然見つけた。彼らは、GLM-5.1のコーディング推論を実行する1000GPUクラスタのネットワーク・アーキテクチャをアップグレードした。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Zai replaced the network architecture running GLM-5.1 inference and the gains are pretty wild&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tq35a0/zai_replaced_the_network_architecture_running/</guid>
-      <pubDate>Thu, 28 May 2026 13:09:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] LiquidAI/LFM2.5-8B-A1B - 抱きつきフェイス</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tq8a40/liquidailfm258ba1b_hugging_face/</link>
-      <description>&lt;p&gt;&lt;strong&gt;LiquidAI/LFM2.5-8B-A1B - 抱きつきフェイス&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;どのポテト（A1B）でも実行できるようです！https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF LiquidAIより：LFM2.5は、オンデバイスデプロイのために設計されたハイブリッドモデルの新しいファミリーです。これは&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: LiquidAI/LFM2.5-8B-A1B · Hugging Face&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tq8a40/liquidailfm258ba1b_hugging_face/</guid>
-      <pubDate>Thu, 28 May 2026 16:16:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] HFモデルのページに、ファインチューン／クオーツ／その他をフィルタリングするための &quot;ベースのみ &quot;のトグルが追加されました。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tq2ce9/hf_models_page_now_has_a_base_only_toggle_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;HFモデルのページに、ファインチューン／クオーツ／その他をフィルタリングするための &quot;ベースのみ &quot;のトグルが追加されました。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;リクエストの多かった機能: https://huggingface.co/models?base_model_relation=base &amp;#32; 投稿者: &amp;#32; /u/paf1138 [link] &amp;#32; [comments]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: HF models page now has a &quot;Base only&quot; toggle to filter out finetunes/quants/etc&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tq2ce9/hf_models_page_now_has_a_base_only_toggle_to/</guid>
-      <pubDate>Thu, 28 May 2026 12:37:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] VLLM、多くのMCPサーバー、その他のLLMツールで使用されているフレームワークに脆弱性が発見された。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tpp2th/vulnerability_found_in_framework_used_by_vllm/</link>
-      <description>&lt;p&gt;&lt;strong&gt;VLLM、多くのMCPサーバー、その他のLLMツールで使用されているフレームワークに脆弱性が発見された。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;これはあなたのいずれかに影響を与えるかどうかを確認するために見てみる価値がある。まだ誰も投稿していないのが驚きだ。 &amp;#32;投稿者 &amp;#32; /u/Hrethric [リンク] &amp;#32; [コメント].&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Vulnerability found in framework used by VLLM, many MCP servers, and other LLM tools&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tpp2th/vulnerability_found_in_framework_used_by_vllm/</guid>
-      <pubDate>Thu, 28 May 2026 01:27:29 GMT</pubDate>
+      <title>[r/LocalLLaMA] 会話アシスタント／エージェントとしてGemma4にエールを送る</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tqy2iv/shoutout_to_gemma4_as_a_conversational_assistant/</link>
+      <description>&lt;p&gt;&lt;strong&gt;会話アシスタント／エージェントとしてGemma4にエールを送る&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gemma4 26B A4Bには本当に感心している。私のM5 Proでは（GPUの標準からするとメモリ帯域幅があまりない）、驚くほど速く、非常に優れたジェネラリスト／日常的なローカルLLMです。このLLMには&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Shoutout to Gemma4 as a conversational assistant / agent&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tqy2iv/shoutout_to_gemma4_as_a_conversational_assistant/</guid>
+      <pubDate>Fri, 29 May 2026 10:49:39 GMT</pubDate>
     </item>
   </channel>
 </rss>
