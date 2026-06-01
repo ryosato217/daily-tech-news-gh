@@ -3,48 +3,40 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-05-31</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-06-01</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 31 May 2026 19:25:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 21:39:21 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (303pt) フィンガープリント可能なWebGLを必要とするCloudflare Turnstile</title>
-      <link>https://news.ycombinator.com/item?id=48345840</link>
-      <description>&lt;p&gt;&lt;strong&gt;フィンガープリント可能なWebGLを必要とするCloudflare Turnstile&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Cloudflare Turnstile requiring fingerprintable WebGL&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48345840</guid>
-      <pubDate>Sun, 31 May 2026 14:13:20 GMT</pubDate>
+      <title>[Hacker News] (276pt) CS336：ゼロからの言語モデリング</title>
+      <link>https://news.ycombinator.com/item?id=48357075</link>
+      <description>&lt;p&gt;&lt;strong&gt;CS336：ゼロからの言語モデリング&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: CS336: Language Modeling from Scratch&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48357075</guid>
+      <pubDate>Mon, 01 Jun 2026 14:10:32 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (273pt) クレアチンは脳のエネルギーレベルを高め、アルツハイマー病の認知機能低下を30％遅らせる</title>
-      <link>https://news.ycombinator.com/item?id=48346947</link>
-      <description>&lt;p&gt;&lt;strong&gt;クレアチンは脳のエネルギーレベルを高め、アルツハイマー病の認知機能低下を30％遅らせる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48346947</guid>
-      <pubDate>Sun, 31 May 2026 16:19:34 GMT</pubDate>
+      <title>[Hacker News] (230pt) スタンフォード大学CS336のAIエージェントガイドライン</title>
+      <link>https://news.ycombinator.com/item?id=48359232</link>
+      <description>&lt;p&gt;&lt;strong&gt;スタンフォード大学CS336のAIエージェントガイドライン&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI Agent Guidelines for CS336 at Stanford&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48359232</guid>
+      <pubDate>Mon, 01 Jun 2026 16:41:49 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (152pt) ローカルデバイス用1ビット盆栽画像4B画像生成</title>
-      <link>https://news.ycombinator.com/item?id=48346257</link>
-      <description>&lt;p&gt;&lt;strong&gt;ローカルデバイス用1ビット盆栽画像4B画像生成&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 1-Bit Bonsai Image 4B Image Generation for Local Devices&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48346257</guid>
-      <pubDate>Sun, 31 May 2026 15:04:52 GMT</pubDate>
+      <title>[Hacker News] (123pt) フロリダ州、AIリスクでOpenAIとサム・アルトマンを提訴</title>
+      <link>https://news.ycombinator.com/item?id=48358667</link>
+      <description>&lt;p&gt;&lt;strong&gt;フロリダ州、AIリスクでOpenAIとサム・アルトマンを提訴&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Florida sues OpenAI and Sam Altman over AI risks&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48358667</guid>
+      <pubDate>Mon, 01 Jun 2026 16:02:04 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (133pt) ユナイテッド航空767便、ブルートゥース・ネームの警告を受けニューアークに戻る</title>
-      <link>https://news.ycombinator.com/item?id=48345248</link>
-      <description>&lt;p&gt;&lt;strong&gt;ユナイテッド航空767便、ブルートゥース・ネームの警告を受けニューアークに戻る&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: United Airlines 767 returns to Newark after Bluetooth name sparks alert&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48345248</guid>
-      <pubDate>Sun, 31 May 2026 12:41:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (47pt) AI時代のプロトタイピングのスピード</title>
-      <link>https://news.ycombinator.com/item?id=48347153</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI時代のプロトタイピングのスピード&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Speed of Prototyping in the Age of AI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48347153</guid>
-      <pubDate>Sun, 31 May 2026 16:37:34 GMT</pubDate>
+      <title>[Hacker News] (50pt) アルファベット、AIインフラとコンピュート拡張のため800億ドルの増資を発表</title>
+      <link>https://news.ycombinator.com/item?id=48362515</link>
+      <description>&lt;p&gt;&lt;strong&gt;アルファベット、AIインフラとコンピュート拡張のため800億ドルの増資を発表&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Alphabet announces $80B equity capital raise to expand AI infra and compute&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48362515</guid>
+      <pubDate>Mon, 01 Jun 2026 20:55:15 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -59,7 +51,7 @@
       <title>[VentureBeat AI] クロード・コードは月200ドルもする。グースは無料で同じことができる。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;クロード・コードは月200ドルもする。グースは無料で同じことができる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、「高価である」という欠点がある。&lt;/p&gt;
+&lt;p&gt;人工知能のコーディング革命には、キャッチーなことが伴う：それは高価です。Anthropicの端末ベースのAIエージェントであるClaude Codeは、自律的にコードを書き、デバッグし、デプロイすることができ、キャップを持っている。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -77,7 +69,7 @@
       <title>[VentureBeat AI] セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;セールスフォース、新しいAIエージェント「Slackbot」を発表 ワークプレイスAIでマイクロソフトとグーグルに対抗&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に作り直したバージョンを発表した。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントであるSlackbotを完全に再構築したバージョンを発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -101,76 +93,103 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ChatGPTが書いたものだと、確認しなくても実感できますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tsu37g/can_you_actually_feel_when_something_was_written/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ChatGPTが書いたものだと、確認しなくても実感できますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は1年ほどこのソフトを酷使しているが、最近、このソフトで書かれた文章を読むと、それがいつ書かれたものなのか、ほとんど感じ取れるようになった。段落の組み方、ラップの仕方、文章にリズムがある。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Can you actually feel when something was written by ChatGPT even without checking?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tsu37g/can_you_actually_feel_when_something_was_written/</guid>
-      <pubDate>Sun, 31 May 2026 12:31:47 GMT</pubDate>
+      <title>[r/artificial] バーニー・サンダースA.I.は億万長者ではなく人々のものだ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ttpt5c/bernie_sanders_ai_belongs_to_the_people_not_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;バーニー・サンダースA.I.は億万長者ではなく人々のものだ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一部抜粋：問題は、A.I.が世界を変えるかどうかではない。変わるだろう。問題は、誰がその未来を所有し、コントロールするかということだ。誰がその恩恵を受け、誰が傷つくのか。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Bernie Sanders: A.I. Belongs to the People, Not to Billionaires&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ttpt5c/bernie_sanders_ai_belongs_to_the_people_not_to/</guid>
+      <pubDate>Mon, 01 Jun 2026 11:50:54 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIはクリエイティブな仕事に役立てるには、あまりにも「安全」になってしまったのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tszhx5/has_ai_become_too_safe_to_actually_be_useful_for/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIはクリエイティブな仕事に役立てるには、あまりにも「安全」になってしまったのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は、モデルが整列し、検閲されればされるほど、創造的なことや探求的なことに役立たなくなることに気づいている。少しエッジの効いた、正直な、あるいは不遜なプロンプトを押し出そうとすると&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Has AI become too &quot;safe&quot; to actually be useful for creative work?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tszhx5/has_ai_become_too_safe_to_actually_be_useful_for/</guid>
-      <pubDate>Sun, 31 May 2026 16:09:22 GMT</pubDate>
+      <title>[r/artificial] 私は採用バイアスを測定するために25,500件のLLM履歴書スクリーニングを分析した。結果は警鐘である。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ttsr9b/i_analyzed_25500_llm_resume_screenings_to_measure/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私は採用バイアスを測定するために25,500件のLLM履歴書スクリーニングを分析した。結果は警鐘である。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;やあ、Reddit。私は採用バイアスを測定するために、25,500件の法学修士履歴書の評価を分析した研究を発表したばかりだ。10種類の全く同じ職歴について、細かいアイデンティティや人口統計学的変数を入れ替えることで、採用の偏りを測定した。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I analyzed 25,500 LLM resume screenings to measure hiring bias. The results are a wake-up call.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ttsr9b/i_analyzed_25500_llm_resume_screenings_to_measure/</guid>
+      <pubDate>Mon, 01 Jun 2026 13:46:59 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIのアライメント・パラダイムは、より良いPRを備えた行動主義である</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tt15lr/the_ai_alignment_paradigm_is_behaviorism_with/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIのアライメント・パラダイムは、より良いPRを備えた行動主義である&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;間違っていたら教えてほしいのだが、AIを「整列」させるための支配的な方法は、発達心理学が20世紀後半に費やしたパラダイムの再発明のような匂いがする。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The AI alignment paradigm is behaviorism with better PR&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tt15lr/the_ai_alignment_paradigm_is_behaviorism_with/</guid>
-      <pubDate>Sun, 31 May 2026 17:11:56 GMT</pubDate>
+      <title>[r/artificial] データ流出のために、公表されたAI研究のどれだけが間違っているのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tu0ri0/how_much_published_ai_research_is_wrong_because/</link>
+      <description>&lt;p&gt;&lt;strong&gt;データ流出のために、公表されたAI研究のどれだけが間違っているのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;KapoorとNarayananによるプリンストン大学の論文がある。彼らは、医学や経済学を含む17分野にわたる300近い論文でデータ漏洩を発見した。  リークとは、モデルが情報に基づいて学習されたことを意味する。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How much published AI research is wrong because of data leakage?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tu0ri0/how_much_published_ai_research_is_wrong_because/</guid>
+      <pubDate>Mon, 01 Jun 2026 18:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 最も危険な調達エージェントは、完璧に機能するものである</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tswa8e/the_most_dangerous_procurement_agent_is_the_one/</link>
-      <description>&lt;p&gt;&lt;strong&gt;最も危険な調達エージェントは、完璧に機能するものである&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;調達エージェントが、想定されたことを正確に実行しているところを想像してみてほしい。サプライヤーが遅延のフラグを立てる。エージェントはメールを読み、影響を受けるPOを見つけ、代替在庫のためにネットワークをスキャンし、ルートを変更する。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Most Dangerous Procurement Agent Is the One That Works Perfectly&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tswa8e/the_most_dangerous_procurement_agent_is_the_one/</guid>
-      <pubDate>Sun, 31 May 2026 14:05:04 GMT</pubDate>
+      <title>[r/artificial] AIが生み出す最も過小評価されている問題は「認知負債」かもしれない</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tteup9/cognitive_debt_might_be_the_most_underrated/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが生み出す最も過小評価されている問題は「認知負債」かもしれない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;技術的負債については誰もが知っている。早く出荷するためにコード品質に手を抜き、後でそのツケを払う。私たちは今、その新バージョンがリアルタイムで出現するのを目の当たりにしている。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Cognitive debt might be the most underrated problem AI is creating&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tteup9/cognitive_debt_might_be_the_most_underrated/</guid>
+      <pubDate>Mon, 01 Jun 2026 02:25:36 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] これらのAIモデルは無料であり、プライベートであり、決して「ノー」とは言わない。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tt4jm1/these_ai_models_are_free_private_and_will_never/</link>
-      <description>&lt;p&gt;&lt;strong&gt;これらのAIモデルは無料であり、プライベートであり、決して「ノー」とは言わない。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/InvestigatorSoft5764 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: These AI models are free, private, and will never say 'no'&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tt4jm1/these_ai_models_are_free_private_and_will_never/</guid>
-      <pubDate>Sun, 31 May 2026 19:15:53 GMT</pubDate>
+      <title>[r/artificial] 私のAIチャットはデッドアーカイブになりつつある。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ttpxsn/my_ai_chats_are_becoming_dead_archives/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私のAIチャットはデッドアーカイブになりつつある。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;もしかしたら、これは私がこれらのツールをうまく使いこなせていないだけかもしれないが、ChatGPTとクロードにはあるパターンがあることに気づいた。アイデア、計画、ちょっとした文章、そして、そのようなことについて、本当に有益な会話をします。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: My AI chats are becoming dead archives.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ttpxsn/my_ai_chats_are_becoming_dead_archives/</guid>
+      <pubDate>Mon, 01 Jun 2026 11:56:46 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 長寿エージェントを使用している人に質問です：</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tt3yjc/question_for_people_running_longlived_agents/</link>
-      <description>&lt;p&gt;&lt;strong&gt;長寿エージェントを使用している人に質問です：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;記憶層がスタックの中で最も信頼できない部分になったのはどの時点ですか？私の場合は検索ではありませんでした。どの記憶がまだ真実なのか分からなくなったんだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Question for people running long-lived agents:&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tt3yjc/question_for_people_running_longlived_agents/</guid>
-      <pubDate>Sun, 31 May 2026 18:54:24 GMT</pubDate>
+      <title>[r/artificial] フロリダ州がOpenAIを提訴、子供には安全でないと主張</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tu0i8n/florida_sues_openai_alleging_its_unsafe_for/</link>
+      <description>&lt;p&gt;&lt;strong&gt;フロリダ州がOpenAIを提訴、子供には安全でないと主張&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者 &amp;#32; /u/Bubbly-Air7302 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Florida sues OpenAI, alleging it’s unsafe for children&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tu0i8n/florida_sues_openai_alleging_its_unsafe_for/</guid>
+      <pubDate>Mon, 01 Jun 2026 18:07:02 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIはどのように仕事の生産性を高めるのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tswbg4/how_does_ai_help_with_job_productivity/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIはどのように仕事の生産性を高めるのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;コンテキストについて：私は半導体製造会社でモデリング・エンジニアとして働いており、いくつかのモデリング・ソフトウェアなどを使用していますが、AIを使用したものはありません。最近のAIブームについて理解したかったのです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How does AI help with Job productivity?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tswbg4/how_does_ai_help_with_job_productivity/</guid>
-      <pubDate>Sun, 31 May 2026 14:06:27 GMT</pubDate>
+      <title>[r/artificial] 楽しいアンドロイド・ランチャーをオープンソース化</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tu5wls/open_sourced_a_fun_android_launcher/</link>
+      <description>&lt;p&gt;&lt;strong&gt;楽しいアンドロイド・ランチャーをオープンソース化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;下書きと反復に1年。フルリリースまであと少し。実装の詳細はGitHubのプロジェクトページで。お楽しみに[Δ 👾](https://github.com/vNeeL-code/GHOST) &amp;#32; posted by&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Open sourced a fun android Launcher&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tu5wls/open_sourced_a_fun_android_launcher/</guid>
+      <pubDate>Mon, 01 Jun 2026 21:09:51 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] (YT）ピューディパイがハーネス／ウェブイをリリース</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tsz4ji/yt_pewdiepie_released_his_harnesswebui/</link>
-      <description>&lt;p&gt;&lt;strong&gt;(YT）ピューディパイがハーネス／ウェブイをリリース&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;少なくとも、プログラマーでない人の意見は興味深い（彼は機械工学を学び、ウェブ開発もやっていたようだが）https://pewdiepie-archdaemon.github.io。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: (YT) PewDiePie released his harness/webui&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tsz4ji/yt_pewdiepie_released_his_harnesswebui/</guid>
-      <pubDate>Sun, 31 May 2026 15:55:38 GMT</pubDate>
+      <title>[r/artificial] 文書データ分析の推奨モデル？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ttyfal/recommended_models_for_document_data_analysis/</link>
+      <description>&lt;p&gt;&lt;strong&gt;文書データ分析の推奨モデル？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;皆さん、こんにちは。少し前に、分析・参照用の文書群を管理・分析するAIプラットフォームについて読んだことがあります。私の記憶では、それはセミ・クローズドなシステムで、アップロードすることで&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Recommended models for document data analysis?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ttyfal/recommended_models_for_document_data_analysis/</guid>
+      <pubDate>Mon, 01 Jun 2026 16:59:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] NVIDIAは、robotaxisのための32Bオープン推論モデルをリリースしました。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ttuhhd/nvidia_just_released_a_32b_open_reasoning_model/</link>
+      <description>&lt;p&gt;&lt;strong&gt;NVIDIAは、robotaxisのための32Bオープン推論モデルをリリースしました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;エヌビディアは本日、レベル4のロボットタクシー開発を目的とした32Bのビジョン言語アクションモデル「Alpamayo 2 Super」を発表した。興味深いのはモデルサイズだけではない。それは、エヌビディアのスタック形状である。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: NVIDIA just released a 32B open reasoning model for robotaxis&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ttuhhd/nvidia_just_released_a_32b_open_reasoning_model/</guid>
+      <pubDate>Mon, 01 Jun 2026 14:47:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] MiniMax M3 - コーディング＆エージェント・フロンティア、1M コンテキスト、マルチモーダル</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ttdiq0/minimax_m3_coding_agentic_frontier_1m_context/</link>
+      <description>&lt;p&gt;&lt;strong&gt;MiniMax M3 - コーディング＆エージェント・フロンティア、1M コンテキスト、マルチモーダル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/dryadofelysium [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: MiniMax M3 - Coding &amp; Agentic Frontier, 1M Context, Multimodal&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1ttdiq0/minimax_m3_coding_agentic_frontier_1m_context/</guid>
+      <pubDate>Mon, 01 Jun 2026 01:23:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] Mellum2がオープンソースに：AIワークフローの高速モデル｜JetBrains AI Blog</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ttt47t/mellum2_goes_open_source_a_fast_model_for_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Mellum2がオープンソースに：AIワークフローの高速モデル｜JetBrains AI Blog&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/dayanruben [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Mellum2 Goes Open Source: A Fast Model for AI Workflows | The JetBrains AI Blog&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1ttt47t/mellum2_goes_open_source_a_fast_model_for_ai/</guid>
+      <pubDate>Mon, 01 Jun 2026 14:00:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
