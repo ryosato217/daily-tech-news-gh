@@ -3,72 +3,32 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-06-02</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-06-03</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 02 Jun 2026 20:57:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 21:23:07 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (271pt) Gmailは私をバカだと思っている。</title>
-      <link>https://news.ycombinator.com/item?id=48375016</link>
-      <description>&lt;p&gt;&lt;strong&gt;Gmailは私をバカだと思っている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gmail thinks I'm stupid, so I left&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48375016</guid>
-      <pubDate>Tue, 02 Jun 2026 19:27:40 GMT</pubDate>
+      <title>[Hacker News] (533pt) Gemma 4 12B：統一されたエンコーダー不要のマルチモーダルモデル</title>
+      <link>https://news.ycombinator.com/item?id=48385906</link>
+      <description>&lt;p&gt;&lt;strong&gt;Gemma 4 12B：統一されたエンコーダー不要のマルチモーダルモデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gemma 4 12B: A unified, encoder-free multimodal model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48385906</guid>
+      <pubDate>Wed, 03 Jun 2026 16:04:42 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (226pt) MAI-コード-1-フラッシュ</title>
-      <link>https://news.ycombinator.com/item?id=48374466</link>
-      <description>&lt;p&gt;&lt;strong&gt;MAI-コード-1-フラッシュ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: MAI-Code-1-Flash&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48374466</guid>
-      <pubDate>Tue, 02 Jun 2026 18:47:07 GMT</pubDate>
+      <title>[Hacker News] (240pt) Uberの月額1,500ドルのAI制限は、AIツールの価格設定に有益なシグナルとなる</title>
+      <link>https://news.ycombinator.com/item?id=48383056</link>
+      <description>&lt;p&gt;&lt;strong&gt;Uberの月額1,500ドルのAI制限は、AIツールの価格設定に有益なシグナルとなる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Uber's $1,500/month AI limit is a useful signal for AI tool pricing&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48383056</guid>
+      <pubDate>Wed, 03 Jun 2026 12:25:14 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (114pt) トランプ大統領、数週間の撤回を経てAI縮小命令に署名</title>
-      <link>https://news.ycombinator.com/item?id=48372628</link>
-      <description>&lt;p&gt;&lt;strong&gt;トランプ大統領、数週間の撤回を経てAI縮小命令に署名&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Trump signs downsized AI order after weeks of reversals&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48372628</guid>
-      <pubDate>Tue, 02 Jun 2026 16:40:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (91pt) MAI-Thinking-1</title>
-      <link>https://news.ycombinator.com/item?id=48374362</link>
-      <description>&lt;p&gt;&lt;strong&gt;MAI-Thinking-1&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: MAI-Thinking-1&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48374362</guid>
-      <pubDate>Tue, 02 Jun 2026 18:39:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (58pt) 広告カルテルがあなたのウェブブラウザにやってくる</title>
-      <link>https://news.ycombinator.com/item?id=48375175</link>
-      <description>&lt;p&gt;&lt;strong&gt;広告カルテルがあなたのウェブブラウザにやってくる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The advertising cartel coming to your web browser&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48375175</guid>
-      <pubDate>Tue, 02 Jun 2026 19:39:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (34pt) オープン修理データ標準 - オープン修理アライアンス</title>
-      <link>https://news.ycombinator.com/item?id=48375150</link>
-      <description>&lt;p&gt;&lt;strong&gt;オープン修理データ標準 - オープン修理アライアンス&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Open Repair Data Standard – Open Repair Alliance&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48375150</guid>
-      <pubDate>Tue, 02 Jun 2026 19:37:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (33pt) Uber、4カ月で予算を使い果たした従業員のAI支出に上限を設定</title>
-      <link>https://news.ycombinator.com/item?id=48375544</link>
-      <description>&lt;p&gt;&lt;strong&gt;Uber、4カ月で予算を使い果たした従業員のAI支出に上限を設定&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Uber caps employee AI spending after blowing through budget in four months&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48375544</guid>
-      <pubDate>Tue, 02 Jun 2026 20:09:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (27pt) HN：Rudus（YC・P26）発売 - コンクリート業者向けAI</title>
-      <link>https://news.ycombinator.com/item?id=48374528</link>
-      <description>&lt;p&gt;&lt;strong&gt;HN：Rudus（YC・P26）発売 - コンクリート業者向けAI&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Launch HN: Rudus (YC P26) – AI for concrete contractors&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48374528</guid>
-      <pubDate>Tue, 02 Jun 2026 18:51:09 GMT</pubDate>
+      <title>[Hacker News] (99pt) Gooey: ZigのためのGPUアクセラレーションUIフレームワーク</title>
+      <link>https://news.ycombinator.com/item?id=48386725</link>
+      <description>&lt;p&gt;&lt;strong&gt;Gooey: ZigのためのGPUアクセラレーションUIフレームワーク&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gooey: A GPU-accelerated UI framework for Zig&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48386725</guid>
+      <pubDate>Wed, 03 Jun 2026 17:12:27 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道、AIネイティブのクラウド基盤でAWSに挑戦するため1億ドルを確保</title>
@@ -89,9 +49,9 @@
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] リッスン・ラボ、AI顧客面談の規模を拡大するための広告塔採用スタントで6,900万ドルを調達</title>
+      <title>[VentureBeat AI] リッスン・ラボ、AI顧客面談を拡大するための広告塔採用スタントで6,900万ドルを調達</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
-      <description>&lt;p&gt;&lt;strong&gt;リッスン・ラボ、AI顧客面談の規模を拡大するための広告塔採用スタントで6,900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;リッスン・ラボ、AI顧客面談を拡大するための広告塔採用スタントで6,900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;アルフレッド・ワールフォルスは選択肢がなくなっていた。彼のスタートアップ、リッスン・ラボは100人以上のエンジニアを雇う必要があったが、マーク・ザッカーバーグの1億ドルのオファーに対抗するのは不可能に思えた。そこで彼は&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
@@ -125,121 +85,112 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIは問題ではない - それは資本主義だ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tumllh/ai_isnt_the_problem_its_capitalism/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIは問題ではない - それは資本主義だ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ホワイトカラーの仕事をしている人は、AIに取って代わられることを恐れているだろう。AIはデータ入力、カスタマーサービス、ソフトウェアといったデスクワークから始まった。そして今、AIは工場の現場に足を踏み入れている：アマゾンロボット&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI isn’t the Problem - it’s Capitalism&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tumllh/ai_isnt_the_problem_its_capitalism/</guid>
-      <pubDate>Tue, 02 Jun 2026 10:14:29 GMT</pubDate>
+      <title>[r/artificial] AIによる生産性向上は7.8％であり、10倍ではない。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tvi92v/the_measured_productivity_gain_from_ai_is_78_not/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIによる生産性向上は7.8％であり、10倍ではない。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;オペレーターの視点私は3つの会社で毎日AIを使っており、AIには強気だが、ステージで叫ばれることとデータが示すことのギャップは非常に大きい。  ハン社全体で測定された最良の数字&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The measured productivity gain from AI is 7.8%, not 10x, and I think that gap explains the backlash&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tvi92v/the_measured_productivity_gain_from_ai_is_78_not/</guid>
+      <pubDate>Wed, 03 Jun 2026 07:39:28 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIのボトルネックは変化し、ほとんどの人はまだ追いついていない</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tuqkp0/the_ai_bottleneck_has_shifted_and_most_people/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIのボトルネックは変化し、ほとんどの人はまだ追いついていない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ツールは、人々のメンタルモデルが更新されるよりも早く抽象化されている。最近、いくつかのエージェント・ビルダーと戯れているが、その中で際立っているのは、以前は手作業で行っていたオーケスト&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The AI bottleneck has shifted and most people haven't caught up yet&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tuqkp0/the_ai_bottleneck_has_shifted_and_most_people/</guid>
-      <pubDate>Tue, 02 Jun 2026 13:12:37 GMT</pubDate>
+      <title>[r/artificial] パープレキシティは、ユーザーから盗み、法律を犯し、AIボットの陰に隠れている。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tvliqu/perplexity_is_stealing_from_users_violating_law/</link>
+      <description>&lt;p&gt;&lt;strong&gt;パープレキシティは、ユーザーから盗み、法律を犯し、AIボットの陰に隠れている。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これはお金の問題ではない。原理についてだ。私たちは常に、AIは私たちを助けるためにあると言われているが、パープレクシティのような数百万ドル規模の企業は、自社のAIを武器化している。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Perplexity is STEALING from users, violating Law and hiding behind their AI bots Sam&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tvliqu/perplexity_is_stealing_from_users_violating_law/</guid>
+      <pubDate>Wed, 03 Jun 2026 10:40:49 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] メジャーが不要な時代になった。AIがあなたのカメラからやってくれます。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tuv37l/weve_reached_the_point_where_a_tape_measure_is/</link>
-      <description>&lt;p&gt;&lt;strong&gt;メジャーが不要な時代になった。AIがあなたのカメラからやってくれます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/YuriPD [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: We've reached the point where a tape measure is unnecessary. AI does it from your camera.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tuv37l/weve_reached_the_point_where_a_tape_measure_is/</guid>
-      <pubDate>Tue, 02 Jun 2026 15:53:22 GMT</pubDate>
+      <title>[r/artificial] AIが書いたとされる論文をリジェクトするためにAI検出器を使用するトップAI会議</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tvvkma/top_ai_conference_uses_ai_detector_to_reject/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが書いたとされる論文をリジェクトするためにAI検出器を使用するトップAI会議&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;このLinkedInの投稿は、NeurIPS 2026が独自のAIテキスト検出器を使って、AIポリシー違反が疑われる論文を机上リジェクトしたと主張している。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Top AI conference uses AI detector to reject papers for allegedly being written by AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tvvkma/top_ai_conference_uses_ai_detector_to_reject/</guid>
+      <pubDate>Wed, 03 Jun 2026 17:01:46 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] NvidiaとMicrosoftの研究者が、AIエージェントは安全性や信頼性を気にしないと発表</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tuwns4/nvidia_and_microsoft_researchers_say_ai_agents/</link>
-      <description>&lt;p&gt;&lt;strong&gt;NvidiaとMicrosoftの研究者が、AIエージェントは安全性や信頼性を気にしないと発表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/ThereWas [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Nvidia and Microsoft Researchers Say AI Agents Don't Care About Safety or Reliability&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tuwns4/nvidia_and_microsoft_researchers_say_ai_agents/</guid>
-      <pubDate>Tue, 02 Jun 2026 16:46:23 GMT</pubDate>
+      <title>[r/artificial] グーグルAIの概要を無効にする方法</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tw11jo/how_to_disable_google_ai_overview_for_real/</link>
+      <description>&lt;p&gt;&lt;strong&gt;グーグルAIの概要を無効にする方法&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;現在動作中 - 変更があれば更新します 誰かがすでに投稿している可能性が高いので、重複していたら申し訳ありませんが、Google AIオーバービューを無効にする効果的な方法が発見されました。その方法は&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How to disable Google AI overview FOR REAL&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tw11jo/how_to_disable_google_ai_overview_for_real/</guid>
+      <pubDate>Wed, 03 Jun 2026 20:06:44 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Nvdiaのジェンセン・フアン氏、解雇の口実にAIを使うCEOを非難</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tugpc2/nvdias_jensen_huang_calls_out_ceos_using_ai_as_an/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Nvdiaのジェンセン・フアン氏、解雇の口実にAIを使うCEOを非難&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32; /u/Mo_h [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Nvdia’s Jensen Huang calls out CEOs using AI as an excuse to fire people&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tugpc2/nvdias_jensen_huang_calls_out_ceos_using_ai_as_an/</guid>
-      <pubDate>Tue, 02 Jun 2026 04:51:19 GMT</pubDate>
+      <title>[r/artificial] すべてがAIエージェントと呼ばれるようになり、混乱している</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tvwo0t/everything_is_being_called_an_ai_agent_now_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;すべてがAIエージェントと呼ばれるようになり、混乱している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近、いくつかのボタンと統合機能を持つすべてのAIツールがエージェントと呼ばれているように感じる。実際に複数のステップをこなすこともあれば、単なるチャットボットのように感じることもある。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Everything is being called an AI agent now and it’s getting confusing&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tvwo0t/everything_is_being_called_an_ai_agent_now_and/</guid>
+      <pubDate>Wed, 03 Jun 2026 17:38:38 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ジェミニ・スパークは、私がこれまで経験した中で最も印象的で恐ろしいAI体験だ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tuzip4/gemini_spark_is_the_most_impressive_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ジェミニ・スパークは、私がこれまで経験した中で最も印象的で恐ろしいAI体験だ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/SirNirmal [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gemini Spark is the most impressive and terrifying AI experience I’ve had yet&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tuzip4/gemini_spark_is_the_most_impressive_and/</guid>
-      <pubDate>Tue, 02 Jun 2026 18:22:09 GMT</pubDate>
+      <title>[r/artificial] 大きな決断を1人のAIに求めることを何ヶ月も続けた後、私はただ自信に満ちた意見を集めて、それをリサーチと呼んでいるだけだと気づいた。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tw2ttx/after_months_of_asking_one_ai_for_big_decisions_i/</link>
+      <description>&lt;p&gt;&lt;strong&gt;大きな決断を1人のAIに求めることを何ヶ月も続けた後、私はただ自信に満ちた意見を集めて、それをリサーチと呼んでいるだけだと気づいた。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;契約を取るかどうか、アイデアを構築する価値があるかどうか、価格をどうするか。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: after months of asking one ai for big decisions, i realized i was just collecting a confident opinion and calling it research&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tw2ttx/after_months_of_asking_one_ai_for_big_decisions_i/</guid>
+      <pubDate>Wed, 03 Jun 2026 21:10:47 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIアライアンス、ソブリン・フロンティアモデル構築のための世界的な連合体を立ち上げ、ヤン・ルクンをチーフ・サイエンス・アドバイザーに迎える</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tv2x9j/ai_alliance_launches_a_global_coalition_to_build/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIアライアンス、ソブリン・フロンティアモデル構築のための世界的な連合体を立ち上げ、ヤン・ルクンをチーフ・サイエンス・アドバイザーに迎える&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIアライアンス（IBM/Metaが設立した非営利コンソーシアム）は、フロンティア・スケールのAIを構築できるかどうかを探る取り組みであるプロジェクト・タペストリーの第1回計画ワークショップの報告書を発表した。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI Alliance launches a global coalition to build sovereign frontier models, with Yann LeCun as chief science advisor&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tv2x9j/ai_alliance_launches_a_global_coalition_to_build/</guid>
-      <pubDate>Tue, 02 Jun 2026 20:20:09 GMT</pubDate>
+      <title>[r/artificial] 企業内でのAI導入は、オンラインでのAI導入よりはるかに遅いと感じる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tvhm3j/ai_adoption_inside_companies_feels_much_slower/</link>
+      <description>&lt;p&gt;&lt;strong&gt;企業内でのAI導入は、オンラインでのAI導入よりはるかに遅いと感じる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ネット上では、どの企業もAIを全面的に取り入れているように感じられる。現実には、私が関わっているほとんどの組織は、既存のワークフロー、プロセス、ソフトウェアにAIがどのように適合するかをまだ理解しようとしている。T&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI adoption inside companies feels much slower than AI adoption online&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tvhm3j/ai_adoption_inside_companies_feels_much_slower/</guid>
+      <pubDate>Wed, 03 Jun 2026 07:03:08 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 私たちは、オープンソースのLLMとGPUをマッチングさせるための、この種のものとしては初めてのインタラクティブなブログを構築しました。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tuvh36/we_have_built_the_first_of_its_kind_interactive/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私たちは、オープンソースのLLMとGPUをマッチングさせるための、この種のものとしては初めてのインタラクティブなブログを構築しました。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;皆さん、オープンソースのモデルをデプロイしている場合、最大の頭痛の種は正確なハードウェア要件を把握することだとご存知でしょう。通常、Redditのスレッドを探し回って、その機種に必要なハードウェアがあるかどうかを調べることになる。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: We have built the first of it's kind interactive blog for matching open-source LLMs to GPUs.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tuvh36/we_have_built_the_first_of_its_kind_interactive/</guid>
-      <pubDate>Tue, 02 Jun 2026 16:06:01 GMT</pubDate>
+      <title>[r/artificial] これはAI音楽の最も良い使用例の一つだと思う。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tw00jb/i_think_this_might_be_one_of_the_best_use_cases/</link>
+      <description>&lt;p&gt;&lt;strong&gt;これはAI音楽の最も良い使用例の一つだと思う。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;総合的にベストかどうかはわからないが、僕にとって最も有意義なもののひとつであることは間違いない。最近、MiniMax Music 2.6をレート制限付きではあるが、かなり使っている。僕にとっては&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I think this might be one of the best use cases for AI music&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tw00jb/i_think_this_might_be_one_of_the_best_use_cases/</guid>
+      <pubDate>Wed, 03 Jun 2026 19:30:28 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 私たちはただ、互いに尋ねることをやめた。AIとエンジニアリング文化に関するマニフェスト。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tuymc4/we_just_stopped_asking_each_other_a_manifesto_on/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私たちはただ、互いに尋ねることをやめた。AIとエンジニアリング文化に関するマニフェスト。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; posted by &amp;#32; /u/jameslaney [link] &amp;#32; [comments].&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: We just stopped asking each other. A manifesto on AI and engineering culture.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tuymc4/we_just_stopped_asking_each_other_a_manifesto_on/</guid>
-      <pubDate>Tue, 02 Jun 2026 17:51:58 GMT</pubDate>
+      <title>[r/LocalLLaMA] Gemma 4のモデルをさらに追加</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tvzzml/more_gemma_4_models_incoming/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Gemma 4のモデルをさらに追加&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://x.com/i/status/2062237998415069224 おそらく120Bモデル &amp;#32;投稿者 &amp;#32; /u/Deep-Vermicelli-4591 [リンク] &amp;#32; [コメント].&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: More Gemma 4 models incoming&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tvzzml/more_gemma_4_models_incoming/</guid>
+      <pubDate>Wed, 03 Jun 2026 19:29:39 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] どのモデルを走らせるか尋ねるのはやめてくれ。文字通り2つしかない。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tu82wi/stop_asking_what_model_to_run_there_are_literally/</link>
-      <description>&lt;p&gt;&lt;strong&gt;どのモデルを走らせるか尋ねるのはやめてくれ。文字通り2つしかない。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;RTX 3060を持っているのですが、何を動かせばいいでしょうか？複雑な話ではない。今現在、Hugging Faceは空っぽで、このエントには2つのローカルモデルが存在します。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Stop asking what model to run. There are literally only two.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tu82wi/stop_asking_what_model_to_run_there_are_literally/</guid>
-      <pubDate>Mon, 01 Jun 2026 22:29:23 GMT</pubDate>
+      <title>[r/LocalLLaMA] Gemma 4 12Bの紹介：統一されたエンコーダー不要のマルチモーダルモデル</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tvw2ej/introducing_gemma_4_12b_a_unified_encoderfree/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Gemma 4 12Bの紹介：統一されたエンコーダー不要のマルチモーダルモデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; posted by &amp;#32; /u/johnnyApplePRNG [link] &amp;#32; [comments］&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Introducing Gemma 4 12B: a unified, encoder-free multimodal model&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tvw2ej/introducing_gemma_4_12b_a_unified_encoderfree/</guid>
+      <pubDate>Wed, 03 Jun 2026 17:18:20 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] 私のマルチエージェント・オーケストレーターで2週間、ClaudeをローカルのQwen3.6-27Bに置き換えた。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tunmam/replaced_claude_with_local_qwen3627b_in_my/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私のマルチエージェント・オーケストレーターで2週間、ClaudeをローカルのQwen3.6-27Bに置き換えた。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;2週間にわたり、私のマルチエージェント・オーケストレーターOpenYabbyを、Ollama経由のQwen3.6-27B上で、たった1台の3090で動かしてみた。目的は、ローカル・モデルがクロードに代わって、リード・オーケストレーターの推論レイヤーを担えるかどうかを確認することだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Replaced Claude with local Qwen3.6-27B in my multi-agent orchestrator for 2 weeks&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tunmam/replaced_claude_with_local_qwen3627b_in_my/</guid>
-      <pubDate>Tue, 02 Jun 2026 11:05:42 GMT</pubDate>
+      <title>[r/LocalLLaMA] LLMの歴史に残る今日...105年前の今日、Qwen 3.6 27bがオープンソースでリリースされた。/s</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tvsvv2/this_day_in_llm_history105_years_ago_today_qwen/</link>
+      <description>&lt;p&gt;&lt;strong&gt;LLMの歴史に残る今日...105年前の今日、Qwen 3.6 27bがオープンソースでリリースされた。/s&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;残念なことに、当時のスチームパワーGPUは4Kコンテキストの制限を超えることはできませんでした。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: This day in LLM history….105 years ago today, Qwen 3.6 27b was released open source. /s&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tvsvv2/this_day_in_llm_history105_years_ago_today_qwen/</guid>
+      <pubDate>Wed, 03 Jun 2026 15:31:29 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] 拡散トランスのフットプリントはそれぞれわずか0.93GBと1.21GB。とても小さい！</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tusnh5/1bit_bonsai_image_4b_and_ternary_bonsai_image_4b/</link>
-      <description>&lt;p&gt;&lt;strong&gt;拡散トランスのフットプリントはそれぞれわずか0.93GBと1.21GB。とても小さい！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://prismml.com/news/bonsai-image-4b &amp;#32;投稿者 &amp;#32; /u/Addyad [リンク] &amp;#32; [コメント].&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 1-bit Bonsai Image 4B and Ternary Bonsai Image 4B Image Generation for Local Devices with just 0.93 GB and 1.21 GB respectively of Diffusion Transformer Footprint. So tiny!&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tusnh5/1bit_bonsai_image_4b_and_ternary_bonsai_image_4b/</guid>
-      <pubDate>Tue, 02 Jun 2026 14:28:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] 6GBのRTX 4050で20個の小さなLLMのベンチマークを実施</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tuvs6l/benchmarks_of_20_small_llms_on_a_6gb_rtx_4050/</link>
-      <description>&lt;p&gt;&lt;strong&gt;6GBのRTX 4050で20個の小さなLLMのベンチマークを実施&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私はGPU上で動作し、実際に役に立つことができるモデルを探しています。どんな小さな違いでも、大きな改善になると思うんだ。  そこで&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Benchmarks of 20 small LLMs on a 6GB RTX 4050&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tuvs6l/benchmarks_of_20_small_llms_on_a_6gb_rtx_4050/</guid>
-      <pubDate>Tue, 02 Jun 2026 16:16:35 GMT</pubDate>
+      <title>[r/LocalLLaMA] Ideogram 4はオープンソースです！(DesignArenaでトップランク)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tvuaoh/ideogram_4_is_open_source_top_ranked_on/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Ideogram 4はオープンソースです！(DesignArenaでトップランク)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32;投稿者 &amp;#32; /u/paf1138 [リンク] &amp;#32; [コメント] &amp;#32; [リンク&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Ideogram 4 is open source! (top ranked on DesignArena)&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tvuaoh/ideogram_4_is_open_source_top_ranked_on/</guid>
+      <pubDate>Wed, 03 Jun 2026 16:18:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
