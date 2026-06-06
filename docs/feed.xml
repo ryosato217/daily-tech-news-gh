@@ -3,40 +3,32 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-06-05</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-06-06</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 05 Jun 2026 20:02:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 19:40:22 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (284pt) 空気漏れ修理のため一時避難していた宇宙飛行士らに、国際宇宙ステーション（ISS）へ戻るよう指示が出された</title>
-      <link>https://news.ycombinator.com/item?id=48413464</link>
-      <description>&lt;p&gt;&lt;strong&gt;空気漏れ修理のため一時避難していた宇宙飛行士らに、国際宇宙ステーション（ISS）へ戻るよう指示が出された&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Astronauts told to return to ISS after sheltering over air leak repairs&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48413464</guid>
-      <pubDate>Fri, 05 Jun 2026 15:00:31 GMT</pubDate>
+      <title>[Hacker News] (739pt) LLMの仕組み</title>
+      <link>https://news.ycombinator.com/item?id=48389360</link>
+      <description>&lt;p&gt;&lt;strong&gt;LLMの仕組み&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How LLMs work&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48389360</guid>
+      <pubDate>Wed, 03 Jun 2026 20:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (198pt) pg_durable：マイクロソフトがデータベース内での永続的な実行機能をオープンソース化</title>
-      <link>https://news.ycombinator.com/item?id=48414367</link>
-      <description>&lt;p&gt;&lt;strong&gt;pg_durable：マイクロソフトがデータベース内での永続的な実行機能をオープンソース化&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: pg_durable: Microsoft open sources in-database durable execution&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48414367</guid>
-      <pubDate>Fri, 05 Jun 2026 15:59:57 GMT</pubDate>
+      <title>[Hacker News] (142pt) 情報筋によると、米国防総省はイスラエルによる対米スパイ活動の脅威レベルを最高レベルに引き上げた</title>
+      <link>https://news.ycombinator.com/item?id=48427523</link>
+      <description>&lt;p&gt;&lt;strong&gt;情報筋によると、米国防総省はイスラエルによる対米スパイ活動の脅威レベルを最高レベルに引き上げた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Pentagon raised threat of Israeli spying on U.S. to highest level, sources say&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48427523</guid>
+      <pubDate>Sat, 06 Jun 2026 18:21:06 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (153pt) Gemma 4 QATモデル：モバイル端末とノートPCの効率化に向けた圧縮の最適化</title>
-      <link>https://news.ycombinator.com/item?id=48414653</link>
-      <description>&lt;p&gt;&lt;strong&gt;Gemma 4 QATモデル：モバイル端末とノートPCの効率化に向けた圧縮の最適化&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48414653</guid>
-      <pubDate>Fri, 05 Jun 2026 16:18:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (39pt) テスト駆動開発のためのMy Agentスキル</title>
-      <link>https://news.ycombinator.com/item?id=48398925</link>
-      <description>&lt;p&gt;&lt;strong&gt;テスト駆動開発のためのMy Agentスキル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: My Agent Skill for Test-Driven Development&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48398925</guid>
-      <pubDate>Thu, 04 Jun 2026 14:10:40 GMT</pubDate>
+      <title>[Hacker News] (99pt) Zeroserve：eBPFでスクリプト化可能なゼロコンフィグWebサーバー</title>
+      <link>https://news.ycombinator.com/item?id=48425723</link>
+      <description>&lt;p&gt;&lt;strong&gt;Zeroserve：eBPFでスクリプト化可能なゼロコンフィグWebサーバー&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Zeroserve: A zero-config web server you can script with eBPF&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48425723</guid>
+      <pubDate>Sat, 06 Jun 2026 14:59:43 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道会社が1億ドルを調達、AIネイティブのクラウドインフラでAWSに対抗</title>
@@ -69,7 +61,7 @@
       <title>[VentureBeat AI] Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」を全面的に刷新したバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、同社幹部が「完全な」と表現する存在へと生まれ変わった。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」を全面的に刷新したバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、経営陣が「完全な」と表現する存在へと変貌を遂げた。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -87,28 +79,73 @@
       <title>[VentureBeat AI] Nous Researchの「NousCoder-14B」は、まさに「Claude Code」ブームの真っ只中に登場したオープンソースのコーディングモデルです</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
       <description>&lt;p&gt;&lt;strong&gt;Nous Researchの「NousCoder-14B」は、まさに「Claude Code」ブームの真っ只中に登場したオープンソースのコーディングモデルです&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;暗号資産ベンチャーキャピタルのパラダイム（Paradigm）が出資するオープンソースAIスタートアップのヌース・リサーチ（Nous Research）は月曜日、既存のいくつかのモデルと同等かそれ以上の性能を持つとする新たな競技プログラミングモデルを公開した。&lt;/p&gt;
+&lt;p&gt;暗号資産ベンチャーキャピタルのパラダイムが支援するオープンソースAIスタートアップのヌース・リサーチは月曜日、既存のいくつかのモデルと同等かそれ以上の性能を持つとする新たな競技プログラミングモデルを公開した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</guid>
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>[r/artificial] ある会社から、今まで受け取った中で最も詳細な不採用通知メールが届いた</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tyimc0/a_company_just_sent_me_the_most_detailed/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ある会社から、今まで受け取った中で最も詳細な不採用通知メールが届いた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/whenyoupeeupsidedown   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A company just sent me the most detailed rejection email I’ve ever received&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tyimc0/a_company_just_sent_me_the_most_detailed/</guid>
+      <pubDate>Sat, 06 Jun 2026 14:23:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ハーバード大学2026年度卒業式におけるAIのメリットとリスク</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ty7pt5/benefits_and_risks_of_ai_at_harvard_class_day_2026/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ハーバード大学2026年度卒業式におけるAIのメリットとリスク&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者 &amp;#32;  /u/chunmunsingh   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Benefits and Risks of AI at Harvard Class Day 2026&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ty7pt5/benefits_and_risks_of_ai_at_harvard_class_day_2026/</guid>
+      <pubDate>Sat, 06 Jun 2026 04:49:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIに「お願いします」とか「ありがとう」って言ってる人、他にいますか？それとも、私だけ変なんでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tylcl1/does_anyone_else_say_please_and_thank_you_to_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIに「お願いします」とか「ありがとう」って言ってる人、他にいますか？それとも、私だけ変なんでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私がただ変なだけなのかもしれないけど、AIに絵を描いてくれとか料理の作り方を教えてくれとか頼むときは、いつも「お願いします」って言っちゃうんだよね。 私だけじゃないはず…   &amp;#32; 投稿者 &amp;#32;  /u/Smartazzme   [li&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Does anyone else say please and thank you to AI? Or am I just wierd?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tylcl1/does_anyone_else_say_please_and_thank_you_to_ai/</guid>
+      <pubDate>Sat, 06 Jun 2026 16:11:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 私はしばらくの間、AIを使った短編映画を制作してきました。ここでは、AIによる動画生成について、多くの人が誤解している点について、私が気づいたことをいくつか紹介します。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1typ7hj/ive_been_making_ai_short_films_for_a_while_here/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私はしばらくの間、AIを使った短編映画を制作してきました。ここでは、AIによる動画生成について、多くの人が誤解している点について、私が気づいたことをいくつか紹介します。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;プロンプトの長さが質を左右するわけではありません。多くの人は長文を書きますが、短く、視覚的で、具体的なプロンプトの方がほぼ常に優れています。真の難関は一貫性を保つことです。同じキャラクターを常に同じように見せること&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I've been making AI short films for a while — here are some things I noticed that most people get wrong about AI video generation&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1typ7hj/ive_been_making_ai_short_films_for_a_while_here/</guid>
+      <pubDate>Sat, 06 Jun 2026 18:40:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 複数のモデルを使うほど、「AIのコンセンサス」は罠だと感じるようになる――注目すべきなのは、意見の相違だけなのだ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tymxz2/the_more_i_use_multiple_models_the_more_i_think/</link>
+      <description>&lt;p&gt;&lt;strong&gt;複数のモデルを使うほど、「AIのコンセンサス」は罠だと感じるようになる――注目すべきなのは、意見の相違だけなのだ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;マルチモデル構成（KarpathyのLLM Councilや、さまざまな「5つのモデルに質問して結果を統合する」ツールなど）には、ある共通の傾向が見られますが、そのほとんどは最適化すべき対象を誤っていると思います&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: the more i use multiple models, the more i think &quot;AI consensus&quot; is a trap — the disagreement is the only part worth paying attention to&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tymxz2/the_more_i_use_multiple_models_the_more_i_think/</guid>
+      <pubDate>Sat, 06 Jun 2026 17:13:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIに関する一般的な質問</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tyonst/ai_general_question/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIに関する一般的な質問&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;なぜAIは、まったく同じ質問に対して、ある月は理由を添えて「はい」と答え、別の月には理由を添えて「いいえ」と答えるのでしょうか？   &amp;#32; 投稿者 &amp;#32;  /u/Unknownspace614   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Ai general question&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tyonst/ai_general_question/</guid>
+      <pubDate>Sat, 06 Jun 2026 18:18:52 GMT</pubDate>
+    </item>
+    <item>
       <title>[r/artificial] LLMの推論研究における奇妙な点：現在、私たちは思考の連鎖の痕跡を取り除こうとしている</title>
       <link>https://www.reddit.com/r/artificial/comments/1txp7ah/the_strange_thing_about_llm_reasoning_research/</link>
       <description>&lt;p&gt;&lt;strong&gt;LLMの推論研究における奇妙な点：現在、私たちは思考の連鎖の痕跡を取り除こうとしている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ここ数週間、推論に関する文献を読み通してきたところ、議論する価値がありそうな傾向に気づきました。過去2～3年間、LLMの推論における進歩の大部分は、&lt;/p&gt;
+&lt;p&gt;ここ数週間、推論に関する文献を読み進めてきたところ、議論する価値がありそうな傾向に気づきました。過去2～3年間、LLMの推論分野における進歩の大部分は、&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: The strange thing about LLM reasoning research: we're now trying to remove the chain-of-thought traces&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1txp7ah/the_strange_thing_about_llm_reasoning_research/</guid>
       <pubDate>Fri, 05 Jun 2026 16:04:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Rampは、会計事務所向けのAIオペレーティングシステムをリリースした</title>
-      <link>https://www.reddit.com/r/artificial/comments/1txqetk/ramp_launched_an_ai_operating_system_for/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Rampは、会計事務所向けのAIオペレーティングシステムをリリースした&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ProfessorDeep8754   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Ramp launched an AI operating system for accounting firms&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1txqetk/ramp_launched_an_ai_operating_system_for/</guid>
-      <pubDate>Fri, 05 Jun 2026 16:47:25 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] 1980年代の「電卓論争」が今日でもなお重要視される理由、そしてアイザック・アシモフが1956年にAIを正しく予見した経緯</title>
@@ -120,67 +157,31 @@
       <pubDate>Fri, 05 Jun 2026 17:40:07 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] アンソロピックは、世界的なAI開発凍結を求めている。また、同社は1兆ドル規模でのIPOを目前に控えている。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1txeysy/anthropic_wants_a_global_ai_freeze_theyre_also/</link>
-      <description>&lt;p&gt;&lt;strong&gt;アンソロピックは、世界的なAI開発凍結を求めている。また、同社は1兆ドル規模でのIPOを目前に控えている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;anthropicが、最先端のAI開発を世界的に一時停止するよう求めるブログ記事を公開した。同記事では、モデルが再帰的に自己改善を始め、人間の制御の及ばない状態に陥る恐れがあると警告している。恐ろしい話だ。s&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: anthropic wants a global ai freeze. they're also about to ipo at $1 trillion.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1txeysy/anthropic_wants_a_global_ai_freeze_theyre_also/</guid>
-      <pubDate>Fri, 05 Jun 2026 08:32:45 GMT</pubDate>
+      <title>[r/artificial] AIについてもう少し理解を深めたいんです。だって、AIはみんなが言うほど悪いものじゃないと思うから。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tyi9r2/help_me_understand_ai_a_bit_more_because_i_dont/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIについてもう少し理解を深めたいんです。だって、AIはみんなが言うほど悪いものじゃないと思うから。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;正直なところ、私自身はChatGPTやGeminiで面白い画像を1、2枚作ったり、何かについてセカンドオピニオンが欲しい時にその場でいくつか質問したりする程度で、それ以上のAI活用はほとんどしていません。そして、時にはそれが&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Help me understand AI a bit more because I don't think AI is as bad as everyone says.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tyi9r2/help_me_understand_ai_a_bit_more_because_i_dont/</guid>
+      <pubDate>Sat, 06 Jun 2026 14:09:43 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIエージェントは、推論の段階よりも認証の段階で失敗することが多い。他にも同じような現象を見ている人はいますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1txqkqx/ai_agents_fail_at_the_auth_step_more_than_at_the/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIエージェントは、推論の段階よりも認証の段階で失敗することが多い。他にも同じような現象を見ている人はいますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;しばらくAIエージェントを開発してきて、ある傾向に気づきました。LLMの推論機能は問題なく動作します。問題になるのは、アカウント、ログイン、認証に関するすべての部分です。エージェントが「サインアップ」しようとすると&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI agents fail at the auth step more than at the reasoning step. anyone else seeing this?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1txqkqx/ai_agents_fail_at_the_auth_step_more_than_at_the/</guid>
-      <pubDate>Fri, 05 Jun 2026 16:53:17 GMT</pubDate>
+      <title>[r/LocalLLaMA] Cohereの未公開コーディングモデル（localllama向け早期アクセス）</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tylzy2/coheres_unreleased_coding_model_early_access_for/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Cohereの未公開コーディングモデル（localllama向け早期アクセス）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;こんにちは、Cohereのニックです。先日の「Command A+」について、皆さんからたくさんのフィードバックをいただき、ありがとうございます。普段は他のリリースに関するスレッドばかり読んでいるので、自社製品に関するスレッドを読むのは新鮮で楽しかったです :) 私たちは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Cohere's unreleased coding model (early access for localllama)&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tylzy2/coheres_unreleased_coding_model_early_access_for/</guid>
+      <pubDate>Sat, 06 Jun 2026 16:36:41 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 私たちは、2種類の異なるAIへと徐々に向かっているのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1txv713/are_we_slowly_moving_toward_two_different_kinds/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私たちは、2種類の異なるAIへと徐々に向かっているのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近、明らかな二極化が見られる。大手メーカーの主流モデルは、厳しい安全基準によってますます制約を受けるようになっている一方で、地域密着型や規制の緩いモデルに乗り換える人が増えている。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Are we slowly moving toward two different kinds of AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1txv713/are_we_slowly_moving_toward_two_different_kinds/</guid>
-      <pubDate>Fri, 05 Jun 2026 19:40:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] なぜクロードはagents.mdを使えないのですか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1txuigl/why_cant_claude_use_agentsmd/</link>
-      <description>&lt;p&gt;&lt;strong&gt;なぜクロードはagents.mdを使えないのですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Codexがagents.mdを使い、Claude CodeがClaude.mdを使っているのはかなり厄介だ。こういうことには業界標準みたいなものがあってもいいんじゃないか？  &amp;#32; 投稿者 &amp;#32;  /u/Complete-Sea6655   [リンク] &amp;#32;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Why can't claude use agents.md?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1txuigl/why_cant_claude_use_agentsmd/</guid>
-      <pubDate>Fri, 05 Jun 2026 19:14:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 現在、仕事の一環としてAIと交渉しているのですが、予想通りの展開になっています。どうすればこのAIを迂回して、担当者と直接話すことができますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tx56d7/i_am_now_negotiating_with_ai_as_part_of_my_job/</link>
-      <description>&lt;p&gt;&lt;strong&gt;現在、仕事の一環としてAIと交渉しているのですが、予想通りの展開になっています。どうすればこのAIを迂回して、担当者と直接話すことができますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;要約：自動車ローン会社がAIボットを使って、不正確な情報をもとに保険金の支払い交渉を行っている。どうすれば彼らを「カーク船長」のように退け、生身の人間と電話で話せるようになるのか？私は保険金請求の査定担当者です。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I am now negotiating with AI as part of my job, and it's going like you would expect. How can I circumvent it to speak to a representative?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tx56d7/i_am_now_negotiating_with_ai_as_part_of_my_job/</guid>
-      <pubDate>Fri, 05 Jun 2026 00:15:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] あるAIエージェントが別のAIエージェントによって制御されているだけだ。特に見るべきものはない。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1txt0ko/ai_agents_being_governed_by_other_ai_agents/</link>
-      <description>&lt;p&gt;&lt;strong&gt;あるAIエージェントが別のAIエージェントによって制御されているだけだ。特に見るべきものはない。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;本番環境で稼働しているAIエージェントを、いったい誰が管理しているのか？　私はその答えを探ってみた。その実態は、プレスリリースで伝えられているよりも複雑だった。今週、コグニザントとサービスナウは、ある&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI agents being governed by other AI agents, nothing to see here&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1txt0ko/ai_agents_being_governed_by_other_ai_agents/</guid>
-      <pubDate>Fri, 05 Jun 2026 18:20:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] Gemma 4（量子化対応トレーニング）</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1txpeo0/gemma_4_with_quantizationaware_training/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Gemma 4（量子化対応トレーニング）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Googleのコレクション：https://huggingface.co/collections/google/gemma-4-qat-q4-0 https://huggingface.co/collections/google/gemma-4-qat-mobile そしてUnslothのコレクション： https://huggingface.co/collections/&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gemma 4 with quantization-aware training&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1txpeo0/gemma_4_with_quantizationaware_training/</guid>
-      <pubDate>Fri, 05 Jun 2026 16:11:21 GMT</pubDate>
+      <title>[r/LocalLLaMA] 最新の地域モデルの比較</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tya05j/aa_comparison_of_the_latest_local_models/</link>
+      <description>&lt;p&gt;&lt;strong&gt;最新の地域モデルの比較&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私が「ローカル」（3×3090で動作可能）と判断したモデルを選んだため、300Bモデルは含まれていません。200Bモデルもおそらくスキップしたほうがいいでしょう（ただし、MiniMaxとStepはQ3ではかなり高速です）。Gemma-4 12Bはまだ含まれていません&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AA comparison of the latest local models&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tya05j/aa_comparison_of_the_latest_local_models/</guid>
+      <pubDate>Sat, 06 Jun 2026 06:53:46 GMT</pubDate>
     </item>
     <item>
       <title>[r/LocalLLaMA] みんな、心の中ではそう思ってるくせに、そんなふりをするなよ。ただ、みんなが口に出さないことを、私が言ってるだけさ。／冗談だよ</title>
@@ -190,33 +191,6 @@
 &lt;p&gt;&lt;small&gt;原題: Don’t act like y’all ain’t thinking it. I’m just saying the quiet part out loud. /s&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1txufl9/dont_act_like_yall_aint_thinking_it_im_just/</guid>
       <pubDate>Fri, 05 Jun 2026 19:11:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] お知らせ：Gemma 4 12Bは、コーディングやツールの呼び出しに関して完全に機能しなくなっているわけではありません。専用のチャットテンプレートが必要です。</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1txro73/psa_gemma_4_12b_is_not_completely_broken_for/</link>
-      <description>&lt;p&gt;&lt;strong&gt;お知らせ：Gemma 4 12Bは、コーディングやツールの呼び出しに関して完全に機能しなくなっているわけではありません。専用のチャットテンプレートが必要です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;これは、私のように試してみたものの、ツール呼び出しが次々と失敗して行き詰まり、OpenCodeのようなハーネスが全く機能しなかったという人に向けた注意喚起です。この問題には解決策があります。必要なのは……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: PSA: Gemma 4 12B is NOT completely broken for coding and tool calling, you need a special chat template&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1txro73/psa_gemma_4_12b_is_not_completely_broken_for/</guid>
-      <pubDate>Fri, 05 Jun 2026 17:31:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] 提案：このサブフォーラムには、VRAMやユニファイドRAMの容量を記載した投稿フラグを設けるべきです</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1txjy24/suggestion_this_sub_should_have_post_flairs_that/</link>
-      <description>&lt;p&gt;&lt;strong&gt;提案：このサブフォーラムには、VRAMやユニファイドRAMの容量を記載した投稿フラグを設けるべきです&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;LLMの利用において、高速RAMの容量は最も重要な要素です。膨大な量のRAMを搭載した環境を運用している人は大勢います。モデルXの性能に関する投稿を読んでいると、本当に……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Suggestion - this sub should have post flairs that mention the amount of vram/unified ram&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1txjy24/suggestion_this_sub_should_have_post_flairs_that/</guid>
-      <pubDate>Fri, 05 Jun 2026 12:45:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] ついにLLMサーバーが完成しました：EPYC 9575F、RTX 3090×4（VRAM 96GB）、ECC RAM 768GB</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tx9tf2/finally_finished_my_llm_server_epyc_9575f_4_rtx/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ついにLLMサーバーが完成しました：EPYC 9575F、RTX 3090×4（VRAM 96GB）、ECC RAM 768GB&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;時間がかかりましたが、ついにNalthisの組み立てが完了しました。スペック：Supermicro H13SSL-N AMD EPYC 9575F (64コア/128スレッド Zen 5) 768GB DDR5-5600 ECC RDIMM 4× RTX 3090 (VRAM合計96GB) 1× 2TB NVMe (OS用) 2× 3.94TB NVMe&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Finally finished my LLM server: EPYC 9575F, 4× RTX 3090 (96GB VRAM), 768GB ECC RAM&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tx9tf2/finally_finished_my_llm_server_epyc_9575f_4_rtx/</guid>
-      <pubDate>Fri, 05 Jun 2026 03:49:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
