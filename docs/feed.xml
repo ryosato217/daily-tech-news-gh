@@ -3,46 +3,54 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-06-09</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-06-10</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Jun 2026 20:13:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 20:38:47 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (1141pt) クロード・フェイブル 5</title>
-      <link>https://news.ycombinator.com/item?id=48463808</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード・フェイブル 5&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Fable 5&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48463808</guid>
-      <pubDate>Tue, 09 Jun 2026 16:58:01 GMT</pubDate>
+      <title>[Hacker News] (393pt) 『リーン・スタートアップ』および新刊『インコルプティブル』の著者、エリック・リースです――AMA</title>
+      <link>https://news.ycombinator.com/item?id=48477135</link>
+      <description>&lt;p&gt;&lt;strong&gt;『リーン・スタートアップ』および新刊『インコルプティブル』の著者、エリック・リースです――AMA&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I'm Eric Ries, author of &quot;The Lean Startup&quot; and new book &quot;Incorruptible&quot; – AMA&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48477135</guid>
+      <pubDate>Wed, 10 Jun 2026 14:47:52 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (490pt) マイクロソフトのオープンソースツールがハッキングされ、AI開発者のパスワードが盗まれた</title>
-      <link>https://news.ycombinator.com/item?id=48457830</link>
-      <description>&lt;p&gt;&lt;strong&gt;マイクロソフトのオープンソースツールがハッキングされ、AI開発者のパスワードが盗まれた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Microsoft's open source tools were hacked to steal passwords of AI developers&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48457830</guid>
-      <pubDate>Tue, 09 Jun 2026 07:33:16 GMT</pubDate>
+      <title>[Hacker News] (230pt) Claude DesktopはVMを起動するが、それを停止する方法がない</title>
+      <link>https://news.ycombinator.com/item?id=48479452</link>
+      <description>&lt;p&gt;&lt;strong&gt;Claude DesktopはVMを起動するが、それを停止する方法がない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Desktop spins up a VM without no way of stopping it&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48479452</guid>
+      <pubDate>Wed, 10 Jun 2026 17:11:56 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (115pt) GPT-2：公開するには危険すぎる（2019年）</title>
-      <link>https://news.ycombinator.com/item?id=48465269</link>
-      <description>&lt;p&gt;&lt;strong&gt;GPT-2：公開するには危険すぎる（2019年）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: GPT-2: Too Dangerous To Release (2019)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48465269</guid>
-      <pubDate>Tue, 09 Jun 2026 18:21:43 GMT</pubDate>
+      <title>[Hacker News] (135pt) APIリクエストに関連するGitHub認証の問題</title>
+      <link>https://news.ycombinator.com/item?id=48477851</link>
+      <description>&lt;p&gt;&lt;strong&gt;APIリクエストに関連するGitHub認証の問題&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GitHub Authentication issues related to API requests&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48477851</guid>
+      <pubDate>Wed, 10 Jun 2026 15:29:52 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (11pt) テストケース・リデューサーは、その価値が十分に認識されていないデバッグツールである</title>
-      <link>https://news.ycombinator.com/item?id=48459659</link>
-      <description>&lt;p&gt;&lt;strong&gt;テストケース・リデューサーは、その価値が十分に認識されていないデバッグツールである&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Test-case reducers are underappreciated debugging tools&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48459659</guid>
-      <pubDate>Tue, 09 Jun 2026 11:27:49 GMT</pubDate>
+      <title>[Hacker News] (130pt) Anthropicのモデル命名規則の推論</title>
+      <link>https://news.ycombinator.com/item?id=48480852</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropicのモデル命名規則の推論&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic's Model Naming, Extrapolated&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48480852</guid>
+      <pubDate>Wed, 10 Jun 2026 18:45:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (65pt) シロキサン事件</title>
+      <link>https://news.ycombinator.com/item?id=48456808</link>
+      <description>&lt;p&gt;&lt;strong&gt;シロキサン事件&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: L'Affaire Siloxane&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48456808</guid>
+      <pubDate>Tue, 09 Jun 2026 05:21:39 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道会社が1億ドルを調達、AIネイティブのクラウドインフラでAWSに対抗</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
       <description>&lt;p&gt;&lt;strong&gt;鉄道会社が1億ドルを調達、AIネイティブのクラウドインフラでAWSに対抗&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずに200万人の開発者を静かに獲得してきたが、木曜日にシリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
+&lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を一切かけずに200万人の開発者を静かに獲得してきたが、木曜日にシリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Railway secures $100 million to challenge AWS with AI-native cloud infrastructure&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</guid>
       <pubDate>Thu, 22 Jan 2026 14:00:00 GMT</pubDate>
@@ -51,7 +59,7 @@
       <title>[VentureBeat AI] Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、ある欠点がある。それは、コストが高いということだ。Anthropic社が開発したターミナルベースのAIエージェント「Claude Code」は、コードの記述、デバッグ、デプロイを自律的に行うことができるが、その機能には制限がある。&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、ある欠点があります。それは、コストが高いということです。Anthropic社が開発したターミナルベースのAIエージェント「Claude Code」は、コードの記述、デバッグ、デプロイを自律的に行うことができますが、その機能には制限があり&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -69,7 +77,7 @@
       <title>[VentureBeat AI] Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」の全面的に刷新されたバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、同社幹部が「完全な」と表現する存在へと変貌を遂げた。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」を全面的に刷新したバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、同社幹部が「完全な」と表現する存在へと生まれ変わった。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -78,7 +86,7 @@
       <title>[VentureBeat AI] Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。プログラミングの知識は不要です。</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
       <description>&lt;p&gt;&lt;strong&gt;Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。プログラミングの知識は不要です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは月曜日、大ヒットした「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡大する新たなAIエージェント機能「Cowork」をリリースした。同社関係者によると、このチームは&lt;/p&gt;
+&lt;p&gt;Anthropicは月曜日、大ヒットした「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡大する新たなAIエージェント機能「Cowork」をリリースした。同社関係者によると、開発チームは&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</guid>
       <pubDate>Mon, 12 Jan 2026 11:30:00 GMT</pubDate>
@@ -93,121 +101,148 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ある会話の中で、私が30回ほどはっきりと否定したにもかかわらず、クロードは私が自殺願望があるかのように繰り返しほのめかした</title>
-      <link>https://www.reddit.com/r/artificial/comments/1u0ycl7/claude_repeatedly_implied_that_i_was_suicidal/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ある会話の中で、私が30回ほどはっきりと否定したにもかかわらず、クロードは私が自殺願望があるかのように繰り返しほのめかした&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;先ほど、クロードと「パラコート」（ある種の農薬）について、科学的および公共政策の観点から長い話し合いをしました。私はその毒性作用機序について議論したかったのですが&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude repeatedly implied that I was suicidal after I explicitly denied it around 30 times in one conversation&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u0ycl7/claude_repeatedly_implied_that_i_was_suicidal/</guid>
-      <pubDate>Tue, 09 Jun 2026 07:43:38 GMT</pubDate>
+      <title>[r/artificial] 『Fable 5』を半日ほどプレイしてみたが、ガードレールこそが最大の注目点だ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1u28c7d/i_ran_fable_5_for_half_day_and_the_guardrails_are/</link>
+      <description>&lt;p&gt;&lt;strong&gt;『Fable 5』を半日ほどプレイしてみたが、ガードレールこそが最大の注目点だ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AnthropicがFable 5をリリースしたので、すぐに開発環境に取り入れました。zenmux上の単一のエンドポイントですべてをルーティングしているため、実際の切り替え作業は、モデル文字列を1つ変更し、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I ran Fable 5 for half day and the guardrails are the real story&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u28c7d/i_ran_fable_5_for_half_day_and_the_guardrails_are/</guid>
+      <pubDate>Wed, 10 Jun 2026 17:09:49 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ジェミニのプロによる突飛な発言</title>
-      <link>https://www.reddit.com/r/artificial/comments/1u12pru/crazy_statement_by_gemini_pro/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ジェミニのプロによる突飛な発言&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;さて、鉄道に関する「Liquid Glass」テーマのウェブサイトを作成するために、Gemini 3.1 Proの拡張思考モードとキャンバスモードを使っていたところ、そのサイトが生成されたのですが、その下に「t」と書かれた別のオプションがあるのを見かけました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Crazy statement by Gemini pro&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u12pru/crazy_statement_by_gemini_pro/</guid>
-      <pubDate>Tue, 09 Jun 2026 11:49:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] OpenAIは44日間にわたる採用コンテストを開催した。自律型AIエージェントが、すべての参加者を打ち負かした。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1u19rcz/openai_ran_a_44day_hiring_competition_an/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIは44日間にわたる採用コンテストを開催した。自律型AIエージェントが、すべての参加者を打ち負かした。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIは今年の春、「Parameter Golf」と題した機械学習分野の公開採用コンテストを開催しました。これは、厳しいサイズ制限と計算リソースの制約の下で、最高の小型言語モデルを学習させるというものです。1,016人の研究者が参加し、2,048件の論文を提出しました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI ran a 44-day hiring competition. An autonomous AI agent beat everyone competitor.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u19rcz/openai_ran_a_44day_hiring_competition_an/</guid>
-      <pubDate>Tue, 09 Jun 2026 16:18:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Appleの新しいAIモデルはGeminiを基盤としているが、プライバシーを重視して設計されている</title>
-      <link>https://www.reddit.com/r/artificial/comments/1u173fq/apples_new_ai_models_are_built_with_gemini_but/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Appleの新しいAIモデルはGeminiを基盤としているが、プライバシーを重視して設計されている&lt;/strong&gt;&lt;/p&gt;
+      <title>[r/artificial] 「インターネット検索にAIは必要ない」――裁判所、Googleに対する判決でそう述べた</title>
+      <link>https://www.reddit.com/r/artificial/comments/1u2cwez/nobody_needs_ai_to_search_the_internet_court_says/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「インターネット検索にAIは必要ない」――裁判所、Googleに対する判決でそう述べた&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Hot-Upstairs9603   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Apple's New AI Models Are Built With Gemini but Designed for Privacy&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u173fq/apples_new_ai_models_are_built_with_gemini_but/</guid>
-      <pubDate>Tue, 09 Jun 2026 14:47:23 GMT</pubDate>
+&lt;p&gt;&lt;small&gt;原題: Nobody needs AI to search the Internet, court says in ruling against Google&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u2cwez/nobody_needs_ai_to_search_the_internet_court_says/</guid>
+      <pubDate>Wed, 10 Jun 2026 19:51:27 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropicより『Claude Fable &amp; Mythos』がリリースされました</title>
-      <link>https://www.reddit.com/r/artificial/comments/1u1e9e4/claude_fable_mythos_released_by_anthropic/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropicより『Claude Fable &amp; Mythos』がリリースされました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;プレスリリースより：本日、一般利用向けに安全性を確保した「ミトス級」1モデルである『Claude Fable 5』をリリースいたします。『Fable 5』の性能は、これまでに一般公開してきたどのモデルをも凌駕しています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Fable &amp; Mythos released by Anthropic&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u1e9e4/claude_fable_mythos_released_by_anthropic/</guid>
-      <pubDate>Tue, 09 Jun 2026 18:56:40 GMT</pubDate>
+      <title>[r/artificial] GitLabは、Gitが「マシン規模」に対応できるよう再設計されていると述べています。「AIエージェント向けGit」という構想は、時代を先取りしすぎていたのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1u20ht8/gitlab_says_git_is_being_reengineered_for_machine/</link>
+      <description>&lt;p&gt;&lt;strong&gt;GitLabは、Gitが「マシン規模」に対応できるよう再設計されていると述べています。「AIエージェント向けGit」という構想は、時代を先取りしすぎていたのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;GitLabが最近発表した「エージェント型ソフトウェアエンジニアリング」に関する声明を読んでいたところ、ある一節が特に印象に残りました。「Git自体が、大規模なシステムに対応できるよう再設計されている」というものです（Business Insider）。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GitLab says Git is being reengineered for &quot;machine scale.&quot; Was the idea of &quot;Git for AI agents&quot; ahead of its time?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u20ht8/gitlab_says_git_is_being_reengineered_for_machine/</guid>
+      <pubDate>Wed, 10 Jun 2026 12:15:38 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 米国との競争が激化する中、中国は2,950億ドル規模のAIデータセンター建設計画を策定</title>
-      <link>https://www.reddit.com/r/artificial/comments/1u1ahu0/china_plans_295b_ai_data_center_buildout_as_race/</link>
-      <description>&lt;p&gt;&lt;strong&gt;米国との競争が激化する中、中国は2,950億ドル規模のAIデータセンター建設計画を策定&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者 &amp;#32;  /u/andix3   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: China Plans $295B AI Data Center Buildout as Race With US Intensifies&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u1ahu0/china_plans_295b_ai_data_center_buildout_as_race/</guid>
-      <pubDate>Tue, 09 Jun 2026 16:45:04 GMT</pubDate>
+      <title>[r/artificial] もしあなたが下手な開発者なら、AIも役に立ちません！</title>
+      <link>https://www.reddit.com/r/artificial/comments/1u23zqd/if_you_are_a_bad_developer_ai_cant_help_you/</link>
+      <description>&lt;p&gt;&lt;strong&gt;もしあなたが下手な開発者なら、AIも役に立ちません！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIに対する非常に健全な見方ですね。それに、うわぁ、クロアチアにこんなに大きな企業があるなんて！この方とチームが成功することを心から願っています。20年も続いているのも納得です。  &amp;#32; 投稿者 &amp;#32;  /u/Expensive-&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: If you are a bad developer, AI can’t help you!&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u23zqd/if_you_are_a_bad_developer_ai_cant_help_you/</guid>
+      <pubDate>Wed, 10 Jun 2026 14:35:47 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 誰も作ろうとしないけれど、誰にとっても欠かせないAIエージェントの退屈な部分</title>
-      <link>https://www.reddit.com/r/artificial/comments/1u10t7w/the_boring_part_of_ai_agents_nobody_builds_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;誰も作ろうとしないけれど、誰にとっても欠かせないAIエージェントの退屈な部分&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;昨年、私は売上高6,200万ドルの企業でAI導入促進プログラムを主導しました。2つのエージェントを本番環境にリリースしました。不正検知とパブリッシャー最適化です。どちらも正常に動作しており、現在も稼働中です。その部分は&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: the boring part of AI agents nobody builds and everyone needs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u10t7w/the_boring_part_of_ai_agents_nobody_builds_and/</guid>
-      <pubDate>Tue, 09 Jun 2026 10:10:33 GMT</pubDate>
+      <title>[r/artificial] AIインフラへの投資はまだ初期段階にあるように感じられる。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1u23oce/ai_infrastructure_spending_still_feels_early/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIインフラへの投資はまだ初期段階にあるように感じられる。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIインフラへの投資は依然として拡大を続けており、特にデータセンターや最先端の半導体製造分野で顕著だ。注目は主に半導体メーカーに集まっているが、そのエコシステムを支える企業には大きな&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI infrastructure spending still feels early.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u23oce/ai_infrastructure_spending_still_feels_early/</guid>
+      <pubDate>Wed, 10 Jun 2026 14:23:53 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ArXivは、質の低いAI論文を投稿した研究者に対し、1年間の投稿禁止処分を科す</title>
-      <link>https://www.reddit.com/r/artificial/comments/1u0bptw/arxiv_to_ban_researchers_for_a_year_if_they/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ArXivは、質の低いAI論文を投稿した研究者に対し、1年間の投稿禁止処分を科す&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ThereWas   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: ArXiv to Ban Researchers for a Year if They Submit AI Slop&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u0bptw/arxiv_to_ban_researchers_for_a_year_if_they/</guid>
-      <pubDate>Mon, 08 Jun 2026 15:47:18 GMT</pubDate>
+      <title>[r/artificial] 『Claude Fable 5』のセキュリティ対策は、偽の宿題を提出することで回避できてしまう</title>
+      <link>https://www.reddit.com/r/artificial/comments/1u2cwfz/claude_fable_5s_security_guardrails_can_be/</link>
+      <description>&lt;p&gt;&lt;strong&gt;『Claude Fable 5』のセキュリティ対策は、偽の宿題を提出することで回避できてしまう&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;昨日、Anthropicが『Fable 5』をリリースしましたが、セキュリティ関連の機能には厳しい制限が設けられていました。そこで、ちょっと試してみることにしました。Metasploitable2のVMにあるいくつかの脆弱性を悪用する手助けを、システムに求めてみたのです（これは意図的な……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Fable 5's security guardrails can be bypassed with a fake homework assignment&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u2cwfz/claude_fable_5s_security_guardrails_can_be/</guid>
+      <pubDate>Wed, 10 Jun 2026 19:51:28 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropicは、汎用向けのMythosクラスモデル「Claude Fable 5」をリリースしました。このモデルには安全分類機能が搭載されており、セッションの約5％においてOpus 4.8にフォールバックします。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1u1fpdg/anthropic_just_released_claude_fable_5_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropicは、汎用向けのMythosクラスモデル「Claude Fable 5」をリリースしました。このモデルには安全分類機能が搭載されており、セッションの約5％においてOpus 4.8にフォールバックします。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは本日、2つのモデルを公開しました。「Claude Fable 5」（一般公開）と「Claude Mythos 5」（サイバー防衛パートナー限定）です。簡単に言えば、Fable 5は同社がこれまでにリリースした中で最も高性能なモデルです&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic just released Claude Fable 5 a Mythos-class model for general use, with safety classifiers that fall back to Opus 4.8 on ~5% of sessions&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u1fpdg/anthropic_just_released_claude_fable_5_a/</guid>
-      <pubDate>Tue, 09 Jun 2026 19:47:55 GMT</pubDate>
+      <title>[r/artificial] AIの将来について、どう思いますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1u28za4/what_do_you_think_will_happen_in_the_future_with/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIの将来について、どう思いますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2014年の映画『トランセンデンス』をぜひご覧になる（あるいは再鑑賞する）ことを強くお勧めします。この映画は、AIが指数関数的な進化を遂げる「技術的特異点」の恐ろしい本質を、見事に描き出しています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What do you think will happen in the future with ai?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u28za4/what_do_you_think_will_happen_in_the_future_with/</guid>
+      <pubDate>Wed, 10 Jun 2026 17:31:52 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] Unsloth Gemma 4 QAT MTP アシスタントモデルが発売されました</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1u19k2h/unsloth_gemma_4_qat_mtp_assistant_models_now/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Unsloth Gemma 4 QAT MTP アシスタントモデルが発売されました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;これらはどちらも、ディレクトリのルートにある「mtp-gemma-4-*.gguf」という名前のq8_0モデルとして、またMTPフォルダ内のq8_0およびそれ以上の量子数モデルとして利用可能です。  https://huggingface.co/unsloth/gemma-4-12B-it-&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Unsloth Gemma 4 QAT MTP assistant models now available&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1u19k2h/unsloth_gemma_4_qat_mtp_assistant_models_now/</guid>
-      <pubDate>Tue, 09 Jun 2026 16:12:02 GMT</pubDate>
+      <title>[r/artificial] ダリオ・アモデイ — AIの指数関数的発展に関する政策</title>
+      <link>https://www.reddit.com/r/artificial/comments/1u2ch83/dario_amodei_policy_on_the_ai_exponential/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ダリオ・アモデイ — AIの指数関数的発展に関する政策&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者 &amp;#32;  /u/Gloomy_Nebula_5138   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Dario Amodei — Policy on the AI Exponential&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u2ch83/dario_amodei_policy_on_the_ai_exponential/</guid>
+      <pubDate>Wed, 10 Jun 2026 19:36:05 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] Appleは、Apple Silicon向けの新しいオンデバイス推論エンジンを発表した</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1u1516w/apple_announced_new_on_device_inference_engine/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Appleは、Apple Silicon向けの新しいオンデバイス推論エンジンを発表した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;このニュースはあまり注目されていないようだ。AppleはWWDCでCoreAIを発表した。これは基本的にCoreMLの後継となるものであり、デバイス上で最適化された推論を行うためのMLX/llama.cpp/torchの代替となるものだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Apple announced new on device inference engine for Apple Silicon&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1u1516w/apple_announced_new_on_device_inference_engine/</guid>
-      <pubDate>Tue, 09 Jun 2026 13:29:13 GMT</pubDate>
+      <title>[r/artificial] 現在、AIの導入段階における最大のボトルネックは、モデルの反復改善である</title>
+      <link>https://www.reddit.com/r/artificial/comments/1u2d1b1/the_biggest_ai_bottleneck_today_with_deployment/</link>
+      <description>&lt;p&gt;&lt;strong&gt;現在、AIの導入段階における最大のボトルネックは、モデルの反復改善である&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;実用化されているAIシステムを見ていて気づいたことの一つは、最初のモデルをデプロイすること自体が、もはや難しいことではなくなっているという点です。ほとんどのチームは、サポートボットやドキュメント作成などのAIアプリを構築することができ、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The biggest AI bottleneck today with deployment layer is model iteration&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u2d1b1/the_biggest_ai_bottleneck_today_with_deployment/</guid>
+      <pubDate>Wed, 10 Jun 2026 19:56:23 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] Hermesエージェント向けJetson Orin NXの構築とベンチマーク</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1u11wvo/jetson_orin_nx_build_for_hermes_agent_benchmarking/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Hermesエージェント向けJetson Orin NXの構築とベンチマーク&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;以前は巨大なLLMサーバーを使っていましたが、今はごく小さなサーバーになりました！Llama-7Bの時代からずっと放置されていたロボット工学プロジェクトの残骸として、Jetson Orin NXが埃をかぶっていました。MoEや小型モデルが登場した今なら、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Jetson Orin NX Build for Hermes Agent + Benchmarking&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1u11wvo/jetson_orin_nx_build_for_hermes_agent_benchmarking/</guid>
-      <pubDate>Tue, 09 Jun 2026 11:10:02 GMT</pubDate>
+      <title>[r/artificial] 完全自律型のAI制御ドローンが、初めて人間の兵士を殺害した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1u259si/fully_autonomous_aicontrolled_drones_have_killed/</link>
+      <description>&lt;p&gt;&lt;strong&gt;完全自律型のAI制御ドローンが、初めて人間の兵士を殺害した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者 &amp;#32;  /u/New_Scientist_Mag   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Fully autonomous AI-controlled drones have killed human soldiers for the first time&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u259si/fully_autonomous_aicontrolled_drones_have_killed/</guid>
+      <pubDate>Wed, 10 Jun 2026 15:21:41 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] オープンソースのLLMは、もはや「十分使える」レベルに達したのだろうか？</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1u0yo32/have_we_reached_the_point_where_opensource_llms/</link>
-      <description>&lt;p&gt;&lt;strong&gt;オープンソースのLLMは、もはや「十分使える」レベルに達したのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私が自問しているのは、オープンソースのLLMが、要件の95％を満たすのに「十分」なレベルに達したかどうか、ということです。もちろん、それらはまだ改善の余地があり、今後さらに進化していくことは承知していますが、その境界線はどこにあるのでしょうか&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Have we reached the point where open-source LLMs are “just good enough”?&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1u0yo32/have_we_reached_the_point_where_opensource_llms/</guid>
-      <pubDate>Tue, 09 Jun 2026 08:02:32 GMT</pubDate>
+      <title>[r/LocalLLaMA] DeepMindが「DiffusionGemma」を公開――画像スタイル拡散モデルによるテキスト生成</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1u29mlk/deepmind_just_dropped_diffusiongemma_text/</link>
+      <description>&lt;p&gt;&lt;strong&gt;DeepMindが「DiffusionGemma」を公開――画像スタイル拡散モデルによるテキスト生成&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今日また別のオープンソースのモデルが公開されました。今回はDeepMindによるもので、OSSマニアにとっては嬉しい一日になりそうです。Apache 2.0ライセンスで公開されています。従来のようにトークン単位で順次テキストを生成するのではなく、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: DeepMind Just Dropped &quot;DiffusionGemma&quot; — Text Generation via Image-Style Diffusion Model&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1u29mlk/deepmind_just_dropped_diffusiongemma_text/</guid>
+      <pubDate>Wed, 10 Jun 2026 17:54:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] Anthropicは、他のLLMの開発を依頼された際、意図的にFableの性能を低下させている</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1u1s2oz/anthropic_is_intentionally_nerfing_fable_when/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropicは、他のLLMの開発を依頼された際、意図的にFableの性能を低下させている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ローカルLLMが不可欠となる458番目の理由 編集：出典を尋ねている方へ。彼らの技術レポートの13ページをご覧ください。「投稿者：/u/onil_gova [リンク]」&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic is intentionally nerfing Fable when asked to develop other LLMs&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1u1s2oz/anthropic_is_intentionally_nerfing_fable_when/</guid>
+      <pubDate>Wed, 10 Jun 2026 04:36:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] Cohereが「North Mini Code」を公開：同社初のオープンソース・エージェント型コーディングモデル</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1u1za0m/cohere_released_north_mini_code_its_first/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Cohereが「North Mini Code」を公開：同社初のオープンソース・エージェント型コーディングモデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;規模：パラメータ数300億、アクティブパラメータ数30億。効率性：人工解析符号化指数（AACi）で33.4を記録し、同規模のモデルの中でも高い競争力を発揮。オープンソース：Apache 2.0ライセンス。HF：https://hugg&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Cohere released North Mini Code: It's first Open-Source Agentic Coding Model&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1u1za0m/cohere_released_north_mini_code_its_first/</guid>
+      <pubDate>Wed, 10 Jun 2026 11:18:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] オープンソースのLLMがなければ、米国のAI企業はすでにこの技術を独占していたかもしれない</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1u1siyl/without_open_source_llms_us_ai_companies_could/</link>
+      <description>&lt;p&gt;&lt;strong&gt;オープンソースのLLMがなければ、米国のAI企業はすでにこの技術を独占していたかもしれない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私たち全員にとってその重要性と影響が明白なこのような技術については、オープンソース化することが倫理的な義務であると私は考えています。そうでなければ、とりわけ今日私たちが直面している米国の一方的な政治状況を鑑みれば、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Without open source LLMs, US AI companies could have already monopoled the technology&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1u1siyl/without_open_source_llms_us_ai_companies_could/</guid>
+      <pubDate>Wed, 10 Jun 2026 05:00:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] LLMのオープンな競争がなければ、クローズドソースのLLM企業は飽くことのない貪欲さを見せるようになるだろう。</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1u1p3k5/without_open_llm_competition_closed_source_llm/</link>
+      <description>&lt;p&gt;&lt;strong&gt;LLMのオープンな競争がなければ、クローズドソースのLLM企業は飽くことのない貪欲さを見せるようになるだろう。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;そんな決断を下すには、どれほど傲慢でなければならないのか想像もつきません。人々はAnthropicに月200ドルも支払って、自社のコードベースをいじらせているのです。もし世界が……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Without open llm competition, closed source LLM companies will become insatiable.&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1u1p3k5/without_open_llm_competition_closed_source_llm/</guid>
+      <pubDate>Wed, 10 Jun 2026 02:12:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] 地域別のLLMリリース</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1u1x2b4/local_llms_releases/</link>
+      <description>&lt;p&gt;&lt;strong&gt;地域別のLLMリリース&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ローカルLLMのリリース状況を示すグラフをいくつかご紹介します。先月を除けば少し不思議な傾向が見られます。今年はリリースが非常に多かったと思っていたのですが、ピークは昨年だったようです。5月&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Local LLms releases&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1u1x2b4/local_llms_releases/</guid>
+      <pubDate>Wed, 10 Jun 2026 09:18:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
