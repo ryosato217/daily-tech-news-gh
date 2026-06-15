@@ -3,38 +3,38 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-06-14</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-06-15</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Jun 2026 19:45:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 21:12:01 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (184pt) リオデジャネイロの「独自開発」LLMは、既存のモデルを統合したものであるようだ</title>
-      <link>https://news.ycombinator.com/item?id=48528371</link>
-      <description>&lt;p&gt;&lt;strong&gt;リオデジャネイロの「独自開発」LLMは、既存のモデルを統合したものであるようだ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Rio de Janeiro's &quot;homegrown&quot; LLM appears to be a merge of an existing model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48528371</guid>
-      <pubDate>Sun, 14 Jun 2026 15:37:31 GMT</pubDate>
+      <title>[Hacker News] (455pt) TinyWind：リアルな風力物理演算を搭載したピクセルアート海賊セーリングゲーム（航海距離38万km以上）</title>
+      <link>https://news.ycombinator.com/item?id=48543475</link>
+      <description>&lt;p&gt;&lt;strong&gt;TinyWind：リアルな風力物理演算を搭載したピクセルアート海賊セーリングゲーム（航海距離38万km以上）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48543475</guid>
+      <pubDate>Mon, 15 Jun 2026 16:15:53 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (125pt) Show HN: Kage – 任意のウェブサイトを単一のバイナリファイルに変換し、オフラインで閲覧可能にする</title>
-      <link>https://news.ycombinator.com/item?id=48529990</link>
-      <description>&lt;p&gt;&lt;strong&gt;Show HN: Kage – 任意のウェブサイトを単一のバイナリファイルに変換し、オフラインで閲覧可能にする&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: Kage – Shadow any website to a single binary for offline viewing&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48529990</guid>
-      <pubDate>Sun, 14 Jun 2026 17:25:38 GMT</pubDate>
+      <title>[Hacker News] (452pt) Ask HN：日常のコーディングで、ClaudeやGPTをローカルモデルに置き換えた人はいますか？</title>
+      <link>https://news.ycombinator.com/item?id=48542100</link>
+      <description>&lt;p&gt;&lt;strong&gt;Ask HN：日常のコーディングで、ClaudeやGPTをローカルモデルに置き換えた人はいますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48542100</guid>
+      <pubDate>Mon, 15 Jun 2026 14:46:53 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (29pt) 私が作ったものではありませんが、セグメントディスプレイを使えるウェブサイトです</title>
-      <link>https://news.ycombinator.com/item?id=48489636</link>
-      <description>&lt;p&gt;&lt;strong&gt;私が作ったものではありませんが、セグメントディスプレイを使えるウェブサイトです&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Not mine, but it's a website where you can use a segment display&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48489636</guid>
-      <pubDate>Thu, 11 Jun 2026 12:50:29 GMT</pubDate>
+      <title>[Hacker News] (174pt) 私のホームラボAI開発プラットフォーム</title>
+      <link>https://news.ycombinator.com/item?id=48542433</link>
+      <description>&lt;p&gt;&lt;strong&gt;私のホームラボAI開発プラットフォーム&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: My Homelab AI Dev Platform&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48542433</guid>
+      <pubDate>Mon, 15 Jun 2026 15:09:40 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道会社が1億ドルを調達、AIネイティブのクラウドインフラでAWSに対抗へ</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
       <description>&lt;p&gt;&lt;strong&gt;鉄道会社が1億ドルを調達、AIネイティブのクラウドインフラでAWSに対抗へ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずに200万人の開発者を静かに獲得してきたが、木曜日にシリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
+&lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を一切かけずに200万人の開発者を静かに獲得してきたが、木曜日にシリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Railway secures $100 million to challenge AWS with AI-native cloud infrastructure&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</guid>
       <pubDate>Thu, 22 Jan 2026 14:00:00 GMT</pubDate>
@@ -52,7 +52,7 @@
       <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6900万ドルを調達</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
       <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アルフレッド・ワールフォスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーに対抗するのは不可能に思えた。そこで彼は……&lt;/p&gt;
+&lt;p&gt;アルフレッド・ヴァールフォスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーに対抗するのは不可能に思えた。そこで彼は……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
       <pubDate>Fri, 16 Jan 2026 14:01:00 GMT</pubDate>
@@ -61,7 +61,7 @@
       <title>[VentureBeat AI] Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」の全面的に刷新されたバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、経営陣が「完全な」と表現する存在へと変貌を遂げた。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」の全面的に刷新されたバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、同社幹部が「完全な」と表現する存在へと変貌を遂げた。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -79,73 +79,73 @@
       <title>[VentureBeat AI] Nous Researchの「NousCoder-14B」は、まさに「Claude Code」ブームの真っ只中に登場したオープンソースのコーディングモデルです</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
       <description>&lt;p&gt;&lt;strong&gt;Nous Researchの「NousCoder-14B」は、まさに「Claude Code」ブームの真っ只中に登場したオープンソースのコーディングモデルです&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;暗号資産ベンチャーキャピタルのパラダイムが支援するオープンソースAIスタートアップのヌース・リサーチは月曜日、既存のいくつかのモデルと同等かそれ以上の性能を持つとする新たな競技プログラミングモデルを公開した。&lt;/p&gt;
+&lt;p&gt;暗号資産ベンチャーキャピタルのパラダイム（Paradigm）が出資するオープンソースAIスタートアップのヌース・リサーチ（Nous Research）は月曜日、既存のいくつかのモデルと同等かそれ以上の性能を持つとする新たな競技プログラミングモデルを公開した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</guid>
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] アンソロピック社のCEO、ベーシックインカムの財源としてAI企業への課税を提案</title>
+      <title>[r/artificial] AIのおかげで、私はより速く動けるようになった。でも、自分らしさが薄れていく気がする……</title>
+      <link>https://www.reddit.com/r/artificial/comments/1u6bha1/ai_makes_me_faster_and_less_myself/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIのおかげで、私はより速く動けるようになった。でも、自分らしさが薄れていく気がする……&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ChatGPTが登場して以来、私は仕事で毎日LLMを使っています。そして、徐々に思考力が低下してきています。仕事量が減ったという意味ではなく、論理的に考えることが少なくなったという意味です。ある種の判断は……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI makes me faster. And less myself...&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u6bha1/ai_makes_me_faster_and_less_myself/</guid>
+      <pubDate>Mon, 15 Jun 2026 09:19:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIは、コミュニケーションよりも言語をはるかに深く理解しているようだ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1u6sr61/ai_seems_to_understand_language_much_better_than/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIは、コミュニケーションよりも言語をはるかに深く理解しているようだ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI製品を試せば試すほど、言語を理解することとコミュニケーションを理解することには違いがあると感じます。今日のツールの多くは、人が話す内容を処理する能力が驚くほど優れていますが、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI seems to understand language much better than communication&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u6sr61/ai_seems_to_understand_language_much_better_than/</guid>
+      <pubDate>Mon, 15 Jun 2026 20:43:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIが知識の創造と民主主義をどのように変えるかについての懸念</title>
+      <link>https://www.reddit.com/r/artificial/comments/1u6c8iy/concern_about_how_ai_will_change_knowledge/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが知識の創造と民主主義をどのように変えるかについての懸念&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;さて、GoogleのAIレビューに関する最近の変更やチャットボットの台頭などを踏まえると、最大の課題は、これまでウェブや記事を中心としていた知識共有プラットフォームが、動画コンテンツへと移行しつつあるという点にある&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: concern about how ai will change knowledge creation and democracy&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u6c8iy/concern_about_how_ai_will_change_knowledge/</guid>
+      <pubDate>Mon, 15 Jun 2026 10:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 仕事の手助け</title>
+      <link>https://www.reddit.com/r/artificial/comments/1u6lqi2/aide_dans_mon_travail/</link>
+      <description>&lt;p&gt;&lt;strong&gt;仕事の手助け&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;こんにちは。仕事でデータクレンジングに多くの時間を費やしています。SAPデータをエクスポートして整形し、大量のデータを照合する必要があるため、かなり時間がかかります。これはかなり手間のかかる作業なのですが、何か良い方法はありませんか？&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Aide dans mon travail&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u6lqi2/aide_dans_mon_travail/</guid>
+      <pubDate>Mon, 15 Jun 2026 16:36:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 『ペルシャ語のレッスン』――AIがいかにして私たちの集合的意識から精神疾患を排除しているか</title>
+      <link>https://www.reddit.com/r/artificial/comments/1u6pw58/the_persian_lesson_how_ai_is_purging_our/</link>
+      <description>&lt;p&gt;&lt;strong&gt;『ペルシャ語のレッスン』――AIがいかにして私たちの集合的意識から精神疾患を排除しているか&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;映画『ペルシャ語のレッスン』において、主人公のレザは、蔓延する狂気に合わせて振る舞うことに、そのエネルギーの大部分を費やした。当初、彼がそうした理由はただ一つ、生き延びるためだった。その後、レザは……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Persian Lesson - How AI is purging our collective consciousness from a mental illness&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u6pw58/the_persian_lesson_how_ai_is_purging_our/</guid>
+      <pubDate>Mon, 15 Jun 2026 19:01:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 『Fable 5』の件は、モデルが優れているか劣っているかという問題ではなかった。その点が、私の心に残っているのだ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1u6ortf/the_fable_5_situation_wasnt_really_about_the/</link>
+      <description>&lt;p&gt;&lt;strong&gt;『Fable 5』の件は、モデルが優れているか劣っているかという問題ではなかった。その点が、私の心に残っているのだ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;『Fable 5』は公開から3日で配信停止となった。作品自体の質が悪かったからではなく、配信停止はモデルの実際のクオリティとは何の関係もなかった。それを見て、いわゆる「モデルリスク」への備えの多くが、単に&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Fable 5 situation wasn’t really about the model being good or bad, and that’s the part that’s stuck with me&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u6ortf/the_fable_5_situation_wasnt_really_about_the/</guid>
+      <pubDate>Mon, 15 Jun 2026 18:22:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] アンソロピック社のCEO、ベーシックインカム財源としてAI企業への課税を提案</title>
       <link>https://www.reddit.com/r/artificial/comments/1u5g1hz/anthropic_ceo_floats_tax_on_ai_firms_to_fund/</link>
-      <description>&lt;p&gt;&lt;strong&gt;アンソロピック社のCEO、ベーシックインカムの財源としてAI企業への課税を提案&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;アンソロピック社のCEO、ベーシックインカム財源としてAI企業への課税を提案&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;AnthropicのCEOであるダリオ・アモデイ氏は、AI企業に課税してベーシックインカムを賄うとともに、この技術がもたらす可能性のある影響を考慮して、従業員の定着を促すインセンティブを導入するよう各国政府に求めた。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Anthropic CEO Floats Tax on AI Firms to Fund Universal Income&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u5g1hz/anthropic_ceo_floats_tax_on_ai_firms_to_fund/</guid>
       <pubDate>Sun, 14 Jun 2026 08:53:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 当社のAI関連費用は補助を受けており、今後どうなるかについて、多くの人がまだ十分に織り込んでいないと思います</title>
-      <link>https://www.reddit.com/r/artificial/comments/1u5edg8/our_ai_bills_are_subsidised_and_i_dont_think_many/</link>
-      <description>&lt;p&gt;&lt;strong&gt;当社のAI関連費用は補助を受けており、今後どうなるかについて、多くの人がまだ十分に織り込んでいないと思います&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;これまでいくつかのビジネスにAIを導入してきた者として、私はこのことを常に考えています。現時点でAIに支払っている代金は、本当のコストではありません。アルトマン氏は、月額200ドルのプランですら赤字だと述べています&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Our AI bills are subsidised, and I don't think many people have priced in what happens next&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u5edg8/our_ai_bills_are_subsidised_and_i_dont_think_many/</guid>
-      <pubDate>Sun, 14 Jun 2026 07:11:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] これからのキャリアの残りを、AIが生成したコードのレビューに費やすことになるのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1u5qjy7/am_i_going_to_spend_the_rest_of_my_career/</link>
-      <description>&lt;p&gt;&lt;strong&gt;これからのキャリアの残りを、AIが生成したコードのレビューに費やすことになるのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;【追記】コメントする前に投稿全文をお読みください。私の意図を全く理解していない（あるいは全く逆の解釈をしている）人がかなり多く、残念です。この1年間、開発者たちは……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Am I going to spend the rest of my career reviewing AI generated code?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u5qjy7/am_i_going_to_spend_the_rest_of_my_career/</guid>
-      <pubDate>Sun, 14 Jun 2026 17:03:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] マイクロソフトの社長は、卒業式でのAIへの反発は、テクノロジー業界にとって警鐘となるべきだと述べた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1u50mve/microsoft_president_says_ai_backlash_at/</link>
-      <description>&lt;p&gt;&lt;strong&gt;マイクロソフトの社長は、卒業式でのAIへの反発は、テクノロジー業界にとって警鐘となるべきだと述べた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者 &amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Microsoft president says AI backlash at graduation events should be wake-up call for the tech industry&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u50mve/microsoft_president_says_ai_backlash_at/</guid>
-      <pubDate>Sat, 13 Jun 2026 20:01:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIは、あなたのクリエイティブな仕事や問題解決への取り組み方に変化をもたらしましたか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1u5s44x/has_ai_changed_the_way_you_approach_creative_work/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIは、あなたのクリエイティブな仕事や問題解決への取り組み方に変化をもたらしましたか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIを日常的に使うようになってから、問題への取り組み方やアイデアの出し方が変わり始めていることに気づきました。以前は一人で長い時間をかけてブレインストーミングをしていましたが、今ではよくAIを思考の&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Has AI changed the way you approach creative work or problem-solving?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u5s44x/has_ai_changed_the_way_you_approach_creative_work/</guid>
-      <pubDate>Sun, 14 Jun 2026 18:04:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] インターネットにアクセスできる超知能AIは、開発者が組み込んだ偏見を克服することができるだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1u5rkfu/would_super_intelligent_ai_that_can_access_the/</link>
-      <description>&lt;p&gt;&lt;strong&gt;インターネットにアクセスできる超知能AIは、開発者が組み込んだ偏見を克服することができるだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;将来、超知能AIが極めて強力な存在となることは避けられないように思われ、その予測能力や人間を操る能力を考えると、制御することはほぼ不可能になるだろう。私は疑問に思っているのだが&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Would super intelligent AI that can access the Internet be able to overcome any biases it’s creator put into it?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u5rkfu/would_super_intelligent_ai_that_can_access_the/</guid>
-      <pubDate>Sun, 14 Jun 2026 17:43:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 私たちはAIファクトリーを構築しています</title>
-      <link>https://www.reddit.com/r/artificial/comments/1u5oi77/were_building_an_ai_factory/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私たちはAIファクトリーを構築しています&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は「Since AI」（https://sinceai.ai/）の運営チームの一員です。そのコンセプトはシンプルです。本気のAI開発者たちを集め、実際の業界の課題と計算リソースを提供し、72時間の時間を与えた上で、最も優れたチームを支援するというものです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: We’re building an AI factory&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u5oi77/were_building_an_ai_factory/</guid>
-      <pubDate>Sun, 14 Jun 2026 15:44:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
