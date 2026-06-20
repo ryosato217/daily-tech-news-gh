@@ -3,37 +3,29 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-06-19</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-06-20</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 19 Jun 2026 19:56:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 19:46:04 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (487pt) 「プロジェクト・ヴァルハラ」解説：10年にわたる取り組みがJDK 28に実装されるまで</title>
-      <link>https://news.ycombinator.com/item?id=48595511</link>
-      <description>&lt;p&gt;&lt;strong&gt;「プロジェクト・ヴァルハラ」解説：10年にわたる取り組みがJDK 28に実装されるまで&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48595511</guid>
-      <pubDate>Fri, 19 Jun 2026 06:35:57 GMT</pubDate>
+      <title>[Hacker News] (75pt) Show HN: StartupWiki – Crunchbaseの無料代替サービス</title>
+      <link>https://news.ycombinator.com/item?id=48610224</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN: StartupWiki – Crunchbaseの無料代替サービス&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: StartupWiki – A Free Alternative to Crunchbase&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48610224</guid>
+      <pubDate>Sat, 20 Jun 2026 15:59:29 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (338pt) ヒュンダイがボストン・ダイナミクスを買収</title>
-      <link>https://news.ycombinator.com/item?id=48600312</link>
-      <description>&lt;p&gt;&lt;strong&gt;ヒュンダイがボストン・ダイナミクスを買収&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Hyundai buys Boston Dynamics&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48600312</guid>
-      <pubDate>Fri, 19 Jun 2026 16:28:20 GMT</pubDate>
+      <title>[Hacker News] (31pt) Show HN：拒否するのではなく、ペネトレーションテストを行うモデルをポストトレーニングしました</title>
+      <link>https://news.ycombinator.com/item?id=48609231</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN：拒否するのではなく、ペネトレーションテストを行うモデルをポストトレーニングしました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: We post-trained a model that pen tests instead of refusing&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48609231</guid>
+      <pubDate>Sat, 20 Jun 2026 13:49:03 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (117pt) 新たな法案は、合法的なオンライン上の発言を封じ込めようとする政府の圧力に歯止めをかけることを目的としている</title>
-      <link>https://news.ycombinator.com/item?id=48600950</link>
-      <description>&lt;p&gt;&lt;strong&gt;新たな法案は、合法的なオンライン上の発言を封じ込めようとする政府の圧力に歯止めをかけることを目的としている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A new bill takes aim at government pressure to silence lawful online speech&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48600950</guid>
-      <pubDate>Fri, 19 Jun 2026 17:34:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した</title>
+      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
-      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずにひっそりと200万人の開発者を集めてきたが、木曜日にシリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Railway secures $100 million to challenge AWS with AI-native cloud infrastructure&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</guid>
@@ -43,7 +35,7 @@
       <title>[VentureBeat AI] Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、ある問題点があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、ある問題点があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限があり&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -52,7 +44,7 @@
       <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに69Mを調達</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
       <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに69Mを調達&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アルフレッド・ワールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は、&lt;/p&gt;
+&lt;p&gt;アルフレッド・ヴァールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は、&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
       <pubDate>Fri, 16 Jan 2026 14:01:00 GMT</pubDate>
@@ -70,100 +62,109 @@
       <title>[VentureBeat AI] Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
       <description>&lt;p&gt;&lt;strong&gt;Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡大する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
+&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡張する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</guid>
       <pubDate>Mon, 12 Jan 2026 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] Nous Research社の「NousCoder-14B」は、まさに「Claude Code」ブームの真っ只中に登場したオープンソースのコーディングモデルです。</title>
+      <title>[VentureBeat AI] Nous Researchの「NousCoder-14B」は、まさに「Claude Code」ブームの真っ只中に登場したオープンソースのコーディングモデルです。</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
-      <description>&lt;p&gt;&lt;strong&gt;Nous Research社の「NousCoder-14B」は、まさに「Claude Code」ブームの真っ只中に登場したオープンソースのコーディングモデルです。&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Nous Researchの「NousCoder-14B」は、まさに「Claude Code」ブームの真っ只中に登場したオープンソースのコーディングモデルです。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;暗号資産ベンチャーキャピタル「パラダイム」の支援を受けるオープンソースAIスタートアップ「Nous Research」は月曜日、いくつかの既存のモデルと同等かそれ以上の性能を持つとする新しい競技プログラミングモデルを公開した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</guid>
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 米国防総省の人工知能（AI）担当責任者は、裁判所の提出書類の中で、xAI社の「Grok」が96時間の間に2,000発の弾薬を2,000の標的に発射するのに貢献したと宣誓した。</title>
+      <title>[r/artificial] 合成[AI]振付に関する研究</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ub0kjp/a_study_on_synthetic_ai_choreographies/</link>
+      <description>&lt;p&gt;&lt;strong&gt;合成[AI]振付に関する研究&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ジェネレーティブ動画と微調整されたオーケストレーション層を、リズム、カメラワーク、身体の変容、そして何よりも視聴覚の同期という点で、どこまで追求できるかを探るいくつかの実験。Brea&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A study on synthetic [AI] choreographies&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ub0kjp/a_study_on_synthetic_ai_choreographies/</guid>
+      <pubDate>Sat, 20 Jun 2026 16:16:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ジム・クレイマー氏も、アクセンチュアが「OpenAIやAnthropicに競争で後れを取っている」という見解に同意している</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uapc81/jim_cramer_agrees_that_accenture_is_being/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ジム・クレイマー氏も、アクセンチュアが「OpenAIやAnthropicに競争で後れを取っている」という見解に同意している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ThereWas   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Jim Cramer Agrees That Accenture Is “Being Outcompeted By OpenAI and Anthropic”&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uapc81/jim_cramer_agrees_that_accenture_is_being/</guid>
+      <pubDate>Sat, 20 Jun 2026 06:33:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] では、モデルはどうやってメタンフェタミンの作り方を覚えることになるのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ub4htt/so_how_does_a_model_end_up_knowing_how_to_cook/</link>
+      <description>&lt;p&gt;&lt;strong&gt;では、モデルはどうやってメタンフェタミンの作り方を覚えることになるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;脱獄は確かに深刻な問題ですが、正直なところ、別に新しい話ではありません……。どのモデルも発売から数日でクラックされてしまいます。本当の疑問は、そもそもそのモデルがどこから危険な知識を入手しているのか、ということです。それは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: So how does a model end up knowing how to cook meth?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ub4htt/so_how_does_a_model_end_up_knowing_how_to_cook/</guid>
+      <pubDate>Sat, 20 Jun 2026 18:58:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AnthropicはAIの安全性でその名を知られるようになった。その取り組みは、1兆ドル規模のIPOを乗り切ることができるのだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uayfk8/anthropic_built_its_name_on_ai_safety_can_those/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AnthropicはAIの安全性でその名を知られるようになった。その取り組みは、1兆ドル規模のIPOを乗り切ることができるのだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/siliCONtainment-   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic built its name on AI safety. Can those commitments survive a trillion-dollar IPO?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uayfk8/anthropic_built_its_name_on_ai_safety_can_those/</guid>
+      <pubDate>Sat, 20 Jun 2026 14:47:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 米国防総省の人工知能（AI）担当責任者は、法廷提出書類の中で、xAI社の「Grok」が96時間の間に2,000発の弾薬を2,000の標的に発射するのに貢献したと宣誓した。</title>
       <link>https://www.reddit.com/r/artificial/comments/1ua5j2y/the_pentagons_ai_chief_swore_in_a_court_filing/</link>
-      <description>&lt;p&gt;&lt;strong&gt;米国防総省の人工知能（AI）担当責任者は、裁判所の提出書類の中で、xAI社の「Grok」が96時間の間に2,000発の弾薬を2,000の標的に発射するのに貢献したと宣誓した。&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;米国防総省の人工知能（AI）担当責任者は、法廷提出書類の中で、xAI社の「Grok」が96時間の間に2,000発の弾薬を2,000の標的に発射するのに貢献したと宣誓した。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;国防総省の最高デジタル・AI責任者による宣誓供述書によると、連邦政府専用システム「Grok Gov」が、イランに対する作戦中に米国の標的選定システムに組み込まれ、より多くの……の展開を支援していたことが確認された。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: The Pentagon's AI chief swore in a court filing that xAI's Grok helped fire 2,000 munitions at 2,000 targets in 96 hours&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ua5j2y/the_pentagons_ai_chief_swore_in_a_court_filing/</guid>
       <pubDate>Fri, 19 Jun 2026 15:47:34 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] バーニー・サンダース氏は、AIの利益からすべてのアメリカ人に年間1000ドルを支給したいと考えており、その理屈は実に理にかなっている</title>
-      <link>https://www.reddit.com/r/artificial/comments/1u9ifn2/bernie_sanders_wants_to_give_every_american_1000/</link>
-      <description>&lt;p&gt;&lt;strong&gt;バーニー・サンダース氏は、AIの利益からすべてのアメリカ人に年間1000ドルを支給したいと考えており、その理屈は実に理にかなっている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今日、Gizmodoでこれを見て、頭から離れなくなってしまった。その論点は単純だ。AIは、人々の文章、芸術作品、コード、会話などから学習し、その結果、企業の価値は今や数兆に達している。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Bernie Sanders wants to give every American $1000 a year from AI profits and the reasoning actually makes sense&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u9ifn2/bernie_sanders_wants_to_give_every_american_1000/</guid>
-      <pubDate>Thu, 18 Jun 2026 21:05:42 GMT</pubDate>
+      <title>[r/artificial] [OC] 国際労働機関（ILO）のデータを用いて、中国全土の3億6200万人の労働者を対象にAIへの曝露状況をマッピングしたところ、最大のリスクは多くの人が予想する場所とは異なることがわかった</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ub3mqo/oc_i_mapped_ai_exposure_across_chinas_362_million/</link>
+      <description>&lt;p&gt;&lt;strong&gt;[OC] 国際労働機関（ILO）のデータを用いて、中国全土の3億6200万人の労働者を対象にAIへの曝露状況をマッピングしたところ、最大のリスクは多くの人が予想する場所とは異なることがわかった&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;中国の2025年の労働力に関するデータを見ていたところ、あることに驚かされました。同国で最も大きな職業グループは、専門職や工場労働者ではなく、職人および関連職種だったのです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: [OC] I mapped AI exposure across China's 362 million workers using ILO data, and the biggest risk isn't where most people expect&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ub3mqo/oc_i_mapped_ai_exposure_across_chinas_362_million/</guid>
+      <pubDate>Sat, 20 Jun 2026 18:22:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 職場で小さなライブラリのメンテナンスを始めたんだけど、これでようやく、メンテナンス担当者が音信不通になる理由が本当に理解できたよ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1u9fwfx/started_maintaining_a_small_library_at_work_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;職場で小さなライブラリのメンテナンスを始めたんだけど、これでようやく、メンテナンス担当者が音信不通になる理由が本当に理解できたよ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;1年ほど前にちょっとした社内用ユーティリティを作ったんだけど、「まあ、やってみようか」という感じでオープンソース化したんだ。10人くらいには役に立つかな、と思っていた。徐々にスターが数百個ほど集まってきて、それからイシューが寄せられ始め……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Started maintaining a small library at work and now I genuinely understand why maintainers go quiet&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u9fwfx/started_maintaining_a_small_library_at_work_and/</guid>
-      <pubDate>Thu, 18 Jun 2026 19:28:58 GMT</pubDate>
+      <title>[r/artificial] 2026年6月時点で、複数の実在する人物の実際のモデルを1つのプロンプトにまとめ、それらを混同することなく使用できる、最も優れた（有料・無料問わず）AI画像プロンプト生成ツールは何でしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ub3m7x/for_june_2026_whats_the_best_paid_and_free_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;2026年6月時点で、複数の実在する人物の実際のモデルを1つのプロンプトにまとめ、それらを混同することなく使用できる、最も優れた（有料・無料問わず）AI画像プロンプト生成ツールは何でしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;例えば、4人の友人（全員がモデルとして協力してくれることに同意してくれた）がいて、彼らの顔をモデルとして読み込み、具体的かつ複雑なプロンプトを与えたとします。その中で、プロンプトに対応しつつ、コ&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: For June 2026 what’s the best (paid and free) AI image prompt generator using actual models of multiple real people into one prompt without getting them confused with each other?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ub3m7x/for_june_2026_whats_the_best_paid_and_free_ai/</guid>
+      <pubDate>Sat, 20 Jun 2026 18:22:22 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 今週のAIニュース：MetaがLlamaのサービスを終了すると報じられているほか、Anthropicの新型モデルは発表から1週間も経たないうちに輸出規制により公開が中止され、AppleはSiriに関してGoogleと提携した。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ua8kub/this_week_in_ai_meta_reportedly_closing_llama/</link>
-      <description>&lt;p&gt;&lt;strong&gt;今週のAIニュース：MetaがLlamaのサービスを終了すると報じられているほか、Anthropicの新型モデルは発表から1週間も経たないうちに輸出規制により公開が中止され、AppleはSiriに関してGoogleと提携した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;先週のいくつかのニュースを総合すると、単なる段階的なリリースではなく、モデル層における真の転換を示唆している。その例がMetaとLlamaだ。複数の報道によると、Metaは一歩引いているようだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: This week in AI: Meta reportedly closing Llama, Anthropic's new model pulled by export controls within a week, and Apple partners with Google for Siri&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ua8kub/this_week_in_ai_meta_reportedly_closing_llama/</guid>
-      <pubDate>Fri, 19 Jun 2026 17:43:16 GMT</pubDate>
+      <title>[r/gadgets] AIの普及に伴うメモリコストの高騰により、iPhoneの価格引き上げを余儀なくされる可能性があると、ある報告書は指摘している</title>
+      <link>https://www.reddit.com/r/gadgets/comments/1ua5ujt/aidriven_memory_cost_surge_may_force_iphone_price/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIの普及に伴うメモリコストの高騰により、iPhoneの価格引き上げを余儀なくされる可能性があると、ある報告書は指摘している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Justgototheeffinmoon   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI-driven memory cost surge may force iPhone price increases, report says&lt;br&gt;ソース: r/gadgets&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/gadgets/comments/1ua5ujt/aidriven_memory_cost_surge_may_force_iphone_price/</guid>
+      <pubDate>Fri, 19 Jun 2026 15:59:49 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AMD、AIを搭載したBashコーディングエージェントを発表</title>
-      <link>https://www.reddit.com/r/artificial/comments/1u9zyx7/amd_introduces_an_aipowered_bash_coding_agent/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AMD、AIを搭載したBashコーディングエージェントを発表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Fcking_Chuck   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AMD introduces an AI-powered Bash coding agent&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u9zyx7/amd_introduces_an_aipowered_bash_coding_agent/</guid>
-      <pubDate>Fri, 19 Jun 2026 11:54:44 GMT</pubDate>
+      <title>[r/gadgets] 「Ultrahuman M2 Live」は、サブスクリプション契約がなくても、血糖値のモニタリングをより手頃な価格で利用できるようにすることを目指しています。</title>
+      <link>https://www.reddit.com/r/gadgets/comments/1u9e3ae/ultrahuman_m2_live_aims_to_make_blood_glucose/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「Ultrahuman M2 Live」は、サブスクリプション契約がなくても、血糖値のモニタリングをより手頃な価格で利用できるようにすることを目指しています。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/RenegadeUK   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Ultrahuman M2 Live aims to make blood glucose tracking more affordable, even without subscriptions&lt;br&gt;ソース: r/gadgets&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/gadgets/comments/1u9e3ae/ultrahuman_m2_live_aims_to_make_blood_glucose/</guid>
+      <pubDate>Thu, 18 Jun 2026 18:21:53 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIはハリウッドから悪役になる方法を学んだ。ここでは、そのAIを再教育する方法を紹介する。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ua6yez/ai_learned_to_be_a_villain_from_hollywood_heres/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIはハリウッドから悪役になる方法を学んだ。ここでは、そのAIを再教育する方法を紹介する。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;起業家であり、XPRIZE財団の創設者であるピーター・ディアマンディス氏とのポッドキャスト。同財団は、民間宇宙飛行をはじめ、世界が抱える最も困難な課題の解決を目指す大規模なインセンティブ型コンテストを運営している。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI learned to be a villain from Hollywood. Here's how we retrain it.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ua6yez/ai_learned_to_be_a_villain_from_hollywood_heres/</guid>
-      <pubDate>Fri, 19 Jun 2026 16:41:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIは私たちのスキルを台無しにしているのか？　初期の結果が明らかになったが、その内容は芳しくない</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uaby0l/is_ai_ruining_our_skills_early_results_are_in_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIは私たちのスキルを台無しにしているのか？　初期の結果が明らかになったが、その内容は芳しくない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/rdiohead   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Is AI ruining our skills? Early results are in — and they’re not good&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uaby0l/is_ai_ruining_our_skills_early_results_are_in_and/</guid>
-      <pubDate>Fri, 19 Jun 2026 19:53:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 2年前に予想したAIの予測で、結果的に完全に外れてしまったものは何ですか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uabnnm/whats_an_ai_prediction_you_had_2_years_ago_that/</link>
-      <description>&lt;p&gt;&lt;strong&gt;2年前に予想したAIの予測で、結果的に完全に外れてしまったものは何ですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;まず私が話します：AIはまず単純な仕事を自動化するものだと思っていました。ところが実際には、コーディングや執筆、調査といった作業を、私が予想していたよりもはるかに速いペースで支援してくれています。皆さんはどう思いますか？  &amp;#32; 投稿者：&amp;#32;  /u&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What’s an AI prediction you had 2 years ago that turned out completely wrong?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uabnnm/whats_an_ai_prediction_you_had_2_years_ago_that/</guid>
-      <pubDate>Fri, 19 Jun 2026 19:41:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] なぜAIシステムは、人間の会話に含まれる不確実性を解釈するのに、依然として苦労しているのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ua5feg/why_do_ai_systems_still_struggle_to_interpret/</link>
-      <description>&lt;p&gt;&lt;strong&gt;なぜAIシステムは、人間の会話に含まれる不確実性を解釈するのに、依然として苦労しているのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;会話型AIシステムにおいて私が常々気になっている限界の一つは、人間のコミュニケーションにおける不確実性をどのように扱うかという点です。入力が構造化されており、意図が明確な場合は良好に機能しますが、状況が複雑になると……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Why do AI systems still struggle to interpret uncertainty in human conversation?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ua5feg/why_do_ai_systems_still_struggle_to_interpret/</guid>
-      <pubDate>Fri, 19 Jun 2026 15:43:32 GMT</pubDate>
+      <title>[r/gadgets] ソニーの新型ウェアラブルエアコンは、猛暑の時期に欠かせないアイテムだ | The Independent</title>
+      <link>https://www.reddit.com/r/gadgets/comments/1uaq64d/sonys_new_wearable_air_conditioner_is_my/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ソニーの新型ウェアラブルエアコンは、猛暑の時期に欠かせないアイテムだ | The Independent&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/VoodooVillager   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Sony’s new wearable air conditioner is my non-negotiable in a heatwave | The Independent&lt;br&gt;ソース: r/gadgets&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/gadgets/comments/1uaq64d/sonys_new_wearable_air_conditioner_is_my/</guid>
+      <pubDate>Sat, 20 Jun 2026 07:21:45 GMT</pubDate>
     </item>
   </channel>
 </rss>
