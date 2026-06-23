@@ -3,37 +3,21 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-06-22</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-06-23</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Jun 2026 20:55:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 20:13:25 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (178pt) Moebius：10Bレベルの性能を持つ0.2Bの画像インペインティングモデル</title>
-      <link>https://news.ycombinator.com/item?id=48630171</link>
-      <description>&lt;p&gt;&lt;strong&gt;Moebius：10Bレベルの性能を持つ0.2Bの画像インペインティングモデル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Moebius: 0.2B image inpainting model with 10B-level performance&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48630171</guid>
-      <pubDate>Mon, 22 Jun 2026 13:53:02 GMT</pubDate>
+      <title>[Hacker News] (33pt) FUTO Swipe – 新しいスワイプ入力モデル</title>
+      <link>https://news.ycombinator.com/item?id=48648619</link>
+      <description>&lt;p&gt;&lt;strong&gt;FUTO Swipe – 新しいスワイプ入力モデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: FUTO Swipe – A new swipe typing model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48648619</guid>
+      <pubDate>Tue, 23 Jun 2026 17:50:22 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (99pt) Show HN: Oak – エージェント向けに設計されたGitの代替ツール</title>
-      <link>https://news.ycombinator.com/item?id=48631726</link>
-      <description>&lt;p&gt;&lt;strong&gt;Show HN: Oak – エージェント向けに設計されたGitの代替ツール&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: Oak – Git alternative designed for agents&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48631726</guid>
-      <pubDate>Mon, 22 Jun 2026 15:37:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (59pt) ブロガーが写真家の著作権侵害の主張を退ける</title>
-      <link>https://news.ycombinator.com/item?id=48632859</link>
-      <description>&lt;p&gt;&lt;strong&gt;ブロガーが写真家の著作権侵害の主張を退ける&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Blogger defeats photographer's copyright claim&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48632859</guid>
-      <pubDate>Mon, 22 Jun 2026 17:06:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
+      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
-      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずにひっそりと200万人の開発者を集めてきたが、木曜日にシリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Railway secures $100 million to challenge AWS with AI-native cloud infrastructure&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</guid>
@@ -43,7 +27,7 @@
       <title>[VentureBeat AI] Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、ある難点があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、ある問題点があります。それは、コストが高いということです。Anthropic社が開発したターミナルベースのAIエージェント「Claude Code」は、コードの記述、デバッグ、デプロイを自律的に行うことができますが、その機能には制限があり、&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -52,7 +36,7 @@
       <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに69Mを調達</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
       <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに69Mを調達&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アルフレッド・ヴァールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は、&lt;/p&gt;
+&lt;p&gt;アルフレッド・ヴァールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
       <pubDate>Fri, 16 Jan 2026 14:01:00 GMT</pubDate>
@@ -85,76 +69,76 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 私たちは、ユーザーがAIを受け入れる準備が整ったときだけ、AIのテストを行っていたのでしょうか</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ucvrir/did_we_only_ever_test_ai_when_the_user_was_ready/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私たちは、ユーザーがAIを受け入れる準備が整ったときだけ、AIのテストを行っていたのでしょうか&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;あらゆるベンチマークや比較、GPT対Claude対Geminiといったスレッド――何かを開いて、質問しようと思い立ち、一瞬考える時間があった。AIはすでに他の場所でも登場している。音声アシスタントは……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Did we only ever test AI when the user was ready for it&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ucvrir/did_we_only_ever_test_ai_when_the_user_was_ready/</guid>
-      <pubDate>Mon, 22 Jun 2026 20:19:55 GMT</pubDate>
+      <title>[r/artificial] Google、AIを活用した映画制作ツールの開発に向け、A24に7500万ドルを出資</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ud44pc/google_invests_75_million_in_a24_to_develop/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Google、AIを活用した映画制作ツールの開発に向け、A24に7500万ドルを出資&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ControlCAD   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Google Invests $75 Million in A24 to Develop AI-Powered Filmmaking Tools&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ud44pc/google_invests_75_million_in_a24_to_develop/</guid>
+      <pubDate>Tue, 23 Jun 2026 02:04:55 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 投資専門の弁護士が、注目を集める詐欺事件においてAIディープフェイクがどのように悪用されているかを解説</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ucpgrh/investment_lawyer_breaking_down_how_ai_deepfakes/</link>
-      <description>&lt;p&gt;&lt;strong&gt;投資専門の弁護士が、注目を集める詐欺事件においてAIディープフェイクがどのように悪用されているかを解説&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/MW2_Lobbies   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Investment lawyer breaking down how AI DeepFakes get used in high profile scams&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ucpgrh/investment_lawyer_breaking_down_how_ai_deepfakes/</guid>
-      <pubDate>Mon, 22 Jun 2026 16:30:35 GMT</pubDate>
+      <title>[r/artificial] これまでのAIの展開について、どのような点に驚かされましたか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1udlnth/what_has_surprised_you_about_how_ai_has_been/</link>
+      <description>&lt;p&gt;&lt;strong&gt;これまでのAIの展開について、どのような点に驚かされましたか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私の考えとしては、動画生成や画像生成は、私が思っていたほど画期的なものではなかったということです。自分が何を期待していたのかは分かりませんが、Soraが初めて公開されたときは、まるでまったく新しい世界が広がったような気がしました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What has surprised you about how AI has been playing out so far?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1udlnth/what_has_surprised_you_about_how_ai_has_been/</guid>
+      <pubDate>Tue, 23 Jun 2026 16:17:10 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIのせいで、授業で落第してしまうかもしれない</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ubzc6m/ai_might_make_me_fail_my_class/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIのせいで、授業で落第してしまうかもしれない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ここ数日、大学の授業のために論文を1本書き上げました。7ページで、自分の研究を裏付けるために10件の引用を盛り込みました。AIが書いた部分は0％なのに、ネット上の複数のチェックツールが「AIが書いた」と判定しています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI might make me fail my class&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ubzc6m/ai_might_make_me_fail_my_class/</guid>
-      <pubDate>Sun, 21 Jun 2026 19:47:03 GMT</pubDate>
+      <title>[r/artificial] 最初はClaudeを使っていて、その後ChatGPTに切り替えた人はいますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1udqqve/anyone_start_with_claude_then_switch_to_chatgpt/</link>
+      <description>&lt;p&gt;&lt;strong&gt;最初はClaudeを使っていて、その後ChatGPTに切り替えた人はいますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私がClaudeを本格的に使い始めたのは、これが初めて自分の考え方に本当に合っていると感じたAIだったからです。思慮深く、長文の執筆プロジェクトにも向いており、文体の調整も得意で、私がhを&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anyone start with Claude then switch to ChatGPT?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1udqqve/anyone_start_with_claude_then_switch_to_chatgpt/</guid>
+      <pubDate>Tue, 23 Jun 2026 19:21:08 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] マルチエージェント・オーケストレーション</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ucl5hs/multiagent_orchestration/</link>
-      <description>&lt;p&gt;&lt;strong&gt;マルチエージェント・オーケストレーション&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;手順：親エージェントが複数の子エージェントに並行して非同期処理を委譲する方法。  &amp;#x200B; https://github.com/siddsachar/row-bot  &amp;#32; 投稿者：&amp;#32;  /u/Acceptable-Object390   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Multi-Agent Orchestration&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ucl5hs/multiagent_orchestration/</guid>
-      <pubDate>Mon, 22 Jun 2026 13:51:03 GMT</pubDate>
+      <title>[r/artificial] 元ホワイトハウスAI顧問のディーン・ボール氏によると、中国のAIチップにおける自立は、そのほとんどが見せかけに過ぎないという。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1udmvuc/chinas_ai_chip_independence_is_mostly_theatre/</link>
+      <description>&lt;p&gt;&lt;strong&gt;元ホワイトハウスAI顧問のディーン・ボール氏によると、中国のAIチップにおける自立は、そのほとんどが見せかけに過ぎないという。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;トランプ政権のホワイトハウスでAI政策の顧問を務めた後、OpenAIの「戦略的未来」部門責任者として新たに就任したディーン・ボール氏は、中国の半導体に関する主張について鋭い指摘を行っている。その公的な姿勢は&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: China's AI chip independence is mostly theatre, according to former White House AI advisor Dean Ball.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1udmvuc/chinas_ai_chip_independence_is_mostly_theatre/</guid>
+      <pubDate>Tue, 23 Jun 2026 17:01:46 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 「これを進歩とは呼べない」：マイクロソフトのサティア・ナデラCEOがAIの力の集中に警鐘を鳴らす</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uci32k/you_cant_call_it_progress_microsoft_ceo_satya/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「これを進歩とは呼べない」：マイクロソフトのサティア・ナデラCEOがAIの力の集中に警鐘を鳴らす&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;マイクロソフトのサティア・ナデラ最高経営責任者（CEO）は、人工知能（AI）分野における権力の集中が進んでいることについて懸念を表明し、この技術の未来はごく少数のグループによって左右されるべきではないと主張した。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 'You can't call it progress': Microsoft CEO Satya Nadella warns against concentration of AI power&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uci32k/you_cant_call_it_progress_microsoft_ceo_satya/</guid>
-      <pubDate>Mon, 22 Jun 2026 11:33:25 GMT</pubDate>
+      <title>[r/artificial] AIアプリの開発は、より簡単になっているのか、それとも単に参入者が増えているだけなのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1udhifp/is_ai_app_development_becoming_easier_or_just/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIアプリの開発は、より簡単になっているのか、それとも単に参入者が増えているだけなのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIアプリの開発は、かつてないほど身近になっているように感じます。オープンソースのモデルやAPI、ノーコードツールなどが揃っているおかげで、今ではほぼ誰でもAIを活用した製品をリリースできるようになったように思えます。そこで、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Is AI app development becoming easier or just more crowded?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1udhifp/is_ai_app_development_becoming_easier_or_just/</guid>
+      <pubDate>Tue, 23 Jun 2026 13:42:39 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 労働者がAIに敗れるとき：米国政府が自動化による打撃を和らげるには</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ucw6rs/when_workers_lose_to_ai_how_the_us_government_can/</link>
-      <description>&lt;p&gt;&lt;strong&gt;労働者がAIに敗れるとき：米国政府が自動化による打撃を和らげるには&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ForeignAffairsMag   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: When Workers Lose to AI: How the U.S. Government Can Soften the Blow of Automation&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ucw6rs/when_workers_lose_to_ai_how_the_us_government_can/</guid>
-      <pubDate>Mon, 22 Jun 2026 20:35:18 GMT</pubDate>
+      <title>[r/artificial] ジェミニって、なんだかイマイチだよね……その理由を知りたかったんだけど……</title>
+      <link>https://www.reddit.com/r/artificial/comments/1udp0kd/gemini_kinda_sucks_i_wanted_to_find_out_why/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ジェミニって、なんだかイマイチだよね……その理由を知りたかったんだけど……&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;休暇中は、普段よりもずっと長く車を運転することがある。Android Autoを起動したGeminiで運転すればするほど、Android Autoを何に使うのも嫌になっていった。それに、私の最高の仕事のいくつかは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gemini kinda sucks... I wanted to find out why...&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1udp0kd/gemini_kinda_sucks_i_wanted_to_find_out_why/</guid>
+      <pubDate>Tue, 23 Jun 2026 18:18:31 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] インドのBharatGenは、AIアライアンスのオープンなフェデレーテッド・フロンティア・モデル・プロジェクトにおいて、インドの主導的役割を担うことを約束した。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uckw98/indias_bharatgen_commits_to_anchor_indias_role_in/</link>
-      <description>&lt;p&gt;&lt;strong&gt;インドのBharatGenは、AIアライアンスのオープンなフェデレーテッド・フロンティア・モデル・プロジェクトにおいて、インドの主導的役割を担うことを約束した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIアライアンスは、単一の集中型研究所ではなく、世界規模の連携開発を通じて最先端のモデルを構築するためのオープンソースプラットフォーム「プロジェクト・タペストリー」に新たな弾みがついたことを発表した。インド&amp;#3&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: India's BharatGen commits to anchor India's role in the AI Alliance's open federated frontier-model project&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uckw98/indias_bharatgen_commits_to_anchor_indias_role_in/</guid>
-      <pubDate>Mon, 22 Jun 2026 13:40:33 GMT</pubDate>
+      <title>[r/artificial] ジェミニとAIによる幻覚</title>
+      <link>https://www.reddit.com/r/artificial/comments/1udlckb/gemini_and_ai_hallucination/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ジェミニとAIによる幻覚&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;プロンプトを入力していたら、ちょうどこんなことが起こりました。これはよくあることですか？ ちょっと気味が悪いので。もし質問する前に大まかな答えを知っていなければ、その回答を信じてしまうかもしれません。  「投稿者：」  /u/TheS&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gemini and AI Hallucination&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1udlckb/gemini_and_ai_hallucination/</guid>
+      <pubDate>Tue, 23 Jun 2026 16:05:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] トップクラスのAI研究者がGoogleを退社し、OpenAIへ移籍</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ucpy0c/top_ai_researcher_leaves_google_for_openai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;トップクラスのAI研究者がGoogleを退社し、OpenAIへ移籍&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/unserious-dude   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Top AI researcher leaves Google for OpenAI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ucpy0c/top_ai_researcher_leaves_google_for_openai/</guid>
-      <pubDate>Mon, 22 Jun 2026 16:47:40 GMT</pubDate>
+      <title>[r/artificial] AIの事実確認を効率的に行うには？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1udkum0/how_to_efficiently_factcheck_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIの事実確認を効率的に行うには？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIがこれほど迅速に答えを出してくれる点は本当にありがたいです。しかし、AIの正確性、ひいては有効性については懸念を抱いています。誤った情報を大量に流し込んでしまうようなことは、本当に避けたいのです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How to efficiently fact-check AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1udkum0/how_to_efficiently_factcheck_ai/</guid>
+      <pubDate>Tue, 23 Jun 2026 15:48:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
