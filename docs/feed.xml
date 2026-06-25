@@ -3,61 +3,29 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-06-24</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-06-25</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 19:54:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 20:09:50 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (265pt) RubyLLM：主要なAIプロバイダーすべてに対応したRubyフレームワーク</title>
-      <link>https://news.ycombinator.com/item?id=48660711</link>
-      <description>&lt;p&gt;&lt;strong&gt;RubyLLM：主要なAIプロバイダーすべてに対応したRubyフレームワーク&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: RubyLLM: A Ruby framework for all major AI providers&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48660711</guid>
-      <pubDate>Wed, 24 Jun 2026 14:41:41 GMT</pubDate>
+      <title>[Hacker News] (446pt) Apple、MacBookとiPadの価格を引き上げ</title>
+      <link>https://news.ycombinator.com/item?id=48672732</link>
+      <description>&lt;p&gt;&lt;strong&gt;Apple、MacBookとiPadの価格を引き上げ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Apple raises prices of MacBooks, iPads&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48672732</guid>
+      <pubDate>Thu, 25 Jun 2026 13:02:56 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (247pt) Krea 2：SOTA オープンウェイト 12B 画像モデル</title>
-      <link>https://news.ycombinator.com/item?id=48646659</link>
-      <description>&lt;p&gt;&lt;strong&gt;Krea 2：SOTA オープンウェイト 12B 画像モデル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Krea 2: SOTA open-weights 12B image model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48646659</guid>
-      <pubDate>Tue, 23 Jun 2026 15:31:21 GMT</pubDate>
+      <title>[Hacker News] (46pt) Show HN: OpenKnowledge – ObsidianやNotionに代わる、AIを最優先としたオープンソースのツール</title>
+      <link>https://news.ycombinator.com/item?id=48675435</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN: OpenKnowledge – ObsidianやNotionに代わる、AIを最優先としたオープンソースのツール&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48675435</guid>
+      <pubDate>Thu, 25 Jun 2026 16:04:46 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (221pt) OpenAI、Broadcomが製造した初のカスタムチップを発表</title>
-      <link>https://news.ycombinator.com/item?id=48663324</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAI、Broadcomが製造した初のカスタムチップを発表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI unveils its first custom chip, built by Broadcom&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48663324</guid>
-      <pubDate>Wed, 24 Jun 2026 17:47:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (151pt) Show HN: Nub – Node.js 向けの Bun のようなオールインワンツールキット</title>
-      <link>https://news.ycombinator.com/item?id=48660267</link>
-      <description>&lt;p&gt;&lt;strong&gt;Show HN: Nub – Node.js 向けの Bun のようなオールインワンツールキット&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: Nub – A Bun-like all-in-one toolkit for Node.js&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48660267</guid>
-      <pubDate>Wed, 24 Jun 2026 14:14:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (96pt) 今日のPRスパムは、2000年代初頭のメールスパムとよく似ている</title>
-      <link>https://news.ycombinator.com/item?id=48660579</link>
-      <description>&lt;p&gt;&lt;strong&gt;今日のPRスパムは、2000年代初頭のメールスパムとよく似ている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: PR spam today looks like email spam in the early 2000s&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48660579</guid>
-      <pubDate>Wed, 24 Jun 2026 14:32:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (54pt) トマンがフェンダーを相手取り訴訟を起こした</title>
-      <link>https://news.ycombinator.com/item?id=48664384</link>
-      <description>&lt;p&gt;&lt;strong&gt;トマンがフェンダーを相手取り訴訟を起こした&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Thomann takes legal action against Fender&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48664384</guid>
-      <pubDate>Wed, 24 Jun 2026 19:08:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した</title>
+      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
-      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずにひっそりと200万人の開発者を集めてきたが、木曜日にシリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Railway secures $100 million to challenge AWS with AI-native cloud infrastructure&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</guid>
@@ -109,94 +77,76 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 私たちは、3万件のトレーニングデータ、4,600件のトランスクリプト、そして自社システムのプロンプトをくまなく調べ、幻覚のような引用文の正体を追跡しました。その結果、2つの別々のバグであることが判明しました。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ueaya4/we_chased_a_hallucinated_quote_through_30k/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私たちは、3万件のトレーニングデータ、4,600件のトランスクリプト、そして自社システムのプロンプトをくまなく調べ、幻覚のような引用文の正体を追跡しました。その結果、2つの別々のバグであることが判明しました。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;一部のお客様から、当社のオムニモーダル・ソーシャルシグナルモデル「Inter-1」が、時折、実際には存在しない発言を「聞き取ってしまう」ことがあるという指摘がありました。音声が一切入っていない動画をこのモデルに入力し、何が話されていたかを尋ねてみると、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: We chased a hallucinated quote through 30k training records, 4,600 transcripts, and our own system prompt. Turned out to be two separate bugs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ueaya4/we_chased_a_hallucinated_quote_through_30k/</guid>
-      <pubDate>Wed, 24 Jun 2026 11:32:18 GMT</pubDate>
+      <title>[r/artificial] 「クロード・フェイブル5」は、政府による13日間の放送停止措置を経て、本日放送を再開する可能性がある</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uf5pzu/claude_fable_5_may_return_today_after_13day/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「クロード・フェイブル5」は、政府による13日間の放送停止措置を経て、本日放送を再開する可能性がある&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;以下が全経緯です： -6月9日：Anthropic社が、同社史上最も高性能な公開モデル「Claude Fable 5」（安全対策が施されたMythosクラス）をリリース -6月12日：米国政府が輸出規制指令を発令し、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Fable 5 may return today after 13-day government-forced suspension&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uf5pzu/claude_fable_5_may_return_today_after_13day/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:58:37 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 安価な中国のAIモデルが、全米市場で急速に顧客を獲得している：「これで状況が一変する」</title>
-      <link>https://www.reddit.com/r/artificial/comments/1udzf0d/cheap_chinese_ai_models_are_quickly_gaining/</link>
-      <description>&lt;p&gt;&lt;strong&gt;安価な中国のAIモデルが、全米市場で急速に顧客を獲得している：「これで状況が一変する」&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/BathroomMaximum1721   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Cheap Chinese AI models are quickly gaining customers across the US market: ‘This changes things’&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1udzf0d/cheap_chinese_ai_models_are_quickly_gaining/</guid>
-      <pubDate>Wed, 24 Jun 2026 01:13:30 GMT</pubDate>
+      <title>[r/artificial] もし明日、AIがなくなったら、あなたの日常生活のどの部分に最も大きな影響が出るでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ufbt84/if_ai_disappeared_tomorrow_what_part_of_your/</link>
+      <description>&lt;p&gt;&lt;strong&gt;もし明日、AIがなくなったら、あなたの日常生活のどの部分に最も大きな影響が出るでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私なら、おそらく検索機能、ライティング支援ツール、そして生産性向上ツールですね。ちょっと気になります。皆さんは、無意識のうちに最も頻繁に使っているAI搭載のツールは何ですか？  &amp;#32; 投稿者：&amp;#32;  /&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: If AI disappeared tomorrow, what part of your daily life would be affected the most?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ufbt84/if_ai_disappeared_tomorrow_what_part_of_your/</guid>
+      <pubDate>Thu, 25 Jun 2026 14:35:22 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] センティエント財団、オープンソースAI開発者向けに42Mの助成金を交付</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uefv8p/42m_grant_for_open_source_ai_builders_by_sentient/</link>
-      <description>&lt;p&gt;&lt;strong&gt;センティエント財団、オープンソースAI開発者向けに42Mの助成金を交付&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;皆さん、こんにちは。センティエント財団では、開発者、研究者、オープンソースのメンテナー、公共財の構築者などを対象とした「オープンソースAGI助成・投資プログラム」を立ち上げ、4,200万ドルの資金を拠出することになりました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: $42M grant for Open Source AI Builders by Sentient Foundation&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uefv8p/42m_grant_for_open_source_ai_builders_by_sentient/</guid>
-      <pubDate>Wed, 24 Jun 2026 14:58:13 GMT</pubDate>
+      <title>[r/artificial] Anthropicは、中国のライバル企業であるアリババがAI機能を不正に抽出していると非難している</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uf7b0v/anthropic_accuses_chinese_rival_alibaba_of/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropicは、中国のライバル企業であるアリババがAI機能を不正に抽出していると非難している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/KingMedia33   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uf7b0v/anthropic_accuses_chinese_rival_alibaba_of/</guid>
+      <pubDate>Thu, 25 Jun 2026 11:25:52 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AI用の残りのトレーニングデータの大部分は、倉庫に保管されている磁気テープ上に保存されています。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ue6c2m/a_significant_portion_of_the_remaining_training/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI用の残りのトレーニングデータの大部分は、倉庫に保管されている磁気テープ上に保存されています。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIの学習データ不足について調べてきたのですが、誰も考慮していない点として、利用可能な潜在的な学習データの多くが、いかなるデータベースシステムにも保存されておらず、むしろ……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A significant portion of the remaining training data for AI is located on magnetic tapes stored in warehouses.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ue6c2m/a_significant_portion_of_the_remaining_training/</guid>
-      <pubDate>Wed, 24 Jun 2026 07:07:09 GMT</pubDate>
+      <title>[r/artificial] AI動画スタートアップのMidjourneyが超音波診断装置を発表</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ufgdkl/aivideo_startup_midjourney_debuts_ultrasound/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI動画スタートアップのMidjourneyが超音波診断装置を発表&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;生成型画像や動画で知られるAIスタートアップのMidjourneyが、初のハードウェアプロジェクトを発表した。CEOのデビッド・ホルツ氏は、全身用超音波スキャナー「Midjourney Scanner」を公開した。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI-video startup Midjourney debuts ultrasound machine&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ufgdkl/aivideo_startup_midjourney_debuts_ultrasound/</guid>
+      <pubDate>Thu, 25 Jun 2026 17:19:52 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 認知能力に影響を与えずにAIを活用して学ぶ方法</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uelw3e/how_i_learn_with_ai_without_affecting_my/</link>
-      <description>&lt;p&gt;&lt;strong&gt;認知能力に影響を与えずにAIを活用して学ぶ方法&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;学習やノート取りにAIを使うことについては、以前からずっと懸念を抱いていました。というのも、ノートを取るというプロセス――何が重要かを判断したり、構成を考えたりすることなど――は、私たちが物事を学び、定着させる過程の一部だからです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How I learn with AI without affecting my cognitive ability&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uelw3e/how_i_learn_with_ai_without_affecting_my/</guid>
-      <pubDate>Wed, 24 Jun 2026 18:36:14 GMT</pubDate>
+      <title>[r/artificial] Anthropicの事業停止を受け、中国のZ.aiが二市場上場を計画し、フロンティアとの差を縮める</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uf88ul/after_anthropic_shutdown_chinas_zai_closes/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropicの事業停止を受け、中国のZ.aiが二市場上場を計画し、フロンティアとの差を縮める&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;中国のAI企業Z.ai（旧Zhipu AI）は、同社の新モデル「GLM-5.2」が、コーディングおよびAIエージェントのベンチマークにおいて、OpenAIやAnthropicの最先端モデルに匹敵する性能を発揮していると発表しました。同社によれば、このモデルは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: After Anthropic shutdown, China's Z.ai closes frontier gap as it plans dual listing&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uf88ul/after_anthropic_shutdown_chinas_zai_closes/</guid>
+      <pubDate>Thu, 25 Jun 2026 12:11:40 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 流出したファイルによると、ロシアの「ソーシャル・デザイン・エージェンシー」が、AIの学習データや検索インデックスを改ざんするために、偽の参照プラットフォームを構築していたことが明らかになった。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1udvuhe/leaked_files_detail_russias_social_design_agency/</link>
-      <description>&lt;p&gt;&lt;strong&gt;流出したファイルによると、ロシアの「ソーシャル・デザイン・エージェンシー」が、AIの学習データや検索インデックスを改ざんするために、偽の参照プラットフォームを構築していたことが明らかになった。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ブルームバーグが入手した流出した計画文書によると、ソーシャル・デザイン・エージェンシー（SDA）が運営する「プロジェクト2026」と呼ばれるロシア政府系組織の活動について記述されており、その公的な目的は、イン&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Leaked files detail Russia's Social Design Agency building fake reference platforms to contaminate AI training data and search indices&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1udvuhe/leaked_files_detail_russias_social_design_agency/</guid>
-      <pubDate>Tue, 23 Jun 2026 22:37:42 GMT</pubDate>
+      <title>[r/artificial] 教育現場でAIを学習の復習ツールとして活用する際、最も厄介な点は何だと思いますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uffaow/whats_the_most_annoying_thing_about_using_ai_as_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;教育現場でAIを学習の復習ツールとして活用する際、最も厄介な点は何だと思いますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;採点基準や問題の構成が理解できないことなど、ありとあらゆる問題です。   &amp;#32; 投稿者：&amp;#32;  /u/Positive-Reference41   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What's the most annoying thing about using AI as a tool for revision in education, in your opinion?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uffaow/whats_the_most_annoying_thing_about_using_ai_as_a/</guid>
+      <pubDate>Thu, 25 Jun 2026 16:41:23 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIが作り出した架空の訴訟を提起したとして、2人の弁護士が連邦控訴裁判所から懲戒処分を受けた。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uec7x3/two_lawyers_just_got_sanctioned_by_a_federal/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIが作り出した架空の訴訟を提起したとして、2人の弁護士が連邦控訴裁判所から懲戒処分を受けた。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今月初めのロイターの記事を読んで、それが頭から離れなかった。米国の控訴裁判所は、チャットボットが生成したような、実在しない判例ばかりを羅列した意見書を提出したとして、2人の弁護士に懲戒処分を下した。その&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Two lawyers just got sanctioned by a federal appeals court for filing AI made up cases&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uec7x3/two_lawyers_just_got_sanctioned_by_a_federal/</guid>
-      <pubDate>Wed, 24 Jun 2026 12:32:14 GMT</pubDate>
+      <title>[r/artificial] ChatGPTは、いつの間にか、問題を考え抜くためのあなたの定番ツールになっていませんか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uff0w9/has_chatgpt_quietly_become_your_default_tool_for/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ChatGPTは、いつの間にか、問題を考え抜くためのあなたの定番ツールになっていませんか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1年前は、主に質問への回答や文章の書き直しにChatGPTを使っていました。ところが、最近は何か違うことに気づきました。数日前のある夜、ノートパソコンでプロジェクトの進め方を考えていたところ、何も考えずに……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Has ChatGPT quietly become your default tool for thinking through problems?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uff0w9/has_chatgpt_quietly_become_your_default_tool_for/</guid>
+      <pubDate>Thu, 25 Jun 2026 16:31:25 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] OpenAI、AIインフラの強化に向け、ブロードコムと共同開発したカスタムチップを発表</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uegmmx/openai_unveils_custom_chip_it_designed_with/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAI、AIインフラの強化に向け、ブロードコムと共同開発したカスタムチップを発表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIのエンジニアたちは、ブロードコムと共同で「Jalapeño」と呼ばれるチップを設計しました。このチップは、ユーザーのクエリに応答するためにデータを処理する「推論」と呼ばれる特定のAIタスクを実行するために開発されました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI Unveils Custom Chip It Designed With Broadcom to Boost Its AI Infrastructure&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uegmmx/openai_unveils_custom_chip_it_designed_with/</guid>
-      <pubDate>Wed, 24 Jun 2026 15:25:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] これらの新しい企業向け「AIエージェント」は、その内部構造において、どれほど独自性があるのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uem62s/how_distinct_are_all_these_new_corporate_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;これらの新しい企業向け「AIエージェント」は、その内部構造において、どれほど独自性があるのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今では、InstacartからConfluence、銀行アプリに至るまで、至る所でAIエージェントを見かけるようになりました。そこで、その裏側で実際にどのように機能しているのか気になりました。それらは、基本的にまったく同じ基盤モデルに基づいて構築されているのでしょうか。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How distinct are all these new corporate &quot;AI agents&quot; under the hood?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uem62s/how_distinct_are_all_these_new_corporate_ai/</guid>
-      <pubDate>Wed, 24 Jun 2026 18:46:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIショックを乗り切る方法：政治危機を回避するための政策ハンドブック</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uelieo/how_to_survive_the_ai_shock_a_policy_playbook_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIショックを乗り切る方法：政治危機を回避するための政策ハンドブック&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ForeignAffairsMag   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How to Survive the AI Shock: A Policy Playbook to Avert Political Crisis&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uelieo/how_to_survive_the_ai_shock_a_policy_playbook_to/</guid>
-      <pubDate>Wed, 24 Jun 2026 18:22:30 GMT</pubDate>
+      <title>[r/artificial] Linux Foundationは、AIエージェントのアイデンティティ層としてDNSを活用したいと考えている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ufesgh/linux_foundation_wants_to_use_dns_as_the_identity/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Linux Foundationは、AIエージェントのアイデンティティ層としてDNSを活用したいと考えている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Linux Foundationは、AIエージェントに検証可能なIDを提供するためのオープンスタンダードである「Agent Name Service（ANS）」を立ち上げる意向を発表した。その基本的な考え方は、既存のインターネットを再利用することにある。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Linux Foundation wants to use DNS as the identity layer for AI agents&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ufesgh/linux_foundation_wants_to_use_dns_as_the_identity/</guid>
+      <pubDate>Thu, 25 Jun 2026 16:22:55 GMT</pubDate>
     </item>
   </channel>
 </rss>
