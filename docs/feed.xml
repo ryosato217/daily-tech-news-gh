@@ -3,40 +3,24 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-06-26</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-06-27</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 26 Jun 2026 19:58:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 19:37:26 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (488pt) 次世代モデル「GPT-5.6 Sol」のプレビュー</title>
-      <link>https://news.ycombinator.com/item?id=48689028</link>
-      <description>&lt;p&gt;&lt;strong&gt;次世代モデル「GPT-5.6 Sol」のプレビュー&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Previewing GPT‑5.6 Sol: a next-generation model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48689028</guid>
-      <pubDate>Fri, 26 Jun 2026 17:06:55 GMT</pubDate>
+      <title>[Hacker News] (676pt) DSpark：推測的デコードによるLLM推論の高速化 [pdf]</title>
+      <link>https://news.ycombinator.com/item?id=48696585</link>
+      <description>&lt;p&gt;&lt;strong&gt;DSpark：推測的デコードによるLLM推論の高速化 [pdf]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: DSpark: Speculative decoding accelerates LLM inference [pdf]&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48696585</guid>
+      <pubDate>Sat, 27 Jun 2026 09:18:52 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (250pt) GPT-5.6の利用者を誰にするかは、米国政府が決定する。</title>
-      <link>https://news.ycombinator.com/item?id=48690101</link>
-      <description>&lt;p&gt;&lt;strong&gt;GPT-5.6の利用者を誰にするかは、米国政府が決定する。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: U.S. government will decide who gets to use GPT-5.6&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48690101</guid>
-      <pubDate>Fri, 26 Jun 2026 18:23:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (175pt) 脳の超音波画像診断</title>
-      <link>https://news.ycombinator.com/item?id=48685558</link>
-      <description>&lt;p&gt;&lt;strong&gt;脳の超音波画像診断&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Ultrasound imaging of the brain&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48685558</guid>
-      <pubDate>Fri, 26 Jun 2026 11:51:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (89pt) Show HN：Claude、Codex、Cursor内で直接行うスマートなモデルルーティング</title>
-      <link>https://news.ycombinator.com/item?id=48688700</link>
-      <description>&lt;p&gt;&lt;strong&gt;Show HN：Claude、Codex、Cursor内で直接行うスマートなモデルルーティング&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: Smart model routing directly in Claude, Codex and Cursor&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48688700</guid>
-      <pubDate>Fri, 26 Jun 2026 16:40:11 GMT</pubDate>
+      <title>[Hacker News] (93pt) AIが、人間には想像すらできなかったような無線チップを設計している</title>
+      <link>https://news.ycombinator.com/item?id=48660021</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが、人間には想像すらできなかったような無線チップを設計している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI Is Designing Radio Chips That Humans Couldn't Even Imagine&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48660021</guid>
+      <pubDate>Wed, 24 Jun 2026 14:02:16 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
@@ -51,7 +35,7 @@
       <title>[VentureBeat AI] Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、ある難点があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、ある問題点があります。それは、コストが高いということです。Anthropic社が開発したターミナルベースのAIエージェント「Claude Code」は、コードの記述、デバッグ、デプロイを自律的に行うことができますが、その機能には制限があり、&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -60,7 +44,7 @@
       <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに69Mを調達</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
       <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに69Mを調達&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アルフレッド・ヴァールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は……&lt;/p&gt;
+&lt;p&gt;アルフレッド・ヴァールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は、&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
       <pubDate>Fri, 16 Jan 2026 14:01:00 GMT</pubDate>
@@ -93,6 +77,60 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>[r/artificial] じゃあ、許可なくデータをスクレイピングするのは、急にAIの学習にとって良くないことになったの？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ugwccs/so_now_scraping_data_without_permission_is_bad/</link>
+      <description>&lt;p&gt;&lt;strong&gt;じゃあ、許可なくデータをスクレイピングするのは、急にAIの学習にとって良くないことになったの？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ああ……なんて皮肉な！   &amp;#32; 投稿者：&amp;#32;  /u/base64-encode   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: So now scraping data without permission is bad for AI training all of sudden?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ugwccs/so_now_scraping_data_without_permission_is_bad/</guid>
+      <pubDate>Sat, 27 Jun 2026 07:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 今なお、かなり過小評価されていると思うAIの機能はどれですか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uh6b2j/whats_one_ai_capability_you_think_is_still/</link>
+      <description>&lt;p&gt;&lt;strong&gt;今なお、かなり過小評価されていると思うAIの機能はどれですか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIがテキストや画像、コードを生成することについてはよく耳にしますが、その最も有用な機能のいくつかはあまり注目されていないように感じます。私にとって、AIは複雑な問題を分解する上で驚くほど役立っています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What's one AI capability you think is still massively underrated?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uh6b2j/whats_one_ai_capability_you_think_is_still/</guid>
+      <pubDate>Sat, 27 Jun 2026 15:55:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIの最先端分野は、政府の承認という壁に阻まれてしまった。そして、私たちのほとんどはその承認対象リストに含まれていない。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uh4han/the_ai_frontier_just_got_locked_behind_government/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIの最先端分野は、政府の承認という壁に阻まれてしまった。そして、私たちのほとんどはその承認対象リストに含まれていない。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ここ2週間の間に、テック業界以外ではほとんど注目されなかった出来事があった。Anthropic社が、同社史上最も高性能とされるモデル「Fable 5」と「Mythos 5」をリリースした。その&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The AI frontier just got locked behind government approval, and most of us aren’t on the list&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uh4han/the_ai_frontier_just_got_locked_behind_government/</guid>
+      <pubDate>Sat, 27 Jun 2026 14:41:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 他にも「機械の中の幽霊」のような気分になる人はいませんか？ AIの学習に伴う奇妙な孤立感。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uh1swn/anyone_else_feel_like_a_ghost_in_the_machine_the/</link>
+      <description>&lt;p&gt;&lt;strong&gt;他にも「機械の中の幽霊」のような気分になる人はいませんか？ AIの学習に伴う奇妙な孤立感。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私はここしばらく、AIのトレーニングやデータアノテーションの分野で働いていますが、これは間違いなく、私がこれまで関わってきた業界の中でも最も奇妙なもののひとつです。一方で、そのメリットは確かにあります。柔軟な&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anyone else feel like a ghost in the machine? The bizarre isolation of AI training.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uh1swn/anyone_else_feel_like_a_ghost_in_the_machine_the/</guid>
+      <pubDate>Sat, 27 Jun 2026 12:42:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 「AIによる人員削減」が、それを主張する企業について何を物語っているか</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ugysid/what_ai_layoffs_tell_us_about_the_companies/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「AIによる人員削減」が、それを主張する企業について何を物語っているか&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一連の「AIによる人員削減」が示唆しているのは、企業は「より優れた製品・サービスを提供する」ことよりも、「より安く提供すること」によって競争しようとしているということだ。企業の競争戦略には、主に2つの道がある。それは、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What &quot;AI Layoffs&quot; Tell Us About the Companies Claiming Them&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ugysid/what_ai_layoffs_tell_us_about_the_companies/</guid>
+      <pubDate>Sat, 27 Jun 2026 10:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ClaudeからChatGPT 5.6に切り替えるべきでしょうか？ 私がそう考えている理由を以下に説明します。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uhaawl/should_i_switch_from_claude_to_chatgpt_56_heres/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ClaudeからChatGPT 5.6に切り替えるべきでしょうか？ 私がそう考えている理由を以下に説明します。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenAIがバージョン5.6の発表を行い、私は現時点で実際に分かっている情報を整理しています。モデルは3つ：Sol、Terra、Luna。いずれもまだ公開されていないため、OpenAIが公開した情報に基づいて検討を進めています。出典：&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Should I switch from Claude to ChatGPT 5.6? Here's how I'm thinking about it.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uhaawl/should_i_switch_from_claude_to_chatgpt_56_heres/</guid>
+      <pubDate>Sat, 27 Jun 2026 18:36:25 GMT</pubDate>
+    </item>
+    <item>
       <title>[r/artificial] GoogleはトップクラスのAI研究者を次々と失っており、その競争優位性はそもそも重み付けにはなかった</title>
       <link>https://www.reddit.com/r/artificial/comments/1ugbwol/google_keeps_losing_top_ai_researchers_the_moat/</link>
       <description>&lt;p&gt;&lt;strong&gt;GoogleはトップクラスのAI研究者を次々と失っており、その競争優位性はそもそも重み付けにはなかった&lt;/strong&gt;&lt;/p&gt;
@@ -100,87 +138,6 @@
 &lt;p&gt;&lt;small&gt;原題: Google keeps losing top ai researchers, the moat was never the weights&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ugbwol/google_keeps_losing_top_ai_researchers_the_moat/</guid>
       <pubDate>Fri, 26 Jun 2026 16:38:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] オープンソースモデルの過小評価されがちな点は、それらをローカルで実行することではなく、それらを基盤としてさらに構築できるという点にある</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ug6v99/the_underrated_part_of_open_weight_models_isnt/</link>
-      <description>&lt;p&gt;&lt;strong&gt;オープンソースモデルの過小評価されがちな点は、それらをローカルで実行することではなく、それらを基盤としてさらに構築できるという点にある&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ここでの「オープン vs クローズド」という議論のほとんどは、自分のハードウェア上でそのシステムを稼働できるかどうかという点に集中しています。確かに、それが最大の魅力であることは間違いありません。しかし、見過ごされがちな点は、オープンな構成であれば、つまり……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The underrated part of open weight models isn't running them local, it's being allowed to build on top off them&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ug6v99/the_underrated_part_of_open_weight_models_isnt/</guid>
-      <pubDate>Fri, 26 Jun 2026 13:27:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Anthropicは先ごろ、同社のユーザーの35％が、12か月以内に自分の仕事の「大部分」をAIに代行してもらうことを期待しているというデータを公表した。しかし、これが実際に何を意味するのかについて、率直な議論が行われていない。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ugaq5b/anthropic_just_published_data_showing_35_of_their/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropicは先ごろ、同社のユーザーの35％が、12か月以内に自分の仕事の「大部分」をAIに代行してもらうことを期待しているというデータを公表した。しかし、これが実際に何を意味するのかについて、率直な議論が行われていない。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは本日、2026年6月の経済指数を発表したが、その調査データの中には、ニュースの見出しになるべき事実が隠されていた。回答者の3分の1以上（9,700人の実際のClaudeユーザー、以下にリンクされた&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic just published data showing 35% of their users expect AI to do MOST of their work within 12 months. We’re not having an honest conversation about what this actually means.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ugaq5b/anthropic_just_published_data_showing_35_of_their/</guid>
-      <pubDate>Fri, 26 Jun 2026 15:55:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] クロードが『World of ClaudeCraft』をプレイ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ug2wc9/claude_plays_world_of_claudecraft/</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロードが『World of ClaudeCraft』をプレイ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;2週間前、私たちは「World of ClaudeCraft」という、Claudeを使って48時間で開発した無料のオープンソース・ブラウザMMOを制作しました。そこで、この実験をさらに一歩進めることにし、Claude Codeを駆動力とするVTuberを制作しました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Plays World of ClaudeCraft&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ug2wc9/claude_plays_world_of_claudecraft/</guid>
-      <pubDate>Fri, 26 Jun 2026 10:22:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 欧州のAIによる「終末」シナリオが現実のものとなる</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ug0ojq/europes_doomsday_ai_scenario_comes_alive/</link>
-      <description>&lt;p&gt;&lt;strong&gt;欧州のAIによる「終末」シナリオが現実のものとなる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/kindermaxi123   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Europe’s doomsday AI scenario comes alive&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ug0ojq/europes_doomsday_ai_scenario_comes_alive/</guid>
-      <pubDate>Fri, 26 Jun 2026 08:14:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ソフトウェア開発と組み込みシステムの開発を行う3～4人のグループで、「Claude Team」プランの導入を検討しています。導入する価値はありますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ugd129/thinking_of_getting_claude_team_plan_for_a_group/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ソフトウェア開発と組み込みシステムの開発を行う3～4人のグループで、「Claude Team」プランの導入を検討しています。導入する価値はありますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Claude Teamは今でも最適な選択肢でしょうか？それとも、別のLLM環境をおすすめしますか？もし大幅に優れた代替案があるなら、会社に費用を負担させたくありません。Claudeは本当に気に入っているのですが……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Thinking of getting Claude Team plan for a group of 3-4 for software dev and embedded systems. Worth?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ugd129/thinking_of_getting_claude_team_plan_for_a_group/</guid>
-      <pubDate>Fri, 26 Jun 2026 17:19:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 調査対象のCIOの100％がAIの予算を計上しているというのに、なぜ世間の議論では、依然としてAIが失敗した実験であるかのように語られているのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ug1qz7/if_100_of_surveyed_cios_are_budgeting_for_ai_why/</link>
-      <description>&lt;p&gt;&lt;strong&gt;調査対象のCIOの100％がAIの予算を計上しているというのに、なぜ世間の議論では、依然としてAIが失敗した実験であるかのように語られているのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;出典：https://www.businessinsider.com/enterprise-ai-spending-grows-openai-leads-rbc-reveals-2026-6 『Business Insider』は、100人以上のCIOや技術リーダーを対象としたRBCの新たな調査について報じた。注目すべき点は：  ne&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: If 100% of surveyed CIOs are budgeting for AI, why does the public debate still sound like AI is a failed experiment?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ug1qz7/if_100_of_surveyed_cios_are_budgeting_for_ai_why/</guid>
-      <pubDate>Fri, 26 Jun 2026 09:17:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 「大手AI研究所がなぜこれほど多くの哲学者を採用しているのか。この技術は、あらゆる種類の厄介な問題をもたらす――まさに哲学者が好むような問題だ」</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ugd32y/why_big_ai_labs_are_hiring_so_many_philosophers/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「大手AI研究所がなぜこれほど多くの哲学者を採用しているのか。この技術は、あらゆる種類の厄介な問題をもたらす――まさに哲学者が好むような問題だ」&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/RADICCHI0   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: &quot;Why big AI labs are hiring so many philosophers. The technology presents all sorts of thorny problems—a philosopher’s favourite kind&quot;&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ugd32y/why_big_ai_labs_are_hiring_so_many_philosophers/</guid>
-      <pubDate>Fri, 26 Jun 2026 17:21:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ベスビオ火山の噴火で真っ黒に焦げたパピルス巻物が、AIの助けを借りて解読された</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ugb14q/papyrus_scroll_burnt_to_a_crisp_during_vesuvius/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ベスビオ火山の噴火で真っ黒に焦げたパピルス巻物が、AIの助けを借りて解読された&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/cnn   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Papyrus scroll burnt to a crisp during Vesuvius eruption deciphered with help of AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ugb14q/papyrus_scroll_burnt_to_a_crisp_during_vesuvius/</guid>
-      <pubDate>Fri, 26 Jun 2026 16:06:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 信頼性の高いAIのための分散型評価（DATA）</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uggmp3/decentralized_assessment_for_trustworthy_ai_data/</link>
-      <description>&lt;p&gt;&lt;strong&gt;信頼性の高いAIのための分散型評価（DATA）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AI企業に関しては、法的には問題ないものの、倫理的には正しくないことが時々起きていると感じたことはありませんか？それを公平かつ定量的に証明できたらいいのに、と思ったことはありませんか？&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Decentralized Assessment for Trustworthy AI (DATA)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uggmp3/decentralized_assessment_for_trustworthy_ai_data/</guid>
-      <pubDate>Fri, 26 Jun 2026 19:34:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
