@@ -3,32 +3,16 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-06-28</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-06-29</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Jun 2026 19:38:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 20:07:15 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (154pt) MRIの結果についてセカンドオピニオンを得るために、クロード・コードを利用しました</title>
-      <link>https://news.ycombinator.com/item?id=48708941</link>
-      <description>&lt;p&gt;&lt;strong&gt;MRIの結果についてセカンドオピニオンを得るために、クロード・コードを利用しました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I used Claude Code to get a second opinion on my MRI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48708941</guid>
-      <pubDate>Sun, 28 Jun 2026 16:35:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (151pt) OpenAI Codexにおける機密ファイルを除外する方法に関する問題は、依然として未解決である</title>
-      <link>https://news.ycombinator.com/item?id=48706714</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAI Codexにおける機密ファイルを除外する方法に関する問題は、依然として未解決である&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A way to exclude sensitive files issue still open for OpenAI Codex&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48706714</guid>
-      <pubDate>Sun, 28 Jun 2026 12:27:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (61pt) 「ダイスギ」――木から木を育てる日本の技法（2020年）</title>
-      <link>https://news.ycombinator.com/item?id=48708859</link>
-      <description>&lt;p&gt;&lt;strong&gt;「ダイスギ」――木から木を育てる日本の技法（2020年）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Daisugi, the Japanese technique of growing trees out of other trees (2020)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48708859</guid>
-      <pubDate>Sun, 28 Jun 2026 16:28:50 GMT</pubDate>
+      <title>[Hacker News] (63pt) Ornith-1.0：エージェント型コーディングのための自己改善型オープンソースモデル</title>
+      <link>https://news.ycombinator.com/item?id=48722052</link>
+      <description>&lt;p&gt;&lt;strong&gt;Ornith-1.0：エージェント型コーディングのための自己改善型オープンソースモデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Ornith-1.0: self-improving open-source models for agentic coding&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48722052</guid>
+      <pubDate>Mon, 29 Jun 2026 17:16:17 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した</title>
@@ -49,10 +33,10 @@
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6900万ドルを調達</title>
+      <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに69Mを調達</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
-      <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アルフレッド・ヴァールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は、&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに69Mを調達&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;アルフレッド・ヴァールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
       <pubDate>Fri, 16 Jan 2026 14:01:00 GMT</pubDate>
@@ -70,100 +54,91 @@
       <title>[VentureBeat AI] Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
       <description>&lt;p&gt;&lt;strong&gt;Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは月曜日、大ヒットした「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡張する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
+&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡大する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</guid>
       <pubDate>Mon, 12 Jan 2026 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] Nous Research社の「NousCoder-14B」は、まさに「Claude Code」ブームの真っ只中に登場したオープンソースのコーディングモデルです。</title>
+      <title>[VentureBeat AI] Nous Researchの「NousCoder-14B」は、まさに「Claude Code」ブームの真っ只中に登場したオープンソースのコーディングモデルです。</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
-      <description>&lt;p&gt;&lt;strong&gt;Nous Research社の「NousCoder-14B」は、まさに「Claude Code」ブームの真っ只中に登場したオープンソースのコーディングモデルです。&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Nous Researchの「NousCoder-14B」は、まさに「Claude Code」ブームの真っ只中に登場したオープンソースのコーディングモデルです。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;暗号資産ベンチャーキャピタル「パラダイム」の支援を受けるオープンソースAIスタートアップ「Nous Research」は月曜日、いくつかの既存のモデルと同等かそれ以上の性能を持つとする新しい競技プログラミングモデルを公開した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</guid>
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropicによる輸出禁止措置が長期化する中、アジアのAIスタートアップ各社がMythosに似たモデルを相次いで発表</title>
+      <title>[r/artificial] AIが品質基準を満たせなかったため、フォードはベテランのエンジニアを再雇用した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uiwmnm/ford_rehires_veteran_engineers_after_ai_fails_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが品質基準を満たせなかったため、フォードはベテランのエンジニアを再雇用した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Away_Theme1330   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Ford rehires veteran engineers after AI fails to meet quality standards&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uiwmnm/ford_rehires_veteran_engineers_after_ai_fails_to/</guid>
+      <pubDate>Mon, 29 Jun 2026 16:02:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] パランティアとNVIDIA、米国政府向け「ソブリンAI」の提携を拡大</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uismgu/palantir_and_nvidia_expand_sovereign_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;パランティアとNVIDIA、米国政府向け「ソブリンAI」の提携を拡大&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/andix3   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Palantir and Nvidia Expand Sovereign AI Partnership for US Government&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uismgu/palantir_and_nvidia_expand_sovereign_ai/</guid>
+      <pubDate>Mon, 29 Jun 2026 13:31:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 20社以上の出版社が、自社のコンテンツを用いてChatGPTを学習させたとして、OpenAIとマイクロソフトを提訴した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uiveao/over_20_publishers_sue_openai_microsoft_for/</link>
+      <description>&lt;p&gt;&lt;strong&gt;20社以上の出版社が、自社のコンテンツを用いてChatGPTを学習させたとして、OpenAIとマイクロソフトを提訴した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/runswithscissors475   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Over 20 publishers sue OpenAI, Microsoft for training ChatGPT with their content&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uiveao/over_20_publishers_sue_openai_microsoft_for/</guid>
+      <pubDate>Mon, 29 Jun 2026 15:17:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] もしAIの失敗が、その限界よりもむしろ私たちの欠点を浮き彫りにしているとしたら？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uiyoo8/what_if_ais_failures_reveal_our_vices_more_than/</link>
+      <description>&lt;p&gt;&lt;strong&gt;もしAIの失敗が、その限界よりもむしろ私たちの欠点を浮き彫りにしているとしたら？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;みなさん、こんにちは。AIをめぐる議論は、たいてい「AIは素晴らしい」と「AIは危険だ」の間を行き来しています。私は、もうひとつ別の視点の方が有用だと思います。もし、私たちがAIを誤用したことが、何かを明らかにしたらどうなるでしょうか。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What if AI's failures reveal our vices more than its limits?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uiyoo8/what_if_ais_failures_reveal_our_vices_more_than/</guid>
+      <pubDate>Mon, 29 Jun 2026 17:16:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 3か月間、クロード・コードのセッションをすべて録音し、エージェントにレポートを作成してもらいました</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uirk5i/i_recorded_every_claude_code_session_for_3_months/</link>
+      <description>&lt;p&gt;&lt;strong&gt;3か月間、クロード・コードのセッションをすべて録音し、エージェントにレポートを作成してもらいました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;自分の作業の進捗を見失いがちだったので、Claude Codeのセッションをすべて保存し始め、その内容を整理するためにいくつかのエージェントを作成しました。毎晩、エージェントがその日の生のセッションを1つのわかりやすいノートにまとめてくれます&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I recorded every Claude Code session for 3 months and let agents write it up for me&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uirk5i/i_recorded_every_claude_code_session_for_3_months/</guid>
+      <pubDate>Mon, 29 Jun 2026 12:47:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIエージェントに関しては、モデルの規模よりも文脈の方が重要だと感じた人は他にいますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uiy6dr/has_anyone_else_found_that_context_matters_more/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIエージェントに関しては、モデルの規模よりも文脈の方が重要だと感じた人は他にいますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIエージェントを開発している最中に、あることに気づき、本当に驚かされました。開発を始めた当初、モデルを使えばミスやツールの誤用を大幅に減らせるだろうと考えていたのですが……それが&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Has anyone else found that context matters more than model size for AI agents?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uiy6dr/has_anyone_else_found_that_context_matters_more/</guid>
+      <pubDate>Mon, 29 Jun 2026 16:57:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] CrowdStrikeの最新の脅威レポートでは、プロンプトを「新たなマルウェア」と呼んでいます。ここでは、それが実際に何を意味するのかを平易な言葉で解説し、なぜそれによってハッキングが以前よりもはるかに容易になったのかを説明します。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uiop55/crowdstrikes_latest_threat_report_calls_prompts/</link>
+      <description>&lt;p&gt;&lt;strong&gt;CrowdStrikeの最新の脅威レポートでは、プロンプトを「新たなマルウェア」と呼んでいます。ここでは、それが実際に何を意味するのかを平易な言葉で解説し、なぜそれによってハッキングが以前よりもはるかに容易になったのかを説明します。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今週、CrowdStrikeの「2026年グローバル脅威レポート」にある一節が至る所で引用されています。「プロンプトこそが新たなマルウェアである」。これは単なるマーケティングの誇張ではありません。同レポートでは、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: CrowdStrike's latest threat report calls prompts &quot;the new malware&quot;. Here's what that actually means in plain English, and why it makes hacking far easier than it used to be.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uiop55/crowdstrikes_latest_threat_report_calls_prompts/</guid>
+      <pubDate>Mon, 29 Jun 2026 10:28:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Anthropicの輸出禁止措置が長期化する中、アジアのAIスタートアップ各社がMythosに似たモデルを相次いで発表</title>
       <link>https://www.reddit.com/r/artificial/comments/1ui1wci/asian_ai_startups_launch_mythoslike_models_as/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropicによる輸出禁止措置が長期化する中、アジアのAIスタートアップ各社がMythosに似たモデルを相次いで発表&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Anthropicの輸出禁止措置が長期化する中、アジアのAIスタートアップ各社がMythosに似たモデルを相次いで発表&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/KingMedia33   [リンク] &amp;#32; [コメント]&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Asian AI startups launch Mythos-like models as Anthropic's export ban drags on&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ui1wci/asian_ai_startups_launch_mythoslike_models_as/</guid>
       <pubDate>Sun, 28 Jun 2026 16:36:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIの機能の中で、まだ意外なほど発展が遅れていると思うものは何ですか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uhz5h0/what_ai_capability_do_you_think_is_still/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIの機能の中で、まだ意外なほど発展が遅れていると思うものは何ですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ここ数年、コーディングアシスタント、画像生成、推論、音声AIの分野では飛躍的な進歩が見られました。しかし、今頃にはもっと進歩していると思っていたAIの機能として、どのようなものが挙げられますか？&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What AI capability do you think is still surprisingly underdeveloped?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uhz5h0/what_ai_capability_do_you_think_is_still/</guid>
-      <pubDate>Sun, 28 Jun 2026 14:46:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIエージェントを企業環境に導入する際の28項目のコンプライアンスチェックリスト</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ui052c/28_point_compliance_checklist_for_shipping_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIエージェントを企業環境に導入する際の28項目のコンプライアンスチェックリスト&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;エンタープライズ契約の締結を目指しているチームから、同じ質問を繰り返し受けます。「セキュリティ審査に合格するには、実際には何が必要なのでしょうか？」そこで、チェックリストを作成しました。6つのカテゴリーにわたる28項目で、それぞれが……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 28 point compliance checklist for shipping AI agents into enterprise environments&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ui052c/28_point_compliance_checklist_for_shipping_ai/</guid>
-      <pubDate>Sun, 28 Jun 2026 15:26:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] [D] AIのアラインメントは、主に取引型の報酬に基づくトレーニングではなく、「変革的な」トレーニングによって改善される可能性があるだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ui02bg/d_could_ai_alignment_benefit_from/</link>
-      <description>&lt;p&gt;&lt;strong&gt;[D] AIのアラインメントは、主に取引型の報酬に基づくトレーニングではなく、「変革的な」トレーニングによって改善される可能性があるだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIのアラインメント、報酬ハッキング、そして変革型リーダーシップの間に、どのような架け橋が築けるかについて考えていました。AIのトレーニングの多くは、単純化したレベルで見ると、行動面での取引的な性質が強いように思えます：　つまり、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: [D] Could AI alignment benefit from “transformational” training instead of mostly transactional reward training?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ui02bg/d_could_ai_alignment_benefit_from/</guid>
-      <pubDate>Sun, 28 Jun 2026 15:23:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] どのモデルが、あの有名ブランドにふさわしいと言えるでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uhyooh/which_model_is_the_most_worthy_of_the_big_names/</link>
-      <description>&lt;p&gt;&lt;strong&gt;どのモデルが、あの有名ブランドにふさわしいと言えるでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;みなさん、こんにちは！ ベンチマークの結果や不正行為など、いろいろと混乱しているので、大手メーカーのモデルの中で、どのモデルに加入するのが一番良いと思いますか？&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Which model is the most worthy of the big names?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uhyooh/which_model_is_the_most_worthy_of_the_big_names/</guid>
-      <pubDate>Sun, 28 Jun 2026 14:27:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] じゃあ、許可なくデータをスクレイピングするのは、急にAIの学習にとって良くないことになったの？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ugwccs/so_now_scraping_data_without_permission_is_bad/</link>
-      <description>&lt;p&gt;&lt;strong&gt;じゃあ、許可なくデータをスクレイピングするのは、急にAIの学習にとって良くないことになったの？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ああ……なんて皮肉な！   &amp;#32; 投稿者：&amp;#32;  /u/base64-encode   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: So now scraping data without permission is bad for AI training all of sudden?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ugwccs/so_now_scraping_data_without_permission_is_bad/</guid>
-      <pubDate>Sat, 27 Jun 2026 07:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIツールのデモと実際の日常的な利用との間で、最も大きな隔たりは何でしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uhlz6m/whats_the_biggest_gap_between_ai_tool_demos_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIツールのデモと実際の日常的な利用との間で、最も大きな隔たりは何でしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は、実際の業務フローの中で、主に執筆、調査、コンテンツ企画、そして反復的な事務作業のために、さまざまなAIツールを試してきました。そこで気づいたことの一つは、デモはたいてい見栄えがするものの、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What’s the biggest gap between AI tool demos and actual daily use?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uhlz6m/whats_the_biggest_gap_between_ai_tool_demos_and/</guid>
-      <pubDate>Sun, 28 Jun 2026 03:10:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] オープンソースの「Local-first Codex」＋Claudeデザイン</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uhvsf1/opensource_localfirst_codex_claude_design/</link>
-      <description>&lt;p&gt;&lt;strong&gt;オープンソースの「Local-first Codex」＋Claudeデザイン&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;もし「Codex」と「Claude Design」が1つのアプリに統合され、そのアプリがオープンソースだったらどうでしょう？　それがこれです。Row-Bot  &amp;#32; 投稿者：&amp;#32;  /u/Acceptable-Object390   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Open-Source Local-first Codex + Claude Design&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uhvsf1/opensource_localfirst_codex_claude_design/</guid>
-      <pubDate>Sun, 28 Jun 2026 12:15:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIのせいで、人々の文章力や明晰な思考力が低下していると思いますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uhckxv/do_you_think_ai_is_making_people_worse_at_writing/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIのせいで、人々の文章力や明晰な思考力が低下していると思いますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近では、AIを使ってメールやメッセージ、エッセイ、さらには個人的な考えまで書き上げる人がいます。時間の節約にはなりますが、その一方で、人々が自分の考えを整理したり表現したりする能力が低下してしまっているのではないか、と私は思います。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Do you think AI is making people worse at writing and thinking clearly?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uhckxv/do_you_think_ai_is_making_people_worse_at_writing/</guid>
-      <pubDate>Sat, 27 Jun 2026 20:09:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
