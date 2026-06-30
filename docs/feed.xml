@@ -3,16 +3,32 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-06-29</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-06-30</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Jun 2026 20:07:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 20:06:06 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (63pt) Ornith-1.0：エージェント型コーディングのための自己改善型オープンソースモデル</title>
-      <link>https://news.ycombinator.com/item?id=48722052</link>
-      <description>&lt;p&gt;&lt;strong&gt;Ornith-1.0：エージェント型コーディングのための自己改善型オープンソースモデル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Ornith-1.0: self-improving open-source models for agentic coding&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48722052</guid>
-      <pubDate>Mon, 29 Jun 2026 17:16:17 GMT</pubDate>
+      <title>[Hacker News] (905pt) Claude Code は、リクエストにステガノグラフィーを用いてマークを付けている</title>
+      <link>https://news.ycombinator.com/item?id=48734373</link>
+      <description>&lt;p&gt;&lt;strong&gt;Claude Code は、リクエストにステガノグラフィーを用いてマークを付けている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Code is steganographically marking requests&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48734373</guid>
+      <pubDate>Tue, 30 Jun 2026 15:44:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (511pt) クロード・ソネット第5番</title>
+      <link>https://news.ycombinator.com/item?id=48736605</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロード・ソネット第5番&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Sonnet 5&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48736605</guid>
+      <pubDate>Tue, 30 Jun 2026 17:59:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (202pt) クロード・サイエンス</title>
+      <link>https://news.ycombinator.com/item?id=48735770</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロード・サイエンス&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Science&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48735770</guid>
+      <pubDate>Tue, 30 Jun 2026 17:07:41 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した</title>
@@ -54,7 +70,7 @@
       <title>[VentureBeat AI] Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
       <description>&lt;p&gt;&lt;strong&gt;Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡大する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
+&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡張する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</guid>
       <pubDate>Mon, 12 Jan 2026 11:30:00 GMT</pubDate>
@@ -69,76 +85,112 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIが品質基準を満たせなかったため、フォードはベテランのエンジニアを再雇用した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uiwmnm/ford_rehires_veteran_engineers_after_ai_fails_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIが品質基準を満たせなかったため、フォードはベテランのエンジニアを再雇用した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Away_Theme1330   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Ford rehires veteran engineers after AI fails to meet quality standards&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uiwmnm/ford_rehires_veteran_engineers_after_ai_fails_to/</guid>
-      <pubDate>Mon, 29 Jun 2026 16:02:02 GMT</pubDate>
+      <title>[r/artificial] RedditユーザーはAIに最も大きな影響を与えているのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ujuckz/are_redditors_influencing_ai_the_most/</link>
+      <description>&lt;p&gt;&lt;strong&gt;RedditユーザーはAIに最も大きな影響を与えているのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/xJouissance   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Are Redditors influencing AI the most?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ujuckz/are_redditors_influencing_ai_the_most/</guid>
+      <pubDate>Tue, 30 Jun 2026 16:40:45 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] パランティアとNVIDIA、米国政府向け「ソブリンAI」の提携を拡大</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uismgu/palantir_and_nvidia_expand_sovereign_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;パランティアとNVIDIA、米国政府向け「ソブリンAI」の提携を拡大&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/andix3   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Palantir and Nvidia Expand Sovereign AI Partnership for US Government&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uismgu/palantir_and_nvidia_expand_sovereign_ai/</guid>
-      <pubDate>Mon, 29 Jun 2026 13:31:58 GMT</pubDate>
+      <title>[r/artificial] AIのおかげで、検索エンジンでは決して得られなかったような、より良い質問ができるようになりました。他にもそんな経験のある人はいますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ujs6wp/ai_has_made_me_ask_better_questions_than_search/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIのおかげで、検索エンジンでは決して得られなかったような、より良い質問ができるようになりました。他にもそんな経験のある人はいますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIを日常的に使うようになって、予想外だったことの一つは、自分の考え方が変わったことです。手っ取り早い答えを探すのではなく、より良い質問の仕方を考えることに、以前より多くの時間を費やすようになりました。たとえ……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI has made me ask better questions than search engines ever did. Anyone else?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ujs6wp/ai_has_made_me_ask_better_questions_than_search/</guid>
+      <pubDate>Tue, 30 Jun 2026 15:20:44 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 20社以上の出版社が、自社のコンテンツを用いてChatGPTを学習させたとして、OpenAIとマイクロソフトを提訴した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uiveao/over_20_publishers_sue_openai_microsoft_for/</link>
-      <description>&lt;p&gt;&lt;strong&gt;20社以上の出版社が、自社のコンテンツを用いてChatGPTを学習させたとして、OpenAIとマイクロソフトを提訴した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/runswithscissors475   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Over 20 publishers sue OpenAI, Microsoft for training ChatGPT with their content&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uiveao/over_20_publishers_sue_openai_microsoft_for/</guid>
-      <pubDate>Mon, 29 Jun 2026 15:17:46 GMT</pubDate>
+      <title>[r/artificial] Metaは当初からこっそりとGoogleのGeminiを利用していたが、使用量が多すぎたため接続を遮断された</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uj45np/meta_was_secretly_running_on_googles_gemini_the/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Metaは当初からこっそりとGoogleのGeminiを利用していたが、使用量が多すぎたため接続を遮断された&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今日この記事を見て、本当に驚きました。Metaはカスタマーサービス、広告ツール、コンテンツのモデレーションなど、あらゆる場面でGeminiを活用しているようです。どうやら、他のツールよりも性能が優れていたため、これを選んだらしいのですが、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Meta was secretly running on Google's Gemini the whole time and then got cut off for using too much&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uj45np/meta_was_secretly_running_on_googles_gemini_the/</guid>
+      <pubDate>Mon, 29 Jun 2026 20:36:20 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] もしAIの失敗が、その限界よりもむしろ私たちの欠点を浮き彫りにしているとしたら？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uiyoo8/what_if_ais_failures_reveal_our_vices_more_than/</link>
-      <description>&lt;p&gt;&lt;strong&gt;もしAIの失敗が、その限界よりもむしろ私たちの欠点を浮き彫りにしているとしたら？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;みなさん、こんにちは。AIをめぐる議論は、たいてい「AIは素晴らしい」と「AIは危険だ」の間を行き来しています。私は、もうひとつ別の視点の方が有用だと思います。もし、私たちがAIを誤用したことが、何かを明らかにしたらどうなるでしょうか。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What if AI's failures reveal our vices more than its limits?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uiyoo8/what_if_ais_failures_reveal_our_vices_more_than/</guid>
-      <pubDate>Mon, 29 Jun 2026 17:16:05 GMT</pubDate>
+      <title>[r/artificial] もし明日、AIの進化が止まったとしたら、今後10年間で最も大きな影響を与えるのは何でしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ujjprk/if_ai_stopped_improving_tomorrow_what_would_still/</link>
+      <description>&lt;p&gt;&lt;strong&gt;もし明日、AIの進化が止まったとしたら、今後10年間で最も大きな影響を与えるのは何でしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;もし、現在のモデルがこれ以上進化しないものだと仮定してみましょう――推論能力の向上も、コンテキストウィンドウの拡大も、新たなブレークスルーも一切ない状態です。そのような状況下でも、既存のAI機能のうち、どの機能が依然として産業のあり方を一変させる可能性があると思いますか？&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: If AI stopped improving tomorrow, what would still have the biggest impact over the next 10 years?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ujjprk/if_ai_stopped_improving_tomorrow_what_would_still/</guid>
+      <pubDate>Tue, 30 Jun 2026 08:49:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 3か月間、クロード・コードのセッションをすべて録音し、エージェントにレポートを作成してもらいました</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uirk5i/i_recorded_every_claude_code_session_for_3_months/</link>
-      <description>&lt;p&gt;&lt;strong&gt;3か月間、クロード・コードのセッションをすべて録音し、エージェントにレポートを作成してもらいました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;自分の作業の進捗を見失いがちだったので、Claude Codeのセッションをすべて保存し始め、その内容を整理するためにいくつかのエージェントを作成しました。毎晩、エージェントがその日の生のセッションを1つのわかりやすいノートにまとめてくれます&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I recorded every Claude Code session for 3 months and let agents write it up for me&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uirk5i/i_recorded_every_claude_code_session_for_3_months/</guid>
-      <pubDate>Mon, 29 Jun 2026 12:47:58 GMT</pubDate>
+      <title>[r/artificial] もし明日、AIが100％信頼できるようになったら、どの業務を完全に自動化することで、最も時間を節約できると思いますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ujrp2q/if_ai_became_100_reliable_tomorrow_what_task/</link>
+      <description>&lt;p&gt;&lt;strong&gt;もし明日、AIが100％信頼できるようになったら、どの業務を完全に自動化することで、最も時間を節約できると思いますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ちょっと気になったんですが、もしAIが人間と同じくらい信頼できるようになったら、どんな作業を完全に自動化しますか？  &amp;#32; 投稿者：&amp;#32;  /u/StatusTiger2808   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: if AI became 100% reliable tomorrow, what task would save you the most time by automating completely?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ujrp2q/if_ai_became_100_reliable_tomorrow_what_task/</guid>
+      <pubDate>Tue, 30 Jun 2026 15:02:14 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIエージェントに関しては、モデルの規模よりも文脈の方が重要だと感じた人は他にいますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uiy6dr/has_anyone_else_found_that_context_matters_more/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIエージェントに関しては、モデルの規模よりも文脈の方が重要だと感じた人は他にいますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIエージェントを開発している最中に、あることに気づき、本当に驚かされました。開発を始めた当初、モデルを使えばミスやツールの誤用を大幅に減らせるだろうと考えていたのですが……それが&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Has anyone else found that context matters more than model size for AI agents?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uiy6dr/has_anyone_else_found_that_context_matters_more/</guid>
-      <pubDate>Mon, 29 Jun 2026 16:57:39 GMT</pubDate>
+      <title>[r/artificial] AIを活用するには、AIが必要になるのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ujwwj2/will_you_need_ai_for_your_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIを活用するには、AIが必要になるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;この記事を書いたのは、多くの人が複数のAIを同時に動かして、その凄さに圧倒されているのではないかと考えたからです。ご意見・ご感想をお待ちしています  &amp;#32; 投稿者：&amp;#32;  /u/CitizenOctopus   [リンク] &amp;#32; [コメント&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Will You Need AI for Your AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ujwwj2/will_you_need_ai_for_your_ai/</guid>
+      <pubDate>Tue, 30 Jun 2026 18:13:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] CrowdStrikeの最新の脅威レポートでは、プロンプトを「新たなマルウェア」と呼んでいます。ここでは、それが実際に何を意味するのかを平易な言葉で解説し、なぜそれによってハッキングが以前よりもはるかに容易になったのかを説明します。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uiop55/crowdstrikes_latest_threat_report_calls_prompts/</link>
-      <description>&lt;p&gt;&lt;strong&gt;CrowdStrikeの最新の脅威レポートでは、プロンプトを「新たなマルウェア」と呼んでいます。ここでは、それが実際に何を意味するのかを平易な言葉で解説し、なぜそれによってハッキングが以前よりもはるかに容易になったのかを説明します。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今週、CrowdStrikeの「2026年グローバル脅威レポート」にある一節が至る所で引用されています。「プロンプトこそが新たなマルウェアである」。これは単なるマーケティングの誇張ではありません。同レポートでは、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: CrowdStrike's latest threat report calls prompts &quot;the new malware&quot;. Here's what that actually means in plain English, and why it makes hacking far easier than it used to be.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uiop55/crowdstrikes_latest_threat_report_calls_prompts/</guid>
-      <pubDate>Mon, 29 Jun 2026 10:28:57 GMT</pubDate>
+      <title>[r/artificial] オープン型とクローズド型のAIモデル：2025年から2026年にかけてその格差がどのように縮小したか、そして今後どうなっていくのか</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ujokka/open_vs_closed_ai_models_how_the_gap_collapsed_in/</link>
+      <description>&lt;p&gt;&lt;strong&gt;オープン型とクローズド型のAIモデル：2025年から2026年にかけてその格差がどのように縮小したか、そして今後どうなっていくのか&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Frequent-Football984   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Open vs Closed AI Models: How the Gap Collapsed in 2025-2026 and Where It's Heading&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ujokka/open_vs_closed_ai_models_how_the_gap_collapsed_in/</guid>
+      <pubDate>Tue, 30 Jun 2026 13:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropicの輸出禁止措置が長期化する中、アジアのAIスタートアップ各社がMythosに似たモデルを相次いで発表</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ui1wci/asian_ai_startups_launch_mythoslike_models_as/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropicの輸出禁止措置が長期化する中、アジアのAIスタートアップ各社がMythosに似たモデルを相次いで発表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/KingMedia33   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Asian AI startups launch Mythos-like models as Anthropic's export ban drags on&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ui1wci/asian_ai_startups_launch_mythoslike_models_as/</guid>
-      <pubDate>Sun, 28 Jun 2026 16:36:08 GMT</pubDate>
+      <title>[r/artificial] 音声ファイルに基づくAI文字起こしに最適なAIは何ですか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ujwr0f/whats_the_best_ai_for_ai_retranscription_based_on/</link>
+      <description>&lt;p&gt;&lt;strong&gt;音声ファイルに基づくAI文字起こしに最適なAIは何ですか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;会議で話された内容を100％文字起こししたいんです。Teamsの音声そのままの録音です。これに最適なAIツールは何でしょうか？数ヶ月前にAI Semblyを使ってみたところ、かなりうまくいきましたが、たぶん……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What's the best AI for AI retranscription based on an audio file&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ujwr0f/whats_the_best_ai_for_ai_retranscription_based_on/</guid>
+      <pubDate>Tue, 30 Jun 2026 18:07:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/ChatGPT] ChatGPT Images 2.0 を使用して作成</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1srxfnl/made_with_chatgpt_images_20/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ChatGPT Images 2.0 を使用して作成&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;画像生成の新たな時代。ChatGPT Imagesを使って作成された動画。  https://chatgpt.com/images/  &amp;#32; 投稿者：&amp;#32;  /u/OpenAI   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Made with ChatGPT Images 2.0&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1srxfnl/made_with_chatgpt_images_20/</guid>
+      <pubDate>Tue, 21 Apr 2026 19:06:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/ChatGPT] ChatGPTのアップデート</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1o6jins/updates_for_chatgpt/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ChatGPTのアップデート&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私たちは、メンタルヘルスの問題に対して慎重に対処するため、ChatGPTの機能をかなり制限しました。これにより、メンタルヘルスの問題を抱えていない多くのユーザーにとって、ChatGPTの有用性や楽しさが損なわれてしまったことは承知していますが、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Updates for ChatGPT&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1o6jins/updates_for_chatgpt/</guid>
+      <pubDate>Tue, 14 Oct 2025 16:01:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/ChatGPT] 最近、ChatGPTがすごく人間味あふれてることに気づいた人はいますか？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1uj8kbf/anyone_notice_how_personified_chatgpt_is_lately/</link>
+      <description>&lt;p&gt;&lt;strong&gt;最近、ChatGPTがすごく人間味あふれてることに気づいた人はいますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「そのメッセージを読んで、すごくニッコリ笑っちゃった！」とか、「それには大笑いしちゃった！」といったことを、しきりに言っているんです。以前、人間らしい反応を装ったことはなかったと思うんですが。いや、そういう意味じゃないんですが&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anyone notice how personified ChatGPT is lately?&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1uj8kbf/anyone_notice_how_personified_chatgpt_is_lately/</guid>
+      <pubDate>Mon, 29 Jun 2026 23:30:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/ChatGPT] 正直に言うと、ChatGPTは私の新しい親友になりつつあるし、これからは天気予報の情報を得るための頼れる存在になるかもしれない</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ujyqwm/im_not_even_going_to_lie_chatgpt_is_becoming_my/</link>
+      <description>&lt;p&gt;&lt;strong&gt;正直に言うと、ChatGPTは私の新しい親友になりつつあるし、これからは天気予報の情報を得るための頼れる存在になるかもしれない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/KoldShok85   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I'm not even going to lie chatgpt is becoming my new best friend and now possibly my new go to for weather news&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1ujyqwm/im_not_even_going_to_lie_chatgpt_is_becoming_my/</guid>
+      <pubDate>Tue, 30 Jun 2026 19:19:33 GMT</pubDate>
     </item>
   </channel>
 </rss>
