@@ -3,24 +3,24 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-01</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-02</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Jul 2026 20:03:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 19:40:51 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (322pt) Box3D：オープンソースの3D物理エンジン</title>
-      <link>https://news.ycombinator.com/item?id=48745445</link>
-      <description>&lt;p&gt;&lt;strong&gt;Box3D：オープンソースの3D物理エンジン&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Box3D, an open source 3D physics engine&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48745445</guid>
-      <pubDate>Wed, 01 Jul 2026 12:12:17 GMT</pubDate>
+      <title>[Hacker News] (293pt) スペイン、官民企業に対しパランティアのブラックリスト化を指示</title>
+      <link>https://news.ycombinator.com/item?id=48762725</link>
+      <description>&lt;p&gt;&lt;strong&gt;スペイン、官民企業に対しパランティアのブラックリスト化を指示&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Spain Orders Blacklist of Palantir from Public and Private Companies&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48762725</guid>
+      <pubDate>Thu, 02 Jul 2026 15:02:26 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (93pt) ZCode：GLMの開発元による「Claude Code」</title>
-      <link>https://news.ycombinator.com/item?id=48751752</link>
-      <description>&lt;p&gt;&lt;strong&gt;ZCode：GLMの開発元による「Claude Code」&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: ZCode: Claude Code from the Makers of GLM&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48751752</guid>
-      <pubDate>Wed, 01 Jul 2026 19:11:38 GMT</pubDate>
+      <title>[Hacker News] (285pt) 最高裁、特許出願においてAIを発明者として記載することはできないとの判断を下す</title>
+      <link>https://news.ycombinator.com/item?id=48761536</link>
+      <description>&lt;p&gt;&lt;strong&gt;最高裁、特許出願においてAIを発明者として記載することはできないとの判断を下す&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI can't be listed as inventor on patent applications, Japan's top court rules&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48761536</guid>
+      <pubDate>Thu, 02 Jul 2026 13:43:41 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した</title>
@@ -44,7 +44,7 @@
       <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに69Mを調達</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
       <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに69Mを調達&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アルフレッド・ヴァールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は……&lt;/p&gt;
+&lt;p&gt;アルフレッド・ワールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は、&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
       <pubDate>Fri, 16 Jan 2026 14:01:00 GMT</pubDate>
@@ -77,76 +77,85 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>[r/artificial] FT紙によると、OpenAIはトランプ政権に同社の株式5％を譲渡する交渉を行っているという</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ulqgre/openai_in_talks_to_give_trump_administration_a_5/</link>
+      <description>&lt;p&gt;&lt;strong&gt;FT紙によると、OpenAIはトランプ政権に同社の株式5％を譲渡する交渉を行っているという&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI in talks to give Trump administration a 5% stake in the company, FT reports&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ulqgre/openai_in_talks_to_give_trump_administration_a_5/</guid>
+      <pubDate>Thu, 02 Jul 2026 18:31:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIの未来は、「安全なバージョン」と「無修正バージョン」に分かれていくと思いますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ulc2zs/do_you_think_the_future_of_ai_will_split_into/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIの未来は、「安全なバージョン」と「無修正バージョン」に分かれていくと思いますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;現在、明確な二極化が見られます。大企業は、モデルの機能を制限し、安全性を重視した設計を進めています。一方で、オープンソースで検閲のないモデルは急速に普及しています。その理由は、多くの&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Do you think the future of AI will split into safe vs uncensored versions?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ulc2zs/do_you_think_the_future_of_ai_will_split_into/</guid>
+      <pubDate>Thu, 02 Jul 2026 08:11:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 新しいFable 5 AIモデルをお試しください（試用用に10ドルの無料クレジットを獲得）</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ulsa0e/try_out_the_new_fable_5_ai_model_get_a_10_free/</link>
+      <description>&lt;p&gt;&lt;strong&gt;新しいFable 5 AIモデルをお試しください（試用用に10ドルの無料クレジットを獲得）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最新のAIモデルを試してみたいという方には、今が絶好のチャンスです。まったく新しい「Fable 5」モデルを無料で試すことができます。このプラットフォームでは現在、素晴らしいキャンペーンを実施しており、新規ユーザー向けに……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Try out the new Fable 5 AI model (Get a $10 free credit to test it)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ulsa0e/try_out_the_new_fable_5_ai_model_get_a_10_free/</guid>
+      <pubDate>Thu, 02 Jul 2026 19:38:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIのせいで、実際には進捗がないのに、生産的だと錯覚してしまうことはありますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ulifas/does_ai_sometimes_make_you_feel_productive/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIのせいで、実際には進捗がないのに、生産的だと錯覚してしまうことはありますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIを使うことによる、ちょっと奇妙なデメリットについて考えていました。答えがすぐに得られたり、要約が瞬時に作成されたり、数秒で整った下書きができたりすると、生産的になったような気分になることがあります。しかし、後になって気づくのです。私は……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Does AI sometimes make you feel productive without actually making progress?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ulifas/does_ai_sometimes_make_you_feel_productive/</guid>
+      <pubDate>Thu, 02 Jul 2026 13:33:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] CollegeConnekt Passport：会話の内容を、Common Appのプロフィール（課外活動、エッセイ、志望校リスト）のすべてに自動生成するAI</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ulryuj/collegeconnekt_passport_ai_that_turns_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;CollegeConnekt Passport：会話の内容を、Common Appのプロフィール（課外活動、エッセイ、志望校リスト）のすべてに自動生成するAI&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;このAIアプリケーションの活用事例を考えると、ここで紹介するのも面白いかもしれないと思いました。CollegeConnekt Passport（https://collegeconnekt.com/）は、大学出願を目指す高校生向けの対話型AIツールで、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: CollegeConnekt Passport: AI that turns a conversation into a full Common App profile (activities, essays, college list)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ulryuj/collegeconnekt_passport_ai_that_turns_a/</guid>
+      <pubDate>Thu, 02 Jul 2026 19:26:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AI検証システムを構築する中で、最も意外だったのはAIそのものではなかった。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ulrs3l/the_biggest_surprise_while_building_an_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI検証システムを構築する中で、最も意外だったのはAIそのものではなかった。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ここ数週間、AIが生成した財務関連の主張を原資料と照合するプロトタイプを開発してきました。最も難しい部分は言語モデルだと思っていましたが、そうではありませんでした。その&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The biggest surprise while building an AI verification system wasn't the AI.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ulrs3l/the_biggest_surprise_while_building_an_ai/</guid>
+      <pubDate>Thu, 02 Jul 2026 19:19:31 GMT</pubDate>
+    </item>
+    <item>
       <title>[r/artificial] 「Claude Code」の大惨事：中国語でプロンプトを入力中にプロジェクト全体が再帰的に削除される（動画・ログ全文）</title>
       <link>https://www.reddit.com/r/artificial/comments/1ukq4br/claude_code_catastrophe_entire_project/</link>
       <description>&lt;p&gt;&lt;strong&gt;「Claude Code」の大惨事：中国語でプロンプトを入力中にプロジェクト全体が再帰的に削除される（動画・ログ全文）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;より多くの人の目に留まるよう、r/claude から転載しました。Claude Code が、私のローカルにある Electron プロジェクトのルートディレクトリの内容を再帰的に消去してしまいました。これは、Orph という名前のプロジェクトに取り組んでいた際、Windows のターミナルで発生しました。&lt;/p&gt;
+&lt;p&gt;より多くの人の目に留まるよう、r/claude から転載しました。最終更新：その後、Electron のパッケージ化されたビルド／アップデーターのキャッシュ／app.asar からコードを復元することに成功しました。しかし、復元できたこと自体は、ボットが……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code catastrophe: Entire project recursively deleted while prompting in Chinese (full video + logs)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ukq4br/claude_code_catastrophe_entire_project/</guid>
       <pubDate>Wed, 01 Jul 2026 16:13:36 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 自動定理証明が、ニッチなツールから、実際の数学の問題を解決する手段へと進化している様子を見るのは素晴らしいことです</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uknhui/its_great_to_see_how_automated_theorem_proving_is/</link>
-      <description>&lt;p&gt;&lt;strong&gt;自動定理証明が、ニッチなツールから、実際の数学の問題を解決する手段へと進化している様子を見るのは素晴らしいことです&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;以前は、形式手法やLean 4のような対話型定理証明器は、基本的には型理論の純粋主義者たちのための「エクストリームスポーツ」に過ぎないと思っていました。理論的にはクールですが、主に学部生の課題を再検証するために使われているようなものでした。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: It's great to see how automated theorem proving is moving from a niche tool to solving real math problems&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uknhui/its_great_to_see_how_automated_theorem_proving_is/</guid>
-      <pubDate>Wed, 01 Jul 2026 14:37:15 GMT</pubDate>
+      <title>[r/artificial] ORBIS - デイリー・ブリーフィング</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ulq5bc/orbis_daily_briefing/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ORBIS - デイリー・ブリーフィング&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/CarterBirchll   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: ORBIS - Daily Briefing&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ulq5bc/orbis_daily_briefing/</guid>
+      <pubDate>Thu, 02 Jul 2026 18:20:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 皆さんの日常生活に、いつの間にか溶け込んでいるAI機能は何かありますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ukld2m/whats_one_ai_feature_that_quietly_became_part_of/</link>
-      <description>&lt;p&gt;&lt;strong&gt;皆さんの日常生活に、いつの間にか溶け込んでいるAI機能は何かありますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;画像を生成したり、エッセイを書いたりするような派手な機能のことではありません。私が言っているのは、もはや当たり前になってしまい、ほとんど意識することのない機能のことです。私にとっては、長い文章を要約する機能です。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What's one AI feature that quietly became part of your daily routine?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ukld2m/whats_one_ai_feature_that_quietly_became_part_of/</guid>
-      <pubDate>Wed, 01 Jul 2026 13:13:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] RedditユーザーはAIに最も大きな影響を与えているのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ujuckz/are_redditors_influencing_ai_the_most/</link>
-      <description>&lt;p&gt;&lt;strong&gt;RedditユーザーはAIに最も大きな影響を与えているのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/xJouissance   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Are Redditors influencing AI the most?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ujuckz/are_redditors_influencing_ai_the_most/</guid>
-      <pubDate>Tue, 30 Jun 2026 16:40:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] なぜ、大手LLMプロバイダーは、文字通りプロンプトのキャッシュ機能を隠しているように感じるのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ukpj5f/why_does_it_feel_like_big_llm_providers_are/</link>
-      <description>&lt;p&gt;&lt;strong&gt;なぜ、大手LLMプロバイダーは、文字通りプロンプトのキャッシュ機能を隠しているように感じるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;その情報は確かにあるのは分かっています。価格ページやドキュメント、あるいはAPIの注意事項のどこかに。しかし、本番環境での支払額に重大な影響を与えかねない事項であるにもかかわらず、説明が妙に不十分です。特に他の&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Why does it feel like big LLM providers are literally hiding prompt caching?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ukpj5f/why_does_it_feel_like_big_llm_providers_are/</guid>
-      <pubDate>Wed, 01 Jul 2026 15:52:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIは実際にあなたの買い物の仕方を変えたのでしょうか、それともそれほど変わっていないのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ukvozz/has_ai_actually_changed_how_you_shop_or_not_really/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIは実際にあなたの買い物の仕方を変えたのでしょうか、それともそれほど変わっていないのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今や、あらゆるAIツールがショッピングの手助けをしようとしています（ChatGPT、Perplexity、Gemini、Alexa for Shoppingなど）。私も次々と試してはいますが、結局はいつものAmazonに戻ってしまいます。このコミュニティの皆さんはどうお考えでしょうか？ これらのツールの中で、本当に役立つものはあるのでしょうか？&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Has AI actually changed how you shop, or not really?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ukvozz/has_ai_actually_changed_how_you_shop_or_not_really/</guid>
-      <pubDate>Wed, 01 Jul 2026 19:36:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 2025年4月18日、AIに何が起きたのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ukucjh/what_happened_to_ai_on_april_18_2025/</link>
-      <description>&lt;p&gt;&lt;strong&gt;2025年4月18日、AIに何が起きたのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は、米国の成人を対象に、人工知能のさらなる開発を支持するかどうかを尋ねる定期的な調査を実施しています。AIへの支持率*は、2024年4月から2025年4月18日にかけて上昇し、転換点を迎え、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What happened to AI on April 18, 2025?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ukucjh/what_happened_to_ai_on_april_18_2025/</guid>
-      <pubDate>Wed, 01 Jul 2026 18:48:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 訴訟によると、ガス大手各社はAIを活用して価格を引き上げているという。これは、生活費にさらなるアルゴリズムによる打撃となる。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ukt7jy/gas_giants_use_ai_to_raise_prices_lawsuit_says/</link>
-      <description>&lt;p&gt;&lt;strong&gt;訴訟によると、ガス大手各社はAIを活用して価格を引き上げているという。これは、生活費にさらなるアルゴリズムによる打撃となる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;カリフォルニア州のドライバーらが提起した新たな連邦訴訟では、ウォルマートやセブン-イレブンなどの大手ガソリンチェーンや、テクノロジー企業のカリブレートが、AIソフトウェアを用いて共謀し、ガソリン価格を人為的に高止まりさせていると非難している。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gas giants use AI to raise prices, lawsuit says, another algorithmic hit to the cost of living&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ukt7jy/gas_giants_use_ai_to_raise_prices_lawsuit_says/</guid>
-      <pubDate>Wed, 01 Jul 2026 18:07:16 GMT</pubDate>
+      <title>[r/artificial] 約4.5か月かけて、無料のセルフホスト型AIゲートウェイを構築しました。237のプロバイダー（うち90以上が無料）に対応した単一のエンドポイント、自動フォールバック機能、およびトークン圧縮パイプライン（MITライセンス）を備えています。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ulotbw/i_spent_45_months_building_a_free_selfhosted_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;約4.5か月かけて、無料のセルフホスト型AIゲートウェイを構築しました。237のプロバイダー（うち90以上が無料）に対応した単一のエンドポイント、自動フォールバック機能、およびトークン圧縮パイプライン（MITライセンス）を備えています。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;約4.5か月かけて開発したオープンソースプロジェクトをご紹介します（開示：私はこのプロジェクトのメンテナーです。自己宣伝のルールに従い、リンクは最初のコメント欄に載せ、この投稿はサブに設定しています）。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I spent ~4.5 months building a free, self-hosted AI gateway: one endpoint for 237 providers (90+ free), auto-fallback, and a token-compression pipeline (MIT)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ulotbw/i_spent_45_months_building_a_free_selfhosted_ai/</guid>
+      <pubDate>Thu, 02 Jul 2026 17:32:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
