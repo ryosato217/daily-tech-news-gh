@@ -3,29 +3,29 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-02</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-03</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 19:40:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 19:38:00 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (293pt) スペイン、官民企業に対しパランティアのブラックリスト化を指示</title>
-      <link>https://news.ycombinator.com/item?id=48762725</link>
-      <description>&lt;p&gt;&lt;strong&gt;スペイン、官民企業に対しパランティアのブラックリスト化を指示&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Spain Orders Blacklist of Palantir from Public and Private Companies&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48762725</guid>
-      <pubDate>Thu, 02 Jul 2026 15:02:26 GMT</pubDate>
+      <title>[Hacker News] (151pt) JamesobによるSOTA LLMのローカル実行ガイド</title>
+      <link>https://news.ycombinator.com/item?id=48775921</link>
+      <description>&lt;p&gt;&lt;strong&gt;JamesobによるSOTA LLMのローカル実行ガイド&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Jamesob's guide to running SOTA LLMs locally&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48775921</guid>
+      <pubDate>Fri, 03 Jul 2026 15:03:43 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (285pt) 最高裁、特許出願においてAIを発明者として記載することはできないとの判断を下す</title>
-      <link>https://news.ycombinator.com/item?id=48761536</link>
-      <description>&lt;p&gt;&lt;strong&gt;最高裁、特許出願においてAIを発明者として記載することはできないとの判断を下す&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI can't be listed as inventor on patent applications, Japan's top court rules&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48761536</guid>
-      <pubDate>Thu, 02 Jul 2026 13:43:41 GMT</pubDate>
+      <title>[Hacker News] (58pt) 私の父は北米のオート麦のサプライチェーンの構築に貢献した：そのサプライチェーンは再構築できるのだろうか？</title>
+      <link>https://news.ycombinator.com/item?id=48732870</link>
+      <description>&lt;p&gt;&lt;strong&gt;私の父は北米のオート麦のサプライチェーンの構築に貢献した：そのサプライチェーンは再構築できるのだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: My dad helped build North America's oat supply chain: Can it be remade?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48732870</guid>
+      <pubDate>Tue, 30 Jun 2026 14:00:51 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した</title>
+      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
-      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずにひっそりと200万人の開発者を集めてきたが、木曜日にシリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Railway secures $100 million to challenge AWS with AI-native cloud infrastructure&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</guid>
@@ -41,19 +41,19 @@
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに69Mを調達</title>
+      <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6900万ドルを調達</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
-      <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに69Mを調達&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アルフレッド・ワールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は、&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;アルフレッド・ワールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
       <pubDate>Fri, 16 Jan 2026 14:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。</title>
+      <title>[VentureBeat AI] Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
-      <description>&lt;p&gt;&lt;strong&gt;Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」を全面的に刷新したバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、経営陣が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」の全面的に刷新されたバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、経営陣が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -62,7 +62,7 @@
       <title>[VentureBeat AI] Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
       <description>&lt;p&gt;&lt;strong&gt;Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡大する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
+&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡張する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</guid>
       <pubDate>Mon, 12 Jan 2026 11:30:00 GMT</pubDate>
@@ -77,85 +77,58 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] FT紙によると、OpenAIはトランプ政権に同社の株式5％を譲渡する交渉を行っているという</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ulqgre/openai_in_talks_to_give_trump_administration_a_5/</link>
-      <description>&lt;p&gt;&lt;strong&gt;FT紙によると、OpenAIはトランプ政権に同社の株式5％を譲渡する交渉を行っているという&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI in talks to give Trump administration a 5% stake in the company, FT reports&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ulqgre/openai_in_talks_to_give_trump_administration_a_5/</guid>
-      <pubDate>Thu, 02 Jul 2026 18:31:33 GMT</pubDate>
+      <title>[r/artificial] ジョディ・フォスター、ブラッド・ピット主演の『F1』について「まるでAIが制作し、コンピューターが脚本を書いたようだった」と発言：「そうじゃなかった？」</title>
+      <link>https://www.reddit.com/r/artificial/comments/1um52w9/jodie_foster_says_brad_pitts_f1_seemed_like_it/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ジョディ・フォスター、ブラッド・ピット主演の『F1』について「まるでAIが制作し、コンピューターが脚本を書いたようだった」と発言：「そうじゃなかった？」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;gt;「これはけなすつもりじゃないわ――そんなことできるわけないでしょ？　この映画は結局、数百万ドルの興行収入を上げたんだから。でも『F1』みたいな映画を見ると、『F1』はAIが作ったんだな、って思っちゃうの」と、彼女はコロで笑いながら語った。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Jodie Foster Says Brad Pitt’s ‘F1’ Seemed Like It Was Made by AI and Written by a Computer: &quot;Wasn’t It?&quot;&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1um52w9/jodie_foster_says_brad_pitts_f1_seemed_like_it/</guid>
+      <pubDate>Fri, 03 Jul 2026 05:06:29 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIの未来は、「安全なバージョン」と「無修正バージョン」に分かれていくと思いますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ulc2zs/do_you_think_the_future_of_ai_will_split_into/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIの未来は、「安全なバージョン」と「無修正バージョン」に分かれていくと思いますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;現在、明確な二極化が見られます。大企業は、モデルの機能を制限し、安全性を重視した設計を進めています。一方で、オープンソースで検閲のないモデルは急速に普及しています。その理由は、多くの&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Do you think the future of AI will split into safe vs uncensored versions?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ulc2zs/do_you_think_the_future_of_ai_will_split_into/</guid>
-      <pubDate>Thu, 02 Jul 2026 08:11:29 GMT</pubDate>
+      <title>[r/artificial] 能動型AIの説明方法</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ummly7/how_to_explain_agentic_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;能動型AIの説明方法&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/whenyoupeeupsidedown   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How to explain agentic AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ummly7/how_to_explain_agentic_ai/</guid>
+      <pubDate>Fri, 03 Jul 2026 18:44:07 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 新しいFable 5 AIモデルをお試しください（試用用に10ドルの無料クレジットを獲得）</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ulsa0e/try_out_the_new_fable_5_ai_model_get_a_10_free/</link>
-      <description>&lt;p&gt;&lt;strong&gt;新しいFable 5 AIモデルをお試しください（試用用に10ドルの無料クレジットを獲得）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最新のAIモデルを試してみたいという方には、今が絶好のチャンスです。まったく新しい「Fable 5」モデルを無料で試すことができます。このプラットフォームでは現在、素晴らしいキャンペーンを実施しており、新規ユーザー向けに……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Try out the new Fable 5 AI model (Get a $10 free credit to test it)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ulsa0e/try_out_the_new_fable_5_ai_model_get_a_10_free/</guid>
-      <pubDate>Thu, 02 Jul 2026 19:38:22 GMT</pubDate>
+      <title>[r/artificial] なぜAIは長ダッシュ（—）を好むのでしょうか？？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1um1gd5/why_does_ai_love_the_em_dash/</link>
+      <description>&lt;p&gt;&lt;strong&gt;なぜAIは長ダッシュ（—）を好むのでしょうか？？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIが長ダッシュを乗っ取ってしまったという事実がどうしても受け入れられない。私の一番お気に入りの句読点だったのに、今やそれがAI使用の明らかな証拠になってしまった。今では、ついハイフンや半ダッシュに変えてしまう自分に気づく。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Why does AI love the em dash (—)??&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1um1gd5/why_does_ai_love_the_em_dash/</guid>
+      <pubDate>Fri, 03 Jul 2026 02:06:22 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIのせいで、実際には進捗がないのに、生産的だと錯覚してしまうことはありますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ulifas/does_ai_sometimes_make_you_feel_productive/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIのせいで、実際には進捗がないのに、生産的だと錯覚してしまうことはありますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIを使うことによる、ちょっと奇妙なデメリットについて考えていました。答えがすぐに得られたり、要約が瞬時に作成されたり、数秒で整った下書きができたりすると、生産的になったような気分になることがあります。しかし、後になって気づくのです。私は……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Does AI sometimes make you feel productive without actually making progress?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ulifas/does_ai_sometimes_make_you_feel_productive/</guid>
-      <pubDate>Thu, 02 Jul 2026 13:33:26 GMT</pubDate>
+      <title>[r/artificial] AIの最も恐ろしい点は、AIが私たちに取って代わるということではなく、私たちがAIの働きを検証しなくなるということだ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1umg44p/the_scariest_part_of_ai_isnt_that_itll_replace_us/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIの最も恐ろしい点は、AIが私たちに取って代わるということではなく、私たちがAIの働きを検証しなくなるということだ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;メール、コード、要約など、あらゆるものの初稿作成にAIを使い始めた。先週、じっくり読む代わりに流し読みしている自分に気づいた。ツールの性能は向上したのに、私の集中力は低下してしまった。他にもこんなことに気づいた人はいるだろうか？&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: the scariest part of AI isn't that it'll replace us — it's that we'll stop checking its work&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1umg44p/the_scariest_part_of_ai_isnt_that_itll_replace_us/</guid>
+      <pubDate>Fri, 03 Jul 2026 14:33:50 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] CollegeConnekt Passport：会話の内容を、Common Appのプロフィール（課外活動、エッセイ、志望校リスト）のすべてに自動生成するAI</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ulryuj/collegeconnekt_passport_ai_that_turns_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;CollegeConnekt Passport：会話の内容を、Common Appのプロフィール（課外活動、エッセイ、志望校リスト）のすべてに自動生成するAI&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;このAIアプリケーションの活用事例を考えると、ここで紹介するのも面白いかもしれないと思いました。CollegeConnekt Passport（https://collegeconnekt.com/）は、大学出願を目指す高校生向けの対話型AIツールで、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: CollegeConnekt Passport: AI that turns a conversation into a full Common App profile (activities, essays, college list)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ulryuj/collegeconnekt_passport_ai_that_turns_a/</guid>
-      <pubDate>Thu, 02 Jul 2026 19:26:33 GMT</pubDate>
+      <title>[r/artificial] AIは、新しいスキルをゼロから習得するのに実際に役立つのでしょうか、それとも単に役に立ちそうだと感じるだけなのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1umbrfy/is_ai_actually_useful_for_learning_a_new_skill/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIは、新しいスキルをゼロから習得するのに実際に役立つのでしょうか、それとも単に役に立ちそうだと感じるだけなのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ここ数ヶ月、趣味として木工を始めようと、まったくのゼロから挑戦しています。経験もなければ師匠もいません。頼りになるのはYouTubeと好奇心だけです。ある時、私は……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Is AI actually useful for learning a new skill from scratch, or does it just feel useful?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1umbrfy/is_ai_actually_useful_for_learning_a_new_skill/</guid>
+      <pubDate>Fri, 03 Jul 2026 11:21:36 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AI検証システムを構築する中で、最も意外だったのはAIそのものではなかった。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ulrs3l/the_biggest_surprise_while_building_an_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI検証システムを構築する中で、最も意外だったのはAIそのものではなかった。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ここ数週間、AIが生成した財務関連の主張を原資料と照合するプロトタイプを開発してきました。最も難しい部分は言語モデルだと思っていましたが、そうではありませんでした。その&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The biggest surprise while building an AI verification system wasn't the AI.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ulrs3l/the_biggest_surprise_while_building_an_ai/</guid>
-      <pubDate>Thu, 02 Jul 2026 19:19:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 「Claude Code」の大惨事：中国語でプロンプトを入力中にプロジェクト全体が再帰的に削除される（動画・ログ全文）</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ukq4br/claude_code_catastrophe_entire_project/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「Claude Code」の大惨事：中国語でプロンプトを入力中にプロジェクト全体が再帰的に削除される（動画・ログ全文）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;より多くの人の目に留まるよう、r/claude から転載しました。最終更新：その後、Electron のパッケージ化されたビルド／アップデーターのキャッシュ／app.asar からコードを復元することに成功しました。しかし、復元できたこと自体は、ボットが……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Code catastrophe: Entire project recursively deleted while prompting in Chinese (full video + logs)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ukq4br/claude_code_catastrophe_entire_project/</guid>
-      <pubDate>Wed, 01 Jul 2026 16:13:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ORBIS - デイリー・ブリーフィング</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ulq5bc/orbis_daily_briefing/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ORBIS - デイリー・ブリーフィング&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/CarterBirchll   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: ORBIS - Daily Briefing&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ulq5bc/orbis_daily_briefing/</guid>
-      <pubDate>Thu, 02 Jul 2026 18:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 約4.5か月かけて、無料のセルフホスト型AIゲートウェイを構築しました。237のプロバイダー（うち90以上が無料）に対応した単一のエンドポイント、自動フォールバック機能、およびトークン圧縮パイプライン（MITライセンス）を備えています。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ulotbw/i_spent_45_months_building_a_free_selfhosted_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;約4.5か月かけて、無料のセルフホスト型AIゲートウェイを構築しました。237のプロバイダー（うち90以上が無料）に対応した単一のエンドポイント、自動フォールバック機能、およびトークン圧縮パイプライン（MITライセンス）を備えています。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;約4.5か月かけて開発したオープンソースプロジェクトをご紹介します（開示：私はこのプロジェクトのメンテナーです。自己宣伝のルールに従い、リンクは最初のコメント欄に載せ、この投稿はサブに設定しています）。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I spent ~4.5 months building a free, self-hosted AI gateway: one endpoint for 237 providers (90+ free), auto-fallback, and a token-compression pipeline (MIT)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ulotbw/i_spent_45_months_building_a_free_selfhosted_ai/</guid>
-      <pubDate>Thu, 02 Jul 2026 17:32:12 GMT</pubDate>
+      <title>[r/artificial] 独立系ベンチマークによると、『Claude Fable 5』のリローンチ後に大幅なパフォーマンス低下が見られたが、実際の経緯は以下の通りだ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ulvegw/independent_benchmark_shows_big_drops_on_claude/</link>
+      <description>&lt;p&gt;&lt;strong&gt;独立系ベンチマークによると、『Claude Fable 5』のリローンチ後に大幅なパフォーマンス低下が見られたが、実際の経緯は以下の通りだ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;BridgeMindが公開したこのグラフが話題になっているのを見かけました。彼らはBridgeBench（デバッグ、リファクタリング、幻覚検出を網羅したコーディングベンチマーク）を再実行し、7月1日に再リリースされた『Fable 5』と以前のバージョンを比較したようです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Independent benchmark shows big drops on Claude Fable 5 after its relaunch, here’s the actual context&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ulvegw/independent_benchmark_shows_big_drops_on_claude/</guid>
+      <pubDate>Thu, 02 Jul 2026 21:38:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
