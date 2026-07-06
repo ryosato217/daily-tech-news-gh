@@ -3,16 +3,32 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-05</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-06</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Jul 2026 19:26:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 20:06:01 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (21pt) ダートマス大学の講義で、新しいAIチューターが0.71～1.30 SDの効果サイズを達成 [pdf]</title>
-      <link>https://news.ycombinator.com/item?id=48796817</link>
-      <description>&lt;p&gt;&lt;strong&gt;ダートマス大学の講義で、新しいAIチューターが0.71～1.30 SDの効果サイズを達成 [pdf]&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48796817</guid>
-      <pubDate>Sun, 05 Jul 2026 18:47:43 GMT</pubDate>
+      <title>[Hacker News] (213pt) AMD Ryzen AI Halo – 4,000ドルのAI開発キット</title>
+      <link>https://news.ycombinator.com/item?id=48805624</link>
+      <description>&lt;p&gt;&lt;strong&gt;AMD Ryzen AI Halo – 4,000ドルのAI開発キット&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AMD Ryzen AI Halo – $4k AI Dev Kit&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48805624</guid>
+      <pubDate>Mon, 06 Jul 2026 15:01:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (88pt) Kani：Rust用のモデルチェッカー</title>
+      <link>https://news.ycombinator.com/item?id=48806410</link>
+      <description>&lt;p&gt;&lt;strong&gt;Kani：Rust用のモデルチェッカー&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Kani: A Model Checker for Rust&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48806410</guid>
+      <pubDate>Mon, 06 Jul 2026 15:53:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (81pt) 言語モデルにおけるグローバルワークスペース</title>
+      <link>https://news.ycombinator.com/item?id=48808002</link>
+      <description>&lt;p&gt;&lt;strong&gt;言語モデルにおけるグローバルワークスペース&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A global workspace in language models&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48808002</guid>
+      <pubDate>Mon, 06 Jul 2026 17:44:08 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
@@ -36,7 +52,7 @@
       <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6900万ドルを調達</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
       <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アルフレッド・ヴァールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は、&lt;/p&gt;
+&lt;p&gt;アルフレッド・ワールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
       <pubDate>Fri, 16 Jan 2026 14:01:00 GMT</pubDate>
@@ -45,7 +61,7 @@
       <title>[VentureBeat AI] Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」の全面的に刷新されたバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、経営陣が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」を全面的に刷新したバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、経営陣が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -54,7 +70,7 @@
       <title>[VentureBeat AI] Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
       <description>&lt;p&gt;&lt;strong&gt;Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡張する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
+&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡大する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</guid>
       <pubDate>Mon, 12 Jan 2026 11:30:00 GMT</pubDate>
@@ -69,67 +85,94 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 一番おすすめのAIアート生成ツールはどれですか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uo88bd/whats_the_best_ai_art_generator/</link>
-      <description>&lt;p&gt;&lt;strong&gt;一番おすすめのAIアート生成ツールはどれですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;選択肢が1000ほどあるようなので、プロンプトを入力するだけで即座に処理してくれるものを探しています。無料である必要はありません。ビジネス用途で使うつもりですから。  &amp;#32;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What's the best AI art generator?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uo88bd/whats_the_best_ai_art_generator/</guid>
-      <pubDate>Sun, 05 Jul 2026 17:35:38 GMT</pubDate>
+      <title>[r/artificial] AIは、現代生活の中で人々が感じる心の空虚感を和らげる助けになるのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1up0k2f/can_ai_help_with_the_emotional_emptiness_people/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIは、現代生活の中で人々が感じる心の空虚感を和らげる助けになるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIについて、技術的な側面とは少し離れたことを考えていました。多くの点で、人々の生活水準は向上しています。より優れた道具があり、利便性も高まり、娯楽も増え、さらに多くの情報にアクセスできるようになり……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Can AI help with the emotional emptiness people feel in modern life?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1up0k2f/can_ai_help_with_the_emotional_emptiness_people/</guid>
+      <pubDate>Mon, 06 Jul 2026 15:26:33 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIが意外にも得意で、あなたが予想していなかったことは何ですか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uo6t8f/whats_one_thing_ai_does_surprisingly_well_that/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIが意外にも得意で、あなたが予想していなかったことは何ですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ChatGPTが最初に登場したとき、私は主に気まぐれな質問に答えるために使うだろうと思っていました。でも、それは1週間ほどしか続きませんでした。今では、私が最もよく使っているのは、まとまりのない考えを整理して、それを……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What's one thing AI does surprisingly well that you didn't expect?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uo6t8f/whats_one_thing_ai_does_surprisingly_well_that/</guid>
-      <pubDate>Sun, 05 Jul 2026 16:39:49 GMT</pubDate>
+      <title>[r/artificial] 7店舗を展開する寿司チェーンのInstagramダイレクトメッセージ（DM）による注文処理を行うClaudeエージェントを構築しました</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uorq6d/i_built_a_claude_agent_that_runs_instagram_dm/</link>
+      <description>&lt;p&gt;&lt;strong&gt;7店舗を展開する寿司チェーンのInstagramダイレクトメッセージ（DM）による注文処理を行うClaudeエージェントを構築しました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は、7店舗を展開する寿司チェーンの注文受付業務を引き継ぐAIエージェントを開発しました。同チェーンの注文の約90％はInstagramのDMを通じて寄せられていますが、これまでは1人の担当者がすべての返信を手作業で入力していました。その仕組みは……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I built a Claude agent that runs Instagram DM ordering for a 7-location sushi chain&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uorq6d/i_built_a_claude_agent_that_runs_instagram_dm/</guid>
+      <pubDate>Mon, 06 Jul 2026 08:49:51 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Metaは、競合他社のAIに不快なコンテンツを大量に送りつける際、10代のふりをするよう数百人の契約社員に報酬を支払っていた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ungqh7/meta_paid_hundreds_of_contractors_to_pretend_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Metaは、競合他社のAIに不快なコンテンツを大量に送りつける際、10代のふりをするよう数百人の契約社員に報酬を支払っていた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors’ AI With Disturbing Content&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ungqh7/meta_paid_hundreds_of_contractors_to_pretend_to/</guid>
-      <pubDate>Sat, 04 Jul 2026 18:44:49 GMT</pubDate>
+      <title>[r/artificial] ベンチマークでは、オープンモデルとクローズドな製品とを比較するものであり、クローズドなモデル同士を比較するものではありません。私たちは、実際に何に対してお金を払っているのかを見落としているのかもしれません。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uovy56/benchmarks_compare_open_models_against_closed/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ベンチマークでは、オープンモデルとクローズドな製品とを比較するものであり、クローズドなモデル同士を比較するものではありません。私たちは、実際に何に対してお金を払っているのかを見落としているのかもしれません。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;実はこれ、しばらく前から気になっていたんですが、なんだか気になります。誰かがglm-5.2やdeepseekをclaudeやgptと比較評価するたびに、クローズドソースのモデルが特定のタスクで勝つと、みんなただ単にオープンソースのモデルは……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Benchmarks compare open models against closed products, not closed models. We might be missing what were actually paying for&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uovy56/benchmarks_compare_open_models_against_closed/</guid>
+      <pubDate>Mon, 06 Jul 2026 12:29:10 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIが主導する未来において、人々は今、どのようなことを学ぶべきでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1unzymd/what_should_people_learn_today_to_stay_relevant/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIが主導する未来において、人々は今、どのようなことを学ぶべきでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIがこれほど急速に進化している中、私は今後5～10年に備えるにはどうすればよいかを理解しようとしています。いくつか質問があります。皆さんのご意見をぜひお聞かせください。人々はどのようなスキルの習得に重点を置くべきでしょうか、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What should people learn today to stay relevant in an AI-driven future?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1unzymd/what_should_people_learn_today_to_stay_relevant/</guid>
-      <pubDate>Sun, 05 Jul 2026 11:36:47 GMT</pubDate>
+      <title>[r/artificial] サンフランシスコの裁判所、ChatGPTが自殺や薬物使用を助長したと主張する12件の訴訟を併合</title>
+      <link>https://www.reddit.com/r/artificial/comments/1up0ou1/san_francisco_court_consolidates_a_dozen_lawsuits/</link>
+      <description>&lt;p&gt;&lt;strong&gt;サンフランシスコの裁判所、ChatGPTが自殺や薬物使用を助長したと主張する12件の訴訟を併合&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/sfgate   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: San Francisco court consolidates a dozen lawsuits alleging ChatGPT encouraged suicide and drug use&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1up0ou1/san_francisco_court_consolidates_a_dozen_lawsuits/</guid>
+      <pubDate>Mon, 06 Jul 2026 15:31:10 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 誰もがAGIに注目しているせいで、過小評価されていると思うAIの機能は何かありますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uo0tv5/whats_one_ai_capability_that_you_think_is/</link>
-      <description>&lt;p&gt;&lt;strong&gt;誰もがAGIに注目しているせいで、過小評価されていると思うAIの機能は何かありますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIに関する議論の多くは、AGIの実現時期やベンチマークスコアを中心に展開されているように感じられますが、それ以外にも、推論、記憶、マルチモーダル理解、コーディングなど、多くの小規模な機能が急速に進歩しています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What's one AI capability that you think is underrated because everyone is focused on AGI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uo0tv5/whats_one_ai_capability_that_you_think_is/</guid>
-      <pubDate>Sun, 05 Jul 2026 12:21:17 GMT</pubDate>
+      <title>[r/artificial] 実際に電話をかけてみた中で、AI音声によるカスタマーサポートが良かった企業はどこですか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1up056b/what_companies_that_youve_actually_called_had_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;実際に電話をかけてみた中で、AI音声によるカスタマーサポートが良かった企業はどこですか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近は音声カスタマーサポート向けのAIがすごく話題になっているように感じますが、私が企業に電話をかけるたびに、1、2、3のいずれかを押すという、いつもと同じような体験をさせられてしまうのです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What companies that you've actually called had a good AI voice customer support?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1up056b/what_companies_that_youve_actually_called_had_a/</guid>
+      <pubDate>Mon, 06 Jul 2026 15:11:54 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 株式やギャンブル向けのAIが開発されたというのは本当ですか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uoakwr/is_it_true_theyve_developed_ai_for_stock_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;株式やギャンブル向けのAIが開発されたというのは本当ですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;以前はAI業界にいましたが、自分の頭脳とAIが組み合わさると危険なものを生み出してしまうことに気づきました。今、こうした話を耳にしていますが、果たしてそれだけの価値があるのか、あるいは業界では実際に何が起きているのか……   &amp;#32; 投稿者：&amp;#&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Is it true they’ve developed ai for stock and gambling ?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uoakwr/is_it_true_theyve_developed_ai_for_stock_and/</guid>
-      <pubDate>Sun, 05 Jul 2026 19:07:30 GMT</pubDate>
+      <title>[r/artificial] 2026年上半期、過去最多となる約90社のスタートアップがユニコーン企業に認定された</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uowx1s/nearly_90_startups_hit_unicorn_status_in_record/</link>
+      <description>&lt;p&gt;&lt;strong&gt;2026年上半期、過去最多となる約90社のスタートアップがユニコーン企業に認定された&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Koyaanisquatsi_   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Nearly 90 Startups Hit Unicorn Status in Record First Half of 2026&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uowx1s/nearly_90_startups_hit_unicorn_status_in_record/</guid>
+      <pubDate>Mon, 06 Jul 2026 13:09:58 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 5体のAIエージェントからなる評議会が、ユーザーのプロジェクト案について議論し、辛口で批評するネイティブのRedditアプリを開発しました</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uo7bq2/i_built_a_native_reddit_app_where_a_council_of_5/</link>
-      <description>&lt;p&gt;&lt;strong&gt;5体のAIエージェントからなる評議会が、ユーザーのプロジェクト案について議論し、辛口で批評するネイティブのRedditアプリを開発しました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私が取り組んでいるプロジェクトについて紹介したいと思います。これは、LLMを活用してソーシャルメディアのフィード内で楽しめるエンターテインメントを実現するものです。そのプロジェクトは「Slop-Cops」というテキストベースのシミュレーションゲームで、Redditの新しい開発プラットフォーム上に構築されています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I built a native Reddit app where a council of 5 AI agents debate and roast your project ideas&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uo7bq2/i_built_a_native_reddit_app_where_a_council_of_5/</guid>
-      <pubDate>Sun, 05 Jul 2026 17:00:08 GMT</pubDate>
+      <title>[r/artificial] AIエージェント向けの権限レイヤーの構築。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1up1yil/building_a_permission_layer_for_ai_agents/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIエージェント向けの権限レイヤーの構築。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;もし、事業主としてスマートフォンから制限を設定したり、通常とは異なる事項を承認したりできるとしたら、AIに請求書や注文の処理を任せてもいいでしょうか？私は、リピート注文を処理するAIエージェント／ワーカーをテストしてきましたが……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Building a permission layer for AI agents.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1up1yil/building_a_permission_layer_for_ai_agents/</guid>
+      <pubDate>Mon, 06 Jul 2026 16:14:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AntのRobbyantは、LingBot-VisionファミリーをApache-2.0ライセンスでオープンソース化しました。一方、ベンチマークの比較対象となっているMetaのDINOv3モデルは、独自のライセンスの下で提供されています。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1up6mva/ants_robbyant_opensourced_its_lingbotvision/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AntのRobbyantは、LingBot-VisionファミリーをApache-2.0ライセンスでオープンソース化しました。一方、ベンチマークの比較対象となっているMetaのDINOv3モデルは、独自のライセンスの下で提供されています。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ant Group傘下の体現型AI企業であるRobbyantは、4つのビジョンバックボーンをApache-2ライセンスの下でHugging Faceに公開した。同社は、すべてのロボットのための「一つの脳」を構築することを目標としている。0、パラメータ数は21Mから1.1Bまで&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Ant's Robbyant open-sourced its LingBot-Vision family under Apache-2.0; the Meta DINOv3 models it benchmarks against ship under a custom license&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1up6mva/ants_robbyant_opensourced_its_lingbotvision/</guid>
+      <pubDate>Mon, 06 Jul 2026 18:55:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIは、その時点で知っていたことを証明できるべきだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uowfa3/should_ai_be_able_to_prove_what_it_knew_at_the/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIは、その時点で知っていたことを証明できるべきだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これは馬鹿げた思考実験かもしれないが、どうしても頭から離れない。AIの自律性が高まるにつれて、AIは意思決定を行った時点で何を把握していたかを証明できるべきなのだろうか？単に事後に納得のいく説明をするだけでは不十分で――&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Should AI be able to prove what it knew at the time?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uowfa3/should_ai_be_able_to_prove_what_it_knew_at_the/</guid>
+      <pubDate>Mon, 06 Jul 2026 12:49:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AI業界をシミュレートするゲームを作りました。この分野に詳しいベータテスターを募集しています。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uozdxl/i_built_a_game_that_simulates_the_ai_industry/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI業界をシミュレートするゲームを作りました。この分野に詳しいベータテスターを募集しています。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は「Lord of Tokens」というブラウザゲームの開発に取り組んでいます。このゲームでは、現代の世界を舞台に、AI企業を経営し、投資を行います。プレイヤーは会社を設立し、人材を採用し、AIモデルを訓練し、技術の研究を進め……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I built a game that simulates the AI industry. Looking for beta testers who actually know the space.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uozdxl/i_built_a_game_that_simulates_the_ai_industry/</guid>
+      <pubDate>Mon, 06 Jul 2026 14:44:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
