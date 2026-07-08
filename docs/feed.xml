@@ -3,24 +3,48 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-07</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-08</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Jul 2026 20:04:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 19:42:32 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (214pt) 「チャットコントロール 1.0」と「2.0」の解説</title>
-      <link>https://news.ycombinator.com/item?id=48818311</link>
-      <description>&lt;p&gt;&lt;strong&gt;「チャットコントロール 1.0」と「2.0」の解説&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Chat Control 1.0 and 2.0 Explained&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48818311</guid>
-      <pubDate>Tue, 07 Jul 2026 14:23:15 GMT</pubDate>
+      <title>[Hacker News] (425pt) Chattoはオープンソースになりました</title>
+      <link>https://news.ycombinator.com/item?id=48833116</link>
+      <description>&lt;p&gt;&lt;strong&gt;Chattoはオープンソースになりました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Chatto is now Open Source&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48833116</guid>
+      <pubDate>Wed, 08 Jul 2026 15:19:50 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (29pt) AIと暗号技術の融合 第1回：AIがCloudflareのCirclで見つけたもの</title>
-      <link>https://news.ycombinator.com/item?id=48821749</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIと暗号技術の融合 第1回：AIがCloudflareのCirclで見つけたもの&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI Meets Cryptography 1: What AI Found in Cloudflare's Circl&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48821749</guid>
-      <pubDate>Tue, 07 Jul 2026 18:36:35 GMT</pubDate>
+      <title>[Hacker News] (390pt) GPT-Live</title>
+      <link>https://news.ycombinator.com/item?id=48834405</link>
+      <description>&lt;p&gt;&lt;strong&gt;GPT-Live&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GPT‑Live&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48834405</guid>
+      <pubDate>Wed, 08 Jul 2026 17:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (319pt) Mistralの「Robostral Navigate」：最先端のロボットナビゲーションモデル</title>
+      <link>https://news.ycombinator.com/item?id=48832212</link>
+      <description>&lt;p&gt;&lt;strong&gt;Mistralの「Robostral Navigate」：最先端のロボットナビゲーションモデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Mistral's Robostral Navigate: a state of the art robotics navigation model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48832212</guid>
+      <pubDate>Wed, 08 Jul 2026 14:09:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (157pt) SWE-1.7、GPT 5.5およびOpus Intelligenceに迫る</title>
+      <link>https://news.ycombinator.com/item?id=48833866</link>
+      <description>&lt;p&gt;&lt;strong&gt;SWE-1.7、GPT 5.5およびOpus Intelligenceに迫る&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48833866</guid>
+      <pubDate>Wed, 08 Jul 2026 16:19:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (77pt) Show HN：マイクロソフト、AIエージェント向けの可視化言語「Flint」をリリース</title>
+      <link>https://news.ycombinator.com/item?id=48834924</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN：マイクロソフト、AIエージェント向けの可視化言語「Flint」をリリース&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: Microsoft releases Flint, a visualization language for AI agents&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48834924</guid>
+      <pubDate>Wed, 08 Jul 2026 17:46:12 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
@@ -53,7 +77,7 @@
       <title>[VentureBeat AI] Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」を全面的に刷新したバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、経営陣が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」の全面的に刷新されたバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、経営陣が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -77,13 +101,31 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIの普及速度はインターネットブームの3倍の速さで進んでおり、その勢いは衰える気配がない</title>
-      <link>https://www.reddit.com/r/artificial/comments/1upou8z/ai_is_scaling_3x_faster_than_the_internet_wave/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIの普及速度はインターネットブームの3倍の速さで進んでおり、その勢いは衰える気配がない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;現在のAIブームで際立っている点の一つは、その勢いが衰える時期がなかったことです。これまでの技術革新の波の多くは、一時期大きな盛り上がりを見せた後、しばらく落ち着き、その後、次の活用分野が見つかるという流れをたどってきましたが、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI is scaling 3x faster than the internet wave and it’s NOT slowing down&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1upou8z/ai_is_scaling_3x_faster_than_the_internet_wave/</guid>
-      <pubDate>Tue, 07 Jul 2026 08:21:58 GMT</pubDate>
+      <title>[r/artificial] ある中国の研究機関が、「ロボットの脳への第一歩」と称する動画モデルをオープンソース化した。この動画は完全に生成されたもので、カメラは一切使用されていない。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ur1e41/a_chinese_lab_opensourced_a_video_model_they_are/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ある中国の研究機関が、「ロボットの脳への第一歩」と称する動画モデルをオープンソース化した。この動画は完全に生成されたもので、カメラは一切使用されていない。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Robbyantのオープンウェイトから生まれた「LingBot-Video」。開発元は、これを「想像し、計画を立てることができる世界モデル」として売り出しています。説得力のあるシーンを生成することは、世界を理解することと同じなのでしょうか。それとも、単に非常に優れた&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A Chinese lab open-sourced a video model they are calling a step toward a robot's brain. This clip is fully generated, no camera involved.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ur1e41/a_chinese_lab_opensourced_a_video_model_they_are/</guid>
+      <pubDate>Wed, 08 Jul 2026 18:34:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 空軍の技術者が、AI監視カメラを多数破壊した容疑で告発され、「米国は警察国家になりつつある」と主張</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uq91lr/air_force_engineer_accused_of_cutting_down_flock/</link>
+      <description>&lt;p&gt;&lt;strong&gt;空軍の技術者が、AI監視カメラを多数破壊した容疑で告発され、「米国は警察国家になりつつある」と主張&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Sgt_Gram   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Air Force Engineer Accused of Cutting Down Flock AI Surveillance Cameras, Says U.S. is Becoming Police State&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uq91lr/air_force_engineer_accused_of_cutting_down_flock/</guid>
+      <pubDate>Tue, 07 Jul 2026 21:42:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 法務AIにはGPT-5.5を使用しないでください</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uqvke3/dont_use_gpt55_for_legal_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;法務AIにはGPT-5.5を使用しないでください&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenAIのGPT-5.5は、実在しない法定規定をでっち上げたため、「Legal AI Test」に不合格となりました！この「Legal AI」ベンチマークテストでは、特定の失敗パタースを明らかにするために設計された、簡潔で核心を突いた10の質問が用いられています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Don't use GPT-5.5 for Legal AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uqvke3/dont_use_gpt55_for_legal_ai/</guid>
+      <pubDate>Wed, 08 Jul 2026 15:14:11 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] AIは人間の好みを再現できない――新たな研究で、LLMを数千人の実ユーザーを対象に検証</title>
@@ -95,58 +137,31 @@
       <pubDate>Tue, 07 Jul 2026 19:19:44 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIは非公開で、利用は任意であるべきだ！</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uplbps/ai_should_be_private_and_optional/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIは非公開で、利用は任意であるべきだ！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIは非公開かつ任意であるべきだ。  &amp;#32; 投稿者：&amp;#32;  /u/Valighg   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI should be private and optional!&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uplbps/ai_should_be_private_and_optional/</guid>
-      <pubDate>Tue, 07 Jul 2026 05:07:05 GMT</pubDate>
+      <title>[r/artificial] AIへの依存度が高すぎた</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ur2fqw/leaned_too_heavily_on_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIへの依存度が高すぎた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これは、CS（コンピュータサイエンス）の会話型マスターコースを学んでいる最中に起こったことです。本業はBI開発者（独学で、STEM分野のバックグラウンドはありません）。Web開発の課題が開かれたので、LLMに質問をし始めました。最初は……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Leaned too heavily on AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ur2fqw/leaned_too_heavily_on_ai/</guid>
+      <pubDate>Wed, 08 Jul 2026 19:11:11 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AI開発のより良い方法：米国の優位性は、地域社会の協力を得ることにかかっている</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uq5395/a_better_way_to_build_ai_americas_dominance/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI開発のより良い方法：米国の優位性は、地域社会の協力を得ることにかかっている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ForeignAffairsMag   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A Better Way to Build AI: America’s Dominance Depends on Getting Local Communities on Board&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uq5395/a_better_way_to_build_ai_americas_dominance/</guid>
-      <pubDate>Tue, 07 Jul 2026 19:20:14 GMT</pubDate>
+      <title>[r/artificial] AI時代の高校生は、どのように専攻を選ぶべきでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uqnwm3/how_should_a_high_school_student_choose_a_major/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI時代の高校生は、どのように専攻を選ぶべきでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私の弟は高校生で、もうすぐ大学の専攻を決めることになります。最近、弟から「何を勉強すべきか」と尋ねられ、私もこのことについてより真剣に考えるようになりました。AIがこれほど急速に発展している中で&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How should a high school student choose a major in the age of AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uqnwm3/how_should_a_high_school_student_choose_a_major/</guid>
+      <pubDate>Wed, 08 Jul 2026 09:43:07 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 普通の人はAIを何に使っているのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1upq8r2/what_do_normal_people_use_ai_for/</link>
-      <description>&lt;p&gt;&lt;strong&gt;普通の人はAIを何に使っているのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIが「コードを書く」のが得意だということは大まかに理解していますが、一般の人々が日常生活の中で、具体的にどのような目的でコードを書く能力が必要になるのでしょうか？ もしそうでないなら……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What do normal people use ai for?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1upq8r2/what_do_normal_people_use_ai_for/</guid>
-      <pubDate>Tue, 07 Jul 2026 09:42:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIエージェントのスケールアップは、最初のエージェントを構築するよりもはるかに難しいように思われる</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uq0r38/scaling_ai_agents_seems_much_harder_than_building/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIエージェントのスケールアップは、最初のエージェントを構築するよりもはるかに難しいように思われる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;エージェントの構築は、今ではずっと簡単になりました。世の中のフレームワークの半分ほどは、1日、場合によってはそれより短い時間でデモ版を作成できます。難しいのは、その後に続くすべての作業です。バージョン管理、デプロイ、環境管理など……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Scaling AI agents seems much harder than building the first agent&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uq0r38/scaling_ai_agents_seems_much_harder_than_building/</guid>
-      <pubDate>Tue, 07 Jul 2026 16:50:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] DeepSeekが独自のチップを開発する中、中国は海外からのAIアクセス制限を検討している</title>
-      <link>https://www.reddit.com/r/artificial/comments/1upz3b6/china_considers_curbs_on_overseas_ai_access_as/</link>
-      <description>&lt;p&gt;&lt;strong&gt;DeepSeekが独自のチップを開発する中、中国は海外からのAIアクセス制限を検討している&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/andix3   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: China Considers Curbs on Overseas AI Access as DeepSeek Builds Its Own Chip&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1upz3b6/china_considers_curbs_on_overseas_ai_access_as/</guid>
-      <pubDate>Tue, 07 Jul 2026 15:51:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 中国のAIモデルは、欧米の競合他社に追いつきつつある</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uq410n/chinese_ai_models_are_catching_up_to_their/</link>
-      <description>&lt;p&gt;&lt;strong&gt;中国のAIモデルは、欧米の競合他社に追いつきつつある&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://preview.redd.it/lwx71pq4rubh1.png?width=2400&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=9840ff351bc5e4419d8d3b90939d8e294c08f7b5 これって、本当にみんなにとってそんなに驚きだったのかな。何年も前から、中国は&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Chinese AI models are catching up to their western competitors&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uq410n/chinese_ai_models_are_catching_up_to_their/</guid>
-      <pubDate>Tue, 07 Jul 2026 18:44:30 GMT</pubDate>
+      <title>[r/artificial] 窃盗犯たちは今、銅や高価な機器を狙って、AIデータセンターの建設現場を標的にしている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uqjtk7/thieves_are_now_targeting_ai_data_center/</link>
+      <description>&lt;p&gt;&lt;strong&gt;窃盗犯たちは今、銅や高価な機器を狙って、AIデータセンターの建設現場を標的にしている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIの影響で何百万人もの人々が職を失い、その一部がAIデータセンターで銅を盗むようになった。  &amp;#32; 投稿者：&amp;#32;  /u/chunmunsingh   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Thieves Are Now Targeting AI Data Center Construction Sites for Copper and Expensive Equipment&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uqjtk7/thieves_are_now_targeting_ai_data_center/</guid>
+      <pubDate>Wed, 08 Jul 2026 05:46:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
