@@ -3,48 +3,32 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-08</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-09</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Jul 2026 19:42:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 19:54:38 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (425pt) Chattoはオープンソースになりました</title>
-      <link>https://news.ycombinator.com/item?id=48833116</link>
-      <description>&lt;p&gt;&lt;strong&gt;Chattoはオープンソースになりました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Chatto is now Open Source&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48833116</guid>
-      <pubDate>Wed, 08 Jul 2026 15:19:50 GMT</pubDate>
+      <title>[Hacker News] (675pt) GPT-5.6</title>
+      <link>https://news.ycombinator.com/item?id=48849066</link>
+      <description>&lt;p&gt;&lt;strong&gt;GPT-5.6&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GPT-5.6&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48849066</guid>
+      <pubDate>Thu, 09 Jul 2026 17:04:14 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (390pt) GPT-Live</title>
-      <link>https://news.ycombinator.com/item?id=48834405</link>
-      <description>&lt;p&gt;&lt;strong&gt;GPT-Live&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: GPT‑Live&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48834405</guid>
-      <pubDate>Wed, 08 Jul 2026 17:03:19 GMT</pubDate>
+      <title>[Hacker News] (248pt) ChatGPT Work</title>
+      <link>https://news.ycombinator.com/item?id=48849059</link>
+      <description>&lt;p&gt;&lt;strong&gt;ChatGPT Work&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: ChatGPT Work&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48849059</guid>
+      <pubDate>Thu, 09 Jul 2026 17:03:53 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (319pt) Mistralの「Robostral Navigate」：最先端のロボットナビゲーションモデル</title>
-      <link>https://news.ycombinator.com/item?id=48832212</link>
-      <description>&lt;p&gt;&lt;strong&gt;Mistralの「Robostral Navigate」：最先端のロボットナビゲーションモデル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Mistral's Robostral Navigate: a state of the art robotics navigation model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48832212</guid>
-      <pubDate>Wed, 08 Jul 2026 14:09:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (157pt) SWE-1.7、GPT 5.5およびOpus Intelligenceに迫る</title>
-      <link>https://news.ycombinator.com/item?id=48833866</link>
-      <description>&lt;p&gt;&lt;strong&gt;SWE-1.7、GPT 5.5およびOpus Intelligenceに迫る&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48833866</guid>
-      <pubDate>Wed, 08 Jul 2026 16:19:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (77pt) Show HN：マイクロソフト、AIエージェント向けの可視化言語「Flint」をリリース</title>
-      <link>https://news.ycombinator.com/item?id=48834924</link>
-      <description>&lt;p&gt;&lt;strong&gt;Show HN：マイクロソフト、AIエージェント向けの可視化言語「Flint」をリリース&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: Microsoft releases Flint, a visualization language for AI agents&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48834924</guid>
-      <pubDate>Wed, 08 Jul 2026 17:46:12 GMT</pubDate>
+      <title>[Hacker News] (78pt) 女の子たちは、待ち時間が制限された高速なMPMCキューを望んでいる</title>
+      <link>https://news.ycombinator.com/item?id=48809574</link>
+      <description>&lt;p&gt;&lt;strong&gt;女の子たちは、待ち時間が制限された高速なMPMCキューを望んでいる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48809574</guid>
+      <pubDate>Mon, 06 Jul 2026 19:46:30 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
@@ -101,67 +85,85 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ある中国の研究機関が、「ロボットの脳への第一歩」と称する動画モデルをオープンソース化した。この動画は完全に生成されたもので、カメラは一切使用されていない。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ur1e41/a_chinese_lab_opensourced_a_video_model_they_are/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ある中国の研究機関が、「ロボットの脳への第一歩」と称する動画モデルをオープンソース化した。この動画は完全に生成されたもので、カメラは一切使用されていない。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Robbyantのオープンウェイトから生まれた「LingBot-Video」。開発元は、これを「想像し、計画を立てることができる世界モデル」として売り出しています。説得力のあるシーンを生成することは、世界を理解することと同じなのでしょうか。それとも、単に非常に優れた&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A Chinese lab open-sourced a video model they are calling a step toward a robot's brain. This clip is fully generated, no camera involved.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ur1e41/a_chinese_lab_opensourced_a_video_model_they_are/</guid>
-      <pubDate>Wed, 08 Jul 2026 18:34:34 GMT</pubDate>
+      <title>[r/artificial] PCゲーマーはSteamのAIに関する免責事項に依然として懐疑的であり、アンケート調査によると、多くの人がゲーム開発者がその事実を隠していると考えていることが明らかになった</title>
+      <link>https://www.reddit.com/r/artificial/comments/1urlq10/pc_gamers_remain_skeptical_of_steams_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;PCゲーマーはSteamのAIに関する免責事項に依然として懐疑的であり、アンケート調査によると、多くの人がゲーム開発者がその事実を隠していると考えていることが明らかになった&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Odd-Onion-6776   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: PC gamers remain skeptical of Steam's AI disclaimers, poll shows many believe game devs are hiding it&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1urlq10/pc_gamers_remain_skeptical_of_steams_ai/</guid>
+      <pubDate>Thu, 09 Jul 2026 09:55:14 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 空軍の技術者が、AI監視カメラを多数破壊した容疑で告発され、「米国は警察国家になりつつある」と主張</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uq91lr/air_force_engineer_accused_of_cutting_down_flock/</link>
-      <description>&lt;p&gt;&lt;strong&gt;空軍の技術者が、AI監視カメラを多数破壊した容疑で告発され、「米国は警察国家になりつつある」と主張&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Sgt_Gram   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Air Force Engineer Accused of Cutting Down Flock AI Surveillance Cameras, Says U.S. is Becoming Police State&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uq91lr/air_force_engineer_accused_of_cutting_down_flock/</guid>
-      <pubDate>Tue, 07 Jul 2026 21:42:15 GMT</pubDate>
+      <title>[r/artificial] Databricksの数百万行に及ぶコードベースにおけるコーディングエージェントのベンチマーク</title>
+      <link>https://www.reddit.com/r/artificial/comments/1urpfg2/benchmarking_coding_agents_on_databricks/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Databricksの数百万行に及ぶコードベースにおけるコーディングエージェントのベンチマーク&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;分析から得られた主な結論は以下の通りである。コーディングタスクにおけるパレート・フロンティア（すなわち、与えられたコストにおける最高の品質）には、OpenAI、Anthropic、およびオープンソースのモデルが含まれている。これは、現時点では、これらを組み合わせたもののみが&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Benchmarking Coding Agents on Databricks’ Multi-Million Line Codebase&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1urpfg2/benchmarking_coding_agents_on_databricks/</guid>
+      <pubDate>Thu, 09 Jul 2026 12:52:51 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 法務AIにはGPT-5.5を使用しないでください</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uqvke3/dont_use_gpt55_for_legal_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;法務AIにはGPT-5.5を使用しないでください&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIのGPT-5.5は、実在しない法定規定をでっち上げたため、「Legal AI Test」に不合格となりました！この「Legal AI」ベンチマークテストでは、特定の失敗パタースを明らかにするために設計された、簡潔で核心を突いた10の質問が用いられています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Don't use GPT-5.5 for Legal AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uqvke3/dont_use_gpt55_for_legal_ai/</guid>
-      <pubDate>Wed, 08 Jul 2026 15:14:11 GMT</pubDate>
+      <title>[r/artificial] ザック氏、「AIがビジネス全体を運営することになる」と語る</title>
+      <link>https://www.reddit.com/r/artificial/comments/1urslko/zuck_says_ai_will_run_your_whole_business/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ザック氏、「AIがビジネス全体を運営することになる」と語る&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Metaは最近、顧客とのチャット対応、予約の受付、販売成約を目的とした、企業向けの新しいAIエージェントをリリースした。マーク・ザッカーバーグ氏は、その発表の席で、かなり大胆な予測さえ示した。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Zuck Says AI Will Run Your Whole Business&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1urslko/zuck_says_ai_will_run_your_whole_business/</guid>
+      <pubDate>Thu, 09 Jul 2026 14:53:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIは人間の好みを再現できない――新たな研究で、LLMを数千人の実ユーザーを対象に検証</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uq52r8/ai_cant_simulate_human_preferences_new_study/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIは人間の好みを再現できない――新たな研究で、LLMを数千人の実ユーザーを対象に検証&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://arxiv.org/abs/2605.18311 現在、企業が実際の人間からのフィードバックを、LLMを活用した「合成ユーザー」に置き換えようとする大きな潮流があります。このアイデアは、理論上は素晴らしいものに聞こえますが&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI can’t simulate human preferences - new study tests LLMs against thousands of real users&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uq52r8/ai_cant_simulate_human_preferences_new_study/</guid>
-      <pubDate>Tue, 07 Jul 2026 19:19:44 GMT</pubDate>
+      <title>[r/artificial] GoogleはGeminiをオープンソース化すべきだ。すべてを。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ury0kc/google_should_open_source_gemini_all_of_it/</link>
+      <description>&lt;p&gt;&lt;strong&gt;GoogleはGeminiをオープンソース化すべきだ。すべてを。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/dev_is_active   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Google Should Open Source Gemini. All of It.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ury0kc/google_should_open_source_gemini_all_of_it/</guid>
+      <pubDate>Thu, 09 Jul 2026 18:04:27 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIへの依存度が高すぎた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ur2fqw/leaned_too_heavily_on_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIへの依存度が高すぎた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;これは、CS（コンピュータサイエンス）の会話型マスターコースを学んでいる最中に起こったことです。本業はBI開発者（独学で、STEM分野のバックグラウンドはありません）。Web開発の課題が開かれたので、LLMに質問をし始めました。最初は……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Leaned too heavily on AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ur2fqw/leaned_too_heavily_on_ai/</guid>
-      <pubDate>Wed, 08 Jul 2026 19:11:11 GMT</pubDate>
+      <title>[r/artificial] メタの新しい「Muse」画像モデルがどの行にあるか、当ててみてください</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ur6h98/guess_which_row_is_metas_new_muse_image_model/</link>
+      <description>&lt;p&gt;&lt;strong&gt;メタの新しい「Muse」画像モデルがどの行にあるか、当ててみてください&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Metaが今週「Muse Image」を公開したので、OpenAIのgpt-image-2やGoogleのNano Banana 2と比較してみました。どのモデルに対しても、同じアヒルの画像と、同じ編集指示のプロンプトを使用しました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Guess which row is Meta's new 'Muse' Image Model&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ur6h98/guess_which_row_is_metas_new_muse_image_model/</guid>
+      <pubDate>Wed, 08 Jul 2026 21:36:16 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AI時代の高校生は、どのように専攻を選ぶべきでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uqnwm3/how_should_a_high_school_student_choose_a_major/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI時代の高校生は、どのように専攻を選ぶべきでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私の弟は高校生で、もうすぐ大学の専攻を決めることになります。最近、弟から「何を勉強すべきか」と尋ねられ、私もこのことについてより真剣に考えるようになりました。AIがこれほど急速に発展している中で&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How should a high school student choose a major in the age of AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uqnwm3/how_should_a_high_school_student_choose_a_major/</guid>
-      <pubDate>Wed, 08 Jul 2026 09:43:07 GMT</pubDate>
+      <title>[r/artificial] AI 2040：プランA</title>
+      <link>https://www.reddit.com/r/artificial/comments/1urv6fd/ai_2040_plan_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI 2040：プランA&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/10ForwardShift   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI 2040: Plan A&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1urv6fd/ai_2040_plan_a/</guid>
+      <pubDate>Thu, 09 Jul 2026 16:25:33 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 窃盗犯たちは今、銅や高価な機器を狙って、AIデータセンターの建設現場を標的にしている</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uqjtk7/thieves_are_now_targeting_ai_data_center/</link>
-      <description>&lt;p&gt;&lt;strong&gt;窃盗犯たちは今、銅や高価な機器を狙って、AIデータセンターの建設現場を標的にしている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIの影響で何百万人もの人々が職を失い、その一部がAIデータセンターで銅を盗むようになった。  &amp;#32; 投稿者：&amp;#32;  /u/chunmunsingh   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Thieves Are Now Targeting AI Data Center Construction Sites for Copper and Expensive Equipment&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uqjtk7/thieves_are_now_targeting_ai_data_center/</guid>
-      <pubDate>Wed, 08 Jul 2026 05:46:26 GMT</pubDate>
+      <title>[r/artificial] 開発者や企業を含む人々が、特定の状況下でAIエージェントを本番環境で活用することを妨げている要因は何でしょうか？また、本番環境に導入した際に、彼らが夜も眠れなくなるような懸念は何でしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1urnv0n/what_prevents_people_including_devs_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;開発者や企業を含む人々が、特定の状況下でAIエージェントを本番環境で活用することを妨げている要因は何でしょうか？また、本番環境に導入した際に、彼らが夜も眠れなくなるような懸念は何でしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;現実を見ましょう。デモはいつもとてつもなくカッコよく見えますが、自律型エージェントを本番環境に導入するのは恐ろしいことです。エージェントが独自にツール呼び出しを実行したり、幻覚を見たりするのですから……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What prevents people including devs and enterprises from using ai agents for production in some situations?and keeps them up at night when deployed to production??&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1urnv0n/what_prevents_people_including_devs_and/</guid>
+      <pubDate>Thu, 09 Jul 2026 11:43:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] [リンク記事] AI 2040：AIがうまくいく可能性のあるシナリオ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1urwpcn/linkpost_ai_2040_a_scenario_of_how_ai_could_go/</link>
+      <description>&lt;p&gt;&lt;strong&gt;[リンク記事] AI 2040：AIがうまくいく可能性のあるシナリオ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「AI 2027」――つまり、このままのペースで物事が進めばAIが人類を全滅させるかもしれないというシナリオ――を執筆した人々が、AIを人類にとって真に有益なものにする方法についての新たなシナリオを発表した。要約：The U&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: [Linkpost] AI 2040: A Scenario of How AI Could Go Well&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1urwpcn/linkpost_ai_2040_a_scenario_of_how_ai_could_go/</guid>
+      <pubDate>Thu, 09 Jul 2026 17:19:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] GPT-5.6</title>
+      <link>https://www.reddit.com/r/artificial/comments/1urwi0z/gpt56/</link>
+      <description>&lt;p&gt;&lt;strong&gt;GPT-5.6&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「限定プレビューに続き、GPT-5.6モデルファミリーを一般提供開始します。当社の新たなフラッグシップモデル『Sol』に加え、日常業務向けのバランスの取れたモデル『Terra』、そして当社のmo&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GPT-5.6&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1urwi0z/gpt56/</guid>
+      <pubDate>Thu, 09 Jul 2026 17:12:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
