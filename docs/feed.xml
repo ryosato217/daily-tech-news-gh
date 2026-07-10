@@ -3,32 +3,32 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-09</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-10</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Jul 2026 19:54:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 19:41:06 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (675pt) GPT-5.6</title>
-      <link>https://news.ycombinator.com/item?id=48849066</link>
-      <description>&lt;p&gt;&lt;strong&gt;GPT-5.6&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: GPT-5.6&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48849066</guid>
-      <pubDate>Thu, 09 Jul 2026 17:04:14 GMT</pubDate>
+      <title>[Hacker News] (96pt) GPT-5.6 Sol Ultraが「サイクル・ダブル・カバー予想」の証明を生成 [pdf]</title>
+      <link>https://news.ycombinator.com/item?id=48863490</link>
+      <description>&lt;p&gt;&lt;strong&gt;GPT-5.6 Sol Ultraが「サイクル・ダブル・カバー予想」の証明を生成 [pdf]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48863490</guid>
+      <pubDate>Fri, 10 Jul 2026 18:29:19 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (248pt) ChatGPT Work</title>
-      <link>https://news.ycombinator.com/item?id=48849059</link>
-      <description>&lt;p&gt;&lt;strong&gt;ChatGPT Work&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: ChatGPT Work&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48849059</guid>
-      <pubDate>Thu, 09 Jul 2026 17:03:53 GMT</pubDate>
+      <title>[Hacker News] (89pt) カタツムリの歯、クモの糸を抜いて「自然界で最も強い物質」に（2015年）</title>
+      <link>https://news.ycombinator.com/item?id=48862252</link>
+      <description>&lt;p&gt;&lt;strong&gt;カタツムリの歯、クモの糸を抜いて「自然界で最も強い物質」に（2015年）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48862252</guid>
+      <pubDate>Fri, 10 Jul 2026 16:37:52 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (78pt) 女の子たちは、待ち時間が制限された高速なMPMCキューを望んでいる</title>
-      <link>https://news.ycombinator.com/item?id=48809574</link>
-      <description>&lt;p&gt;&lt;strong&gt;女の子たちは、待ち時間が制限された高速なMPMCキューを望んでいる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48809574</guid>
-      <pubDate>Mon, 06 Jul 2026 19:46:30 GMT</pubDate>
+      <title>[Hacker News] (39pt) 内燃機関のWebベースシミュレータ</title>
+      <link>https://news.ycombinator.com/item?id=48795900</link>
+      <description>&lt;p&gt;&lt;strong&gt;内燃機関のWebベースシミュレータ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Combustion Engine Web-Based Simulator&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48795900</guid>
+      <pubDate>Sun, 05 Jul 2026 17:11:38 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
@@ -52,7 +52,7 @@
       <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6900万ドルを調達</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
       <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アルフレッド・ワールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は……&lt;/p&gt;
+&lt;p&gt;アルフレッド・ワールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は、&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
       <pubDate>Fri, 16 Jan 2026 14:01:00 GMT</pubDate>
@@ -85,85 +85,103 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] PCゲーマーはSteamのAIに関する免責事項に依然として懐疑的であり、アンケート調査によると、多くの人がゲーム開発者がその事実を隠していると考えていることが明らかになった</title>
-      <link>https://www.reddit.com/r/artificial/comments/1urlq10/pc_gamers_remain_skeptical_of_steams_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;PCゲーマーはSteamのAIに関する免責事項に依然として懐疑的であり、アンケート調査によると、多くの人がゲーム開発者がその事実を隠していると考えていることが明らかになった&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Odd-Onion-6776   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: PC gamers remain skeptical of Steam's AI disclaimers, poll shows many believe game devs are hiding it&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1urlq10/pc_gamers_remain_skeptical_of_steams_ai/</guid>
-      <pubDate>Thu, 09 Jul 2026 09:55:14 GMT</pubDate>
+      <title>[r/artificial] AIエージェント企業Lyzrが、AIエージェントを活用してシリーズBラウンドで1億を調達した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uspxs9/ai_agent_company_lyzr_raises_100_million_in/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIエージェント企業Lyzrが、AIエージェントを活用してシリーズBラウンドで1億を調達した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/iSyN707   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Ai Agent company Lyzr raises 100 million in section B funding using an Ai agent&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uspxs9/ai_agent_company_lyzr_raises_100_million_in/</guid>
+      <pubDate>Fri, 10 Jul 2026 14:52:40 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Databricksの数百万行に及ぶコードベースにおけるコーディングエージェントのベンチマーク</title>
-      <link>https://www.reddit.com/r/artificial/comments/1urpfg2/benchmarking_coding_agents_on_databricks/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Databricksの数百万行に及ぶコードベースにおけるコーディングエージェントのベンチマーク&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;分析から得られた主な結論は以下の通りである。コーディングタスクにおけるパレート・フロンティア（すなわち、与えられたコストにおける最高の品質）には、OpenAI、Anthropic、およびオープンソースのモデルが含まれている。これは、現時点では、これらを組み合わせたもののみが&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Benchmarking Coding Agents on Databricks’ Multi-Million Line Codebase&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1urpfg2/benchmarking_coding_agents_on_databricks/</guid>
-      <pubDate>Thu, 09 Jul 2026 12:52:51 GMT</pubDate>
+      <title>[r/artificial] 現代の音声AIモデルは、モデル自体の問題というよりも、データの問題を抱えているのだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1usllkp/do_modern_speech_ai_models_have_a_data_problem/</link>
+      <description>&lt;p&gt;&lt;strong&gt;現代の音声AIモデルは、モデル自体の問題というよりも、データの問題を抱えているのだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は最近、音声AIの進展を注視していますが、気になっているのは、現在の限界がモデルアーキテクチャというよりも、むしろトレーニングデータに起因するケースが増えているのではないかということです。モデルは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Do modern speech AI models have a data problem more than a model problem?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1usllkp/do_modern_speech_ai_models_have_a_data_problem/</guid>
+      <pubDate>Fri, 10 Jul 2026 11:59:12 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ザック氏、「AIがビジネス全体を運営することになる」と語る</title>
-      <link>https://www.reddit.com/r/artificial/comments/1urslko/zuck_says_ai_will_run_your_whole_business/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ザック氏、「AIがビジネス全体を運営することになる」と語る&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Metaは最近、顧客とのチャット対応、予約の受付、販売成約を目的とした、企業向けの新しいAIエージェントをリリースした。マーク・ザッカーバーグ氏は、その発表の席で、かなり大胆な予測さえ示した。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Zuck Says AI Will Run Your Whole Business&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1urslko/zuck_says_ai_will_run_your_whole_business/</guid>
-      <pubDate>Thu, 09 Jul 2026 14:53:57 GMT</pubDate>
+      <title>[r/artificial] 33のAI画像モデルのコスト分析</title>
+      <link>https://www.reddit.com/r/artificial/comments/1usj0l9/cost_analysis_of_33_ai_image_models/</link>
+      <description>&lt;p&gt;&lt;strong&gt;33のAI画像モデルのコスト分析&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私のコストベンチマークが、さらに多くのモデルやプロバイダーを追加して戻ってきました。Seedreamのモデル、Gemini 3.1 Flash Lite Image、GPT Image 1.5などが追加されました。最も安価なモデルと最も高価なモデルは以前と同じで、Fluです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Cost Analysis of 33 AI Image Models&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1usj0l9/cost_analysis_of_33_ai_image_models/</guid>
+      <pubDate>Fri, 10 Jul 2026 09:48:23 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] GoogleはGeminiをオープンソース化すべきだ。すべてを。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ury0kc/google_should_open_source_gemini_all_of_it/</link>
-      <description>&lt;p&gt;&lt;strong&gt;GoogleはGeminiをオープンソース化すべきだ。すべてを。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/dev_is_active   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Google Should Open Source Gemini. All of It.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ury0kc/google_should_open_source_gemini_all_of_it/</guid>
-      <pubDate>Thu, 09 Jul 2026 18:04:27 GMT</pubDate>
+      <title>[r/artificial] 【更新】ChatGPTユーザーの会話数百万件が検索されたが、OpenAIは情報を隠しているとされる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1usbdyd/updated_millions_of_chatgpt_user_conversations/</link>
+      <description>&lt;p&gt;&lt;strong&gt;【更新】ChatGPTユーザーの会話数百万件が検索されたが、OpenAIは情報を隠しているとされる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;初出：2026年1月6日、更新：2026年7月9日 ニューヨーク市の連邦裁判所で係争中のOpenAI, Inc.著作権侵害訴訟において、副次的な論争となっているのは、規制が……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Updated: Millions of ChatGPT user conversations searched, but OpenAI alleged to be holding out&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1usbdyd/updated_millions_of_chatgpt_user_conversations/</guid>
+      <pubDate>Fri, 10 Jul 2026 02:54:14 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] メタの新しい「Muse」画像モデルがどの行にあるか、当ててみてください</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ur6h98/guess_which_row_is_metas_new_muse_image_model/</link>
-      <description>&lt;p&gt;&lt;strong&gt;メタの新しい「Muse」画像モデルがどの行にあるか、当ててみてください&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Metaが今週「Muse Image」を公開したので、OpenAIのgpt-image-2やGoogleのNano Banana 2と比較してみました。どのモデルに対しても、同じアヒルの画像と、同じ編集指示のプロンプトを使用しました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Guess which row is Meta's new 'Muse' Image Model&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ur6h98/guess_which_row_is_metas_new_muse_image_model/</guid>
-      <pubDate>Wed, 08 Jul 2026 21:36:16 GMT</pubDate>
+      <title>[r/artificial] Meta、9月から自社開発のAIチップ「Iris」の製造を開始へ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1usjdtn/meta_to_start_manufacturing_its_own_ai_chip_iris/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Meta、9月から自社開発のAIチップ「Iris」の製造を開始へ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;そこで、Metaは自社開発のAIチップの生産を開始する計画であり、これはMetaのMTIA（トレーニングおよび推論アクセラレータ）プログラムの一環として行われ、ブロードコムが設計パートナーとなり、TSMCが製造を担当する。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Meta to start manufacturing its own AI chip Iris in september&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1usjdtn/meta_to_start_manufacturing_its_own_ai_chip_iris/</guid>
+      <pubDate>Fri, 10 Jul 2026 10:08:10 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AI 2040：プランA</title>
-      <link>https://www.reddit.com/r/artificial/comments/1urv6fd/ai_2040_plan_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI 2040：プランA&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/10ForwardShift   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI 2040: Plan A&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1urv6fd/ai_2040_plan_a/</guid>
-      <pubDate>Thu, 09 Jul 2026 16:25:33 GMT</pubDate>
+      <title>[r/artificial] Google DeepMindの研究者らが、ハッカーがAIエージェントを乗っ取る手法を解明</title>
+      <link>https://www.reddit.com/r/artificial/comments/1usry3x/google_deepmind_researchers_map_out_ways_hackers/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Google DeepMindの研究者らが、ハッカーがAIエージェントを乗っ取る手法を解明&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Sumsub_Insights   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Google DeepMind Researchers Map Out Ways Hackers Hijack AI Agents&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1usry3x/google_deepmind_researchers_map_out_ways_hackers/</guid>
+      <pubDate>Fri, 10 Jul 2026 16:06:05 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 開発者や企業を含む人々が、特定の状況下でAIエージェントを本番環境で活用することを妨げている要因は何でしょうか？また、本番環境に導入した際に、彼らが夜も眠れなくなるような懸念は何でしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1urnv0n/what_prevents_people_including_devs_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;開発者や企業を含む人々が、特定の状況下でAIエージェントを本番環境で活用することを妨げている要因は何でしょうか？また、本番環境に導入した際に、彼らが夜も眠れなくなるような懸念は何でしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;現実を見ましょう。デモはいつもとてつもなくカッコよく見えますが、自律型エージェントを本番環境に導入するのは恐ろしいことです。エージェントが独自にツール呼び出しを実行したり、幻覚を見たりするのですから……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What prevents people including devs and enterprises from using ai agents for production in some situations?and keeps them up at night when deployed to production??&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1urnv0n/what_prevents_people_including_devs_and/</guid>
-      <pubDate>Thu, 09 Jul 2026 11:43:48 GMT</pubDate>
+      <title>[r/artificial] 気候変動からAIが学ぶべき教訓：権力に影響を与えようとするのではなく、権力を掌握せよ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1usre9l/the_lesson_for_ai_from_climate_dont_seek_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;気候変動からAIが学ぶべき教訓：権力に影響を与えようとするのではなく、権力を掌握せよ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/OurFairFuture   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Lesson for AI From Climate: Don’t Seek to Influence Power, Take Power&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1usre9l/the_lesson_for_ai_from_climate_dont_seek_to/</guid>
+      <pubDate>Fri, 10 Jul 2026 15:46:04 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] [リンク記事] AI 2040：AIがうまくいく可能性のあるシナリオ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1urwpcn/linkpost_ai_2040_a_scenario_of_how_ai_could_go/</link>
-      <description>&lt;p&gt;&lt;strong&gt;[リンク記事] AI 2040：AIがうまくいく可能性のあるシナリオ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;「AI 2027」――つまり、このままのペースで物事が進めばAIが人類を全滅させるかもしれないというシナリオ――を執筆した人々が、AIを人類にとって真に有益なものにする方法についての新たなシナリオを発表した。要約：The U&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: [Linkpost] AI 2040: A Scenario of How AI Could Go Well&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1urwpcn/linkpost_ai_2040_a_scenario_of_how_ai_could_go/</guid>
-      <pubDate>Thu, 09 Jul 2026 17:19:07 GMT</pubDate>
+      <title>[r/LocalLLaMA] 1800年代のテキスト（160GBのデータセット）を用いて、LLMをゼロから学習させる</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uswlq8/training_an_llm_from_scratch_on_1800s_texts_160gb/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1800年代のテキスト（160GBのデータセット）を用いて、LLMをゼロから学習させる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;みなさん、こんにちは。1年前、私は1800年代のロンドンに関するデータのみを用いて、言語モデルの事前学習を始めました。最近、これまでで最大規模となるデータセットの構築を完了しました。このデータセットには、1800年から1875年までの英語のデータが400億トークン（160GB）分含まれており、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Training an LLM from scratch on 1800's texts (160GB dataset)&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1uswlq8/training_an_llm_from_scratch_on_1800s_texts_160gb/</guid>
+      <pubDate>Fri, 10 Jul 2026 18:51:37 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] GPT-5.6</title>
-      <link>https://www.reddit.com/r/artificial/comments/1urwi0z/gpt56/</link>
-      <description>&lt;p&gt;&lt;strong&gt;GPT-5.6&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;「限定プレビューに続き、GPT-5.6モデルファミリーを一般提供開始します。当社の新たなフラッグシップモデル『Sol』に加え、日常業務向けのバランスの取れたモデル『Terra』、そして当社のmo&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: GPT-5.6&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1urwi0z/gpt56/</guid>
-      <pubDate>Thu, 09 Jul 2026 17:12:04 GMT</pubDate>
+      <title>[r/LocalLLaMA] 「ローカルLLMサバイバルキット」を作った人はいますか？</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uspcg0/has_anyone_created_a_local_llm_survival_kit/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「ローカルLLMサバイバルキット」を作った人はいますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私が考えているのは、次のようなものです。どんなPCやノートパソコンにも差し込むだけで、インターネット接続を必要とせずに、LLMを活用したすぐに使えるナレッジベースを利用できるUSBメモリです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Has anyone created a &quot;Local LLM Survival Kit&quot;?&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1uspcg0/has_anyone_created_a_local_llm_survival_kit/</guid>
+      <pubDate>Fri, 10 Jul 2026 14:30:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] ある人物が3年ぶりにツイートした。自身のモデルリリースについて</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1usg4ox/someone_tweeted_after_3_years_about_his_model/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ある人物が3年ぶりにツイートした。自身のモデルリリースについて&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ツイート さて、これが近いうちに、あるいは遅かれ早かれ起こるのかどうか見てみよう  &amp;#32; 投稿者：&amp;#32;  /u/pmttyji   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Someone tweeted after 3 years. About his model release&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1usg4ox/someone_tweeted_after_3_years_about_his_model/</guid>
+      <pubDate>Fri, 10 Jul 2026 07:01:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] 投機的なキャッシュウォームアップ：プロンプトを入力している間にキャッシュをウォームアップし、10～20秒の待ち時間を短縮します</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1uskb1g/speculative_cache_warming_warms_your_cache_while/</link>
+      <description>&lt;p&gt;&lt;strong&gt;投機的なキャッシュウォームアップ：プロンプトを入力している間にキャッシュをウォームアップし、10～20秒の待ち時間を短縮します&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://preview.redd.it/0g9l1pvqsdch1.png?width=603&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=33b554fa2e8344205dc586fb4080bb4e472c8abb こんにちは、 私は現在、OpenFox（MITライセンス - 商用利用不可）の開発を継続して行っています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Speculative cache warming: warms your cache while you type your prompt, save 10-20s of wait time&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1uskb1g/speculative_cache_warming_warms_your_cache_while/</guid>
+      <pubDate>Fri, 10 Jul 2026 10:57:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
