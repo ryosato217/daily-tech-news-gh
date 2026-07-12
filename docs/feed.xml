@@ -3,40 +3,56 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-11</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-12</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2026 19:12:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 19:13:32 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (103pt) モダンなインテリアは、人々の脳に負担をかけているかもしれない</title>
-      <link>https://news.ycombinator.com/item?id=48873424</link>
-      <description>&lt;p&gt;&lt;strong&gt;モダンなインテリアは、人々の脳に負担をかけているかもしれない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Modern decor may be straining people's brains&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48873424</guid>
-      <pubDate>Sat, 11 Jul 2026 16:28:48 GMT</pubDate>
+      <title>[Hacker News] (348pt) 新旧のアプリを、最新のコーディングツールを通じて</title>
+      <link>https://news.ycombinator.com/item?id=48880170</link>
+      <description>&lt;p&gt;&lt;strong&gt;新旧のアプリを、最新のコーディングツールを通じて&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Old and new apps, via modern coding agents&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48880170</guid>
+      <pubDate>Sun, 12 Jul 2026 11:09:42 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (92pt) 米国の女子ボート選手が、カリフォルニアからハワイへの歴史的な単独航海を完遂</title>
-      <link>https://news.ycombinator.com/item?id=48873692</link>
-      <description>&lt;p&gt;&lt;strong&gt;米国の女子ボート選手が、カリフォルニアからハワイへの歴史的な単独航海を完遂&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Female US rower completes historic solo journey from California to Hawaii&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48873692</guid>
-      <pubDate>Sat, 11 Jul 2026 17:03:23 GMT</pubDate>
+      <title>[Hacker News] (74pt) Claude Codeはプロンプトを読み込む前に33kトークンを送信し、OpenCodeは7kを送信する</title>
+      <link>https://news.ycombinator.com/item?id=48883275</link>
+      <description>&lt;p&gt;&lt;strong&gt;Claude Codeはプロンプトを読み込む前に33kトークンを送信し、OpenCodeは7kを送信する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48883275</guid>
+      <pubDate>Sun, 12 Jul 2026 18:25:51 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (25pt) エージェントの管理は誰が担当しているのですか？</title>
-      <link>https://news.ycombinator.com/item?id=48874182</link>
-      <description>&lt;p&gt;&lt;strong&gt;エージェントの管理は誰が担当しているのですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Who manages the agents?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48874182</guid>
-      <pubDate>Sat, 11 Jul 2026 18:02:33 GMT</pubDate>
+      <title>[Hacker News] (45pt) Show HN: Shirei、GoネイティブのクロスプラットフォームGUIフレームワーク</title>
+      <link>https://news.ycombinator.com/item?id=48882562</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN: Shirei、GoネイティブのクロスプラットフォームGUIフレームワーク&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: Shirei, cross-platform GUI framework in native Go&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48882562</guid>
+      <pubDate>Sun, 12 Jul 2026 16:55:42 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (24pt) AIには『スラスト』というゲームを再現することはできない（しかし、その理解には役立つ）</title>
-      <link>https://news.ycombinator.com/item?id=48865903</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIには『スラスト』というゲームを再現することはできない（しかし、その理解には役立つ）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI Can't Recreate the Thrust Game (But It Can Help You Understand It)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48865903</guid>
-      <pubDate>Fri, 10 Jul 2026 22:04:45 GMT</pubDate>
+      <title>[Hacker News] (37pt) 理解を伴わない自動化</title>
+      <link>https://news.ycombinator.com/item?id=48882554</link>
+      <description>&lt;p&gt;&lt;strong&gt;理解を伴わない自動化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Automation Without Understanding&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48882554</guid>
+      <pubDate>Sun, 12 Jul 2026 16:54:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (27pt) 「有用性」に反対して</title>
+      <link>https://news.ycombinator.com/item?id=48882956</link>
+      <description>&lt;p&gt;&lt;strong&gt;「有用性」に反対して&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Against Usefulness&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48882956</guid>
+      <pubDate>Sun, 12 Jul 2026 17:47:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (9pt) LLMは大好きだけど、誇大宣伝は嫌いだ</title>
+      <link>https://news.ycombinator.com/item?id=48883343</link>
+      <description>&lt;p&gt;&lt;strong&gt;LLMは大好きだけど、誇大宣伝は嫌いだ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I love LLMs, I hate hype&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48883343</guid>
+      <pubDate>Sun, 12 Jul 2026 18:31:56 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
@@ -78,7 +94,7 @@
       <title>[VentureBeat AI] Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
       <description>&lt;p&gt;&lt;strong&gt;Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡大する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
+&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡張する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</guid>
       <pubDate>Mon, 12 Jan 2026 11:30:00 GMT</pubDate>
@@ -93,6 +109,24 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>[r/artificial] このOpenAIをめぐる裁判の件は、だんだん厄介な展開になりつつある</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uul5ef/this_openai_court_story_is_starting_to_look_ugly/</link>
+      <description>&lt;p&gt;&lt;strong&gt;このOpenAIをめぐる裁判の件は、だんだん厄介な展開になりつつある&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これを見たんだけど、正直言って、これはかなりめちゃくちゃな状況に思える。ニューヨーク・タイムズや他の報道機関によると、OpenAIは長い間、自社の著作権で保護されたコンテンツについて、トレーニングデータやログを検索することはできないと裁判所に伝えてきたそうだ。しかし、実際には……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: this openai court story is starting to look ugly&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uul5ef/this_openai_court_story_is_starting_to_look_ugly/</guid>
+      <pubDate>Sun, 12 Jul 2026 17:06:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIを活用する起業家たちが、過去最多となる新規事業の立ち上げを控えている…</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uuduhl/aipowered_entrepreneurs_set_to_launch_record/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIを活用する起業家たちが、過去最多となる新規事業の立ち上げを控えている…&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Live_Potential6737   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI-Powered Entrepreneurs Set to Launch Record Number of New Businesse…&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uuduhl/aipowered_entrepreneurs_set_to_launch_record/</guid>
+      <pubDate>Sun, 12 Jul 2026 12:14:31 GMT</pubDate>
+    </item>
+    <item>
       <title>[r/artificial] AppleがOpenAIを提訴したばかりだ。その詳細はとんでもないものだ。</title>
       <link>https://www.reddit.com/r/artificial/comments/1utkdha/apple_just_sued_openai_and_the_details_are_wild/</link>
       <description>&lt;p&gt;&lt;strong&gt;AppleがOpenAIを提訴したばかりだ。その詳細はとんでもないものだ。&lt;/strong&gt;&lt;/p&gt;
@@ -100,6 +134,24 @@
 &lt;p&gt;&lt;small&gt;原題: Apple just sued OpenAI. And the details are wild.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1utkdha/apple_just_sued_openai_and_the_details_are_wild/</guid>
       <pubDate>Sat, 11 Jul 2026 13:37:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 完全自動化における現在の課題を理解するための枠組み</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uuio0p/framework_for_understanding_the_current_problem/</link>
+      <description>&lt;p&gt;&lt;strong&gt;完全自動化における現在の課題を理解するための枠組み&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;開発者ではありませんが、AIの長所と短所について十分に学んできたので、もしフォーチュン500にランクインする企業が、「誰も確認する必要がなくなるように、事業全体を単に自動化してほしい」と私に依頼してきたとしても、それが……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Framework for Understanding the Current Problem in Full Automation&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uuio0p/framework_for_understanding_the_current_problem/</guid>
+      <pubDate>Sun, 12 Jul 2026 15:33:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] KataGo を用いたゼロパラメータモデルの検証</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uuguzn/testing_a_zeroparameter_model_against_katago/</link>
+      <description>&lt;p&gt;&lt;strong&gt;KataGo を用いたゼロパラメータモデルの検証&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これまでのところ、4試合が行われ、結果は2対2となっています。ここからの予測は次の通りです。試合数が増えるにつれて、この予測の根底にある理論がより多く適用されるようになり、ゼロパラメータモデルは……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Testing a Zero-Parameter Model Against KataGo&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uuguzn/testing_a_zeroparameter_model_against_katago/</guid>
+      <pubDate>Sun, 12 Jul 2026 14:23:05 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] OpenAIのエンジニアの「笑える」出来事が、Appleとの法廷闘争の火種となった</title>
@@ -111,58 +163,22 @@
       <pubDate>Sat, 11 Jul 2026 14:28:24 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ChatGPT-Live vs Pi vs Lucy OS1 vs Gemini-Live：会話するのに最適なAIアシスタントはどれ？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1utqf02/chatgptlive_vs_pi_vs_lucy_os1_vs_geminilive_best/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ChatGPT-Live vs Pi vs Lucy OS1 vs Gemini-Live：会話するのに最適なAIアシスタントはどれ？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今週リリースされたChatGPT-Liveを、リリース当初から試用しており、すでに利用している他の音声アシスタント数種類と比較してみました。本当に素晴らしいです。とはいえ、ベンチマーク比較にはあまり興味がありませんでした&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: ChatGPT-Live vs Pi vs Lucy OS1 vs Gemini-Live: best AI assistant to talk with?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1utqf02/chatgptlive_vs_pi_vs_lucy_os1_vs_geminilive_best/</guid>
-      <pubDate>Sat, 11 Jul 2026 17:38:02 GMT</pubDate>
+      <title>[r/artificial] テック／AI業界に参入する方法（助けてください。どんなアドバイスでも歓迎です）</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uu60b8/how_to_break_into_techai_need_help_pls_any_advice/</link>
+      <description>&lt;p&gt;&lt;strong&gt;テック／AI業界に参入する方法（助けてください。どんなアドバイスでも歓迎です）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;こんにちは。私は高校2年生です。最近、テクノロジー、特にAIについてもっと知りたいという強い思いを抱いています。しかし、AIというのは非常に広範で漠然とした用語なので、具体的にどのようなステップを踏めばいいのか分かりません。私は……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How to break into tech/AI (need help pls any advice would help)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uu60b8/how_to_break_into_techai_need_help_pls_any_advice/</guid>
+      <pubDate>Sun, 12 Jul 2026 05:04:43 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] TeraWulfがビットコインのマイニングからAIインフラへと事業を転換したことで、いくつかの大きな疑問が浮上している</title>
-      <link>https://www.reddit.com/r/artificial/comments/1utrjfa/terawulfs_move_from_bitcoin_mining_to_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;TeraWulfがビットコインのマイニングからAIインフラへと事業を転換したことで、いくつかの大きな疑問が浮上している&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;もともとビットコインのマイニング企業だったTeraWulfは、AIインフラプロバイダーとして事業の方向性を転換しようとしているようだ。これにより、AIのインフラ整備が今後どのような方向に向かうのかについて、いくつかの興味深い疑問が浮上している。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: TeraWulf’s move from Bitcoin mining to AI infrastructure raises some big questions&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1utrjfa/terawulfs_move_from_bitcoin_mining_to_ai/</guid>
-      <pubDate>Sat, 11 Jul 2026 18:20:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIエージェントの導入とスケーリングは、最も頭を悩ませる問題の一つでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1utjn3z/is_deploying_and_scaling_ai_agents_one_of_the/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIエージェントの導入とスケーリングは、最も頭を悩ませる問題の一つでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;みんな幻覚や状態管理についてばかり話すが、この基本を忘れてしまっている。本番環境向けにAIエージェントをスケールさせるのは簡単だろうか？多くのプラットフォームが「簡単だ」と謳っているにもかかわらず、実際には信じられないほどイライラする作業だ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Is deploying and scaling ai agents one of the most frustrating problem?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1utjn3z/is_deploying_and_scaling_ai_agents_one_of_the/</guid>
-      <pubDate>Sat, 11 Jul 2026 13:06:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIによって生成されたゲームの世界は、プレイ可能になりつつあるが、見た目がカッコよければ、手続き型生成の一貫性は重要なのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1utsewf/aigenerated_game_worlds_are_getting_playable_but/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIによって生成されたゲームの世界は、プレイ可能になりつつあるが、見た目がカッコよければ、手続き型生成の一貫性は重要なのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;「Google Genie 3」がリリースされ、プロンプトを入力してその中を歩き回れるという事実に対して、人々は大騒ぎしています。これは本当にすごいことです。でも、デモを見ていると、どうしてもあることが頭に浮かんでしまうのですが……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AIgenerated game worlds are getting playable but does procedural coherence matter if it looks cool?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1utsewf/aigenerated_game_worlds_are_getting_playable_but/</guid>
-      <pubDate>Sat, 11 Jul 2026 18:54:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 今週のまとめ：GPT-5.6の一般公開、Grok 4.5、Gemini 3.5 Proのリリース延期、Microsoft Copilotの変換データ、DeepSeek APIの7月24日終了</title>
-      <link>https://www.reddit.com/r/artificial/comments/1utc0he/weekly_recap_gpt56_public_launch_grok_45_gemini/</link>
-      <description>&lt;p&gt;&lt;strong&gt;今週のまとめ：GPT-5.6の一般公開、Grok 4.5、Gemini 3.5 Proのリリース延期、Microsoft Copilotの変換データ、DeepSeek APIの7月24日終了&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今週は盛りだくさんだったので、遅れを取り戻したい方のためにまとめました。OpenAIは、パートナー限定のプレビューを経て、7月9日にGPT-5.6ファミリーを一般公開しました。その中には、Sol（フロンティア推論）、Terra（以前のフラッグシップモデル）などが含まれています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Weekly recap: GPT-5.6 public launch, Grok 4.5, Gemini 3.5 Pro delayed, Microsoft Copilot conversion data, DeepSeek API retirement on July 24&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1utc0he/weekly_recap_gpt56_public_launch_grok_45_gemini/</guid>
-      <pubDate>Sat, 11 Jul 2026 06:10:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] リークされたGeminiの内部検討資料＋UIスキーマ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ut0ugr/leaked_gemini_internal_reasoning_ui_schema/</link>
-      <description>&lt;p&gt;&lt;strong&gt;リークされたGeminiの内部検討資料＋UIスキーマ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Geminiにワールドカップに関する基本的な統計の質問（スペインがトップ4に入った回数は？）を投げかけた。すると、答えの代わりに、そのメモ帳の内容をすべて吐き出してしまった。そこには、実際のコンポーネント名を含む内部のカードレンダリングロジックが（&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Leaked Gemini internal reasoning + UI schema&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ut0ugr/leaked_gemini_internal_reasoning_ui_schema/</guid>
-      <pubDate>Fri, 10 Jul 2026 21:30:45 GMT</pubDate>
+      <title>[r/artificial] ゲーム、アニメーション、あるいは3Dプリント用に、すぐに使える3Dキャラクターモデルを生成できるAIツールにはどのようなものがありますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uuc5oh/which_ai_tools_can_generate_readytouse_3d/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ゲーム、アニメーション、あるいは3Dプリント用に、すぐに使える3Dキャラクターモデルを生成できるAIツールにはどのようなものがありますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「すぐに使える」3Dキャラクターが、プロジェクトによって解釈が異なることに気づきませんでした。いくつかの異なる作業方法を試してみたところ、3Dではうまくいくものが、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Which AI tools can generate ready-to-use 3D character models for games, animation, or 3D printing?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uuc5oh/which_ai_tools_can_generate_readytouse_3d/</guid>
+      <pubDate>Sun, 12 Jul 2026 10:50:30 GMT</pubDate>
     </item>
   </channel>
 </rss>
