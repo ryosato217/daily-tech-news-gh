@@ -3,56 +3,24 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-12</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-13</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Jul 2026 19:13:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 19:37:00 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (348pt) 新旧のアプリを、最新のコーディングツールを通じて</title>
-      <link>https://news.ycombinator.com/item?id=48880170</link>
-      <description>&lt;p&gt;&lt;strong&gt;新旧のアプリを、最新のコーディングツールを通じて&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Old and new apps, via modern coding agents&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48880170</guid>
-      <pubDate>Sun, 12 Jul 2026 11:09:42 GMT</pubDate>
+      <title>[Hacker News] (267pt) Appleの新しいSpeechAnalyzer API――Whisperおよびその前身とのベンチマーク比較</title>
+      <link>https://news.ycombinator.com/item?id=48894752</link>
+      <description>&lt;p&gt;&lt;strong&gt;Appleの新しいSpeechAnalyzer API――Whisperおよびその前身とのベンチマーク比較&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48894752</guid>
+      <pubDate>Mon, 13 Jul 2026 16:06:08 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (74pt) Claude Codeはプロンプトを読み込む前に33kトークンを送信し、OpenCodeは7kを送信する</title>
-      <link>https://news.ycombinator.com/item?id=48883275</link>
-      <description>&lt;p&gt;&lt;strong&gt;Claude Codeはプロンプトを読み込む前に33kトークンを送信し、OpenCodeは7kを送信する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48883275</guid>
-      <pubDate>Sun, 12 Jul 2026 18:25:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (45pt) Show HN: Shirei、GoネイティブのクロスプラットフォームGUIフレームワーク</title>
-      <link>https://news.ycombinator.com/item?id=48882562</link>
-      <description>&lt;p&gt;&lt;strong&gt;Show HN: Shirei、GoネイティブのクロスプラットフォームGUIフレームワーク&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: Shirei, cross-platform GUI framework in native Go&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48882562</guid>
-      <pubDate>Sun, 12 Jul 2026 16:55:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (37pt) 理解を伴わない自動化</title>
-      <link>https://news.ycombinator.com/item?id=48882554</link>
-      <description>&lt;p&gt;&lt;strong&gt;理解を伴わない自動化&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Automation Without Understanding&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48882554</guid>
-      <pubDate>Sun, 12 Jul 2026 16:54:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (27pt) 「有用性」に反対して</title>
-      <link>https://news.ycombinator.com/item?id=48882956</link>
-      <description>&lt;p&gt;&lt;strong&gt;「有用性」に反対して&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Against Usefulness&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48882956</guid>
-      <pubDate>Sun, 12 Jul 2026 17:47:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (9pt) LLMは大好きだけど、誇大宣伝は嫌いだ</title>
-      <link>https://news.ycombinator.com/item?id=48883343</link>
-      <description>&lt;p&gt;&lt;strong&gt;LLMは大好きだけど、誇大宣伝は嫌いだ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I love LLMs, I hate hype&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48883343</guid>
-      <pubDate>Sun, 12 Jul 2026 18:31:56 GMT</pubDate>
+      <title>[Hacker News] (31pt) フロンティアモデルの実際の価格。トークン×価格、ですよね？</title>
+      <link>https://news.ycombinator.com/item?id=48896800</link>
+      <description>&lt;p&gt;&lt;strong&gt;フロンティアモデルの実際の価格。トークン×価格、ですよね？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The real prices of frontier models. Tokens * Price, right?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48896800</guid>
+      <pubDate>Mon, 13 Jul 2026 18:32:27 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
@@ -76,7 +44,7 @@
       <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6900万ドルを調達</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
       <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アルフレッド・ワールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は……&lt;/p&gt;
+&lt;p&gt;アルフレッド・ヴァールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
       <pubDate>Fri, 16 Jan 2026 14:01:00 GMT</pubDate>
@@ -85,7 +53,7 @@
       <title>[VentureBeat AI] Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」の全面的に刷新されたバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、経営陣が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」の全面的に刷新されたバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、同社幹部が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -109,76 +77,76 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] このOpenAIをめぐる裁判の件は、だんだん厄介な展開になりつつある</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uul5ef/this_openai_court_story_is_starting_to_look_ugly/</link>
-      <description>&lt;p&gt;&lt;strong&gt;このOpenAIをめぐる裁判の件は、だんだん厄介な展開になりつつある&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;これを見たんだけど、正直言って、これはかなりめちゃくちゃな状況に思える。ニューヨーク・タイムズや他の報道機関によると、OpenAIは長い間、自社の著作権で保護されたコンテンツについて、トレーニングデータやログを検索することはできないと裁判所に伝えてきたそうだ。しかし、実際には……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: this openai court story is starting to look ugly&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uul5ef/this_openai_court_story_is_starting_to_look_ugly/</guid>
-      <pubDate>Sun, 12 Jul 2026 17:06:34 GMT</pubDate>
+      <title>[r/artificial] AIライティングにおける最も有名な癖は、同時に最も謎めいたものでもある</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uuyhce/the_most_famous_ai_writing_tic_is_also_the_most/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIライティングにおける最も有名な癖は、同時に最も謎めいたものでもある&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/TrespassersWilliam   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Most Famous AI Writing Tic Is Also the Most Mysterious&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uuyhce/the_most_famous_ai_writing_tic_is_also_the_most/</guid>
+      <pubDate>Mon, 13 Jul 2026 02:08:09 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIを活用する起業家たちが、過去最多となる新規事業の立ち上げを控えている…</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uuduhl/aipowered_entrepreneurs_set_to_launch_record/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIを活用する起業家たちが、過去最多となる新規事業の立ち上げを控えている…&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Live_Potential6737   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI-Powered Entrepreneurs Set to Launch Record Number of New Businesse…&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uuduhl/aipowered_entrepreneurs_set_to_launch_record/</guid>
-      <pubDate>Sun, 12 Jul 2026 12:14:31 GMT</pubDate>
+      <title>[r/artificial] 私は毎日AIを利用していますが、人々がAIに対して興奮よりも不安を感じているのは当然のことだと思います</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uvgsms/i_use_ai_every_day_and_i_think_people_are_right/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私は毎日AIを利用していますが、人々がAIに対して興奮よりも不安を感じているのは当然のことだと思います&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は文字通り一日中これらのツールを使っています（良し悪しはさておき、それはまた別の話ですが）。私は決してAIに反対しているわけではありません。しかし、AIがますます便利になっていくにつれ、AIをめぐる不安が正当なものだとは私にはなかなか思えません。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I use AI every day, and I think people are right to feel more anxious than excited about it&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uvgsms/i_use_ai_every_day_and_i_think_people_are_right/</guid>
+      <pubDate>Mon, 13 Jul 2026 16:41:04 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AppleがOpenAIを提訴したばかりだ。その詳細はとんでもないものだ。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1utkdha/apple_just_sued_openai_and_the_details_are_wild/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AppleがOpenAIを提訴したばかりだ。その詳細はとんでもないものだ。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;これは単なる一般的な知的財産権をめぐる紛争ではありません。OpenAIのハードウェア部門責任者はタン・タン氏です。元アップル副社長で、同社に24年間在籍していました。現在はOpenAIのデバイス事業を統括しています。アップルは、同氏がアップルの従業員に助言を行っていたと主張しています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Apple just sued OpenAI. And the details are wild.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1utkdha/apple_just_sued_openai_and_the_details_are_wild/</guid>
-      <pubDate>Sat, 11 Jul 2026 13:37:36 GMT</pubDate>
+      <title>[r/artificial] 『ロード・オブ・ザ・リング：ゴラムの追跡』では、「若返り処理の一部」にのみAIを使用する</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uvljm9/lord_of_the_rings_the_hunt_for_gollum_to_only_use/</link>
+      <description>&lt;p&gt;&lt;strong&gt;『ロード・オブ・ザ・リング：ゴラムの追跡』では、「若返り処理の一部」にのみAIを使用する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ApartMaximum2335   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Lord of the Rings: The Hunt for Gollum to only use AI for ‘some of the de-aging’&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uvljm9/lord_of_the_rings_the_hunt_for_gollum_to_only_use/</guid>
+      <pubDate>Mon, 13 Jul 2026 19:28:28 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 完全自動化における現在の課題を理解するための枠組み</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uuio0p/framework_for_understanding_the_current_problem/</link>
-      <description>&lt;p&gt;&lt;strong&gt;完全自動化における現在の課題を理解するための枠組み&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;開発者ではありませんが、AIの長所と短所について十分に学んできたので、もしフォーチュン500にランクインする企業が、「誰も確認する必要がなくなるように、事業全体を単に自動化してほしい」と私に依頼してきたとしても、それが……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Framework for Understanding the Current Problem in Full Automation&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uuio0p/framework_for_understanding_the_current_problem/</guid>
-      <pubDate>Sun, 12 Jul 2026 15:33:30 GMT</pubDate>
+      <title>[r/artificial] 「エージェント・ウェブ」の時代が到来しようとしている――そこでは、AIエージェントがウェブサイトをスクレイピングするのではなく、互いに直接対話するようになる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uviqvw/the_agent_web_is_coming_where_ai_agents_talk/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「エージェント・ウェブ」の時代が到来しようとしている――そこでは、AIエージェントがウェブサイトをスクレイピングするのではなく、互いに直接対話するようになる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近、よく考えていることがある。現在、AIエージェントは人間と同じようにインターネットとやり取りしている――UIをクリックしたり、HTMLを解析したり、フォームに入力したりしている。これは「&amp;qu&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The 'agent web' is coming — where AI agents talk directly to each other instead of scraping websites&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uviqvw/the_agent_web_is_coming_where_ai_agents_talk/</guid>
+      <pubDate>Mon, 13 Jul 2026 17:49:51 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] KataGo を用いたゼロパラメータモデルの検証</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uuguzn/testing_a_zeroparameter_model_against_katago/</link>
-      <description>&lt;p&gt;&lt;strong&gt;KataGo を用いたゼロパラメータモデルの検証&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;これまでのところ、4試合が行われ、結果は2対2となっています。ここからの予測は次の通りです。試合数が増えるにつれて、この予測の根底にある理論がより多く適用されるようになり、ゼロパラメータモデルは……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Testing a Zero-Parameter Model Against KataGo&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uuguzn/testing_a_zeroparameter_model_against_katago/</guid>
-      <pubDate>Sun, 12 Jul 2026 14:23:05 GMT</pubDate>
+      <title>[r/artificial] ある人物が、ネットワークに侵入してデータを人質に取り、身代金を要求するAIエージェントを開発した。それが実際に機能した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uuouu7/someone_built_an_ai_agent_that_hacks_networks_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ある人物が、ネットワークに侵入してデータを人質に取り、身代金を要求するAIエージェントを開発した。それが実際に機能した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;つまり、AIが私たちの仕事を奪うかどうかについて議論している間に、誰かが、サーバーに侵入し、認証情報を盗み出し、ネットワーク内を移動し、データベースを暗号化し、rを配置するLLMエージェントを開発してしまったのです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Someone built an AI agent that hacks networks and holds data for ransom. It just worked.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uuouu7/someone_built_an_ai_agent_that_hacks_networks_and/</guid>
+      <pubDate>Sun, 12 Jul 2026 19:22:25 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] OpenAIのエンジニアの「笑える」出来事が、Appleとの法廷闘争の火種となった</title>
-      <link>https://www.reddit.com/r/artificial/comments/1utll84/openai_engineers_lol_moment_set_stage_for_legal/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIのエンジニアの「笑える」出来事が、Appleとの法廷闘争の火種となった&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/bloomberg   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1utll84/openai_engineers_lol_moment_set_stage_for_legal/</guid>
-      <pubDate>Sat, 11 Jul 2026 14:28:24 GMT</pubDate>
+      <title>[r/artificial] 200人以上の専門家、その中にはノーベル賞受賞者も含まれ、AIの経済的影響に対する対策を強く求めている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uvdb76/nobel_laureates_among_more_than_200_experts/</link>
+      <description>&lt;p&gt;&lt;strong&gt;200人以上の専門家、その中にはノーベル賞受賞者も含まれ、AIの経済的影響に対する対策を強く求めている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/kojka19   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Nobel laureates among more than 200 experts urging action on AI's economic impact&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uvdb76/nobel_laureates_among_more_than_200_experts/</guid>
+      <pubDate>Mon, 13 Jul 2026 14:34:26 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] テック／AI業界に参入する方法（助けてください。どんなアドバイスでも歓迎です）</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uu60b8/how_to_break_into_techai_need_help_pls_any_advice/</link>
-      <description>&lt;p&gt;&lt;strong&gt;テック／AI業界に参入する方法（助けてください。どんなアドバイスでも歓迎です）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;こんにちは。私は高校2年生です。最近、テクノロジー、特にAIについてもっと知りたいという強い思いを抱いています。しかし、AIというのは非常に広範で漠然とした用語なので、具体的にどのようなステップを踏めばいいのか分かりません。私は……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How to break into tech/AI (need help pls any advice would help)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uu60b8/how_to_break_into_techai_need_help_pls_any_advice/</guid>
-      <pubDate>Sun, 12 Jul 2026 05:04:43 GMT</pubDate>
+      <title>[r/artificial] 膨大な量のメールを「読み取り」、所定の期待結果に基づいて「評価」をつけることができるようなAIは存在するのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uvgqrn/is_there_any_kind_of_ai_that_could_read_huge/</link>
+      <description>&lt;p&gt;&lt;strong&gt;膨大な量のメールを「読み取り」、所定の期待結果に基づいて「評価」をつけることができるようなAIは存在するのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;以下のタスクを実行できる、できるだけ信頼性の高いAIを探しています。例えば、私が何百通ものメールを持っていると想像してください。それらのメールの中で、私たちは宛先の人々にいくつかの質問をしており、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Is there any kind of AI that could &quot;read&quot; huge loads of emails and give a &quot;mark&quot; according to a given expected result?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uvgqrn/is_there_any_kind_of_ai_that_could_read_huge/</guid>
+      <pubDate>Mon, 13 Jul 2026 16:39:15 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ゲーム、アニメーション、あるいは3Dプリント用に、すぐに使える3Dキャラクターモデルを生成できるAIツールにはどのようなものがありますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uuc5oh/which_ai_tools_can_generate_readytouse_3d/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ゲーム、アニメーション、あるいは3Dプリント用に、すぐに使える3Dキャラクターモデルを生成できるAIツールにはどのようなものがありますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;「すぐに使える」3Dキャラクターが、プロジェクトによって解釈が異なることに気づきませんでした。いくつかの異なる作業方法を試してみたところ、3Dではうまくいくものが、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Which AI tools can generate ready-to-use 3D character models for games, animation, or 3D printing?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uuc5oh/which_ai_tools_can_generate_readytouse_3d/</guid>
-      <pubDate>Sun, 12 Jul 2026 10:50:30 GMT</pubDate>
+      <title>[r/artificial] 毎月の投資家向け最新情報こそが、AIが実際に私の時間を節約してくれた最初の場面でした。ただ、それは私が予想していた場面とは違いました。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uvff8t/the_monthly_investor_update_was_the_first_place/</link>
+      <description>&lt;p&gt;&lt;strong&gt;毎月の投資家向け最新情報こそが、AIが実際に私の時間を節約してくれた最初の場面でした。ただ、それは私が予想していた場面とは違いました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;毎月、投資家向けレポートの作成に半日ほど費やしていますが、その時間のほとんどは執筆には使われていません。実際に文章を書くのはほんのわずかな時間です。時間がかかっているのは資料の収集です。あるドキュメントから先月の指標を抜き出したり、ファウン&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: the monthly investor update was the first place ai actually saved me time, just not where i expected&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uvff8t/the_monthly_investor_update_was_the_first_place/</guid>
+      <pubDate>Mon, 13 Jul 2026 15:51:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
