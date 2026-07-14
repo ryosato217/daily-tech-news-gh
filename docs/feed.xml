@@ -3,24 +3,56 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-13</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-14</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 13 Jul 2026 19:37:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 19:34:29 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (267pt) Appleの新しいSpeechAnalyzer API――Whisperおよびその前身とのベンチマーク比較</title>
-      <link>https://news.ycombinator.com/item?id=48894752</link>
-      <description>&lt;p&gt;&lt;strong&gt;Appleの新しいSpeechAnalyzer API――Whisperおよびその前身とのベンチマーク比較&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48894752</guid>
-      <pubDate>Mon, 13 Jul 2026 16:06:08 GMT</pubDate>
+      <title>[Hacker News] (523pt) あなたの「アプリ」はウェブページだった可能性があります（そこで、私が修正しておきました）</title>
+      <link>https://news.ycombinator.com/item?id=48869989</link>
+      <description>&lt;p&gt;&lt;strong&gt;あなたの「アプリ」はウェブページだった可能性があります（そこで、私が修正しておきました）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Your 'app' could have been a webpage (so I fixed it for you)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48869989</guid>
+      <pubDate>Sat, 11 Jul 2026 08:21:27 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (31pt) フロンティアモデルの実際の価格。トークン×価格、ですよね？</title>
-      <link>https://news.ycombinator.com/item?id=48896800</link>
-      <description>&lt;p&gt;&lt;strong&gt;フロンティアモデルの実際の価格。トークン×価格、ですよね？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The real prices of frontier models. Tokens * Price, right?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48896800</guid>
-      <pubDate>Mon, 13 Jul 2026 18:32:27 GMT</pubDate>
+      <title>[Hacker News] (280pt) クロードが「load-bearing」と言うのを止める方法</title>
+      <link>https://news.ycombinator.com/item?id=48905248</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロードが「load-bearing」と言うのを止める方法&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How to stop Claude from saying load-bearing&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48905248</guid>
+      <pubDate>Tue, 14 Jul 2026 11:46:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (82pt) Bonsai 27B（1ビットLLM）：スマートフォン上で動作する初の27Bクラスモデル</title>
+      <link>https://news.ycombinator.com/item?id=48910545</link>
+      <description>&lt;p&gt;&lt;strong&gt;Bonsai 27B（1ビットLLM）：スマートフォン上で動作する初の27Bクラスモデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48910545</guid>
+      <pubDate>Tue, 14 Jul 2026 17:50:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (42pt) 「ゼロコストの誤謬」：主体性時代のオープンソースソフトウェア</title>
+      <link>https://news.ycombinator.com/item?id=48865001</link>
+      <description>&lt;p&gt;&lt;strong&gt;「ゼロコストの誤謬」：主体性時代のオープンソースソフトウェア&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The zero-cost fallacy: open-source software in the agentic era&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48865001</guid>
+      <pubDate>Fri, 10 Jul 2026 20:45:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (40pt) 現在利用可能な「マインクラフト」の世界の中で最大規模、総容量15 TB</title>
+      <link>https://news.ycombinator.com/item?id=48872401</link>
+      <description>&lt;p&gt;&lt;strong&gt;現在利用可能な「マインクラフト」の世界の中で最大規模、総容量15 TB&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The largest available Minecraft world, totalling 15 TB&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48872401</guid>
+      <pubDate>Sat, 11 Jul 2026 14:32:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (21pt) HNでのローンチ：Agnost AI（YC S26） – エージェントとの会話からユーザーのフィードバックを抽出</title>
+      <link>https://news.ycombinator.com/item?id=48908950</link>
+      <description>&lt;p&gt;&lt;strong&gt;HNでのローンチ：Agnost AI（YC S26） – エージェントとの会話からユーザーのフィードバックを抽出&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48908950</guid>
+      <pubDate>Tue, 14 Jul 2026 16:06:18 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
@@ -44,7 +76,7 @@
       <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6900万ドルを調達</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
       <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アルフレッド・ヴァールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は……&lt;/p&gt;
+&lt;p&gt;アルフレッド・ワールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
       <pubDate>Fri, 16 Jan 2026 14:01:00 GMT</pubDate>
@@ -53,7 +85,7 @@
       <title>[VentureBeat AI] Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」の全面的に刷新されたバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、同社幹部が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」を全面的に刷新したバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、同社幹部が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -62,7 +94,7 @@
       <title>[VentureBeat AI] Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
       <description>&lt;p&gt;&lt;strong&gt;Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡張する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
+&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡大する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</guid>
       <pubDate>Mon, 12 Jan 2026 11:30:00 GMT</pubDate>
@@ -77,76 +109,76 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIライティングにおける最も有名な癖は、同時に最も謎めいたものでもある</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uuyhce/the_most_famous_ai_writing_tic_is_also_the_most/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIライティングにおける最も有名な癖は、同時に最も謎めいたものでもある&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/TrespassersWilliam   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Most Famous AI Writing Tic Is Also the Most Mysterious&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uuyhce/the_most_famous_ai_writing_tic_is_also_the_most/</guid>
-      <pubDate>Mon, 13 Jul 2026 02:08:09 GMT</pubDate>
+      <title>[r/artificial] OpenAIのCEOがRedditの株式の9％近くを保有している一方で、RedditはAI生成コンテンツを投稿したユーザーを利用停止処分にしていることをご存知でしたか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uw6sv6/did_you_know_the_ceo_of_openai_owns_nearly_9_of/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIのCEOがRedditの株式の9％近くを保有している一方で、RedditはAI生成コンテンツを投稿したユーザーを利用停止処分にしていることをご存知でしたか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一考の価値がある。Reddit自身のIPO申請書類によると、OpenAIおよびChatGPTのCEOであるサム・アルトマン氏は、Reddit株式の8.7％（うちB種株式9.3％を含む）を保有しており、これにより同氏は第3位の株主となっている。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Did you know the CEO of OpenAI owns nearly 9% of Reddit while Reddit bans users for AI generated content?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uw6sv6/did_you_know_the_ceo_of_openai_owns_nearly_9_of/</guid>
+      <pubDate>Tue, 14 Jul 2026 12:06:48 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 私は毎日AIを利用していますが、人々がAIに対して興奮よりも不安を感じているのは当然のことだと思います</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uvgsms/i_use_ai_every_day_and_i_think_people_are_right/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私は毎日AIを利用していますが、人々がAIに対して興奮よりも不安を感じているのは当然のことだと思います&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は文字通り一日中これらのツールを使っています（良し悪しはさておき、それはまた別の話ですが）。私は決してAIに反対しているわけではありません。しかし、AIがますます便利になっていくにつれ、AIをめぐる不安が正当なものだとは私にはなかなか思えません。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I use AI every day, and I think people are right to feel more anxious than excited about it&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uvgsms/i_use_ai_every_day_and_i_think_people_are_right/</guid>
-      <pubDate>Mon, 13 Jul 2026 16:41:04 GMT</pubDate>
+      <title>[r/artificial] Appleは先ごろ、OpenAIを営業秘密の盗用で提訴した。一方、Googleはインターネットの仕組みをひっそりと書き換えた。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uwh06x/apple_just_sued_openai_for_trade_secret_theft_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Appleは先ごろ、OpenAIを営業秘密の盗用で提訴した。一方、Googleはインターネットの仕組みをひっそりと書き換えた。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今週、あらゆる企業にとって具体的な変化をもたらす2つの出来事が起こりました。7月10日、アップルはOpenAIを組織的な産業スパイ行為で訴えました。これは抽象的な話ではありません。それによると&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Apple just sued OpenAI for trade secret theft. And Google quietly rewrote how the internet works.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uwh06x/apple_just_sued_openai_for_trade_secret_theft_and/</guid>
+      <pubDate>Tue, 14 Jul 2026 18:27:15 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 『ロード・オブ・ザ・リング：ゴラムの追跡』では、「若返り処理の一部」にのみAIを使用する</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uvljm9/lord_of_the_rings_the_hunt_for_gollum_to_only_use/</link>
-      <description>&lt;p&gt;&lt;strong&gt;『ロード・オブ・ザ・リング：ゴラムの追跡』では、「若返り処理の一部」にのみAIを使用する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ApartMaximum2335   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Lord of the Rings: The Hunt for Gollum to only use AI for ‘some of the de-aging’&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uvljm9/lord_of_the_rings_the_hunt_for_gollum_to_only_use/</guid>
-      <pubDate>Mon, 13 Jul 2026 19:28:28 GMT</pubDate>
+      <title>[r/artificial] 私はそれほど優れたアーティストではないのですが、Remarkableタブレットに描いた落書きを、実際に素敵な木炭画のスケッチに変えてくれるエージェントを作りました。しかも、編集可能なペン線のベクター画像です！単なる静止画ではありません。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uwbt7o/im_not_a_great_artist_so_i_made_an_agent_that/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私はそれほど優れたアーティストではないのですが、Remarkableタブレットに描いた落書きを、実際に素敵な木炭画のスケッチに変えてくれるエージェントを作りました。しかも、編集可能なペン線のベクター画像です！単なる静止画ではありません。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;概要 タイトルに書かれている通りです。 - 落書き - 選定 - エージェントがデバイスのスクリーンショットを分析し、クリエイティブ・ブリーフを作成 - 別のエージェントがそのブリーフとナプキンのスケッチを受け取り、木炭画を作成&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I'm not a great artist — so I made an agent that turns my doodles on my Remarkable tablet into actually nice charcoal sketches. Real editable pen-line vectors too! Not just static images.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uwbt7o/im_not_a_great_artist_so_i_made_an_agent_that/</guid>
+      <pubDate>Tue, 14 Jul 2026 15:24:18 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 「エージェント・ウェブ」の時代が到来しようとしている――そこでは、AIエージェントがウェブサイトをスクレイピングするのではなく、互いに直接対話するようになる</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uviqvw/the_agent_web_is_coming_where_ai_agents_talk/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「エージェント・ウェブ」の時代が到来しようとしている――そこでは、AIエージェントがウェブサイトをスクレイピングするのではなく、互いに直接対話するようになる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近、よく考えていることがある。現在、AIエージェントは人間と同じようにインターネットとやり取りしている――UIをクリックしたり、HTMLを解析したり、フォームに入力したりしている。これは「&amp;qu&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The 'agent web' is coming — where AI agents talk directly to each other instead of scraping websites&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uviqvw/the_agent_web_is_coming_where_ai_agents_talk/</guid>
-      <pubDate>Mon, 13 Jul 2026 17:49:51 GMT</pubDate>
+      <title>[r/artificial] オープンソースのローカルLLMトレーニングツール（一般向けハードウェア用）</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uwcah2/open_source_local_llm_training_tool_for_consumer/</link>
+      <description>&lt;p&gt;&lt;strong&gt;オープンソースのローカルLLMトレーニングツール（一般向けハードウェア用）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIのトレーニングに携わっている方から、ぜひフィードバックをいただけると嬉しいです。具体的には、これがどのような場面で役立つかについてであって、出力の質については不要です（質は悪いですが、パラメータ数800mの段階では当然のことです）。もしそれが……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Open Source Local LLM Training Tool (for consumer hardware)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uwcah2/open_source_local_llm_training_tool_for_consumer/</guid>
+      <pubDate>Tue, 14 Jul 2026 15:41:42 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ある人物が、ネットワークに侵入してデータを人質に取り、身代金を要求するAIエージェントを開発した。それが実際に機能した。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uuouu7/someone_built_an_ai_agent_that_hacks_networks_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ある人物が、ネットワークに侵入してデータを人質に取り、身代金を要求するAIエージェントを開発した。それが実際に機能した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;つまり、AIが私たちの仕事を奪うかどうかについて議論している間に、誰かが、サーバーに侵入し、認証情報を盗み出し、ネットワーク内を移動し、データベースを暗号化し、rを配置するLLMエージェントを開発してしまったのです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Someone built an AI agent that hacks networks and holds data for ransom. It just worked.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uuouu7/someone_built_an_ai_agent_that_hacks_networks_and/</guid>
-      <pubDate>Sun, 12 Jul 2026 19:22:25 GMT</pubDate>
+      <title>[r/artificial] AIのおかげで、ゲームのクローン作成がこれまで以上に簡単になった</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uwikrh/ai_made_cloning_games_easier_than_ever/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIのおかげで、ゲームのクローン作成がこれまで以上に簡単になった&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ThereWas   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI Made Cloning Games Easier Than Ever&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uwikrh/ai_made_cloning_games_easier_than_ever/</guid>
+      <pubDate>Tue, 14 Jul 2026 19:24:09 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 200人以上の専門家、その中にはノーベル賞受賞者も含まれ、AIの経済的影響に対する対策を強く求めている</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uvdb76/nobel_laureates_among_more_than_200_experts/</link>
-      <description>&lt;p&gt;&lt;strong&gt;200人以上の専門家、その中にはノーベル賞受賞者も含まれ、AIの経済的影響に対する対策を強く求めている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/kojka19   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Nobel laureates among more than 200 experts urging action on AI's economic impact&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uvdb76/nobel_laureates_among_more_than_200_experts/</guid>
-      <pubDate>Mon, 13 Jul 2026 14:34:26 GMT</pubDate>
+      <title>[r/artificial] AIエージェントにとっての真のボトルネックは、自らの正体を証明することにあるのかもしれない</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uw81un/the_real_bottleneck_for_ai_agents_may_be_proving/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIエージェントにとっての真のボトルネックは、自らの正体を証明することにあるのかもしれない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIエージェントはタスクを遂行する能力を高めつつありますが、もはや知能こそが彼らの足を引っ張っている主な要因だとは、私には思えません。より難しい問題は、エージェントがメッセージを送信したり、承認を行ったりできるようになった時点で始まります。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The real bottleneck for AI agents may be proving who they are&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uw81un/the_real_bottleneck_for_ai_agents_may_be_proving/</guid>
+      <pubDate>Tue, 14 Jul 2026 13:01:37 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 膨大な量のメールを「読み取り」、所定の期待結果に基づいて「評価」をつけることができるようなAIは存在するのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uvgqrn/is_there_any_kind_of_ai_that_could_read_huge/</link>
-      <description>&lt;p&gt;&lt;strong&gt;膨大な量のメールを「読み取り」、所定の期待結果に基づいて「評価」をつけることができるようなAIは存在するのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;以下のタスクを実行できる、できるだけ信頼性の高いAIを探しています。例えば、私が何百通ものメールを持っていると想像してください。それらのメールの中で、私たちは宛先の人々にいくつかの質問をしており、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Is there any kind of AI that could &quot;read&quot; huge loads of emails and give a &quot;mark&quot; according to a given expected result?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uvgqrn/is_there_any_kind_of_ai_that_could_read_huge/</guid>
-      <pubDate>Mon, 13 Jul 2026 16:39:15 GMT</pubDate>
+      <title>[r/artificial] 「Ghostcommit」の内部：悪意のあるPNG画像がAIコードレビューツールをすり抜ける仕組み</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uvxqg5/inside_ghostcommit_how_malicious_pngs_bypass_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「Ghostcommit」の内部：悪意のあるPNG画像がAIコードレビューツールをすり抜ける仕組み&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;90秒でわかる要点：マルチモーダルな脆弱性：Ghostcommitは、画像処理機能を備えたAIコーディングツールを標的とした、新たなサプライチェーン攻撃です。ペイロードの分割：この攻撃では、2つのファイルからなるペイロードが使用されています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Inside Ghostcommit: How Malicious PNGs Bypass AI Code Reviewers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uvxqg5/inside_ghostcommit_how_malicious_pngs_bypass_ai/</guid>
+      <pubDate>Tue, 14 Jul 2026 03:54:28 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 毎月の投資家向け最新情報こそが、AIが実際に私の時間を節約してくれた最初の場面でした。ただ、それは私が予想していた場面とは違いました。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uvff8t/the_monthly_investor_update_was_the_first_place/</link>
-      <description>&lt;p&gt;&lt;strong&gt;毎月の投資家向け最新情報こそが、AIが実際に私の時間を節約してくれた最初の場面でした。ただ、それは私が予想していた場面とは違いました。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;毎月、投資家向けレポートの作成に半日ほど費やしていますが、その時間のほとんどは執筆には使われていません。実際に文章を書くのはほんのわずかな時間です。時間がかかっているのは資料の収集です。あるドキュメントから先月の指標を抜き出したり、ファウン&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: the monthly investor update was the first place ai actually saved me time, just not where i expected&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uvff8t/the_monthly_investor_update_was_the_first_place/</guid>
-      <pubDate>Mon, 13 Jul 2026 15:51:43 GMT</pubDate>
+      <title>[r/artificial] AIエージェントを実際の運用環境に導入することの、まさに悪夢のような体験</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uwg8kk/the_absolute_nightmare_of_putting_ai_agents_into/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIエージェントを実際の運用環境に導入することの、まさに悪夢のような体験&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ここ数ヶ月の間に、AIエージェントをめぐる議論は、「この自律ループがどんなことができるか見てみよう」という方向から、「実際にどうやってこれらを制御し続けるか」という方向へと、静かにシフトしてきたように感じられます。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The absolute nightmare of putting AI agents into actual production&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uwg8kk/the_absolute_nightmare_of_putting_ai_agents_into/</guid>
+      <pubDate>Tue, 14 Jul 2026 18:01:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
