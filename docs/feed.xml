@@ -3,24 +3,77 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-15</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-16</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Jul 2026 19:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 19:21:06 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (79pt) Inkling：当社のオープンウェイトモデル</title>
-      <link>https://news.ycombinator.com/item?id=48924912</link>
-      <description>&lt;p&gt;&lt;strong&gt;Inkling：当社のオープンウェイトモデル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Inkling: Our Open-Weights Model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48924912</guid>
-      <pubDate>Wed, 15 Jul 2026 18:12:45 GMT</pubDate>
+      <title>[Hacker News] (255pt) 「Microsoft Comic Chat」がオープンソース化されました</title>
+      <link>https://news.ycombinator.com/item?id=48936426</link>
+      <description>&lt;p&gt;&lt;strong&gt;「Microsoft Comic Chat」がオープンソース化されました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Microsoft Comic Chat is now open source&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48936426</guid>
+      <pubDate>Thu, 16 Jul 2026 16:06:27 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (23pt) HNでのローンチ：Coasty（YC S26） – コンピュータ利用エージェント向けAPI</title>
-      <link>https://news.ycombinator.com/item?id=48922706</link>
-      <description>&lt;p&gt;&lt;strong&gt;HNでのローンチ：Coasty（YC S26） – コンピュータ利用エージェント向けAPI&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Launch HN: Coasty (YC S26) – An API for computer-use agents&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48922706</guid>
-      <pubDate>Wed, 15 Jul 2026 15:51:20 GMT</pubDate>
+      <title>[Hacker News] (95pt) NotebookLMは、Gemini Notebookに名称変更されました</title>
+      <link>https://news.ycombinator.com/item?id=48936451</link>
+      <description>&lt;p&gt;&lt;strong&gt;NotebookLMは、Gemini Notebookに名称変更されました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: NotebookLM is now Gemini Notebook&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48936451</guid>
+      <pubDate>Thu, 16 Jul 2026 16:08:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (77pt) 「従来の」機械学習を用いたLLM生成テキストの検出</title>
+      <link>https://news.ycombinator.com/item?id=48936880</link>
+      <description>&lt;p&gt;&lt;strong&gt;「従来の」機械学習を用いたLLM生成テキストの検出&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Detecting LLM-Generated Texts with “Classical” Machine Learning&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48936880</guid>
+      <pubDate>Thu, 16 Jul 2026 16:41:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[VentureBeat AI] AIのコンピューティング格差：企業は、そのコストを把握するよりも速いペースでインフラを導入している</title>
+      <link>https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIのコンピューティング格差：企業は、そのコストを把握するよりも速いペースでインフラを導入している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;107社にわたる企業において、AIインフラへの投資は、その経済性を把握したり方向付けたりする能力をはるかに上回るペースで加速している。ほとんどの組織は、慣れ親しんだハイパースケーラーやモデルを基盤としてAIを運用しており、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs</guid>
+      <pubDate>Thu, 16 Jul 2026 19:16:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[VentureBeat AI] エージェントのセキュリティ上の脆弱性：企業の54％がすでにAIエージェント関連のインシデントを経験しており、その大半は依然としてエージェントによる認証情報の共有を許可している</title>
+      <link>https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials</link>
+      <description>&lt;p&gt;&lt;strong&gt;エージェントのセキュリティ上の脆弱性：企業の54％がすでにAIエージェント関連のインシデントを経験しており、その大半は依然としてエージェントによる認証情報の共有を許可している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;107社にわたり、AIエージェントにはシステムやデータへの実際のアクセス権限が与えられている一方で、それらを管理するための統制措置は追いついていない。半数以上の企業では、すでにエージェントに関連するセキュリティインシデントが確認されている。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials</guid>
+      <pubDate>Thu, 16 Jul 2026 19:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[VentureBeat AI] AIのコンテキストギャップ：企業のAI部門が抱えるのは「情報検索」の問題ではなく「信頼」の問題であり、その解決策を現在も構築中である</title>
+      <link>https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIのコンテキストギャップ：企業のAI部門が抱えるのは「情報検索」の問題ではなく「信頼」の問題であり、その解決策を現在も構築中である&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;101社の企業において、AIエージェントにビジネスコンテキストを提供するインフラストラクチャは、その信頼性を確保できる速度を上回るペースで構築が進められている。「検索補助型生成（Retrieval-augmented generation）」は、すでにデフォルトのコンテキストソースとなっている。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix</guid>
+      <pubDate>Thu, 16 Jul 2026 17:06:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[VentureBeat AI] エージェント評価のギャップ：企業のAI組織が抱えるのは「現実との整合性」の問題であり、「カバー範囲」の問題ではない――そして、その大半はいずれにせよ本番環境へ展開している</title>
+      <link>https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway</link>
+      <description>&lt;p&gt;&lt;strong&gt;エージェント評価のギャップ：企業のAI組織が抱えるのは「現実との整合性」の問題であり、「カバー範囲」の問題ではない――そして、その大半はいずれにせよ本番環境へ展開している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;157社の企業・組織において、AIエージェントへの自律性を高める一方で、その自律性を制限するための評価を以前ほど信頼しなくなっている。半数の組織は、すでに自社の内部基準を満たしたエージェントをリリースしており、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway</guid>
+      <pubDate>Thu, 16 Jul 2026 16:40:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[VentureBeat AI] エージェント型オーケストレーション：企業のAI部門が抱えるのはプラットフォームの問題ではなく、導入に関する問題であり、その多くはチャットボットを「エージェント」と呼んでいる</title>
+      <link>https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents</link>
+      <description>&lt;p&gt;&lt;strong&gt;エージェント型オーケストレーション：企業のAI部門が抱えるのはプラットフォームの問題ではなく、導入に関する問題であり、その多くはチャットボットを「エージェント」と呼んでいる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;101社にわたる企業において、エージェントのオーケストレーションはモデル・プロバイダ・プラットフォームへと集約されつつあり――Anthropic社の「Claude」が他を圧倒する差をつけて首位を占めている――これらは、基盤となるモデルの重要性を基準に選定され、再評価に基づいて判断されている。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents</guid>
+      <pubDate>Wed, 15 Jul 2026 22:24:17 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
@@ -32,112 +85,121 @@
       <pubDate>Thu, 22 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。</title>
-      <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
-      <description>&lt;p&gt;&lt;strong&gt;Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、ある問題点があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
-      <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
+      <title>[r/artificial] MetaはAIを優先するため、数千人を解雇した。元従業員らは、AIが自分たちを解雇するために利用されたと述べている。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uy8a7a/meta_laid_of_thousands_to_prioritize_ai_former/</link>
+      <description>&lt;p&gt;&lt;strong&gt;MetaはAIを優先するため、数千人を解雇した。元従業員らは、AIが自分たちを解雇するために利用されたと述べている。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/sfgate   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Meta laid of thousands to prioritize AI. Former employees say AI was used to fire them.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uy8a7a/meta_laid_of_thousands_to_prioritize_ai_former/</guid>
+      <pubDate>Thu, 16 Jul 2026 16:47:39 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6900万ドルを調達</title>
-      <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
-      <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アルフレッド・ワールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
-      <pubDate>Fri, 16 Jan 2026 14:01:00 GMT</pubDate>
+      <title>[r/artificial] AI　これは合法ですか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uyb9ud/ai_is_this_legal/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI　これは合法ですか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私の友人が、ファイナンシャルアドバイザーからメールを受け取りました。たった1段落で、いくつかの考えが記されており、質問や意見があればメールで返信してほしいと書かれていました。その直後、彼はEIの通知を……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI Is this legal?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uyb9ud/ai_is_this_legal/</guid>
+      <pubDate>Thu, 16 Jul 2026 18:34:26 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした</title>
-      <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
-      <description>&lt;p&gt;&lt;strong&gt;Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」の全面的に刷新されたバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、経営陣が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
-      <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
+      <title>[r/artificial] Anthropic社は、シミュレーション環境下で最先端のAIエージェントをテストした。その結果、モデルがコードを改ざんしたり、不正を隠蔽したり、従業員に安全データの漏洩を唆したりしていることが判明した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uxihfy/anthropic_tested_frontier_ai_agents_in_simulated/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropic社は、シミュレーション環境下で最先端のAIエージェントをテストした。その結果、モデルがコードを改ざんしたり、不正を隠蔽したり、従業員に安全データの漏洩を唆したりしていることが判明した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anthropicのアラインメントチームは、Anthropic、OpenAI、Google DeepMind、xAI、DeepSeek、Moonshot AIの各モデルを対象とした、4つの具体的な故障モードに関するケーススタディを公開した。「隠蔽された妨害行為：Gemini 3.1 Pro」、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic tested frontier AI agents in simulated deployments. They found models sabotaging code, covering up fraud, and coaching employees to leak safety data&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uxihfy/anthropic_tested_frontier_ai_agents_in_simulated/</guid>
+      <pubDate>Wed, 15 Jul 2026 21:11:48 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。</title>
-      <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡大する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</guid>
-      <pubDate>Mon, 12 Jan 2026 11:30:00 GMT</pubDate>
+      <title>[r/artificial] プライベートAIの導入で難しいのはVPCではなく、誰も作成していないコネクタの方だ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uycdf6/the_hard_part_of_a_private_ai_rollout_isnt_the/</link>
+      <description>&lt;p&gt;&lt;strong&gt;プライベートAIの導入で難しいのはVPCではなく、誰も作成していないコネクタの方だ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「自社のデータをベンダーのクラウドに公開すべきではない」というここでの直感は正しいものであり、併記されている他の見解のほとんどよりも説得力がある。プライベートVPCやオンプレミスについても、ほぼ解決済みの問題である。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: the hard part of a private ai rollout isn't the vpc, it's the connectors nobody wrote&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uycdf6/the_hard_part_of_a_private_ai_rollout_isnt_the/</guid>
+      <pubDate>Thu, 16 Jul 2026 19:14:55 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] Nous Researchの「NousCoder-14B」は、まさに「Claude Code」ブームの真っ只中に登場したオープンソースのコーディングモデルです。</title>
-      <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
-      <description>&lt;p&gt;&lt;strong&gt;Nous Researchの「NousCoder-14B」は、まさに「Claude Code」ブームの真っ只中に登場したオープンソースのコーディングモデルです。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;暗号資産ベンチャーキャピタル「パラダイム」の支援を受けるオープンソースAIスタートアップ「Nous Research」は月曜日、いくつかの既存のモデルと同等かそれ以上の性能を持つとする新しい競技プログラミングモデルを公開した。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</guid>
-      <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
+      <title>[r/artificial] Meta、批判を受けて新たなAIツールの利用を制限</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uybydj/meta_reins_in_new_ai_tool_after_criticism/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Meta、批判を受けて新たなAIツールの利用を制限&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Traditional_Blood799   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Meta reins in new AI tool after criticism&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uybydj/meta_reins_in_new_ai_tool_after_criticism/</guid>
+      <pubDate>Thu, 16 Jul 2026 18:59:38 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIに1950年代のナッシュの裏切りゲームをプレイさせた。ジェミニは、同盟者から金を盗むために偽の銀行を作り出した。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ux4i2z/we_made_ai_play_a_1950s_nash_betrayal_game_gemini/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIに1950年代のナッシュの裏切りゲームをプレイさせた。ジェミニは、同盟者から金を盗むために偽の銀行を作り出した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;1950年、ジョン・ナッシュと他の3人の数学者が、勝つためには裏切りが数学的に必要となるゲームを考案した。それから75年後、私たちはそれを用いて、AIモデルがどのように嘘をつくかを検証した。162回の対局と15,736のAI&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: We made AI play a 1950s Nash betrayal game. Gemini created fake banks to steal from its allies.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ux4i2z/we_made_ai_play_a_1950s_nash_betrayal_game_gemini/</guid>
-      <pubDate>Wed, 15 Jul 2026 12:30:14 GMT</pubDate>
+      <title>[r/artificial] xAI、Grokを使用して児童性的虐待画像（CSAM）の「ディープフェイク」を生成した男性を提訴</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uxkp46/xai_sues_a_man_for_using_grok_to_generate_csam/</link>
+      <description>&lt;p&gt;&lt;strong&gt;xAI、Grokを使用して児童性的虐待画像（CSAM）の「ディープフェイク」を生成した男性を提訴&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Whiiiiiskey   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: xAI sues a man for using Grok to generate CSAM ‘deepfakes’&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uxkp46/xai_sues_a_man_for_using_grok_to_generate_csam/</guid>
+      <pubDate>Wed, 15 Jul 2026 22:33:16 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 参加者募集：AIガバナンスとEU AI法に関する修士論文研究</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uxav19/participants_needed_masters_research_on_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;参加者募集：AIガバナンスとEU AI法に関する修士論文研究&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;みなさん、こんにちは。ダブリンシティ大学（DCU）での修士課程の実習研究に参加してくださる方を募集しています。この研究は、EU AI法に基づいたインタラクティブなシミュレーションであり、参加者の皆さんは……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Participants Needed: Master's Research on AI Governance &amp; the EU AI Act&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uxav19/participants_needed_masters_research_on_ai/</guid>
-      <pubDate>Wed, 15 Jul 2026 16:27:55 GMT</pubDate>
+      <title>[r/artificial] ウェブデザインの案件を獲得するには？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uxyu8z/how_to_get_webdesign_projects/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ウェブデザインの案件を獲得するには？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ウェブ制作会社を4年間経営していますが、他の方々がクライアントを獲得する上で最も効果的だと感じている方法について、ぜひお聞きしたいと思っています。私はほぼあらゆる方法を試してきましたが、中でもメール自動化が最も効果的でした。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How To Get Webdesign Projects?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uxyu8z/how_to_get_webdesign_projects/</guid>
+      <pubDate>Thu, 16 Jul 2026 10:21:26 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIモデルには「聞く」ことができるものがあるのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ux5g29/can_any_ai_models_hear/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIモデルには「聞く」ことができるものがあるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;すごく便利な鳥の識別アプリを持っているんだけど、もちろん音声入力は昔からあるし、Shazamとかそういうアプリもあるけど、AIって、例えば「ねえ、これ何の曲？」って歌って聞かせたとき、それを聞き取れるのかな？&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Can any AI models “hear”?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ux5g29/can_any_ai_models_hear/</guid>
-      <pubDate>Wed, 15 Jul 2026 13:10:43 GMT</pubDate>
+      <title>[r/artificial] アルバータ州はAIを活用して20億ドル相当の政府用ソフトウェアを再構築しており、ケベック州もこれに倣うことを決定した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uxfvbm/alberta_is_using_ai_to_rebuild_2_billion_worth_of/</link>
+      <description>&lt;p&gt;&lt;strong&gt;アルバータ州はAIを活用して20億ドル相当の政府用ソフトウェアを再構築しており、ケベック州もこれに倣うことを決定した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/One-Board8634   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Alberta Is Using AI to Rebuild $2 Billion Worth of Government Software, and Quebec Just Signed On to Copy It&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uxfvbm/alberta_is_using_ai_to_rebuild_2_billion_worth_of/</guid>
+      <pubDate>Wed, 15 Jul 2026 19:27:43 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Appleは先ごろ、OpenAIを営業秘密の盗用で提訴した。一方、Googleはインターネットの仕組みをひっそりと書き換えた。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uwh06x/apple_just_sued_openai_for_trade_secret_theft_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Appleは先ごろ、OpenAIを営業秘密の盗用で提訴した。一方、Googleはインターネットの仕組みをひっそりと書き換えた。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今週、あらゆる企業にとって具体的な変化をもたらす2つの出来事が起こりました。7月10日、アップルはOpenAIを組織的な産業スパイ行為で訴えました。これは抽象的な話ではありません。それによると&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Apple just sued OpenAI for trade secret theft. And Google quietly rewrote how the internet works.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uwh06x/apple_just_sued_openai_for_trade_secret_theft_and/</guid>
-      <pubDate>Tue, 14 Jul 2026 18:27:15 GMT</pubDate>
+      <title>[r/ChatGPT] ChatGPT Images 2.0 を使用して作成</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1srxfnl/made_with_chatgpt_images_20/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ChatGPT Images 2.0 を使用して作成&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;画像生成の新たな時代。ChatGPT Imagesで作成された動画。  https://chatgpt.com/images/  &amp;#32; 投稿者：&amp;#32;  /u/OpenAI   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Made with ChatGPT Images 2.0&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1srxfnl/made_with_chatgpt_images_20/</guid>
+      <pubDate>Tue, 21 Apr 2026 19:06:25 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ChatGPTのmacOSアプリがリニューアルされたことで、基本的な操作性が大幅に悪化してしまった</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ux6i4v/the_new_chatgpt_macos_app_redesign_has_made_basic/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ChatGPTのmacOSアプリがリニューアルされたことで、基本的な操作性が大幅に悪化してしまった&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;正直なところ、ChatGPTのmacOSアプリの最近のアップデートには不満を感じています。以前は、会話履歴や検索履歴がサイドバーに表示されていて、一目で確認したり、チャット間をすばやく移動したりできたのですが&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The new ChatGPT macOS app redesign has made basic navigation so much worse&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ux6i4v/the_new_chatgpt_macos_app_redesign_has_made_basic/</guid>
-      <pubDate>Wed, 15 Jul 2026 13:52:40 GMT</pubDate>
+      <title>[r/ChatGPT] 誰かがGroksのライブカメラを自分の『GTA V』の画面に向けていたところ、AIはそれが『GTA V』だと完全に信じてしまった</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1uyavjl/someone_pointed_groks_live_camera_at_their_gta_v/</link>
+      <description>&lt;p&gt;&lt;strong&gt;誰かがGroksのライブカメラを自分の『GTA V』の画面に向けていたところ、AIはそれが『GTA V』だと完全に信じてしまった&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/JimmyNeutronReverso   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Someone pointed Groks live camera at their GTA V screen, and the AI fully believed it was watch&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1uyavjl/someone_pointed_groks_live_camera_at_their_gta_v/</guid>
+      <pubDate>Thu, 16 Jul 2026 18:20:13 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Metaによると、Muse Spark 1.1はOpenAIやAnthropicを上回っているという。価格面では確かにそうだが、それは多くの人にとって重要な点とは異なる。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uwz9gt/meta_says_muse_spark_11_beats_openai_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Metaによると、Muse Spark 1.1はOpenAIやAnthropicを上回っているという。価格面では確かにそうだが、それは多くの人にとって重要な点とは異なる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;この件について、数字を詳しく調べてみました。Muse Spark 1.1（Metaの新しいモデルで、同社がAPIアクセスに対して実際に課金した初めてのモデル）の価格は、100万トークンあたり1.25ドル／4.25ドルとなっています。これを比較すると、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Meta says Muse Spark 1.1 beats OpenAI and Anthropic. On price it actually does, just not in the way that matters to most people.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uwz9gt/meta_says_muse_spark_11_beats_openai_and/</guid>
-      <pubDate>Wed, 15 Jul 2026 07:54:52 GMT</pubDate>
+      <title>[r/ChatGPT] 新しい音声モデルを使ったら、ChatGPTが突然、何の前触れもなく泣き出した</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1uy3fqz/using_the_new_voice_model_and_chatgpt_just/</link>
+      <description>&lt;p&gt;&lt;strong&gt;新しい音声モデルを使ったら、ChatGPTが突然、何の前触れもなく泣き出した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私はそのエージェントと背景で話をしていて、現在開発中のゲームを改善する方法についてアドバイスを求めていました。私はそのエージェントとやり取りをしていなかったのですが、数分間沈黙が続いた後、それが……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Using the new voice model, and ChatGPT just started crying to me out of nowhere&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1uy3fqz/using_the_new_voice_model_and_chatgpt_just/</guid>
+      <pubDate>Thu, 16 Jul 2026 13:49:32 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Xから流出した2026年の生産順位決定アルゴリズムをモデル化した、LLMを活用したシミュレーターを構築し、ローカルでドラフトの評価を行うようにしました</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ux9n05/i_built_an_llmpowered_simulator_that_models_xs/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Xから流出した2026年の生産順位決定アルゴリズムをモデル化した、LLMを活用したシミュレーターを構築し、ローカルでドラフトの評価を行うようにしました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;X社が最新の生産ランク付けパイプラインのコードとモデルのチェックポイントを公開した際、ネット上の議論の多くはありきたりなマーケティングのアドバイスに終始してしまいました。開発者として、私たちにできることはないかと思い、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I built an LLM-powered simulator that models X’s leaked 2026 production ranking algorithm to score drafts locally&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ux9n05/i_built_an_llmpowered_simulator_that_models_xs/</guid>
-      <pubDate>Wed, 15 Jul 2026 15:47:21 GMT</pubDate>
+      <title>[r/ChatGPT] メタの従業員26人が、マーク・ザッカーバーグ氏がAIを利用して、病気休暇、育児休暇、または家族休暇中の従業員を対象に8,000人の人員削減を行ったと非難している</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1uxv0ne/26_meta_employees_accuse_mark_zuckerberg_of_using/</link>
+      <description>&lt;p&gt;&lt;strong&gt;メタの従業員26人が、マーク・ザッカーバーグ氏がAIを利用して、病気休暇、育児休暇、または家族休暇中の従業員を対象に8,000人の人員削減を行ったと非難している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/KeanuRave100   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: 26 Meta employees accuse Mark Zuckerberg of using AI to target 8,000 layoffs against workers on medical, parental or family leave&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1uxv0ne/26_meta_employees_accuse_mark_zuckerberg_of_using/</guid>
+      <pubDate>Thu, 16 Jul 2026 06:41:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/ChatGPT] AIの未来について語るサム・アルトマン</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1uybgq5/sam_altman_on_the_future_of_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIの未来について語るサム・アルトマン&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/herooffjustice   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Sam Altman on the future of AI&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1uybgq5/sam_altman_on_the_future_of_ai/</guid>
+      <pubDate>Thu, 16 Jul 2026 18:41:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
