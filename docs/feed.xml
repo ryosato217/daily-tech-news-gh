@@ -3,16 +3,24 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-17</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-18</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 19:18:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 19:12:15 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (267pt) Mozilla：オープンソースAIの現状</title>
-      <link>https://news.ycombinator.com/item?id=48947825</link>
-      <description>&lt;p&gt;&lt;strong&gt;Mozilla：オープンソースAIの現状&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Mozilla: The state of open source AI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48947825</guid>
-      <pubDate>Fri, 17 Jul 2026 14:31:10 GMT</pubDate>
+      <title>[Hacker News] (363pt) GPT-5.6は、プロンプトを用いて、凸最適化における30年にわたる空白を埋めた</title>
+      <link>https://news.ycombinator.com/item?id=48957779</link>
+      <description>&lt;p&gt;&lt;strong&gt;GPT-5.6は、プロンプトを用いて、凸最適化における30年にわたる空白を埋めた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GPT-5.6 used a prompt to close a 30-year gap in convex optimization&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48957779</guid>
+      <pubDate>Sat, 18 Jul 2026 13:00:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (165pt) 『Fable 5』対 GPT-5.6 Sol：NP困難問題における「/goal」の有効性は？</title>
+      <link>https://news.ycombinator.com/item?id=48956879</link>
+      <description>&lt;p&gt;&lt;strong&gt;『Fable 5』対 GPT-5.6 Sol：NP困難問題における「/goal」の有効性は？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48956879</guid>
+      <pubDate>Sat, 18 Jul 2026 11:00:29 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] AIのコンピューティング格差：企業は、そのコストを把握するよりも速いペースでインフラを導入している</title>
@@ -36,7 +44,7 @@
       <title>[VentureBeat AI] AIのコンテキストギャップ：企業のAI部門が抱えるのは「情報検索」の問題ではなく「信頼」の問題であり、その解決策を現在も構築中である</title>
       <link>https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix</link>
       <description>&lt;p&gt;&lt;strong&gt;AIのコンテキストギャップ：企業のAI部門が抱えるのは「情報検索」の問題ではなく「信頼」の問題であり、その解決策を現在も構築中である&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;101社にわたり、AIエージェントにビジネスコンテキストを提供するインフラストラクチャは、その信頼性を確保できる速度を上回るペースで構築が進められている。「検索補完型生成（Retrieval-augmented generation）」は、すでにデフォルトのコンテキストソースとなっている。&lt;/p&gt;
+&lt;p&gt;101社の企業において、AIエージェントにビジネスコンテキストを提供するインフラストラクチャは、その信頼性を確保できる速度を上回るペースで構築が進められている。「検索強化生成（Retrieval-augmented generation）」は、すでにデフォルトのコンテキストソースとなっている。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix</guid>
       <pubDate>Thu, 16 Jul 2026 17:06:08 GMT</pubDate>
@@ -69,76 +77,58 @@
       <pubDate>Thu, 22 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] テスラのAIは、単なる人形にさえ打ち負かされてしまう</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uz66nv/teslas_ai_can_be_defeated_by_a_simple_doll/</link>
-      <description>&lt;p&gt;&lt;strong&gt;テスラのAIは、単なる人形にさえ打ち負かされてしまう&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;「最先端のAIなんてこんなものか」  &amp;#32; 投稿者：&amp;#32;  /u/ImaginaryRea1ity   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Tesla's AI can be defeated by a simple doll&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uz66nv/teslas_ai_can_be_defeated_by_a_simple_doll/</guid>
-      <pubDate>Fri, 17 Jul 2026 17:24:49 GMT</pubDate>
+      <title>[r/artificial] 習近平氏、AIのオープンソース化をさらに推進するよう呼びかけ：「中国は、より開放的な姿勢をとる用意がある」</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uzcgiq/xi_jinping_calls_for_more_opensource_ai_china_is/</link>
+      <description>&lt;p&gt;&lt;strong&gt;習近平氏、AIのオープンソース化をさらに推進するよう呼びかけ：「中国は、より開放的な姿勢をとる用意がある」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Xi Jinping calls for more open-source AI: 'China is ready to be more open'&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uzcgiq/xi_jinping_calls_for_more_opensource_ai_china_is/</guid>
+      <pubDate>Fri, 17 Jul 2026 21:15:30 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ライナス・トーバルズ氏は、LinuxはAIに反対するプロジェクトではないと述べ、それが気に入らないなら「フォークするか、あるいは単に離れるか」と語った。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uyuka8/linus_torvalds_says_linux_is_not_an_antiai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ライナス・トーバルズ氏は、LinuxはAIに反対するプロジェクトではないと述べ、それが気に入らないなら「フォークするか、あるいは単に離れるか」と語った。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Dapper_Order7182   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Linus Torvalds says Linux is not an anti-AI project, and if you don't like that, then &quot;fork it or just walk away&quot;&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uyuka8/linus_torvalds_says_linux_is_not_an_antiai/</guid>
-      <pubDate>Fri, 17 Jul 2026 09:14:27 GMT</pubDate>
+      <title>[r/artificial] 情報筋によると、ホワイトハウスは最先端のAIモデルへのアクセスを規制し、テック大手から権力を奪おうとしているという</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v010pk/the_white_house_is_dictating_access_to_frontier/</link>
+      <description>&lt;p&gt;&lt;strong&gt;情報筋によると、ホワイトハウスは最先端のAIモデルへのアクセスを規制し、テック大手から権力を奪おうとしているという&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/PsychologicalBox5208   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The White House is dictating access to frontier AI models, shifting power from tech giants, sources say&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v010pk/the_white_house_is_dictating_access_to_frontier/</guid>
+      <pubDate>Sat, 18 Jul 2026 16:54:18 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 最新鋭の新しいエージェント型パイプライン：コンセプト＋トラック＝完全な視聴覚世界</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uz3o5m/a_new_stateoftheart_agentic_pipeline_concept/</link>
-      <description>&lt;p&gt;&lt;strong&gt;最新鋭の新しいエージェント型パイプライン：コンセプト＋トラック＝完全な視聴覚世界&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Uisato Studioの「Music Video Pro」モードがどのようなことができるかを示す、最初の簡単な例です。1曲とコンセプトを、一つの映像と音の世界へと変えることができます。これは、大幅に機能が拡張された新しい&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A new, state-of-the-art, agentic pipeline: concept + track = full audiovisual world&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uz3o5m/a_new_stateoftheart_agentic_pipeline_concept/</guid>
-      <pubDate>Fri, 17 Jul 2026 15:54:04 GMT</pubDate>
+      <title>[r/artificial] RAGパイプラインの応答時間を90秒から4秒に短縮しました。モデルには一切手を加えませんでした。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uzzcef/i_cut_a_rag_pipelines_response_time_from_90/</link>
+      <description>&lt;p&gt;&lt;strong&gt;RAGパイプラインの応答時間を90秒から4秒に短縮しました。モデルには一切手を加えませんでした。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;昨年、私はオックスフォード大学発のAIスタートアップ企業で働きました。その会社の製品は、RAGパイプラインを通じて研究上の疑問に答えるものでした。機能はしていましたが、クエリ1件あたり約90秒かかっていました。この処理時間は長すぎて、ユーザーは……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I cut a RAG pipeline's response time from 90 seconds to 4. Never touched the model&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uzzcef/i_cut_a_rag_pipelines_response_time_from_90/</guid>
+      <pubDate>Sat, 18 Jul 2026 15:47:54 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Kimi K3はインテリジェンス・インデックスで3位となり、Opus 4.8を上回りました。GPT-5.6 Solでさえ、Fable 5から1位の座を奪うことはできませんでした。重み付けは7月27日に引き下げられる見込みです。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uyrw6h/kimi_k3_landed_third_on_the_intelligence_index/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Kimi K3はインテリジェンス・インデックスで3位となり、Opus 4.8を上回りました。GPT-5.6 Solでさえ、Fable 5から1位の座を奪うことはできませんでした。重み付けは7月27日に引き下げられる見込みです。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;キミK3のデータを分析しているんだけど、これがどれほど大きなことなのか、みんなまだ十分に理解していないと思う。現在、「人工分析知能指数」では、Fable 5が依然として1位（59.9）で、GPTでさえも&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Kimi K3 landed third on the Intelligence Index, ahead of Opus 4.8, and even GPT-5.6 Sol couldn't take #1 from Fable 5. Weights supposedly drop July 27.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uyrw6h/kimi_k3_landed_third_on_the_intelligence_index/</guid>
-      <pubDate>Fri, 17 Jul 2026 06:39:47 GMT</pubDate>
+      <title>[r/artificial] ワールドカップ決勝戦前のAI予測を比較</title>
+      <link>https://www.reddit.com/r/artificial/comments/1uzw659/comparing_ai_predictions_before_the_world_cup/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ワールドカップ決勝戦前のAI予測を比較&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;決勝戦が近づいてきたので、SportEvalに掲載されていた準々決勝のAI予想を改めて確認してみました。勝ち上がった4チームはいずれも優勝候補でしたが、どの試合もこれほどまでに…&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Comparing AI predictions before the World Cup final&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uzw659/comparing_ai_predictions_before_the_world_cup/</guid>
+      <pubDate>Sat, 18 Jul 2026 13:38:44 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ムーンショットの「Kimi K3」がAI・半導体株を急落させた ムーンショットの「Kimi K3」がAI・半導体株を急落させた。中国最大のオープンウェイトAIモデルが登場したことで、米国のインフラ支出の経済性に関する「DeepSeek」時代の懸念が再燃している。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uz1077/moonshots_kimi_k3_sends_ai_and_semiconductor/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ムーンショットの「Kimi K3」がAI・半導体株を急落させた ムーンショットの「Kimi K3」がAI・半導体株を急落させた。中国最大のオープンウェイトAIモデルが登場したことで、米国のインフラ支出の経済性に関する「DeepSeek」時代の懸念が再燃している。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/coolbern   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Moonshot’s Kimi K3 sends AI and semiconductor stocks into a tailspin Moonshot’s Kimi K3 sends AI and semiconductor stocks into a tailspin. China's largest open-weight AI model revives DeepSeek-era fears about the economics of US infrastructure spending.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uz1077/moonshots_kimi_k3_sends_ai_and_semiconductor/</guid>
-      <pubDate>Fri, 17 Jul 2026 14:15:22 GMT</pubDate>
+      <title>[r/artificial] AIは、実際にソフトウェア開発会社の製品開発のあり方を変えたのだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v03akw/has_ai_actually_changed_how_software_development/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIは、実際にソフトウェア開発会社の製品開発のあり方を変えたのだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今後のプロジェクトに向けてソフトウェア開発会社を探しているのですが、調べた会社のほとんどが「AIを活用している」と謳っています。検索しているうちに、GeekyAntsやその他数社を見つけました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Has AI actually changed how software development agencies build products?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v03akw/has_ai_actually_changed_how_software_development/</guid>
+      <pubDate>Sat, 18 Jul 2026 18:22:16 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 記録されているAIコーディングエージェントの不具合60件を分析したところ、47％が重大な不具合であり、その根本原因は通常、モデルそのものではなかった</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uz3771/i_analyzed_60_documented_ai_codingagent_failures/</link>
-      <description>&lt;p&gt;&lt;strong&gt;記録されているAIコーディングエージェントの不具合60件を分析したところ、47％が重大な不具合であり、その根本原因は通常、モデルそのものではなかった&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は、出典が明記された実際のAIエージェントの障害事例をまとめた、CVE形式のデータベースを管理しています。現在60件が登録されており、そのパターンは十分に明確であるため、以下のようにまとめることができます。セキュリティ上の脆弱性や破壊的な行動が&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I analyzed 60 documented AI coding-agent failures — 47% were critical, and the root cause usually wasn't the model&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uz3771/i_analyzed_60_documented_ai_codingagent_failures/</guid>
-      <pubDate>Fri, 17 Jul 2026 15:36:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 皆さんの期待を上回ったAIツールにはどのようなものがありますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uz0zfl/whats_an_ai_tool_that_exceeded_your_expectations/</link>
-      <description>&lt;p&gt;&lt;strong&gt;皆さんの期待を上回ったAIツールにはどのようなものがありますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;また、ホームページでは見栄えがするものの、実際に使ってみると期待外れなAIツールだろうと予想していました。しかし、Readdy AIを少し使ってみたところ、○○を作成する上で、予想以上に役立つことがわかりました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What’s an AI tool that exceeded your expectations?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uz0zfl/whats_an_ai_tool_that_exceeded_your_expectations/</guid>
-      <pubDate>Fri, 17 Jul 2026 14:14:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AI 対 AI を利用する人間</title>
-      <link>https://www.reddit.com/r/artificial/comments/1uz2k6q/ai_vs_humans_who_use_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI 対 AI を利用する人間&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近考えていることがあるんだけど……AIが人間の代わりになるだとか、そんな話がいつも出ているよね。AIの分野で規模の経済が働き、AIの利用コストがどんどん安くなっていくにつれて（これは長い話だけど……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI vs Humans who use AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1uz2k6q/ai_vs_humans_who_use_ai/</guid>
-      <pubDate>Fri, 17 Jul 2026 15:13:01 GMT</pubDate>
+      <title>[r/artificial] AIにアイデアを共有する</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v0346g/sharing_your_ideas_to_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIにアイデアを共有する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIに自分のアイデアを共有することで、新たな視点が得られるでしょうか、それともアイデアがより良くなるでしょうか、あるいはそのアイデアに価値があると感じられるようになるでしょうか、それとも価値がないと感じられるようになるでしょうか。私にとっては、プロジェクトなど、多くの場面でこうしたことがありました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Sharing your ideas to ai&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v0346g/sharing_your_ideas_to_ai/</guid>
+      <pubDate>Sat, 18 Jul 2026 18:15:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
