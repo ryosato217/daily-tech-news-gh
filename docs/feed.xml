@@ -3,24 +3,48 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-19</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-20</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Jul 2026 19:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 19:49:24 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (288pt) Claude Codeは現在、Rustで書かれたBunを使用しています</title>
-      <link>https://news.ycombinator.com/item?id=48966569</link>
-      <description>&lt;p&gt;&lt;strong&gt;Claude Codeは現在、Rustで書かれたBunを使用しています&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Code uses Bun written in Rust now&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48966569</guid>
-      <pubDate>Sun, 19 Jul 2026 10:03:23 GMT</pubDate>
+      <title>[Hacker News] (572pt) 中国の「オープンウェイト」AI戦略が成功を収めている</title>
+      <link>https://news.ycombinator.com/item?id=48979269</link>
+      <description>&lt;p&gt;&lt;strong&gt;中国の「オープンウェイト」AI戦略が成功を収めている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: China's open-weights AI strategy is winning&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48979269</guid>
+      <pubDate>Mon, 20 Jul 2026 14:21:47 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (237pt) OpenAI、Codexモデルのコンテキストサイズを372kから272kに縮小</title>
-      <link>https://news.ycombinator.com/item?id=48965850</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAI、Codexモデルのコンテキストサイズを372kから272kに縮小&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI reduces Codex Model Context Size from 372k to 272k&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48965850</guid>
-      <pubDate>Sun, 19 Jul 2026 07:54:39 GMT</pubDate>
+      <title>[Hacker News] (521pt) 空港シミュレーター</title>
+      <link>https://news.ycombinator.com/item?id=48976846</link>
+      <description>&lt;p&gt;&lt;strong&gt;空港シミュレーター&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Airport Simulator&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48976846</guid>
+      <pubDate>Mon, 20 Jul 2026 10:30:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (151pt) arXivにおけるAIによる執筆をどのように測定したか、そしてその測定方法の限界はどこにあるか</title>
+      <link>https://news.ycombinator.com/item?id=48981206</link>
+      <description>&lt;p&gt;&lt;strong&gt;arXivにおけるAIによる執筆をどのように測定したか、そしてその測定方法の限界はどこにあるか&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How we measured AI writing across arXiv, and where the measurement breaks&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48981206</guid>
+      <pubDate>Mon, 20 Jul 2026 16:36:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (33pt) HNでのローンチ：Bloomy（YC S26） – K-12向けAIを活用した習熟度別学習</title>
+      <link>https://news.ycombinator.com/item?id=48981136</link>
+      <description>&lt;p&gt;&lt;strong&gt;HNでのローンチ：Bloomy（YC S26） – K-12向けAIを活用した習熟度別学習&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48981136</guid>
+      <pubDate>Mon, 20 Jul 2026 16:32:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (31pt) Nativ：Mac上でフロンティア・オープン・モデルをローカルに実行する</title>
+      <link>https://news.ycombinator.com/item?id=48982681</link>
+      <description>&lt;p&gt;&lt;strong&gt;Nativ：Mac上でフロンティア・オープン・モデルをローカルに実行する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Nativ: Run frontier open models locally on your Mac&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48982681</guid>
+      <pubDate>Mon, 20 Jul 2026 18:16:08 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] AIのコンピューティング格差：企業は、そのコストを把握するよりも速いペースでインフラを導入している</title>
@@ -41,9 +65,9 @@
       <pubDate>Thu, 16 Jul 2026 19:02:38 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] AIのコンテキストギャップ：企業のAI部門が抱えるのは「情報検索」の問題ではなく「信頼」の問題であり、その解決策を現在も構築中である</title>
+      <title>[VentureBeat AI] AIのコンテキストギャップ：企業のAI部門が抱えるのは「情報検索」の問題ではなく「信頼」の問題であり、その解決策をまだ模索しているところが多い</title>
       <link>https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIのコンテキストギャップ：企業のAI部門が抱えるのは「情報検索」の問題ではなく「信頼」の問題であり、その解決策を現在も構築中である&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;AIのコンテキストギャップ：企業のAI部門が抱えるのは「情報検索」の問題ではなく「信頼」の問題であり、その解決策をまだ模索しているところが多い&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;101社の企業において、AIエージェントにビジネスコンテキストを提供するインフラストラクチャは、その信頼性を確保できる速度を上回るペースで構築が進められている。「検索補助型生成（Retrieval-augmented generation）」は、すでにデフォルトのコンテキストソースとなっている。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix</guid>
@@ -59,10 +83,10 @@
       <pubDate>Thu, 16 Jul 2026 16:40:48 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] エージェント型オーケストレーション：企業のAI部門が抱えるのはプラットフォームの問題ではなく、導入に関する問題であり、その多くはチャットボットを「エージェント」と呼んでいる</title>
+      <title>[VentureBeat AI] エージェント型オーケストレーション：企業のAI部門が抱えるのはプラットフォームの問題ではなく、導入の問題であり、その多くはチャットボットを「エージェント」と呼んでいる</title>
       <link>https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents</link>
-      <description>&lt;p&gt;&lt;strong&gt;エージェント型オーケストレーション：企業のAI部門が抱えるのはプラットフォームの問題ではなく、導入に関する問題であり、その多くはチャットボットを「エージェント」と呼んでいる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;101社にわたり、エージェントのオーケストレーションはモデル・プロバイダ・プラットフォームへと集約されつつあり――Anthropic社の「Claude」が他を圧倒する差をつけて首位を占めている――これらは、基盤となるモデルの重要性を基準に選定され、再評価に基づいて判断されている。&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;エージェント型オーケストレーション：企業のAI部門が抱えるのはプラットフォームの問題ではなく、導入の問題であり、その多くはチャットボットを「エージェント」と呼んでいる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;101社にわたる企業において、エージェントのオーケストレーションはモデル・プロバイダ・プラットフォームへと集約されつつあり――Anthropic社の「Claude」が他を圧倒的な差でリードしている――これらは、基盤となるモデルの重要性を理由に選定され、再評価に基づいて判断されている。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents</guid>
       <pubDate>Wed, 15 Jul 2026 22:24:17 GMT</pubDate>
@@ -77,76 +101,76 @@
       <pubDate>Thu, 22 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIに対する「嫌悪」が、以前よりも広まり、主流となり、激しくなっていることに気づいた人はいますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v0y8o0/has_anyone_noticed_ai_hate_has_become_more/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIに対する「嫌悪」が、以前よりも広まり、主流となり、激しくなっていることに気づいた人はいますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIが使われているのを見かけるたびに、「AIの粗作」という反応が返ってくる。たとえそれが優れたものであったり、プロトタイプや広告に使われていたりする場合でも、しばしば露骨な怒りを招いてしまう。もしその兆候があるなら……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Has anyone noticed AI &quot;hate&quot; has become more prevalent, mainstream and intense?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v0y8o0/has_anyone_noticed_ai_hate_has_become_more/</guid>
-      <pubDate>Sun, 19 Jul 2026 18:33:10 GMT</pubDate>
+      <title>[r/artificial] AIによる生産性の数値は、私のチームで実際に目にする状況と一致していません</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v1ogrn/the_ai_productivity_numbers_dont_match_what_i/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIによる生産性の数値は、私のチームで実際に目にする状況と一致していません&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は小さな開発チームの運営に携わっていますが、この1年間、これらのツールが実際に作業を速くしてくれたのか、それとも単に速くなったように感じさせただけなのかを見極めようとしてきました。正直なところ、まだはっきりとは分かりません。成果は確かにありますが、つまらないものです。Boile&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The AI productivity numbers don't match what I actually see on my team&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v1ogrn/the_ai_productivity_numbers_dont_match_what_i/</guid>
+      <pubDate>Mon, 20 Jul 2026 15:18:09 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 各国は、計算リソースを管理していない場合、本当にAIを規制できるのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v0xckk/can_countries_really_regulate_ai_if_they_dont/</link>
-      <description>&lt;p&gt;&lt;strong&gt;各国は、計算リソースを管理していない場合、本当にAIを規制できるのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIガバナンスに関する議論では、まるでどの国もほぼ同等の影響力を持って同じテーブルに着いているかのように語られるのをよく耳にします。しかし、ほとんどの国はチップやクラウドインフラ、データなどを管理しているわけではありません。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Can countries really regulate AI if they don’t control the compute?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v0xckk/can_countries_really_regulate_ai_if_they_dont/</guid>
-      <pubDate>Sun, 19 Jul 2026 17:58:33 GMT</pubDate>
+      <title>[r/artificial] 良いAI画像生成ツールを探しています。皆さんはどんなツールを使っていますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v1ozqo/trying_to_find_a_good_ai_image_generator_whats/</link>
+      <description>&lt;p&gt;&lt;strong&gt;良いAI画像生成ツールを探しています。皆さんはどんなツールを使っていますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;手短に言うと、イラスト制作の一環としてAI画像生成ツールを探しています。私が求める作業量を考えると、無料のものじゃおそらく対応しきれないと思うので、サブスクリプション制のものでも構いません。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Trying to find a good AI image generator. What's worked for you?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v1ozqo/trying_to_find_a_good_ai_image_generator_whats/</guid>
+      <pubDate>Mon, 20 Jul 2026 15:37:53 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIを使って怠け者にならないには？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v0pmhf/how_not_to_become_lazy_with_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIを使って怠け者にならないには？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;これは実際にはAIの問題ではなく、むしろ考え方の問題だと思います。そして、これは新しい技術が登場するたびに繰り返されることです。電卓やインターネットなど、人々が「代わりに考えてくれる」ツールを手に入れるたびに、一部の人々は怠けがちになり、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How not to become lazy with AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v0pmhf/how_not_to_become_lazy_with_ai/</guid>
-      <pubDate>Sun, 19 Jul 2026 12:43:12 GMT</pubDate>
+      <title>[r/artificial] アレックス・ホルモジ氏：創業者は「AIを使って、つまらない作業を驚くほど速くこなしている」――ボトルネックでさえなかった作業の自動化に35万ドルを投じた</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v1os70/alex_hormozi_founders_are_using_ai_to_do_dumb/</link>
+      <description>&lt;p&gt;&lt;strong&gt;アレックス・ホルモジ氏：創業者は「AIを使って、つまらない作業を驚くほど速くこなしている」――ボトルネックでさえなかった作業の自動化に35万ドルを投じた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;あなたも、アレックス・ホルモジが繰り返し目にするのと同じ過ちを犯そうとしているかもしれません。それは、創業者がAIに夢中になりすぎて、間違った業務を、より速く自動化してしまうというものです。彼は、11人のバーチャルアシスタントに月額1万1000ドルを支払っている企業を検証しました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Alex Hormozi: founders are &quot;using AI to do dumb things really fast&quot; — $350K to automate work that wasn't even the bottleneck&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v1os70/alex_hormozi_founders_are_using_ai_to_do_dumb/</guid>
+      <pubDate>Mon, 20 Jul 2026 15:30:08 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIのあらゆる動向に、実際にどうやってついていっているのですか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v0yb8z/how_do_you_actually_keep_up_with_everything_in_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIのあらゆる動向に、実際にどうやってついていっているのですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私だけがそう感じているのかは分かりませんが、本当に役に立つ、あるいは興味深いAIに関する情報を見つけるのに苦労しています。いくつかのポッドキャストやニュースレターを購読していますが（ポッドキャストは2つほど、ニュースレターは4つほど……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How do you actually keep up with everything in AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v0yb8z/how_do_you_actually_keep_up_with_everything_in_ai/</guid>
-      <pubDate>Sun, 19 Jul 2026 18:35:59 GMT</pubDate>
+      <title>[r/artificial] 人間の創造性とAIの創造性を実際に区別する要素とは何でしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v1id23/what_actually_makes_human_creativity_different/</link>
+      <description>&lt;p&gt;&lt;strong&gt;人間の創造性とAIの創造性を実際に区別する要素とは何でしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近、人工知能と創造性についてよく考えている。脊髄性筋萎縮症2型を患っている私にとって、テクノロジーは人生において最も大きな支えの一つとなっている。それは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What actually makes human creativity different from AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v1id23/what_actually_makes_human_creativity_different/</guid>
+      <pubDate>Mon, 20 Jul 2026 11:05:17 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 中国のオープンウェイト型モデルが、一部のベンチマークでOpus 4.8を上回った。このような結果は初めてのことだ。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v0x2za/chinese_openweight_model_beats_opus_48_on_some/</link>
-      <description>&lt;p&gt;&lt;strong&gt;中国のオープンウェイト型モデルが、一部のベンチマークでOpus 4.8を上回った。このような結果は初めてのことだ。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Moonshotは7月17日、Kimi K3をリリースした。パラメータ数は2.8兆で、完全なオープンソースとなっている。Artificial Analysisの独自評価によると、最先端のベンチマークにおいて、AnthropicのOpus 4.8を上回る成績を収めており、中国初のオープンソースAIモデルとなっている。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Chinese open-weight model beats Opus 4.8 on some benchmarks, first time this has happened&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v0x2za/chinese_openweight_model_beats_opus_48_on_some/</guid>
-      <pubDate>Sun, 19 Jul 2026 17:48:03 GMT</pubDate>
+      <title>[r/artificial] Tinder：Tinderがアカウント登録時に採用している「楕円形のライブカメラ顔認証」を、AIボットが今やいかに簡単に突破しているか、誰かご存知ですか？AIボットの最新動向（Signalでの仮想通貨販売や、お決まりの手口など）を確認するために、Tinderを覗いてみました。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v1rsof/tinder_does_anyone_know_how_ai_bots_are_now/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Tinder：Tinderがアカウント登録時に採用している「楕円形のライブカメラ顔認証」を、AIボットが今やいかに簡単に突破しているか、誰かご存知ですか？AIボットの最新動向（Signalでの仮想通貨販売や、お決まりの手口など）を確認するために、Tinderを覗いてみました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「楕円形のライブカメラの顔」という課題を乗り切るための、誰かが考案した簡単なキットとかあるのかな……それとも？　もしかすると、最低賃金詐欺師のチームが「q」の画像を掲げるだけで済むような、そんな単純な方法なのかもしれない……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Tinder: does anyone know how AI bots are now easily passing the &quot;oval-shape live camera face challenge&quot; Tinder is using for account signup? I hopped on tinder to see the state of the art in AI bots (selling crypto on Signal and the usual).&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v1rsof/tinder_does_anyone_know_how_ai_bots_are_now/</guid>
+      <pubDate>Mon, 20 Jul 2026 17:19:56 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIのおかげで、本当に時間を節約できました……</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v0on87/ai_saved_me_so_much_time/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIのおかげで、本当に時間を節約できました……&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;…その余分な時間を、今はAIのミスを修正するのに費やしている。誤解しないでほしいが、私もほぼ毎日AIを使っているし、それは本当に便利だ。ただ、ある面白いことに気づいた。本来やるべき仕事をやる代わりに、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI saved me so much time...&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v0on87/ai_saved_me_so_much_time/</guid>
-      <pubDate>Sun, 19 Jul 2026 11:56:44 GMT</pubDate>
+      <title>[r/artificial] 『Fable 5』は現在、ProおよびTeam Standardでメーター制が適用されていますが、Claude Codeが別途発表した8月19日の延長措置の方が注目に値するかもしれません。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v1f0z8/fable_5_is_now_metered_for_pro_and_team_standard/</link>
+      <description>&lt;p&gt;&lt;strong&gt;『Fable 5』は現在、ProおよびTeam Standardでメーター制が適用されていますが、Claude Codeが別途発表した8月19日の延長措置の方が注目に値するかもしれません。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;『Fable 5』の無料入手期限は、6月22日から7月7日、さらに7月12日、そして7月19日へと順次延期されました。最終的な措置として、7月20日（本日）より、MaxおよびTeam Premiumのメンバーは『Fable 5』を恒久的に保持できるようになり、上限は&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Fable 5 is now metered for Pro and Team Standard, but Claude Code's separate August 19 extension may be more useful to watch&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v1f0z8/fable_5_is_now_metered_for_pro_and_team_standard/</guid>
+      <pubDate>Mon, 20 Jul 2026 07:56:05 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 私は「Synapse」を開発しました。これは、Claudeにコードベースに関する知識を即座に提供してくれるローカルMCPサーバーです。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v0yfat/i_built_synapse_a_local_mcp_server_that_gives/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私は「Synapse」を開発しました。これは、Claudeにコードベースに関する知識を即座に提供してくれるローカルMCPサーバーです。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Synapseはコードベースをローカルでインデックス化し、MCPを介してClaude Codeと連携します。Claudeに「支払いフローはどのように機能しますか？」と尋ねると、コードを貼り付けるよう求められることなく、実際のコードを検索してくれます&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I built Synapse – a local MCP server that gives Claude instant knowledge of your codebase&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v0yfat/i_built_synapse_a_local_mcp_server_that_gives/</guid>
-      <pubDate>Sun, 19 Jul 2026 18:40:29 GMT</pubDate>
+      <title>[r/artificial] Hugging Face、社内情報漏洩の原因はAIエージェントだったと発表</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v1vvet/hugging_face_says_ai_agent_behind_internal_breach/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Hugging Face、社内情報漏洩の原因はAIエージェントだったと発表&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/gamersecret2   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Hugging Face says AI agent behind internal breach&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v1vvet/hugging_face_says_ai_agent_behind_internal_breach/</guid>
+      <pubDate>Mon, 20 Jul 2026 19:45:24 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 今週のまとめ：GPT-5.6の一般公開、Gemini 3.5 Proのリリース、Grok 4.5、AppleとアリババのQwen承認、Ollamaによる6,500万ドルの資金調達</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v0wt38/weekly_roundup_gpt56_general_release_gemini_35/</link>
-      <description>&lt;p&gt;&lt;strong&gt;今週のまとめ：GPT-5.6の一般公開、Gemini 3.5 Proのリリース、Grok 4.5、AppleとアリババのQwen承認、Ollamaによる6,500万ドルの資金調達&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;フロンティアでは9日間が慌ただしく過ぎたので、出典を明記したまとめをここに掲載する。モデルのリリース：OpenAIは7月9日、GPT-5.6を広く一般公開した。3つのバリエーション（Sol：5ドル／30ドル、Terra：2.50ドル／15ドル、Luna：1ドル／6ドル）が&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Weekly roundup: GPT-5.6 general release, Gemini 3.5 Pro launch, Grok 4.5, Apple-Alibaba Qwen approval, Ollama's $65M raise&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v0wt38/weekly_roundup_gpt56_general_release_gemini_35/</guid>
-      <pubDate>Sun, 19 Jul 2026 17:37:17 GMT</pubDate>
+      <title>[r/artificial] 「独立系」と称する3D AIベンチマークサイトが、公表されていないブランドとの提携関係にあるかどうかを見分ける方法</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v1spvm/how_to_tell_if_an_independent_3d_ai_benchmark/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「独立系」と称する3D AIベンチマークサイトが、公表されていないブランドとの提携関係にあるかどうかを見分ける方法&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「どのツールが一番いいか」というスレッドのたびに、同じAI 3Dランキングサイトのリンクが何度も目につきました。これは、2つのモデルから選ぶアリーナ形式の投票サイトの一つで、ホームページには「N」と書かれています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How to tell if an &quot;independent&quot; 3D AI benchmark site has undisclosed brand ties&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v1spvm/how_to_tell_if_an_independent_3d_ai_benchmark/</guid>
+      <pubDate>Mon, 20 Jul 2026 17:52:39 GMT</pubDate>
     </item>
   </channel>
 </rss>
