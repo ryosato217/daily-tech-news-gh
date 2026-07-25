@@ -3,54 +3,30 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-24</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-25</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 24 Jul 2026 19:37:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 19:16:40 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (770pt) 『クロード』作品第5番</title>
-      <link>https://news.ycombinator.com/item?id=49038433</link>
-      <description>&lt;p&gt;&lt;strong&gt;『クロード』作品第5番&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Opus 5&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49038433</guid>
-      <pubDate>Fri, 24 Jul 2026 16:57:41 GMT</pubDate>
+      <title>[Hacker News] (741pt) Android、まもなく端末上のADBを制限する可能性</title>
+      <link>https://news.ycombinator.com/item?id=49045159</link>
+      <description>&lt;p&gt;&lt;strong&gt;Android、まもなく端末上のADBを制限する可能性&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Android May Soon Restrict On-Device ADB&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49045159</guid>
+      <pubDate>Sat, 25 Jul 2026 06:57:14 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (199pt) HaikuOS上でネイティブに動作する『Half-Life 2』</title>
-      <link>https://news.ycombinator.com/item?id=49034868</link>
-      <description>&lt;p&gt;&lt;strong&gt;HaikuOS上でネイティブに動作する『Half-Life 2』&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Half-Life 2 running natively on HaikuOS&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49034868</guid>
-      <pubDate>Fri, 24 Jul 2026 12:53:59 GMT</pubDate>
+      <title>[Hacker News] (160pt) オープンウェイトAIが、Kubernetesのようなブレイクスルーを迎えている</title>
+      <link>https://news.ycombinator.com/item?id=49048034</link>
+      <description>&lt;p&gt;&lt;strong&gt;オープンウェイトAIが、Kubernetesのようなブレイクスルーを迎えている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Open-weight AI is having its Kubernetes moment&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49048034</guid>
+      <pubDate>Sat, 25 Jul 2026 14:49:49 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (195pt) Nvidia、Microsoft、Metaが、オープンウェイトモデルの過度な規制に対して警鐘を鳴らしている</title>
-      <link>https://news.ycombinator.com/item?id=49035303</link>
-      <description>&lt;p&gt;&lt;strong&gt;Nvidia、Microsoft、Metaが、オープンウェイトモデルの過度な規制に対して警鐘を鳴らしている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Nvidia, Microsoft, Meta warn against overregulating open-weight models&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49035303</guid>
-      <pubDate>Fri, 24 Jul 2026 13:32:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (60pt) YC（スタートアップ・スクール）に、裏技を使って合格した</title>
-      <link>https://news.ycombinator.com/item?id=49039448</link>
-      <description>&lt;p&gt;&lt;strong&gt;YC（スタートアップ・スクール）に、裏技を使って合格した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I got into YC (Startup School) by hacking it&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49039448</guid>
-      <pubDate>Fri, 24 Jul 2026 18:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (43pt) メールサーバーを自前で運用する</title>
-      <link>https://news.ycombinator.com/item?id=49020751</link>
-      <description>&lt;p&gt;&lt;strong&gt;メールサーバーを自前で運用する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Self-host your mail server&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49020751</guid>
-      <pubDate>Thu, 23 Jul 2026 12:49:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した</title>
+      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
-      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずにひっそりと200万人の開発者を集めてきたが、木曜日にシリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずにひっそりと200万人の開発者を集めてきたが、木曜日、シリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Railway secures $100 million to challenge AWS with AI-native cloud infrastructure&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</guid>
       <pubDate>Thu, 22 Jan 2026 14:00:00 GMT</pubDate>
@@ -59,16 +35,16 @@
       <title>[VentureBeat AI] Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、ひとつ問題があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、ある問題点があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6,900万ドルの資金調達に成功</title>
+      <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6,900万ドルを調達</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
-      <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6,900万ドルの資金調達に成功&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アルフレッド・ワールフォスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は、&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6,900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;アルフレッド・ワールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は、&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
       <pubDate>Fri, 16 Jan 2026 14:01:00 GMT</pubDate>
@@ -77,7 +53,7 @@
       <title>[VentureBeat AI] Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」を全面的に刷新したバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、経営陣が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」の全面的に刷新されたバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、経営陣が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -86,7 +62,7 @@
       <title>[VentureBeat AI] Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
       <description>&lt;p&gt;&lt;strong&gt;Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは月曜日、大ヒットした「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡大する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
+&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡張する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</guid>
       <pubDate>Mon, 12 Jan 2026 11:30:00 GMT</pubDate>
@@ -101,76 +77,76 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ユーザーたちは、自身のChatGPTのログがニューヨーク・タイムズ紙に引き渡されることに対し異議を申し立てようとした。しかし、裁判所は、ユーザーたちは自身の会話の「当事者ではない」との判断を下した。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v5b04p/users_tried_to_object_to_their_chatgpt_logs_being/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ユーザーたちは、自身のChatGPTのログがニューヨーク・タイムズ紙に引き渡されることに対し異議を申し立てようとした。しかし、裁判所は、ユーザーたちは自身の会話の「当事者ではない」との判断を下した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIの著作権訴訟において、裁判所は、ユーザーが削除したチャットを含め、ChatGPTのすべての出力ログを保存するよう命じた。一部のユーザーは、自身の会話記録を保護するために介入を試みた。裁判所は次のように判断した。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Users tried to object to their chatgpt logs being handed to the NYT. the court ruled they were &quot;non-parties&quot; to their own conversations.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v5b04p/users_tried_to_object_to_their_chatgpt_logs_being/</guid>
-      <pubDate>Fri, 24 Jul 2026 13:11:21 GMT</pubDate>
+      <title>[r/artificial] アメリカ人は、政治的立場に関わらず、Flock AIカメラに反発している</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v6d644/americans_are_pushing_back_against_flock_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;アメリカ人は、政治的立場に関わらず、Flock AIカメラに反発している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Sgt_Gram   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Americans Are Pushing Back Against Flock AI Cameras Regardless of Their Politics&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v6d644/americans_are_pushing_back_against_flock_ai/</guid>
+      <pubDate>Sat, 25 Jul 2026 16:41:41 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIがなくても生きていけますが、水なしでは生きていけません。「ここに瓶があります。これが、ジョージア州モーガン郡でデータセンターが建設された直後の、現在の飲料水です。」「これが、そのデータセンターのすぐそばにある現在の飲料水の姿です。」私たちの環境を守りましょう</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v4j8rn/we_can_live_without_ai_but_we_cant_live_without/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIがなくても生きていけますが、水なしでは生きていけません。「ここに瓶があります。これが、ジョージア州モーガン郡でデータセンターが建設された直後の、現在の飲料水です。」「これが、そのデータセンターのすぐそばにある現在の飲料水の姿です。」私たちの環境を守りましょう&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Livid_Violinist7259   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: We can live without AI, but we can’t live without water. “I have a jar right here. This is the current drinking water in Morgan Country, Georgia, right after a data center was constructed.” This is what the drinking water now looks like next to that data center” Protect our environment&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v4j8rn/we_can_live_without_ai_but_we_cant_live_without/</guid>
-      <pubDate>Thu, 23 Jul 2026 16:41:17 GMT</pubDate>
+      <title>[r/artificial] ホワイトハウスが科学政策の青写真を提示：AIを拡大、ライフサイエンスを縮小。「科学：新たな黄金時代」と題する報告書は、数十億規模の資金を大学からハイテク企業へとシフトさせることを提言している</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v5on2l/white_house_offers_its_science_blueprint_more_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ホワイトハウスが科学政策の青写真を提示：AIを拡大、ライフサイエンスを縮小。「科学：新たな黄金時代」と題する報告書は、数十億規模の資金を大学からハイテク企業へとシフトさせることを提言している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: White House offers its science blueprint: More AI, less life sciences. ‘Science: A New Golden Age’ report calls for shifting billions from universities to tech companies&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v5on2l/white_house_offers_its_science_blueprint_more_ai/</guid>
+      <pubDate>Fri, 24 Jul 2026 21:27:44 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 超党派の法案により、企業はユーザーがAIと対話していることをユーザーに通知することが義務付けられることになる</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v5jk23/bipartisan_bill_would_require_companies_to_tell/</link>
-      <description>&lt;p&gt;&lt;strong&gt;超党派の法案により、企業はユーザーがAIと対話していることをユーザーに通知することが義務付けられることになる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Fcking_Chuck   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Bipartisan bill would require companies to tell users when they're talking to AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v5jk23/bipartisan_bill_would_require_companies_to_tell/</guid>
-      <pubDate>Fri, 24 Jul 2026 18:22:57 GMT</pubDate>
+      <title>[r/artificial] 『AIガイドとのパートナーシップ』がv9に更新されました</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v6f9w7/partnership_with_ai_guide_updated_to_v9/</link>
+      <description>&lt;p&gt;&lt;strong&gt;『AIガイドとのパートナーシップ』がv9に更新されました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;前回と同じリンク：リンク 今回はいつもより大幅なアップデートなので、「更新されました」というだけにとどまらず、いくつかの注目点を紹介します： 主要な知見について、パラメータ数70億から720億に至るまで、スケーラビリティの検証が完了しました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Partnership with AI Guide updated to v9&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v6f9w7/partnership_with_ai_guide_updated_to_v9/</guid>
+      <pubDate>Sat, 25 Jul 2026 18:02:15 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 中国のオープンAI戦略が競争の様相を変えつつある</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v5c06c/chinas_open_ai_strategy_is_changing_the_race/</link>
-      <description>&lt;p&gt;&lt;strong&gt;中国のオープンAI戦略が競争の様相を変えつつある&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Moonshot AIの「Kimi K3」は、モデルを外部に公開することで、他社の計算能力を競争上の優位性へと転換できることを示している  &amp;#32; 投稿者：&amp;#32;  /u/scientificamerican   [リンク] &amp;#32; [com&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: China’s open AI strategy is changing the race&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v5c06c/chinas_open_ai_strategy_is_changing_the_race/</guid>
-      <pubDate>Fri, 24 Jul 2026 13:51:13 GMT</pubDate>
+      <title>[r/artificial] 優れたAIエージェントが、なぜ依然として不適切なシステム出力を生成してしまうのか</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v6gz8o/why_good_ai_agents_still_produce_bad_system/</link>
+      <description>&lt;p&gt;&lt;strong&gt;優れたAIエージェントが、なぜ依然として不適切なシステム出力を生成してしまうのか&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;マルチエージェントAIシステムの構築を通じて私が学んだことの一つは、最大の問題がモデルそのものに起因することはめったにないということです。ほとんどのパイプラインは、エージェント間の引き継ぎの段階で失敗します。例えば、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Why good AI agents still produce bad system outputs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v6gz8o/why_good_ai_agents_still_produce_bad_system/</guid>
+      <pubDate>Sat, 25 Jul 2026 19:07:33 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] スタートアップ企業は、パイロットプロジェクトに数ヶ月も費やすことなく、どのようにAIコンサルティング会社を選定すべきでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v5gzzx/how_should_startups_choose_an_ai_consulting/</link>
-      <description>&lt;p&gt;&lt;strong&gt;スタートアップ企業は、パイロットプロジェクトに数ヶ月も費やすことなく、どのようにAIコンサルティング会社を選定すべきでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;現在、多くのスタートアップがAIの導入を試みていますが、難しいのは通常、どのモデルを使うべきかということではありません。むしろ、「戦略が必要なのか、エンジニアリングが必要なのか、それともその両方なのか？」「AIコンサルタントを採用すべきか」といった点です。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How should startups choose an AI consulting company without wasting months on pilots?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v5gzzx/how_should_startups_choose_an_ai_consulting/</guid>
-      <pubDate>Fri, 24 Jul 2026 16:53:48 GMT</pubDate>
+      <title>[r/artificial] AIが家庭生活に浸透</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v6b2r8/ai_moves_into_family_life/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが家庭生活に浸透&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/gamersecret2   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI moves into family life&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v6b2r8/ai_moves_into_family_life/</guid>
+      <pubDate>Sat, 25 Jul 2026 15:18:36 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 「拡散モデル対自己回帰モデル」をめぐる議論に、ついに明確なデータが示されたが、その内容は、世間で騒がれているほど大げさな主張ではなく、はるかに限定的なものだった。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v5lhsw/the_diffusion_versus_autoregressive_debate/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「拡散モデル対自己回帰モデル」をめぐる議論に、ついに明確なデータが示されたが、その内容は、世間で騒がれているほど大げさな主張ではなく、はるかに限定的なものだった。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ここ1年ほど、「拡散モデル対自己回帰モデル」をめぐる議論は、主に直感的な印象に基づいて展開されてきた。ある陣営は、次のトークンの予測は行き詰まりであり、並列ノイズ除去こそが未来だと主張し、もう一方の陣営は拡散モデルを&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: the diffusion versus autoregressive debate finally has a clean data point, and it points to a much narrower claim than the hype&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v5lhsw/the_diffusion_versus_autoregressive_debate/</guid>
-      <pubDate>Fri, 24 Jul 2026 19:32:36 GMT</pubDate>
+      <title>[r/artificial] AIの学習</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v6fxlf/learning_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIの学習&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「AIは未来だから学ぶべきだ」という話をよく耳にするんですが、どこから手をつければいいのか、またそれが具体的にどういう意味なのかよくわかりません。大学に行ってAIを学ぶべきということですか、それとも独学すべきということですか？よろしくお願いします。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Learning ai&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v6fxlf/learning_ai/</guid>
+      <pubDate>Sat, 25 Jul 2026 18:27:09 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] LLMによるリアルタイム生成の際、モデル内部のシグナルのうち、どのようなものが最も有用だと感じますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v5jjx0/what_modelinternal_signals_do_you_find_most/</link>
-      <description>&lt;p&gt;&lt;strong&gt;LLMによるリアルタイム生成の際、モデル内部のシグナルのうち、どのようなものが最も有用だと感じますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近、ローカル言語モデルのリアルタイム可視化について試行錯誤しています。具体的には、アテンションパターン、トークン確率、残差状態の投影、層ごとのロジットの変化などを扱っています。なぜ……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What model-internal signals do you find most useful during live LLM generation?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v5jjx0/what_modelinternal_signals_do_you_find_most/</guid>
-      <pubDate>Fri, 24 Jul 2026 18:22:48 GMT</pubDate>
+      <title>[r/artificial] 警告射撃か、それとも宣伝のパフォーマンスか――OpenAIへのハッキングについて、どれほど懸念すべきか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v6eq34/warning_shot_or_publicity_stunt_how_worried/</link>
+      <description>&lt;p&gt;&lt;strong&gt;警告射撃か、それとも宣伝のパフォーマンスか――OpenAIへのハッキングについて、どれほど懸念すべきか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今週、テクノロジー界は、あらゆる要素を兼ね備えたあるニュースに沸き立ちました。その始まりは、まるでSFスリラーのようでした。  &amp;#32; 投稿者：&amp;#32;  /u/Spirited-Sir-3034   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Warning shot or publicity stunt - how worried should we be about the OpenAI hack?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v6eq34/warning_shot_or_publicity_stunt_how_worried/</guid>
+      <pubDate>Sat, 25 Jul 2026 17:41:34 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Substackが「AIで作成」メーターを導入した。人々は大騒ぎしている。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v4kf7w/substack_launched_a_made_with_ai_meter_people_are/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Substackが「AIで作成」メーターを導入した。人々は大騒ぎしている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今週初め、SubstackはAI検出ツール「Pangram」と提携し、プラットフォーム上で新機能をリリースしました。その目的は、完全にAIによって、あるいはAIの助けを借りて書かれたコンテンツについて、読者に警告することです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Substack launched a 'made with AI' meter. People are losing their minds.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v4kf7w/substack_launched_a_made_with_ai_meter_people_are/</guid>
-      <pubDate>Thu, 23 Jul 2026 17:22:33 GMT</pubDate>
+      <title>[r/artificial] シリコンバレーからワシントンD.C.に至るまで、テック業界はAIのある概念に突如として注目を集めている。それは「ディスティレーション」だ。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v6e698/from_silicon_valley_to_dc_the_tech_world_is/</link>
+      <description>&lt;p&gt;&lt;strong&gt;シリコンバレーからワシントンD.C.に至るまで、テック業界はAIのある概念に突如として注目を集めている。それは「ディスティレーション」だ。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/simrobwest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v6e698/from_silicon_valley_to_dc_the_tech_world_is/</guid>
+      <pubDate>Sat, 25 Jul 2026 17:20:29 GMT</pubDate>
     </item>
   </channel>
 </rss>
