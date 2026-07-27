@@ -3,29 +3,53 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-26</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-27</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 19:19:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 19:43:04 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (215pt) ロンドン・ガトウィック空港が、ロボットによる空港駐車場サービスを開始した</title>
-      <link>https://news.ycombinator.com/item?id=49058669</link>
-      <description>&lt;p&gt;&lt;strong&gt;ロンドン・ガトウィック空港が、ロボットによる空港駐車場サービスを開始した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: London Gatwick has launched a robotic airport parking service&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49058669</guid>
-      <pubDate>Sun, 26 Jul 2026 14:40:27 GMT</pubDate>
+      <title>[Hacker News] (175pt) デカトロン・ドイツ、ウェブサイト「decathlon.de」に「Wero」の決済オプションを追加</title>
+      <link>https://news.ycombinator.com/item?id=49072310</link>
+      <description>&lt;p&gt;&lt;strong&gt;デカトロン・ドイツ、ウェブサイト「decathlon.de」に「Wero」の決済オプションを追加&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Decathlon Germany adds Wero payment option to decathlon.de website&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49072310</guid>
+      <pubDate>Mon, 27 Jul 2026 16:49:08 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (142pt) Go Analysis Framework：Goチームによるモジュール型の静的解析</title>
-      <link>https://news.ycombinator.com/item?id=49057398</link>
-      <description>&lt;p&gt;&lt;strong&gt;Go Analysis Framework：Goチームによるモジュール型の静的解析&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Go Analysis Framework: modular static analysis by go team&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49057398</guid>
-      <pubDate>Sun, 26 Jul 2026 12:21:26 GMT</pubDate>
+      <title>[Hacker News] (173pt) MDASH内のMAI-Cyber-1-Flash</title>
+      <link>https://news.ycombinator.com/item?id=49072361</link>
+      <description>&lt;p&gt;&lt;strong&gt;MDASH内のMAI-Cyber-1-Flash&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: MAI-Cyber-1-Flash inside MDASH&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49072361</guid>
+      <pubDate>Mon, 27 Jul 2026 16:52:22 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した</title>
+      <title>[Hacker News] (59pt) ボルボ／アイチャーのフリートプラットフォームを活用し、すべてのユーザーおよび車両を管理下に置く</title>
+      <link>https://news.ycombinator.com/item?id=49070756</link>
+      <description>&lt;p&gt;&lt;strong&gt;ボルボ／アイチャーのフリートプラットフォームを活用し、すべてのユーザーおよび車両を管理下に置く&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49070756</guid>
+      <pubDate>Mon, 27 Jul 2026 15:08:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (39pt) Show HN: FeyNoBg – 自動背景除去モデルおよび学習ライブラリ</title>
+      <link>https://news.ycombinator.com/item?id=49072462</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN: FeyNoBg – 自動背景除去モデルおよび学習ライブラリ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: FeyNoBg – Automatic background removal model and training library&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49072462</guid>
+      <pubDate>Mon, 27 Jul 2026 16:59:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (24pt) 独立した、持ち運びに非常に便利なPythonディストリビューション</title>
+      <link>https://news.ycombinator.com/item?id=49073942</link>
+      <description>&lt;p&gt;&lt;strong&gt;独立した、持ち運びに非常に便利なPythonディストリビューション&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Self-contained highly-portable Python distributions&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49073942</guid>
+      <pubDate>Mon, 27 Jul 2026 18:43:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
-      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずにひっそりと200万人の開発者を集めてきたが、木曜日にシリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Railway secures $100 million to challenge AWS with AI-native cloud infrastructure&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</guid>
@@ -68,13 +92,67 @@
       <pubDate>Mon, 12 Jan 2026 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] Nous Research社の「NousCoder-14B」は、まさに「Claude Code」ブームの真っ只中に登場したオープンソースのコーディングモデルです。</title>
+      <title>[VentureBeat AI] Nous Researchの「NousCoder-14B」は、まさに「Claude Code」ブームの真っ只中に登場したオープンソースのコーディングモデルです。</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
-      <description>&lt;p&gt;&lt;strong&gt;Nous Research社の「NousCoder-14B」は、まさに「Claude Code」ブームの真っ只中に登場したオープンソースのコーディングモデルです。&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Nous Researchの「NousCoder-14B」は、まさに「Claude Code」ブームの真っ只中に登場したオープンソースのコーディングモデルです。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;暗号資産ベンチャーキャピタル「パラダイム」の支援を受けるオープンソースAIスタートアップ「Nous Research」は月曜日、いくつかの既存のモデルと同等かそれ以上の性能を持つとする新しい競技プログラミングモデルを公開した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</guid>
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 世界一の数学者が今週、賞を受賞し、直後に学界を離れてOpenAIに移籍すると発表した。そのニュースは、私が予想していたのとは違った反響を呼んだ。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v8aeto/the_worlds_best_mathematician_won_his_prize_this/</link>
+      <description>&lt;p&gt;&lt;strong&gt;世界一の数学者が今週、賞を受賞し、直後に学界を離れてOpenAIに移籍すると発表した。そのニュースは、私が予想していたのとは違った反響を呼んだ。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;この件について週末中ずっと考えていたのですが、どうしても同じ結論にたどり着いてしまいます。ジェイコブ・ツィマーマン氏が、つい先日フィールズ賞を受賞しました。ご存じない方のために説明すると、これは数学界における最高の栄誉であり……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The world's best mathematician won his prize this week and immediately announced he's leaving academia for OpenAI. That landed differently than I expected.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v8aeto/the_worlds_best_mathematician_won_his_prize_this/</guid>
+      <pubDate>Mon, 27 Jul 2026 19:24:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 真に公平なAI 3Dツールの比較には、実際にはどのような要素を含める必要があるのでしょうか</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v88xf4/what_would_a_genuinely_fair_ai_3d_tool_comparison/</link>
+      <description>&lt;p&gt;&lt;strong&gt;真に公平なAI 3Dツールの比較には、実際にはどのような要素を含める必要があるのでしょうか&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ネットで見かけるAIツールの比較ページの多くは、何かが欠けているような気がしてなりません。それが何なのかを突き止めるのに、少し時間がかかりました。最も明らかなのは、入力条件の統一です。同じプロンプト、同じ参照画像、同じ&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What would a genuinely fair AI 3D tool comparison actually need to include&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v88xf4/what_would_a_genuinely_fair_ai_3d_tool_comparison/</guid>
+      <pubDate>Mon, 27 Jul 2026 18:32:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] あるアイデアを7年間温めていました。AIのおかげで、わずか2週間で特許出願ができました。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v7wn15/i_sat_on_an_idea_for_7_years_ai_helped_me_file/</link>
+      <description>&lt;p&gt;&lt;strong&gt;あるアイデアを7年間温めていました。AIのおかげで、わずか2週間で特許出願ができました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;7年前、絡まらない犬用ハーネスのアイデアを思いつきました。部品の一つを3Dプリンターで出力したものの、その後、設計そのものではなく、先行技術調査、新規性の判断、そして特許明細書の作成に手間取ってしまい、作業が停滞してしまいました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I Sat on an Idea for 7 Years. AI Helped Me File for a Patent in 2 Weeks.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v7wn15/i_sat_on_an_idea_for_7_years_ai_helped_me_file/</guid>
+      <pubDate>Mon, 27 Jul 2026 10:36:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] OpenAIの研究によると、労働者はAIを活用して職種の枠を越えている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v7xarq/workers_are_crossing_job_boundaries_with_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIの研究によると、労働者はAIを活用して職種の枠を越えている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/gamersecret2   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Workers are crossing job boundaries with AI, OpenAI research shows&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v7xarq/workers_are_crossing_job_boundaries_with_ai/</guid>
+      <pubDate>Mon, 27 Jul 2026 11:10:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] オープンソースAIの推進がベンチャーキャピタルに問題を引き起こす可能性</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v88xty/opensource_ai_push_could_create_troubles_for/</link>
+      <description>&lt;p&gt;&lt;strong&gt;オープンソースAIの推進がベンチャーキャピタルに問題を引き起こす可能性&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/gamersecret2   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Open-source AI push could create troubles for venture capital&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v88xty/opensource_ai_push_could_create_troubles_for/</guid>
+      <pubDate>Mon, 27 Jul 2026 18:32:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AI臨床ツールは、実際に現場に導入されると、ケアの内容に変化をもたらすのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v88il4/do_ai_clinical_tools_actually_change_care_once/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI臨床ツールは、実際に現場に導入されると、ケアの内容に変化をもたらすのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;当院では少し前に、敗血症の初期段階や容態が悪化しつつある患者などを検知することを目的としたAIアラートシステムを導入しました。私は主に夜勤のときにそのシステムを目にしてきました。ARO&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: do ai clinical tools actually change care once they're on the floor?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v88il4/do_ai_clinical_tools_actually_change_care_once/</guid>
+      <pubDate>Mon, 27 Jul 2026 18:17:50 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] 「ビューマネー」が本物かどうか確かめるために、6週間、匿名のAIキャラクターアカウントを運営してみた</title>
@@ -86,58 +164,31 @@
       <pubDate>Sun, 26 Jul 2026 09:16:31 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropic社の「Opus 5」や、おそらくそれより新しいAIモデルは、イスラエルや米国の国益を守るために検閲されている。オープンソースのAIこそが解決策であるに違いない。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v6ptgz/anthropics_opus_5_and_probably_more_recent_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropic社の「Opus 5」や、おそらくそれより新しいAIモデルは、イスラエルや米国の国益を守るために検閲されている。オープンソースのAIこそが解決策であるに違いない。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Opusモデルが調査を行い、私たちが作業や議論の材料として活用できる意見や見解を導き出すことについては、これまで一度も問題になったことはありません。以下はOpus 4.xの例です。何度か、調査を行わせて結論を導き出させたことがあります。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic's Opus 5 and probably more recent AI models are being censored to protect Israel / US interests. Open source AI must be the way.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v6ptgz/anthropics_opus_5_and_probably_more_recent_ai/</guid>
-      <pubDate>Sun, 26 Jul 2026 01:24:25 GMT</pubDate>
+      <title>[r/gadgets] FrameworkのプレミアムノートPCは、RAM容量が少なくなった状態で出荷されている</title>
+      <link>https://www.reddit.com/r/gadgets/comments/1v6tfgu/frameworks_premium_laptop_is_shipping_with_less/</link>
+      <description>&lt;p&gt;&lt;strong&gt;FrameworkのプレミアムノートPCは、RAM容量が少なくなった状態で出荷されている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/dapperlemon   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Framework’s premium laptop is shipping with less RAM&lt;br&gt;ソース: r/gadgets&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/gadgets/comments/1v6tfgu/frameworks_premium_laptop_is_shipping_with_less/</guid>
+      <pubDate>Sun, 26 Jul 2026 04:21:53 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 30冊以上の公式無料AI/ML書籍を、厳選して1つのリポジトリにまとめました</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v7d1lx/30_officially_free_aiml_books_all_in_one_curated/</link>
-      <description>&lt;p&gt;&lt;strong&gt;30冊以上の公式無料AI/ML書籍を、厳選して1つのリポジトリにまとめました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私はいつも同じ問題に直面していました。AIや機械学習に関する優れた書籍の中には、合法的に無料で入手できるものもあります。著者が自身のサイトに公開しているのですが、そのリンクが個人のページや大学のサイトなどに散らばっていて、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 30+ officially free AI/ML books, all in one curated repo&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v7d1lx/30_officially_free_aiml_books_all_in_one_curated/</guid>
-      <pubDate>Sun, 26 Jul 2026 19:10:31 GMT</pubDate>
+      <title>[r/gadgets] マイクロドットツールは、血液や針に対する恐怖症のある人にも、痛みを伴わない永久タトゥーを提供します</title>
+      <link>https://www.reddit.com/r/gadgets/comments/1v6azbm/microdot_tool_offers_painless_permanent_tattoos/</link>
+      <description>&lt;p&gt;&lt;strong&gt;マイクロドットツールは、血液や針に対する恐怖症のある人にも、痛みを伴わない永久タトゥーを提供します&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/diacewrb   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Microdot tool offers painless permanent tattoos to those with blood and needle phobias&lt;br&gt;ソース: r/gadgets&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/gadgets/comments/1v6azbm/microdot_tool_offers_painless_permanent_tattoos/</guid>
+      <pubDate>Sat, 25 Jul 2026 15:14:24 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 男性が、命にかかわるほど危険な医療アドバイスを理由にChatGPTを提訴</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v6oyin/man_sues_chatgpt_for_nearfatal_medical_advice/</link>
-      <description>&lt;p&gt;&lt;strong&gt;男性が、命にかかわるほど危険な医療アドバイスを理由にChatGPTを提訴&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/gamersecret2   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Man sues ChatGPT for near-fatal medical advice&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v6oyin/man_sues_chatgpt_for_nearfatal_medical_advice/</guid>
-      <pubDate>Sun, 26 Jul 2026 00:43:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ぜひご意見をお寄せください！「カナダにおけるAIの透明性向上について、あなたの考えを聞かせてください」。カナダ政府は、市民、IT業界の従事者、クリエイターに対し、今後策定されるAI規制、安全基準、倫理法づくりへの協力を求めています。すべての意見が重要です。今日、10分ほど時間を割いて、ISEDの公式アンケートにご回答ください！</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v72zbu/speak_up_have_your_say_on_advancing_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ぜひご意見をお寄せください！「カナダにおけるAIの透明性向上について、あなたの考えを聞かせてください」。カナダ政府は、市民、IT業界の従事者、クリエイターに対し、今後策定されるAI規制、安全基準、倫理法づくりへの協力を求めています。すべての意見が重要です。今日、10分ほど時間を割いて、ISEDの公式アンケートにご回答ください！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/WorldTravelerBoss   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Speak up! &quot;Have your say on advancing AI transparency in Canada.&quot; The Government of Canada is asking citizens, tech workers, and creators to shape upcoming AI regulations, safety rules, and ethics laws. Every response matters. Take 10 minutes to fill out the official ISED survey today!&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v72zbu/speak_up_have_your_say_on_advancing_ai/</guid>
-      <pubDate>Sun, 26 Jul 2026 12:47:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 私は「Korroresearch」を開発しました。これは、学術論文を作成し、その主張をすべて8つの検証エンジンでチェックするAIです。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v7bkun/i_built_korroresearch_an_ai_that_writes_academic/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私は「Korroresearch」を開発しました。これは、学術論文を作成し、その主張をすべて8つの検証エンジンでチェックするAIです。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ほとんどのAIライティングツールは、単にテキストを生成してそれで完了としています。Korroresearchはその逆のアプローチをとります。生成は第一段階に過ぎません。検証こそが真の成果物なのです。仕組みは次の通りです。アイデアを説明してください。すると、それが…&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I built Korroresearch: an AI that writes academic papers, then checks every single claim against 8 verification engines&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v7bkun/i_built_korroresearch_an_ai_that_writes_academic/</guid>
-      <pubDate>Sun, 26 Jul 2026 18:17:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIセキュリティは遅れをとっている――Hugging Faceの情報漏洩事件がその問題を浮き彫りにした</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v70ov9/ai_security_is_falling_behindhugging_face_breach/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIセキュリティは遅れをとっている――Hugging Faceの情報漏洩事件がその問題を浮き彫りにした&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Hugging Faceで発生したセキュリティ侵害事件では、攻撃者が非公開のモデルにアクセスしたことが明らかになり、AIの攻撃能力と防御能力の不均衡が浮き彫りとなった。攻撃者たちは、創意工夫を凝らした手法で……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI security is falling behind—Hugging Face breach highlights the problem&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v70ov9/ai_security_is_falling_behindhugging_face_breach/</guid>
-      <pubDate>Sun, 26 Jul 2026 10:58:28 GMT</pubDate>
+      <title>[r/gadgets] 科学者たちが、体が脂肪を燃焼しているタイミングを測定する携帯型デバイスを開発した</title>
+      <link>https://www.reddit.com/r/gadgets/comments/1v4vu0u/scientists_develop_handheld_device_for_measuring/</link>
+      <description>&lt;p&gt;&lt;strong&gt;科学者たちが、体が脂肪を燃焼しているタイミングを測定する携帯型デバイスを開発した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/dapperlemon   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Scientists develop handheld device for measuring when your body is burning fat&lt;br&gt;ソース: r/gadgets&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/gadgets/comments/1v4vu0u/scientists_develop_handheld_device_for_measuring/</guid>
+      <pubDate>Fri, 24 Jul 2026 00:30:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
