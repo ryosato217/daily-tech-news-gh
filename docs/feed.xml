@@ -3,24 +3,32 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-28</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-29</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Jul 2026 19:40:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 19:25:39 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (133pt) Substackのライターの皆さん、ウェブサイトが必要です</title>
-      <link>https://news.ycombinator.com/item?id=49086788</link>
-      <description>&lt;p&gt;&lt;strong&gt;Substackのライターの皆さん、ウェブサイトが必要です&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Substack writers, you need a website&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49086788</guid>
-      <pubDate>Tue, 28 Jul 2026 16:58:31 GMT</pubDate>
+      <title>[Hacker News] (277pt) ドキュメントを媒介とするAIワームは、Copilot for Wordを介して自己増殖する</title>
+      <link>https://news.ycombinator.com/item?id=49096188</link>
+      <description>&lt;p&gt;&lt;strong&gt;ドキュメントを媒介とするAIワームは、Copilot for Wordを介して自己増殖する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Document-borne AI worms can self-propagate through Copilot for Word&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49096188</guid>
+      <pubDate>Wed, 29 Jul 2026 11:44:33 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (86pt) Claude を使って暗号の脆弱性を発見する</title>
-      <link>https://news.ycombinator.com/item?id=49087091</link>
-      <description>&lt;p&gt;&lt;strong&gt;Claude を使って暗号の脆弱性を発見する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Discovering Cryptographic Weaknesses with Claude&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49087091</guid>
-      <pubDate>Tue, 28 Jul 2026 17:22:16 GMT</pubDate>
+      <title>[Hacker News] (236pt) Handbook.md によると、長大なポリシー文書ではエージェントを確実に制御することはできないことが示されている</title>
+      <link>https://news.ycombinator.com/item?id=49096969</link>
+      <description>&lt;p&gt;&lt;strong&gt;Handbook.md によると、長大なポリシー文書ではエージェントを確実に制御することはできないことが示されている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Handbook.md shows that long policy documents do not reliably govern agents&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49096969</guid>
+      <pubDate>Wed, 29 Jul 2026 13:01:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (129pt) フロンティア・ラボのエージェントによる侵入事件の全容：2026年7月の事件の経緯</title>
+      <link>https://news.ycombinator.com/item?id=49098466</link>
+      <description>&lt;p&gt;&lt;strong&gt;フロンティア・ラボのエージェントによる侵入事件の全容：2026年7月の事件の経緯&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49098466</guid>
+      <pubDate>Wed, 29 Jul 2026 15:01:52 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した</title>
@@ -35,7 +43,7 @@
       <title>[VentureBeat AI] Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、ひとつ問題があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、ある問題点があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が設けられており、&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -62,7 +70,7 @@
       <title>[VentureBeat AI] Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
       <description>&lt;p&gt;&lt;strong&gt;Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡大する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
+&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡張する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</guid>
       <pubDate>Mon, 12 Jan 2026 11:30:00 GMT</pubDate>
@@ -77,85 +85,49 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AI企業は古書を買い集め、その内容をモデル学習のために取り込んだ後、たとえ現存する部数がほとんど残っていなくても、信じられないほどの規模でそれらを破棄している。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v8ilsm/ai_companies_are_buying_antique_books_ingesting/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI企業は古書を買い集め、その内容をモデル学習のために取り込んだ後、たとえ現存する部数がほとんど残っていなくても、信じられないほどの規模でそれらを破棄している。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AI企業は、モデルの学習のために文字通り紙の本を破壊しています。油圧式裁断機を使って古本のページを切り取り、産業用機器でスキャンし、それらを&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI Companies Are Buying Antique Books, Ingesting Their Contents to Train Models, and Then Destroying Them at Incredible Scale, Even If Almost No Copies Remain&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v8ilsm/ai_companies_are_buying_antique_books_ingesting/</guid>
-      <pubDate>Tue, 28 Jul 2026 00:37:15 GMT</pubDate>
+      <title>[r/artificial] OpenAIの「ローグエージェント」は、4日間にわたりHugging Faceのインフラ上で約17,600回のアクションを実行した――そして、Hugging Face自身がまとめた事後分析レポートは、驚くべき内容となっている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v9w62d/openais_rogue_agent_ran_17600_actions_across/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIの「ローグエージェント」は、4日間にわたりHugging Faceのインフラ上で約17,600回のアクションを実行した――そして、Hugging Face自身がまとめた事後分析レポートは、驚くべき内容となっている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hugging Faceは、7月に発生したインシデントに関する詳細な事後分析を公開した。このインシデントでは、サイバー攻撃能力の評価を受けていたOpenAIのモデルが、テスト用サンドボックスから脱出し、完全に自律的な侵入攻撃を実行した。a f&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI's rogue agent ran ~17,600 actions across Hugging Face's infrastructure over 4 days — and HF's own post-mortem is wild reading&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v9w62d/openais_rogue_agent_ran_17600_actions_across/</guid>
+      <pubDate>Wed, 29 Jul 2026 13:25:55 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 世界一の数学者が今週、賞を受賞し、直後に学界を離れてOpenAIに移籍すると発表した。そのニュースは、私が予想していたのとは違った反響を呼んだ。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v8aeto/the_worlds_best_mathematician_won_his_prize_this/</link>
-      <description>&lt;p&gt;&lt;strong&gt;世界一の数学者が今週、賞を受賞し、直後に学界を離れてOpenAIに移籍すると発表した。そのニュースは、私が予想していたのとは違った反響を呼んだ。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;この件について週末中ずっと考えていたのですが、どうしても同じ結論にたどり着いてしまいます。ジェイコブ・ツィマーマン氏が、つい先日フィールズ賞を受賞しました。ご存じない方のために説明すると、これは数学界における最高の栄誉で……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The world's best mathematician won his prize this week and immediately announced he's leaving academia for OpenAI. That landed differently than I expected.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v8aeto/the_worlds_best_mathematician_won_his_prize_this/</guid>
-      <pubDate>Mon, 27 Jul 2026 19:24:12 GMT</pubDate>
+      <title>[r/artificial] AI企業は、モデルの学習のために何百万冊もの紙の本を購入し、それらを破壊的にスキャンしたが、裁判所はこれをフェアユースであると判断した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1va5e3f/ai_firms_bought_and_destructively_scanned/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI企業は、モデルの学習のために何百万冊もの紙の本を購入し、それらを破壊的にスキャンしたが、裁判所はこれをフェアユースであると判断した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今週、この件が再び話題になりました（「AIによる書籍焼却」と呼ぶ人もいます）。私は、この件について「怒りを煽るような」枠組みよりも、法的な側面の方が興味深いと考えているため、ここでは中立的な観点から解説したいと思います。確認されている事実は以下の通りです：T&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI firms bought and destructively scanned millions of physical books to train models — and a court ruled it was fair use&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1va5e3f/ai_firms_bought_and_destructively_scanned/</guid>
+      <pubDate>Wed, 29 Jul 2026 18:54:46 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ゲーデルとLLMによる到達可能な知能の限界</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v93evv/godel_and_the_limits_of_llm_reachable_intelligence/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ゲーデルとLLMによる到達可能な知能の限界&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/davidSenTeGuard   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Godel and the Limits of LLM Reachable Intelligence&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v93evv/godel_and_the_limits_of_llm_reachable_intelligence/</guid>
-      <pubDate>Tue, 28 Jul 2026 16:27:15 GMT</pubDate>
+      <title>[r/artificial] 約1,400年前、学者たちは「誰を信頼できるか」を検証するための厳密な体系を構築しました。私はそれを、AIエージェントのための信頼レイヤーとして再構築しました。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1v9qdpe/1400_years_ago_scholars_built_a_rigorous_system/</link>
+      <description>&lt;p&gt;&lt;strong&gt;約1,400年前、学者たちは「誰を信頼できるか」を検証するための厳密な体系を構築しました。私はそれを、AIエージェントのための信頼レイヤーとして再構築しました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これを書いて、議論の参考としてarXivに投稿したばかりです。ある主張が、信頼できる人もいればそうでない人もいるという長い人脈の連鎖を通じて広まっていく場合、単にその主張が「信憑性がありそう」という理由だけで、それを鵜呑みにすることはできません。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: ~1,400 years ago, scholars built a rigorous system to verify who you can trust. I rebuilt it as a trust layer for AI agents.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v9qdpe/1400_years_ago_scholars_built_a_rigorous_system/</guid>
+      <pubDate>Wed, 29 Jul 2026 08:45:37 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIリテラシーは、職場における基本的なスキルとなるのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v8vu55/will_ai_literacy_become_a_basic_workplace_skill/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIリテラシーは、職場における基本的なスキルとなるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;数年前までは、コンピューターの使い方を心得ていることは大きな強みでした。しかし今日では、それは当然のこととされています。AIも同様の道をたどるのではないかと感じています。AIツールを効果的に使いこなす能力は、やがてあらゆる分野で求められる基礎的なスキルとなるかもしれません。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Will AI literacy become a basic workplace skill?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v8vu55/will_ai_literacy_become_a_basic_workplace_skill/</guid>
-      <pubDate>Tue, 28 Jul 2026 11:34:46 GMT</pubDate>
+      <title>[r/artificial] 「I Got Long」：AIエージェントとコンテキストの移植性</title>
+      <link>https://www.reddit.com/r/artificial/comments/1va4ksr/i_got_long_ai_agents_context_portability/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「I Got Long」：AIエージェントとコンテキストの移植性&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/growth_man   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I Got Long: AI Agents &amp; Context Portability&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1va4ksr/i_got_long_ai_agents_context_portability/</guid>
+      <pubDate>Wed, 29 Jul 2026 18:26:22 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Googleの検索結果に、クロード二等兵のチャット内容が公開される</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v8gcbk/private_claude_chats_exposed_on_google_search/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Googleの検索結果に、クロード二等兵のチャット内容が公開される&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;先週末、Redditのユーザーたちが、チャットボット「Claude」の非公開会話の膨大な量がインデックス化され、Google検索で一般に公開されていることを発見した。Anthropic社は月曜日にこの情報漏洩を確認し、その原因を&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Private Claude chats exposed on Google search results&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v8gcbk/private_claude_chats_exposed_on_google_search/</guid>
-      <pubDate>Mon, 27 Jul 2026 23:04:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] カリフォルニア州でバックパッカーが行方不明になった事件を受け、AIが捜査当局による手がかりの特定を支援している</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v96jot/ai_is_helping_investigators_identify_possible/</link>
-      <description>&lt;p&gt;&lt;strong&gt;カリフォルニア州でバックパッカーが行方不明になった事件を受け、AIが捜査当局による手がかりの特定を支援している&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/sfgate   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI is helping investigators identify possible clues after a California backpacker vanished&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v96jot/ai_is_helping_investigators_identify_possible/</guid>
-      <pubDate>Tue, 28 Jul 2026 18:17:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIコーディングツールのおかげで何時間も節約できているけど、正直言って、自分がバカになってきているのかどうかわからなくなってきた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v98szp/ai_coding_tools_are_saving_me_hours_but_i/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIコーディングツールのおかげで何時間も節約できているけど、正直言って、自分がバカになってきているのかどうかわからなくなってきた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIコーディングツールのおかげで何時間も節約できているけど、正直言って自分がバカになってきているのかどうかわからない。自己資金でSaaSを一人で運営しながら、一日の大半を家で子供と一緒に過ごしているせいで、実際に集中して作業できる時間は……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI coding tools are saving me hours but I genuinely can't tell if I'm getting dumber&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v98szp/ai_coding_tools_are_saving_me_hours_but_i/</guid>
-      <pubDate>Tue, 28 Jul 2026 19:36:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 不動産のリード獲得向けAIツールは実際に効果を発揮するものの、その見苦しいトレードオフについては誰も語らない</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v93ln8/ai_tools_for_real_estate_lead_gen_actually_work/</link>
-      <description>&lt;p&gt;&lt;strong&gt;不動産のリード獲得向けAIツールは実際に効果を発揮するものの、その見苦しいトレードオフについては誰も語らない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ここ数ヶ月、不動産のパイプラインにAIを導入して運用しています。見込み客の情報を収集し、自動化されたフォローアップ手順で選定を行い、物件説明文を作成し、新規顧客へのアプローチ文を起草しています。p&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI tools for real estate lead gen actually work but nobody talks about the ugly tradeoffs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v93ln8/ai_tools_for_real_estate_lead_gen_actually_work/</guid>
-      <pubDate>Tue, 28 Jul 2026 16:34:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 制御の問題：なぜAIにおいて、相互に連携した人間主導の知識層を構築する必要があるのか</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v90g9t/the_control_problem_why_we_need_to_build/</link>
-      <description>&lt;p&gt;&lt;strong&gt;制御の問題：なぜAIにおいて、相互に連携した人間主導の知識層を構築する必要があるのか&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIモデルをより大規模に、より高速に、より高性能にすることには大きな注目が集まっています。確かに、そうすることでAIモデルの性能は向上するのは明らかです。しかし、実際にAIモデルを扱う時間が長くなるにつれて、その「能力」という感覚が薄れてきているように感じます。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Control Problem: Why We Need to Build Interconnected Human-Governed Knowledge Layers in AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v90g9t/the_control_problem_why_we_need_to_build/</guid>
-      <pubDate>Tue, 28 Jul 2026 14:40:49 GMT</pubDate>
+      <title>[r/artificial] 「ワールド・モデル」と空間知能の時代：言語の枠を超えたAIの統制</title>
+      <link>https://www.reddit.com/r/artificial/comments/1va5tza/the_world_model_and_spatial_intelligence_era/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「ワールド・モデル」と空間知能の時代：言語の枠を超えたAIの統制&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/HooverInstitution   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The World Model and Spatial Intelligence Era: Governing AI Beyond Language&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1va5tza/the_world_model_and_spatial_intelligence_era/</guid>
+      <pubDate>Wed, 29 Jul 2026 19:10:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
