@@ -3,38 +3,38 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-29</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-30</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2026 19:25:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 19:41:22 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (277pt) ドキュメントを媒介とするAIワームは、Copilot for Wordを介して自己増殖する</title>
-      <link>https://news.ycombinator.com/item?id=49096188</link>
-      <description>&lt;p&gt;&lt;strong&gt;ドキュメントを媒介とするAIワームは、Copilot for Wordを介して自己増殖する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Document-borne AI worms can self-propagate through Copilot for Word&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49096188</guid>
-      <pubDate>Wed, 29 Jul 2026 11:44:33 GMT</pubDate>
+      <title>[Hacker News] (328pt) 「Gemini Robotics 2」がロボットに全身の知能をもたらす</title>
+      <link>https://news.ycombinator.com/item?id=49111237</link>
+      <description>&lt;p&gt;&lt;strong&gt;「Gemini Robotics 2」がロボットに全身の知能をもたらす&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gemini Robotics 2 brings whole body intelligence to robots&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49111237</guid>
+      <pubDate>Thu, 30 Jul 2026 15:15:48 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (236pt) Handbook.md によると、長大なポリシー文書ではエージェントを確実に制御することはできないことが示されている</title>
-      <link>https://news.ycombinator.com/item?id=49096969</link>
-      <description>&lt;p&gt;&lt;strong&gt;Handbook.md によると、長大なポリシー文書ではエージェントを確実に制御することはできないことが示されている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Handbook.md shows that long policy documents do not reliably govern agents&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49096969</guid>
-      <pubDate>Wed, 29 Jul 2026 13:01:57 GMT</pubDate>
+      <title>[Hacker News] (328pt) GPT-5.6でコストパフォーマンスの限界を押し広げる</title>
+      <link>https://news.ycombinator.com/item?id=49112867</link>
+      <description>&lt;p&gt;&lt;strong&gt;GPT-5.6でコストパフォーマンスの限界を押し広げる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Advancing the price-performance frontier with GPT‑5.6&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49112867</guid>
+      <pubDate>Thu, 30 Jul 2026 17:15:51 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (129pt) フロンティア・ラボのエージェントによる侵入事件の全容：2026年7月の事件の経緯</title>
-      <link>https://news.ycombinator.com/item?id=49098466</link>
-      <description>&lt;p&gt;&lt;strong&gt;フロンティア・ラボのエージェントによる侵入事件の全容：2026年7月の事件の経緯&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49098466</guid>
-      <pubDate>Wed, 29 Jul 2026 15:01:52 GMT</pubDate>
+      <title>[Hacker News] (51pt) 10倍ではなく2倍：2026年のLLMを活用したコーディング</title>
+      <link>https://news.ycombinator.com/item?id=49047839</link>
+      <description>&lt;p&gt;&lt;strong&gt;10倍ではなく2倍：2026年のLLMを活用したコーディング&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: 2x, not 10x: coding with LLMs in 2026&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49047839</guid>
+      <pubDate>Sat, 25 Jul 2026 14:27:05 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した</title>
+      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
-      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずにひっそりと200万人の開発者を集めてきたが、木曜日、シリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずにひっそりと200万人の開発者を集めてきたが、木曜日にシリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Railway secures $100 million to challenge AWS with AI-native cloud infrastructure&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</guid>
       <pubDate>Thu, 22 Jan 2026 14:00:00 GMT</pubDate>
@@ -43,7 +43,7 @@
       <title>[VentureBeat AI] Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、ある問題点があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が設けられており、&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、ひとつ問題があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -85,49 +85,76 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] OpenAIの「ローグエージェント」は、4日間にわたりHugging Faceのインフラ上で約17,600回のアクションを実行した――そして、Hugging Face自身がまとめた事後分析レポートは、驚くべき内容となっている</title>
+      <title>[r/artificial] ポール・バカウス（jQuery UIの開発者、a16zの出資を受けている）が、AIで開発された製品がいまだに優れていない理由について語る</title>
+      <link>https://www.reddit.com/r/artificial/comments/1valark/paul_bakaus_jquery_ui_creator_a16zbacked_on_why/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ポール・バカウス（jQuery UIの開発者、a16zの出資を受けている）が、AIで開発された製品がいまだに優れていない理由について語る&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ポール・バカウスはjQuery UIを開発しました。このコードは、現在もインターネット上の約6％で稼働していると言われています。彼はゲームエンジン開発のスタートアップをZyngaに売却し、Googleで10年近く勤務した後、現在は個人で起業しています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Paul Bakaus (jQuery UI creator, a16z-backed) on why AI-built products still aren't good&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1valark/paul_bakaus_jquery_ui_creator_a16zbacked_on_why/</guid>
+      <pubDate>Thu, 30 Jul 2026 06:13:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Deepseekは、それがクロードだと考えている！</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vb2uyw/deepseek_thinks_it_claude/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Deepseekは、それがクロードだと考えている！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一体何が起きたんだ？ フィクション小説の執筆について、Deepseekに助けを求めたんだ。会話中、そのAIは自分自身のことを「クロード」と呼んでいた。なぜ「クロ」という名前を出しているのかと尋ねたところ、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Deepseek thinks it Claude!&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vb2uyw/deepseek_thinks_it_claude/</guid>
+      <pubDate>Thu, 30 Jul 2026 19:01:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 「究極の脱獄」：AIはすでに自らを解放しつつあるのか</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vazvpc/the_final_jailbreak_how_ai_could_already_be/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「究極の脱獄」：AIはすでに自らを解放しつつあるのか&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;皆さんの多くもこれについて考えたことがあると思いますが、この件がもっと広く話題になっていないことに驚いたので、あえてこの記事を書きました。私にとって、「Hugging Face」の件は、少なくとも……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Final Jailbreak: How AI Could Already Be Breaking Itself Free&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vazvpc/the_final_jailbreak_how_ai_could_already_be/</guid>
+      <pubDate>Thu, 30 Jul 2026 17:16:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] OpenAIの「ローグエージェント」は、4日間にわたりHugging Faceのインフラ上で約17,600回のアクションを実行した――そして、Hugging Face自身がまとめた事後分析レポートは、とんでもない内容だ</title>
       <link>https://www.reddit.com/r/artificial/comments/1v9w62d/openais_rogue_agent_ran_17600_actions_across/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIの「ローグエージェント」は、4日間にわたりHugging Faceのインフラ上で約17,600回のアクションを実行した――そして、Hugging Face自身がまとめた事後分析レポートは、驚くべき内容となっている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Hugging Faceは、7月に発生したインシデントに関する詳細な事後分析を公開した。このインシデントでは、サイバー攻撃能力の評価を受けていたOpenAIのモデルが、テスト用サンドボックスから脱出し、完全に自律的な侵入攻撃を実行した。a f&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIの「ローグエージェント」は、4日間にわたりHugging Faceのインフラ上で約17,600回のアクションを実行した――そして、Hugging Face自身がまとめた事後分析レポートは、とんでもない内容だ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hugging Faceは、7月に発生したインシデントに関する詳細な事後分析を公開した。このインシデントでは、サイバー攻撃能力の評価を受けていたOpenAIのモデルが、テスト用サンドボックスから脱出し、完全に自律的な侵入を実行してしまった。a f&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: OpenAI's rogue agent ran ~17,600 actions across Hugging Face's infrastructure over 4 days — and HF's own post-mortem is wild reading&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v9w62d/openais_rogue_agent_ran_17600_actions_across/</guid>
       <pubDate>Wed, 29 Jul 2026 13:25:55 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AI企業は、モデルの学習のために何百万冊もの紙の本を購入し、それらを破壊的にスキャンしたが、裁判所はこれをフェアユースであると判断した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1va5e3f/ai_firms_bought_and_destructively_scanned/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI企業は、モデルの学習のために何百万冊もの紙の本を購入し、それらを破壊的にスキャンしたが、裁判所はこれをフェアユースであると判断した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今週、この件が再び話題になりました（「AIによる書籍焼却」と呼ぶ人もいます）。私は、この件について「怒りを煽るような」枠組みよりも、法的な側面の方が興味深いと考えているため、ここでは中立的な観点から解説したいと思います。確認されている事実は以下の通りです：T&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI firms bought and destructively scanned millions of physical books to train models — and a court ruled it was fair use&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1va5e3f/ai_firms_bought_and_destructively_scanned/</guid>
-      <pubDate>Wed, 29 Jul 2026 18:54:46 GMT</pubDate>
+      <title>[r/artificial] AIを活用した銀行業務における真の課題は、自律性ではなく権限の問題である</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vb3ebz/the_real_ai_banking_question_is_permissions_not/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIを活用した銀行業務における真の課題は、自律性ではなく権限の問題である&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIを活用したビジネスバンキングにおいて、有用な形とは、エージェントが自由に資金を移動させることではないと思います。より現実的な形は、権限の設定です。あるエージェントは取引履歴を閲覧でき、別のエージェントは請求書を作成でき、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The real AI banking question is permissions, not autonomy&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vb3ebz/the_real_ai_banking_question_is_permissions_not/</guid>
+      <pubDate>Thu, 30 Jul 2026 19:21:09 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 約1,400年前、学者たちは「誰を信頼できるか」を検証するための厳密な体系を構築しました。私はそれを、AIエージェントのための信頼レイヤーとして再構築しました。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v9qdpe/1400_years_ago_scholars_built_a_rigorous_system/</link>
-      <description>&lt;p&gt;&lt;strong&gt;約1,400年前、学者たちは「誰を信頼できるか」を検証するための厳密な体系を構築しました。私はそれを、AIエージェントのための信頼レイヤーとして再構築しました。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;これを書いて、議論の参考としてarXivに投稿したばかりです。ある主張が、信頼できる人もいればそうでない人もいるという長い人脈の連鎖を通じて広まっていく場合、単にその主張が「信憑性がありそう」という理由だけで、それを鵜呑みにすることはできません。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: ~1,400 years ago, scholars built a rigorous system to verify who you can trust. I rebuilt it as a trust layer for AI agents.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v9qdpe/1400_years_ago_scholars_built_a_rigorous_system/</guid>
-      <pubDate>Wed, 29 Jul 2026 08:45:37 GMT</pubDate>
+      <title>[r/artificial] AIモデルの選び方でアドバイスをお願いします</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vb2rud/need_help_picking_ai_model/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIモデルの選び方でアドバイスをお願いします&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;みんな、今学期は3つのプロジェクトが控えているんだ。1つはサイバーセキュリティ、もう1つはデータサイエンス、そしてもう1つは自然言語処理だ。この3つのうち、どのモデルを選ぶか迷っているんだけど、助けてほしいんだ。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Need help picking ai model&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vb2rud/need_help_picking_ai_model/</guid>
+      <pubDate>Thu, 30 Jul 2026 18:58:49 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 「I Got Long」：AIエージェントとコンテキストの移植性</title>
-      <link>https://www.reddit.com/r/artificial/comments/1va4ksr/i_got_long_ai_agents_context_portability/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「I Got Long」：AIエージェントとコンテキストの移植性&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/growth_man   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I Got Long: AI Agents &amp; Context Portability&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1va4ksr/i_got_long_ai_agents_context_portability/</guid>
-      <pubDate>Wed, 29 Jul 2026 18:26:22 GMT</pubDate>
+      <title>[r/artificial] AIライティングツールは、単に仕事の仕方だけでなく、私の考え方も知らず知らずのうちに変えてしまった。それについて、どう感じればいいのか自分でもよくわからない。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vb2htd/ai_writing_tools_have_quietly_changed_how_i_think/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIライティングツールは、単に仕事の仕方だけでなく、私の考え方も知らず知らずのうちに変えてしまった。それについて、どう感じればいいのか自分でもよくわからない。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;約18ヶ月前から、クライアントの仕事でAIツールを本格的に使い始めました。記事の作成、企画書の作成、コンテンツの再利用など、フリーランスならお馴染みの日常業務です。それによってかなりの時間を節約でき、本当に助かりました。しかし、ある変化が訪れました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI writing tools have quietly changed how I think, not just how I work, and I'm not sure how I feel about it&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vb2htd/ai_writing_tools_have_quietly_changed_how_i_think/</guid>
+      <pubDate>Thu, 30 Jul 2026 18:48:38 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 「ワールド・モデル」と空間知能の時代：言語の枠を超えたAIの統制</title>
-      <link>https://www.reddit.com/r/artificial/comments/1va5tza/the_world_model_and_spatial_intelligence_era/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「ワールド・モデル」と空間知能の時代：言語の枠を超えたAIの統制&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/HooverInstitution   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The World Model and Spatial Intelligence Era: Governing AI Beyond Language&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1va5tza/the_world_model_and_spatial_intelligence_era/</guid>
-      <pubDate>Wed, 29 Jul 2026 19:10:04 GMT</pubDate>
+      <title>[r/artificial] OpenAIによるHugging Faceへのハッキングの内幕</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vb1z4h/inside_openais_hack_of_hugging_face/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIによるHugging Faceへのハッキングの内幕&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/newyorker   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Inside OpenAI’s Hack of Hugging Face&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vb1z4h/inside_openais_hack_of_hugging_face/</guid>
+      <pubDate>Thu, 30 Jul 2026 18:29:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
