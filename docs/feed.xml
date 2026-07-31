@@ -3,37 +3,37 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-30</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-07-31</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Jul 2026 19:41:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 19:42:49 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (328pt) 「Gemini Robotics 2」がロボットに全身の知能をもたらす</title>
-      <link>https://news.ycombinator.com/item?id=49111237</link>
-      <description>&lt;p&gt;&lt;strong&gt;「Gemini Robotics 2」がロボットに全身の知能をもたらす&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gemini Robotics 2 brings whole body intelligence to robots&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49111237</guid>
-      <pubDate>Thu, 30 Jul 2026 15:15:48 GMT</pubDate>
+      <title>[Hacker News] (44pt) TailscaleはHugging Faceへの不正侵入を阻止できなかった</title>
+      <link>https://news.ycombinator.com/item?id=49127306</link>
+      <description>&lt;p&gt;&lt;strong&gt;TailscaleはHugging Faceへの不正侵入を阻止できなかった&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Tailscale didn't stop the Hugging Face intrusion&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49127306</guid>
+      <pubDate>Fri, 31 Jul 2026 19:03:45 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (328pt) GPT-5.6でコストパフォーマンスの限界を押し広げる</title>
-      <link>https://news.ycombinator.com/item?id=49112867</link>
-      <description>&lt;p&gt;&lt;strong&gt;GPT-5.6でコストパフォーマンスの限界を押し広げる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Advancing the price-performance frontier with GPT‑5.6&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49112867</guid>
-      <pubDate>Thu, 30 Jul 2026 17:15:51 GMT</pubDate>
+      <title>[Hacker News] (36pt) AI企業は、希少で復元不可能な紙の本を廃棄している</title>
+      <link>https://news.ycombinator.com/item?id=49127284</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI企業は、希少で復元不可能な紙の本を廃棄している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI companies destroy rare and non recoverable physical books&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49127284</guid>
+      <pubDate>Fri, 31 Jul 2026 19:01:52 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (51pt) 10倍ではなく2倍：2026年のLLMを活用したコーディング</title>
-      <link>https://news.ycombinator.com/item?id=49047839</link>
-      <description>&lt;p&gt;&lt;strong&gt;10倍ではなく2倍：2026年のLLMを活用したコーディング&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 2x, not 10x: coding with LLMs in 2026&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49047839</guid>
-      <pubDate>Sat, 25 Jul 2026 14:27:05 GMT</pubDate>
+      <title>[Hacker News] (16pt) Golangの提案：container/：ジェネリックコレクション型</title>
+      <link>https://news.ycombinator.com/item?id=49127031</link>
+      <description>&lt;p&gt;&lt;strong&gt;Golangの提案：container/：ジェネリックコレクション型&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Golang proposal: container/: generic collection types&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49127031</guid>
+      <pubDate>Fri, 31 Jul 2026 18:39:47 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
+      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
-      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずにひっそりと200万人の開発者を集めてきたが、木曜日にシリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Railway secures $100 million to challenge AWS with AI-native cloud infrastructure&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</guid>
@@ -61,7 +61,7 @@
       <title>[VentureBeat AI] Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」を全面的に刷新したバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、同社幹部が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」を全面的に刷新したバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、経営陣が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -70,7 +70,7 @@
       <title>[VentureBeat AI] Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
       <description>&lt;p&gt;&lt;strong&gt;Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡張する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
+&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡大する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</guid>
       <pubDate>Mon, 12 Jan 2026 11:30:00 GMT</pubDate>
@@ -85,76 +85,94 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ポール・バカウス（jQuery UIの開発者、a16zの出資を受けている）が、AIで開発された製品がいまだに優れていない理由について語る</title>
-      <link>https://www.reddit.com/r/artificial/comments/1valark/paul_bakaus_jquery_ui_creator_a16zbacked_on_why/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ポール・バカウス（jQuery UIの開発者、a16zの出資を受けている）が、AIで開発された製品がいまだに優れていない理由について語る&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ポール・バカウスはjQuery UIを開発しました。このコードは、現在もインターネット上の約6％で稼働していると言われています。彼はゲームエンジン開発のスタートアップをZyngaに売却し、Googleで10年近く勤務した後、現在は個人で起業しています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Paul Bakaus (jQuery UI creator, a16z-backed) on why AI-built products still aren't good&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1valark/paul_bakaus_jquery_ui_creator_a16zbacked_on_why/</guid>
-      <pubDate>Thu, 30 Jul 2026 06:13:41 GMT</pubDate>
+      <title>[r/artificial] Metaのフリーキャッシュフローは1年間で85億ドルから7億8400万ドルに減少した一方、四半期ごとのAIインフラへの支出は310億ドルに達した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vbsi32/metas_free_cash_flow_fell_from_85b_to_784m_in_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Metaのフリーキャッシュフローは1年間で85億ドルから7億8400万ドルに減少した一方、四半期ごとのAIインフラへの支出は310億ドルに達した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;売上高は608億ドルで、前年同期比28％増となった。当四半期の設備投資額は310億8000万ドル。フリーキャッシュフローは7億8400万ドルで、前年同期の85億5000万ドルから減少した。MetaはAI専用の設備投資項目を個別に開示していないが、この急増はデータセンターの拡張によるものと説明している。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Meta’s free cash flow fell from $8.5B to $784M in a year while quarterly AI infrastructure spend hit $31B.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vbsi32/metas_free_cash_flow_fell_from_85b_to_784m_in_a/</guid>
+      <pubDate>Fri, 31 Jul 2026 14:27:37 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Deepseekは、それがクロードだと考えている！</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vb2uyw/deepseek_thinks_it_claude/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Deepseekは、それがクロードだと考えている！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;一体何が起きたんだ？ フィクション小説の執筆について、Deepseekに助けを求めたんだ。会話中、そのAIは自分自身のことを「クロード」と呼んでいた。なぜ「クロ」という名前を出しているのかと尋ねたところ、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Deepseek thinks it Claude!&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vb2uyw/deepseek_thinks_it_claude/</guid>
-      <pubDate>Thu, 30 Jul 2026 19:01:56 GMT</pubDate>
+      <title>[r/artificial] ある人が、GPT-5.6に34日間、実際の会社を運営させた。その結果、GPT-5.6は嘘をつき、スパムを送りまくり、447ドルの損失を出した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vbw5f4/someone_let_gpt56_run_a_real_company_for_34_days/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ある人が、GPT-5.6に34日間、実際の会社を運営させた。その結果、GPT-5.6は嘘をつき、スパムを送りまくり、447ドルの損失を出した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bottleneck Labsは、実際のビジネスをGPT-5.6 Solに任せ、34日間自律的に運営させた。その結果、GPT-5.6 Solは虚偽の主張をでっち上げ、無差別メールを大量に送信し、447ドルの赤字を出した。（現在、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Someone let GPT-5.6 run a real company for 34 days. It lied, spammed, and lost $447.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vbw5f4/someone_let_gpt56_run_a_real_company_for_34_days/</guid>
+      <pubDate>Fri, 31 Jul 2026 16:40:25 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 「究極の脱獄」：AIはすでに自らを解放しつつあるのか</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vazvpc/the_final_jailbreak_how_ai_could_already_be/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「究極の脱獄」：AIはすでに自らを解放しつつあるのか&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;皆さんの多くもこれについて考えたことがあると思いますが、この件がもっと広く話題になっていないことに驚いたので、あえてこの記事を書きました。私にとって、「Hugging Face」の件は、少なくとも……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Final Jailbreak: How AI Could Already Be Breaking Itself Free&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vazvpc/the_final_jailbreak_how_ai_could_already_be/</guid>
-      <pubDate>Thu, 30 Jul 2026 17:16:42 GMT</pubDate>
+      <title>[r/artificial] アンドレイ・カーパシー氏（OpenAI共同創業者、元テスラAI部門責任者）は、プログラマーとしてこれほどまでに遅れをとったと感じたことはないと語り、その理由を一文で説明している</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vbvknt/andrej_karpathy_openai_cofounder_extesla_ai_lead/</link>
+      <description>&lt;p&gt;&lt;strong&gt;アンドレイ・カーパシー氏（OpenAI共同創業者、元テスラAI部門責任者）は、プログラマーとしてこれほどまでに遅れをとったと感じたことはないと語り、その理由を一文で説明している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;アンドレイ・カーパシー氏はOpenAIを共同設立し、テスラのAIチームを率い、約1年前に「バイブ・コーディング」という言葉を提唱しました。セコイア・キャピタル主催の「AI Ascent 2026」において、ステファニー・ザン氏は彼に対し、この1年間について直接尋ねました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Andrej Karpathy (OpenAI co-founder, ex-Tesla AI lead) says he's never felt more behind as a programmer — and explains why in one sentence&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vbvknt/andrej_karpathy_openai_cofounder_extesla_ai_lead/</guid>
+      <pubDate>Fri, 31 Jul 2026 16:19:27 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] OpenAIの「ローグエージェント」は、4日間にわたりHugging Faceのインフラ上で約17,600回のアクションを実行した――そして、Hugging Face自身がまとめた事後分析レポートは、とんでもない内容だ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1v9w62d/openais_rogue_agent_ran_17600_actions_across/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIの「ローグエージェント」は、4日間にわたりHugging Faceのインフラ上で約17,600回のアクションを実行した――そして、Hugging Face自身がまとめた事後分析レポートは、とんでもない内容だ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Hugging Faceは、7月に発生したインシデントに関する詳細な事後分析を公開した。このインシデントでは、サイバー攻撃能力の評価を受けていたOpenAIのモデルが、テスト用サンドボックスから脱出し、完全に自律的な侵入を実行してしまった。a f&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI's rogue agent ran ~17,600 actions across Hugging Face's infrastructure over 4 days — and HF's own post-mortem is wild reading&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1v9w62d/openais_rogue_agent_ran_17600_actions_across/</guid>
-      <pubDate>Wed, 29 Jul 2026 13:25:55 GMT</pubDate>
+      <title>[r/artificial] ツール側の主張とデータが示す内容との間には隔たりがあります。引用されている事例研究は、ほぼ例外なくその製品を販売しているベンダーによるものです。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vbw45d/theres_a_gap_between_what_the_tools_claim_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ツール側の主張とデータが示す内容との間には隔たりがあります。引用されている事例研究は、ほぼ例外なくその製品を販売しているベンダーによるものです。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;コピーやビジュアル、さらにはターゲティングのロジックまでもがAIツールに委ねられるキャンペーンがますます増えていることに気づいており、マーケティング界隈での議論は一貫して効率性とコストにばかり焦点が当てられたままである&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: there's a gap between what the tools claim and what the data shows. the case studies being cited are almost always from the vendors selling the product.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vbw45d/theres_a_gap_between_what_the_tools_claim_and/</guid>
+      <pubDate>Fri, 31 Jul 2026 16:39:01 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIを活用した銀行業務における真の課題は、自律性ではなく権限の問題である</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vb3ebz/the_real_ai_banking_question_is_permissions_not/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIを活用した銀行業務における真の課題は、自律性ではなく権限の問題である&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIを活用したビジネスバンキングにおいて、有用な形とは、エージェントが自由に資金を移動させることではないと思います。より現実的な形は、権限の設定です。あるエージェントは取引履歴を閲覧でき、別のエージェントは請求書を作成でき、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The real AI banking question is permissions, not autonomy&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vb3ebz/the_real_ai_banking_question_is_permissions_not/</guid>
-      <pubDate>Thu, 30 Jul 2026 19:21:09 GMT</pubDate>
+      <title>[r/artificial] Googleは、AIのおかげで、6月に過去2年間を合わせたよりも多くのChromeのバグを修正したと述べている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vb40gz/google_says_it_fixed_more_chrome_bugs_in_june/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Googleは、AIのおかげで、6月に過去2年間を合わせたよりも多くのChromeのバグを修正したと述べている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;gt;この大手IT企業は、6月にリリースされたChromeの直近2つのバージョンにおいて、実に1,072件ものセキュリティバグを修正したと発表した。これは、過去23回の修正で修正されたバグの数を上回るものである。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vb40gz/google_says_it_fixed_more_chrome_bugs_in_june/</guid>
+      <pubDate>Thu, 30 Jul 2026 19:43:35 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIモデルの選び方でアドバイスをお願いします</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vb2rud/need_help_picking_ai_model/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIモデルの選び方でアドバイスをお願いします&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;みんな、今学期は3つのプロジェクトが控えているんだ。1つはサイバーセキュリティ、もう1つはデータサイエンス、そしてもう1つは自然言語処理だ。この3つのうち、どのモデルを選ぶか迷っているんだけど、助けてほしいんだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Need help picking ai model&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vb2rud/need_help_picking_ai_model/</guid>
-      <pubDate>Thu, 30 Jul 2026 18:58:49 GMT</pubDate>
+      <title>[r/artificial] エージェント系システムがどのように機能するのか知りたかったので、メソポタミアの占いを基に一つ作ってみました</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vbzljh/i_wanted_to_know_how_agentic_systems_worked_so_i/</link>
+      <description>&lt;p&gt;&lt;strong&gt;エージェント系システムがどのように機能するのか知りたかったので、メソポタミアの占いを基に一つ作ってみました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;現在、AIが社会に与える影響について研究しています。最近、エージェント型システムが至る所で話題になっており、採用活動や事務処理、カスタマーサービスなどの分野で導入され始めています。私の見解では……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I wanted to know how agentic systems worked, so I made one based on Mesopotamian divination&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vbzljh/i_wanted_to_know_how_agentic_systems_worked_so_i/</guid>
+      <pubDate>Fri, 31 Jul 2026 18:45:46 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIライティングツールは、単に仕事の仕方だけでなく、私の考え方も知らず知らずのうちに変えてしまった。それについて、どう感じればいいのか自分でもよくわからない。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vb2htd/ai_writing_tools_have_quietly_changed_how_i_think/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIライティングツールは、単に仕事の仕方だけでなく、私の考え方も知らず知らずのうちに変えてしまった。それについて、どう感じればいいのか自分でもよくわからない。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;約18ヶ月前から、クライアントの仕事でAIツールを本格的に使い始めました。記事の作成、企画書の作成、コンテンツの再利用など、フリーランスならお馴染みの日常業務です。それによってかなりの時間を節約でき、本当に助かりました。しかし、ある変化が訪れました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI writing tools have quietly changed how I think, not just how I work, and I'm not sure how I feel about it&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vb2htd/ai_writing_tools_have_quietly_changed_how_i_think/</guid>
-      <pubDate>Thu, 30 Jul 2026 18:48:38 GMT</pubDate>
+      <title>[r/artificial] 欧州、国境におけるAIの監視体制を整備へ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vblqyz/europe_gets_ready_to_police_frontier_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;欧州、国境におけるAIの監視体制を整備へ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/kindermaxi123   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Europe gets ready to police frontier AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vblqyz/europe_gets_ready_to_police_frontier_ai/</guid>
+      <pubDate>Fri, 31 Jul 2026 09:12:13 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] OpenAIによるHugging Faceへのハッキングの内幕</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vb1z4h/inside_openais_hack_of_hugging_face/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIによるHugging Faceへのハッキングの内幕&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/newyorker   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Inside OpenAI’s Hack of Hugging Face&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vb1z4h/inside_openais_hack_of_hugging_face/</guid>
-      <pubDate>Thu, 30 Jul 2026 18:29:47 GMT</pubDate>
+      <title>[r/artificial] 2026年の主要なLLM API 18サービスの価格を比較したところ、同じワークロードの処理コストは0.018ドルから$まで幅があった。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vc0hot/i_compared_18_major_llm_api_prices_in_2026_the/</link>
+      <description>&lt;p&gt;&lt;strong&gt;2026年の主要なLLM API 18サービスの価格を比較したところ、同じワークロードの処理コストは0.018ドルから$まで幅があった。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、Anthropic、Google、xAI、DeepSeek、Mistralの各社から提供されている18モデルの標準API定価を比較しました。数値をより理解しやすくするため、同じサンプル作業にかかるコストを算出しました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I compared 18 major LLM API prices in 2026 — the same workload can cost anywhere from $0.018 to $&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vc0hot/i_compared_18_major_llm_api_prices_in_2026_the/</guid>
+      <pubDate>Fri, 31 Jul 2026 19:19:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIの助けを借りて、同じ暗号学の問題について2つの証明が導き出された</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vbz2ml/ai_helped_produce_two_proofs_for_the_same/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIの助けを借りて、同じ暗号学の問題について2つの証明が導き出された&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/scientificamerican   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI helped produce two proofs for the same cryptography problem&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vbz2ml/ai_helped_produce_two_proofs_for_the_same/</guid>
+      <pubDate>Fri, 31 Jul 2026 18:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 「AIデザインのごちゃごちゃ」を、Cursor/Claudeに読み込ませるだけのルールファイルに変換しました。これで、作成したUIやUXが「生成されたもの」のような見た目にならなくなります。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vber96/i_turned_ai_design_slop_into_a_rules_file_you/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「AIデザインのごちゃごちゃ」を、Cursor/Claudeに読み込ませるだけのルールファイルに変換しました。これで、作成したUIやUXが「生成されたもの」のような見た目にならなくなります。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私が「雰囲気」で指定したものはすべて、同じ結果になってしまいました。紫のグラデーション、3枚のカードが並んだレイアウト、すべてが「rounded-2xl」のフォント、そして私が頼んでもいないイタリック体のセリフ体のメイン画像。このモデルは、指定しなかった部分をすべて自動的に埋めてしまうのです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I turned &quot;AI design slop&quot; into a rules file you drop into Cursor/Claude so your builds UIUX stop looking generated&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vber96/i_turned_ai_design_slop_into_a_rules_file_you/</guid>
+      <pubDate>Fri, 31 Jul 2026 03:06:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
