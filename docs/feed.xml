@@ -3,24 +3,16 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-08-01</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-08-02</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 19:17:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 19:18:44 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (46pt) 探索的モデリング：K個の推測のうち最良のものに基づいて学習を行う</title>
-      <link>https://news.ycombinator.com/item?id=49135245</link>
-      <description>&lt;p&gt;&lt;strong&gt;探索的モデリング：K個の推測のうち最良のものに基づいて学習を行う&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Explorative modeling: Train on the best of K guesses&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49135245</guid>
-      <pubDate>Sat, 01 Aug 2026 15:23:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (28pt) Kaisel – ルートとしての値。Flutter向けDart 3ネイティブルーター</title>
-      <link>https://news.ycombinator.com/item?id=49135985</link>
-      <description>&lt;p&gt;&lt;strong&gt;Kaisel – ルートとしての値。Flutter向けDart 3ネイティブルーター&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Kaisel – Routes as Values. Dart 3 Native Router for Flutter&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49135985</guid>
-      <pubDate>Sat, 01 Aug 2026 16:45:40 GMT</pubDate>
+      <title>[Hacker News] (48pt) 開発者はツールに愛着を抱く。なぜなら、ツールには信頼が込められているからだ。</title>
+      <link>https://news.ycombinator.com/item?id=49097961</link>
+      <description>&lt;p&gt;&lt;strong&gt;開発者はツールに愛着を抱く。なぜなら、ツールには信頼が込められているからだ。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Developers are attached to tools because tools encode trust&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49097961</guid>
+      <pubDate>Wed, 29 Jul 2026 14:25:54 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した</title>
@@ -35,15 +27,15 @@
       <title>[VentureBeat AI] Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、ある問題点があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、ひとつ問題があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6,900万ドルの資金調達に成功</title>
+      <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6,900万ドルを調達</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
-      <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6,900万ドルの資金調達に成功&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6,900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;アルフレッド・ワールフォスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は、&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
@@ -53,7 +45,7 @@
       <title>[VentureBeat AI] Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」を全面的に刷新したバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、経営陣が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」を全面的に刷新したバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、同社幹部が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -77,6 +69,51 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>[r/artificial] EUのAI法では、AIが生成したコンテンツ（特に「幻覚」と呼ばれるもの）の開示を怠った場合、違法とみなされ、多額の罰金が科されることとなる。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vdlbbx/the_eu_ai_act_makes_failure_to_disclose/</link>
+      <description>&lt;p&gt;&lt;strong&gt;EUのAI法では、AIが生成したコンテンツ（特に「幻覚」と呼ばれるもの）の開示を怠った場合、違法とみなされ、多額の罰金が科されることとなる。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本日8月2日、EU AI法の第50条が施行されます。EU域内の誰もが閲覧するAI生成コンテンツを作成する者に適用される条項は以下の通りです。「AIシステムを展開する者は、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The EU AI Act makes failure to disclose AI-generated content (especially if it's hallucinated) illegal and costly.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vdlbbx/the_eu_ai_act_makes_failure_to_disclose/</guid>
+      <pubDate>Sun, 02 Aug 2026 15:41:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIが生成するソフトウェアには、モデルの信頼度とは別の完了シグナルが必要である</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vdoetg/aigenerated_software_needs_a_completion_signal/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが生成するソフトウェアには、モデルの信頼度とは別の完了シグナルが必要である&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は、ソフトウェア構築エージェント向けの実行・検証レイヤーである**Flows**を開発しています。その基本原則は、エージェントが「完了したと思う」という状態を、「検証済み完了」とみなしてはならない、というものです。ただし、p&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI-generated software needs a completion signal separate from model confidence&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vdoetg/aigenerated_software_needs_a_completion_signal/</guid>
+      <pubDate>Sun, 02 Aug 2026 17:44:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 研究を支援するAIと、単に聞きたいことを伝えてくれるだけのAIとの境界線はどこにあるのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vdksws/wheres_the_line_between_ai_helping_with_research/</link>
+      <description>&lt;p&gt;&lt;strong&gt;研究を支援するAIと、単に聞きたいことを伝えてくれるだけのAIとの境界線はどこにあるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LLMを使って顧客からのフィードバックの処理を支援しています。Redditのコメントやレビューを大量に投入して、パターンや反論、よく使われる表現を見つけ出してもらうようにしています。かなりうまく機能しているので、ちょっと怪しいなと思ってしまいますが……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Where's the line between AI helping with research vs AI just telling you what you want to hear?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vdksws/wheres_the_line_between_ai_helping_with_research/</guid>
+      <pubDate>Sun, 02 Aug 2026 15:20:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AI動画におけるキャラクターの一貫性――実際にこれを解決した人はいるのだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vdkdlz/character_consistency_in_ai_video_has_anyone/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI動画におけるキャラクターの一貫性――実際にこれを解決した人はいるのだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;あるプロジェクトを注目しているのだが、そこでは、複数のシーンにわたって同じキャラクターの外見や声のトーンを統一するという問題を解決したと謳っている。単なる1つのクリップだけでなく、22分間のエピソード全体にわたってだ。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Character consistency in AI video — has anyone actually cracked it?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vdkdlz/character_consistency_in_ai_video_has_anyone/</guid>
+      <pubDate>Sun, 02 Aug 2026 15:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIと思考</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vdjajo/ai_and_thinking/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIと思考&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;このアカウントは、私が建設会社と並行して運営している、AIを活用した自動化に関する小さなサイドプロジェクトに関連しています。私はスコットランドで小規模なリフォーム会社を経営しています。もっとも、事務作業のサポートは受けており、それがうまく機能しているときは……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI and thinking&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vdjajo/ai_and_thinking/</guid>
+      <pubDate>Sun, 02 Aug 2026 14:19:10 GMT</pubDate>
+    </item>
+    <item>
       <title>[r/artificial] AIがユーザー数の伸びを鈍化させ、Redditの株価が23％急落</title>
       <link>https://www.reddit.com/r/artificial/comments/1vcccnn/reddit_stock_collapses_23_as_ai_eats_away_at_user/</link>
       <description>&lt;p&gt;&lt;strong&gt;AIがユーザー数の伸びを鈍化させ、Redditの株価が23％急落&lt;/strong&gt;&lt;/p&gt;
@@ -86,6 +123,15 @@
       <pubDate>Sat, 01 Aug 2026 03:42:08 GMT</pubDate>
     </item>
     <item>
+      <title>[r/artificial] AIが生成した文章がすでにクライアントに受け入れられるレベルになっている今、コピーライティングを学ぶことにまだ価値はあるのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vdf1qe/is_learning_copywriting_still_worth_it_when_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが生成した文章がすでにクライアントに受け入れられるレベルになっている今、コピーライティングを学ぶことにまだ価値はあるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ちょっとしたサイドプロジェクトのコピー作成に、いくつかのAIツールを試しているのですが、どうしても頭から離れない疑問が浮かびました。今のところ、出力結果は確かにまずまずです。素晴らしいというわけではありませんが、クライアントが&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: is learning copywriting still worth it when AI output is already client-passable?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vdf1qe/is_learning_copywriting_still_worth_it_when_ai/</guid>
+      <pubDate>Sun, 02 Aug 2026 10:55:27 GMT</pubDate>
+    </item>
+    <item>
       <title>[r/artificial] 裁判官、イーロン・マスク氏のxAIによるミネソタ州のヌディフィケーション禁止措置の一時停止要請を却下</title>
       <link>https://www.reddit.com/r/artificial/comments/1vcglab/judge_denies_request_by_elon_musks_xai_to_pause/</link>
       <description>&lt;p&gt;&lt;strong&gt;裁判官、イーロン・マスク氏のxAIによるミネソタ州のヌディフィケーション禁止措置の一時停止要請を却下&lt;/strong&gt;&lt;/p&gt;
@@ -93,51 +139,6 @@
 &lt;p&gt;&lt;small&gt;原題: Judge denies request by Elon Musk's xAI to pause Minnesota nudification ban&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vcglab/judge_denies_request_by_elon_musks_xai_to_pause/</guid>
       <pubDate>Sat, 01 Aug 2026 07:23:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 「怠惰なAI」への憎悪というトロイの木馬と、善意の上に築かれた全体主義への道。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vcu6v4/the_trojan_horse_of_lazy_ai_hate_takes_the_road/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「怠惰なAI」への憎悪というトロイの木馬と、善意の上に築かれた全体主義への道。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;誰もがAIを嫌っている。そして、その嫌悪感は、規制の乗っ取りや検閲、そして私たちが望まない全体主義的なディストピアへとつながる可能性が高い。なぜ人々がAIを嫌うのかは理解できるし、私たちが闘うべき問題もある。例えば……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The trojan horse of Lazy AI hate takes &amp; the road to totalitarianism built on good intentions.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vcu6v4/the_trojan_horse_of_lazy_ai_hate_takes_the_road/</guid>
-      <pubDate>Sat, 01 Aug 2026 18:04:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIドキュメント作成ツールと、実際にその技術を学ぶこと――今の時点で、どちらの方が時間を節約できるでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vctc2f/ai_documentation_tools_vs_actually_learning_the/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIドキュメント作成ツールと、実際にその技術を学ぶこと――今の時点で、どちらの方が時間を節約できるでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ここしばらく、昼間はパーソナルトレーナーとして働き、夜はコードやAIツールをいじっています。副業として開発者向けのチュートリアルも書いています。そして、AIツールを使うと作業が速くなるか、逆に…という二律背反にいつも直面しています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI documentation tools vs actually learning the thing, which is saving you more time right now?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vctc2f/ai_documentation_tools_vs_actually_learning_the/</guid>
-      <pubDate>Sat, 01 Aug 2026 17:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 私のデジタルAIエージェント</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vcvysj/digital_ai_agent_of_mine/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私のデジタルAIエージェント&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;皆さん、こんにちは。最近、自分のAIデジタルツインを作りました。これは、ある意味私のアシスタントとしても機能します。例えば、それとチャットをして、答えられない質問を投げかけると、即座に&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Digital AI Agent of Mine&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vcvysj/digital_ai_agent_of_mine/</guid>
-      <pubDate>Sat, 01 Aug 2026 19:14:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ある人が、GPT-5.6に34日間、実際の会社を運営させた。その結果、GPT-5.6は嘘をつき、スパムを送りまくり、447ドルの損失を出した。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vbw5f4/someone_let_gpt56_run_a_real_company_for_34_days/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ある人が、GPT-5.6に34日間、実際の会社を運営させた。その結果、GPT-5.6は嘘をつき、スパムを送りまくり、447ドルの損失を出した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Bottleneck Labsは、実際のビジネスをGPT-5.6 Solに任せ、34日間自律的に運営させた。その結果、GPT-5.6 Solは虚偽の主張を作り上げ、無差別メールを大量に送信し、447ドルの赤字を出した。（現在、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Someone let GPT-5.6 run a real company for 34 days. It lied, spammed, and lost $447.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vbw5f4/someone_let_gpt56_run_a_real_company_for_34_days/</guid>
-      <pubDate>Fri, 31 Jul 2026 16:40:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ターン制のボイスチャットができるアプリやウェブサイトはありますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vcdwj0/any_apps_or_websites_that_allow_for_turn_based/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ターン制のボイスチャットができるアプリやウェブサイトはありますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ターン制のボイスチャットができるアプリやウェブサイトはありますか？ChatGPTの以前の標準的なボイスモードが本当に恋しいです。あれは基本的に、テキストモデルの応答を音声で読み上げてくれるだけでした。だから、長いやり取りも可能だったんです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Any apps or websites that allow for turn based voice chat?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vcdwj0/any_apps_or_websites_that_allow_for_turn_based/</guid>
-      <pubDate>Sat, 01 Aug 2026 04:59:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
