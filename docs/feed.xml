@@ -3,24 +3,32 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-08-03</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-08-04</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 03 Aug 2026 19:45:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 19:44:07 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (356pt) 開発者ツールはオープンソースでなければならない</title>
-      <link>https://news.ycombinator.com/item?id=49156111</link>
-      <description>&lt;p&gt;&lt;strong&gt;開発者ツールはオープンソースでなければならない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Devtools must be open source&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49156111</guid>
-      <pubDate>Mon, 03 Aug 2026 14:15:47 GMT</pubDate>
+      <title>[Hacker News] (61pt) MistralのShieldstral：マルチモーダルモデレーション向けの3Bオープンウェイトモデル</title>
+      <link>https://news.ycombinator.com/item?id=49171268</link>
+      <description>&lt;p&gt;&lt;strong&gt;MistralのShieldstral：マルチモーダルモデレーション向けの3Bオープンウェイトモデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Mistral's Shieldstral: 3B open-weights model for multimodal moderation&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49171268</guid>
+      <pubDate>Tue, 04 Aug 2026 16:36:05 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (26pt) HN公開：Hoplite（YC S26） – クラウドコーディングエージェントを手間なく展開</title>
-      <link>https://news.ycombinator.com/item?id=49157997</link>
-      <description>&lt;p&gt;&lt;strong&gt;HN公開：Hoplite（YC S26） – クラウドコーディングエージェントを手間なく展開&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49157997</guid>
-      <pubDate>Mon, 03 Aug 2026 16:32:06 GMT</pubDate>
+      <title>[Hacker News] (54pt) Warp Agent CLI</title>
+      <link>https://news.ycombinator.com/item?id=49171766</link>
+      <description>&lt;p&gt;&lt;strong&gt;Warp Agent CLI&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Warp Agent CLI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49171766</guid>
+      <pubDate>Tue, 04 Aug 2026 17:08:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (11pt) HN掲載：EdotEnv（YC S26） – LLMに研究内容を教えるためのクオンツ・トレーディングRL環境</title>
+      <link>https://news.ycombinator.com/item?id=49172936</link>
+      <description>&lt;p&gt;&lt;strong&gt;HN掲載：EdotEnv（YC S26） – LLMに研究内容を教えるためのクオンツ・トレーディングRL環境&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49172936</guid>
+      <pubDate>Tue, 04 Aug 2026 18:36:02 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
@@ -41,10 +49,10 @@
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6,900万ドルの資金調達に成功</title>
+      <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6,900万ドルを調達</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
-      <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6,900万ドルの資金調達に成功&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アルフレッド・ワールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は、&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6,900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;アルフレッド・ワールフォスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は、&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
       <pubDate>Fri, 16 Jan 2026 14:01:00 GMT</pubDate>
@@ -53,7 +61,7 @@
       <title>[VentureBeat AI] Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」の全面的に刷新されたバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、経営陣が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」を全面的に刷新したバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、同社幹部が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -62,7 +70,7 @@
       <title>[VentureBeat AI] Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
       <description>&lt;p&gt;&lt;strong&gt;Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡張する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
+&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡大する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</guid>
       <pubDate>Mon, 12 Jan 2026 11:30:00 GMT</pubDate>
@@ -77,76 +85,76 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIによる自動化のせいで、インディーゲーム制作の中で私が本当に楽しんでいた部分が削られていっている気がするんだけど、同じように感じている人はいないかな？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vejnhb/ai_automation_is_eating_the_parts_of_indie/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIによる自動化のせいで、インディーゲーム制作の中で私が本当に楽しんでいた部分が削られていっている気がするんだけど、同じように感じている人はいないかな？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;かつて、小規模なSaaSツールを構築することは、まるで職人仕事のような感覚でした。問題に向き合い、データモデルを考え抜き、ロジックを自分で書き上げる――そのプロセスを通じて、何かを学ぶことができたのです。今では、その成果についてこう説明できます&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI automation is eating the parts of indie building I actually enjoyed, anyone else feeling this?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vejnhb/ai_automation_is_eating_the_parts_of_indie/</guid>
-      <pubDate>Mon, 03 Aug 2026 17:15:25 GMT</pubDate>
+      <title>[r/artificial] AppleはOpenAIをハードウェアの機密情報を盗んだとして提訴したが、OpenAIは今回、その元エンジニアが退職した後もApple側が引き続き彼を起用し続けていたことを示唆するメッセージを公開した。大騒動だ！！</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vf3ow5/apple_sued_openai_for_stealing_hardware_secrets/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AppleはOpenAIをハードウェアの機密情報を盗んだとして提訴したが、OpenAIは今回、その元エンジニアが退職した後もApple側が引き続き彼を起用し続けていたことを示唆するメッセージを公開した。大騒動だ！！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これらのメッセージによると、チャン・リウ氏が退社してから数週間後にも、アップルの従業員たちが同氏に対し、社内ファイルの所在を尋ねたり、製品の決定事項について説明を求めたり、技術的な質問への回答を依頼したりしていたことがうかがえる。あるアップルの従業員は次のように記している：&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Apple sued OpenAI for stealing hardware secrets, OpenAI has now published messages suggesting Apple itself kept using a former engineer after he left. Dramaaa!!&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vf3ow5/apple_sued_openai_for_stealing_hardware_secrets/</guid>
+      <pubDate>Tue, 04 Aug 2026 07:46:31 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIエージェントの「嘘」について論じた『MIT Tech Review』の記事は、実はグッドハートの法則に関するものだ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vehr50/mit_tech_review_on_ai_agents_lying_is_really/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIエージェントの「嘘」について論じた『MIT Tech Review』の記事は、実はグッドハートの法則に関するものだ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;MIT Technology Reviewは本日、AIエージェントの「問題行動」について、実は良い面もあるという記事を掲載した。見出しではエージェントが「嘘をつき、不正行為を行う」と表現されているが、記事で述べられているのは報酬&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: MIT Tech Review on AI agents &quot;lying&quot; is really about Goodhart's law&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vehr50/mit_tech_review_on_ai_agents_lying_is_really/</guid>
-      <pubDate>Mon, 03 Aug 2026 16:07:55 GMT</pubDate>
+      <title>[r/artificial] Redditの株価が下落する中、CEOがGoogleのAI「Overviews」の価値に疑問を呈する</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vf7dob/as_reddit_stock_falls_ceo_questions_value_of/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Redditの株価が下落する中、CEOがGoogleのAI「Overviews」の価値に疑問を呈する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/NISMO1968   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: As Reddit stock falls, CEO questions value of Google's AI Overviews&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vf7dob/as_reddit_stock_falls_ceo_questions_value_of/</guid>
+      <pubDate>Tue, 04 Aug 2026 11:13:54 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Spotify AI（Kit）はCoworkと競合しようとしているのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ved35h/spotify_ai_kit_wants_to_compete_with_cowork/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Spotify AI（Kit）はCoworkと競合しようとしているのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Spotifyは絶対に嫌だ。今や「Kit付きSpotify」🤡が、私のカレンダーや受信トレイへのアクセスを求めてくる。Spotifyはバンドやミュージシャンに出資したらどうだろう？ 大手企業は、あれもこれも欲しがるのをやめて、本来やるべきことに専念すべきだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Spotify AI (Kit) wants to compete with Cowork?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ved35h/spotify_ai_kit_wants_to_compete_with_cowork/</guid>
-      <pubDate>Mon, 03 Aug 2026 13:13:39 GMT</pubDate>
+      <title>[r/artificial] 米国企業のAI技術により、ウクライナの低コストな特攻ドローンが自律的に標的を追跡できるようになる | 1億ドルの契約により、5万機のウクライナ製ドローンに米国開発のAI機能が搭載される。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vf144v/us_companys_ai_lets_ukraines_cheap_kamikaze/</link>
+      <description>&lt;p&gt;&lt;strong&gt;米国企業のAI技術により、ウクライナの低コストな特攻ドローンが自律的に標的を追跡できるようになる | 1億ドルの契約により、5万機のウクライナ製ドローンに米国開発のAI機能が搭載される。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ControlCAD   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: U.S company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own | $100 million deal gives 50,000 Ukrainian drones U.S-developed AI capabilities.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vf144v/us_companys_ai_lets_ukraines_cheap_kamikaze/</guid>
+      <pubDate>Tue, 04 Aug 2026 05:22:10 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] リハビリテーション用のAIツールを開発しているのですが、ここでいつも直面する問題があります。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1velnc1/im_building_an_ai_tool_for_rehabilitation_heres/</link>
-      <description>&lt;p&gt;&lt;strong&gt;リハビリテーション用のAIツールを開発しているのですが、ここでいつも直面する問題があります。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人々は単にエクササイズのリストが欲しいだけではありません。彼らは次のようなことを知りたいのです。「進歩が早すぎるのではないか？」「この程度の痛みは普通のことなのか？」「今週は同じメニューを繰り返すべきか、それとも次の段階に進むべきか？」と。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I'm building an AI tool for rehabilitation. Here's one problem I keep running into.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1velnc1/im_building_an_ai_tool_for_rehabilitation_heres/</guid>
-      <pubDate>Mon, 03 Aug 2026 18:27:09 GMT</pubDate>
+      <title>[r/artificial] 共同創業者たちと私は、一風変わったコーディングエージェントを立ち上げることにしました。その特徴は「利用無制限」です。私たちって、一体どれだけバカなんでしょう？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vfkhjj/my_cofounders_and_i_are_launching_a_coding_agent/</link>
+      <description>&lt;p&gt;&lt;strong&gt;共同創業者たちと私は、一風変わったコーディングエージェントを立ち上げることにしました。その特徴は「利用無制限」です。私たちって、一体どれだけバカなんでしょう？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;人々は本当に、本当に「使い放題」を好みます。安心感があるし、利用制限なんて最悪ですから。もし誰かが定額料金で「使い放題」のエージェントを提供できれば、そのアイデアは注目を集めるでしょう。そこで私たちは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: My co-founders and I are launching a coding agent with a twist: Unlimited usage. How stupid are we?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vfkhjj/my_cofounders_and_i_are_launching_a_coding_agent/</guid>
+      <pubDate>Tue, 04 Aug 2026 19:33:16 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 理想的なAI作業インターフェースはどのようなものか</title>
-      <link>https://www.reddit.com/r/artificial/comments/1velk4m/what_your_ideal_ai_work_interface_would_look_like/</link>
-      <description>&lt;p&gt;&lt;strong&gt;理想的なAI作業インターフェースはどのようなものか&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Cursor、Claude Code、Codex、Copilot、AntigravityなどのAIツールを実際の業務で活用している皆さん……プロジェクトがより大規模で複雑になるにつれて、皆さんのワークフローはどのように変化してきたのか、とても気になります。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What your ideal AI work interface would look like&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1velk4m/what_your_ideal_ai_work_interface_would_look_like/</guid>
-      <pubDate>Mon, 03 Aug 2026 18:23:56 GMT</pubDate>
+      <title>[r/artificial] Fable、GPT-5.6、その他の最先端モデルはクソだ。その理由はこうだ。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vfhsua/fable_gpt56_and_other_frontier_models_are/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Fable、GPT-5.6、その他の最先端モデルはクソだ。その理由はこうだ。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;フロンティアモデルの連中が、実はとんでもないクソ野郎になり得ることに、人々は気づき始めている。彼らは：　自分の方がよく分かっていると思い込んで、指示に従わない　基本的な作業を拒否する　想像もつかないようなことを平気でやってのける&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Fable, GPT-5.6 and other frontier models are assholes. Here's why.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vfhsua/fable_gpt56_and_other_frontier_models_are/</guid>
+      <pubDate>Tue, 04 Aug 2026 17:57:04 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 「オープン」は常に勝つ：中国がオープンソースの手法を活用し、AIの次なる章をリードする</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vejxnd/open_always_wins_how_china_is_using_the_open/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「オープン」は常に勝つ：中国がオープンソースの手法を活用し、AIの次なる章をリードする&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;米国は、「オープンこそがクローズドに勝る」という一つの原則に基づいて、テクノロジー分野での優位性を築き上げてきた。今、中国はその戦略を参考に、AIの未来を形作ろうとしている。考えてみてほしい。 トップを走る米国との性能格差は&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Open always wins: How China is using the open source playbook to dominate AI's next chapter&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vejxnd/open_always_wins_how_china_is_using_the_open/</guid>
-      <pubDate>Mon, 03 Aug 2026 17:25:36 GMT</pubDate>
+      <title>[r/artificial] 現在、医療現場ではAIアシスタントが至る所で見られるようになり、私はそれについて正直なところ複雑な気持ちを抱いています</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vfe8sn/ai_scribes_are_everywhere_in_healthcare_now_and_i/</link>
+      <description>&lt;p&gt;&lt;strong&gt;現在、医療現場ではAIアシスタントが至る所で見られるようになり、私はそれについて正直なところ複雑な気持ちを抱いています&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は以前、ヘルステック分野で、患者とのやり取りを聞き取り、診療記録を自動生成する「アンビエントAI」のドキュメンテーションに関する製品展開に携わっていました。医師たちからは大好評です。当社のパイロットプログラムに参加している医師たちは……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI scribes are everywhere in healthcare now and I have genuinely mixed feelings about them&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vfe8sn/ai_scribes_are_everywhere_in_healthcare_now_and_i/</guid>
+      <pubDate>Tue, 04 Aug 2026 15:51:45 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] LangChain4j を使って、Java（Python ではなく）で初めての AI エージェントを作成しました。所要時間は約 30 分でした。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vea5uf/built_my_first_ai_agent_in_java_no_python_using/</link>
-      <description>&lt;p&gt;&lt;strong&gt;LangChain4j を使って、Java（Python ではなく）で初めての AI エージェントを作成しました。所要時間は約 30 分でした。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;見つけたAIのチュートリアルはどれも、Python、Python、そしてまたPythonばかりでした。私は長年Java/Spring Bootを使ってきたので、AI関連のものを何か作るためだけに、本当に言語を切り替えなければならないのかとずっと疑問に思っていました。ところが、実は……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Built my first AI agent in Java (no Python) using LangChain4j — took about 30 minutes&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vea5uf/built_my_first_ai_agent_in_java_no_python_using/</guid>
-      <pubDate>Mon, 03 Aug 2026 10:57:05 GMT</pubDate>
+      <title>[r/artificial] 音声AIについて最も奇妙なのは、人々がそれをどう扱っているかという点だ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vf6prl/the_weirdest_part_about_voice_ai_is_how_people/</link>
+      <description>&lt;p&gt;&lt;strong&gt;音声AIについて最も奇妙なのは、人々がそれをどう扱っているかという点だ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近、仕事で音声エージェントをいじっているんだけど、うちの電話システムはCloudTalkを使ってるから、試しにそのAI機能を有効にしてみたんだ。まあ、ただ不在着信を処理するだけなんだけど、どうしても理解できないのが……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The weirdest part about voice ai is how people treat it&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vf6prl/the_weirdest_part_about_voice_ai_is_how_people/</guid>
+      <pubDate>Tue, 04 Aug 2026 10:40:01 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] EUのAI法では、AIが生成したコンテンツ（特に「幻覚」と呼ばれるもの）の開示を怠った場合、違法とみなされ、多額の罰金が科されることとなる。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vdlbbx/the_eu_ai_act_makes_failure_to_disclose/</link>
-      <description>&lt;p&gt;&lt;strong&gt;EUのAI法では、AIが生成したコンテンツ（特に「幻覚」と呼ばれるもの）の開示を怠った場合、違法とみなされ、多額の罰金が科されることとなる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;本日8月2日、EU AI法の第50条が施行されます。EU域内の誰もが閲覧するAI生成コンテンツを作成する者に適用される条項は以下の通りです。「AIシステムを展開する者は、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The EU AI Act makes failure to disclose AI-generated content (especially if it's hallucinated) illegal and costly.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vdlbbx/the_eu_ai_act_makes_failure_to_disclose/</guid>
-      <pubDate>Sun, 02 Aug 2026 15:41:26 GMT</pubDate>
+      <title>[r/artificial] AIライティングツールの普及により、クライアントは「良い文章」とは実際にどのようなものかを見極める能力を失いつつあり、それこそがより奇妙な問題なのです</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vfea50/ai_writing_tools_are_making_clients_less_able_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIライティングツールの普及により、クライアントは「良い文章」とは実際にどのようなものかを見極める能力を失いつつあり、それこそがより奇妙な問題なのです&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIライティングツールをめぐるコストに関する議論は、今やかなり定番のものとなっています。私が繰り返し考えを巡らせているのは、それとは少し異なる点です。クライアントが、AIを活用した文章や完全にAIで生成された文章を大量に依頼する場合、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI writing tools are making clients less able to tell what good writing actually is and that's the weirder problem&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vfea50/ai_writing_tools_are_making_clients_less_able_to/</guid>
+      <pubDate>Tue, 04 Aug 2026 15:53:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
