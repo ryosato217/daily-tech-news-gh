@@ -3,37 +3,53 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-08-07</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-08-08</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 07 Aug 2026 19:04:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 18:46:24 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (847pt) AMDは、モデルをシリコンにエッチングすることで推論性能を向上させるため、Taalasを買収した</title>
-      <link>https://news.ycombinator.com/item?id=49201970</link>
-      <description>&lt;p&gt;&lt;strong&gt;AMDは、モデルをシリコンにエッチングすることで推論性能を向上させるため、Taalasを買収した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AMD acquires Taalas to boost inference performance by etching models in silicon&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49201970</guid>
-      <pubDate>Thu, 06 Aug 2026 20:23:11 GMT</pubDate>
+      <title>[Hacker News] (298pt) DeepMindの「WeatherNext」モデルが、サイクロンの予測において画期的な成果を達成した</title>
+      <link>https://news.ycombinator.com/item?id=49220126</link>
+      <description>&lt;p&gt;&lt;strong&gt;DeepMindの「WeatherNext」モデルが、サイクロンの予測において画期的な成果を達成した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: DeepMind's WeatherNext model achieves breakthrough forecasting cyclones&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49220126</guid>
+      <pubDate>Sat, 08 Aug 2026 09:18:50 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (287pt) 150万ページある私のウェブサイトで、スクレイパーと1年間戦ってきた</title>
-      <link>https://news.ycombinator.com/item?id=49211386</link>
-      <description>&lt;p&gt;&lt;strong&gt;150万ページある私のウェブサイトで、スクレイパーと1年間戦ってきた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A year of fighting scrapers on my 1.5 million-page website&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49211386</guid>
-      <pubDate>Fri, 07 Aug 2026 14:51:57 GMT</pubDate>
+      <title>[Hacker News] (228pt) DNS上で、ドメインが「販売中」であることを表示できるようになりました</title>
+      <link>https://news.ycombinator.com/item?id=49221668</link>
+      <description>&lt;p&gt;&lt;strong&gt;DNS上で、ドメインが「販売中」であることを表示できるようになりました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A domain can now say it is for sale, in DNS&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49221668</guid>
+      <pubDate>Sat, 08 Aug 2026 13:26:51 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (170pt) オラクル、OpenJDKからAI生成コードの使用を禁止</title>
-      <link>https://news.ycombinator.com/item?id=49213754</link>
-      <description>&lt;p&gt;&lt;strong&gt;オラクル、OpenJDKからAI生成コードの使用を禁止&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Oracle bans AI-generated code from OpenJDK&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49213754</guid>
-      <pubDate>Fri, 07 Aug 2026 17:36:30 GMT</pubDate>
+      <title>[Hacker News] (211pt) OpenAIによるHugging Faceへの誤攻撃の経緯</title>
+      <link>https://news.ycombinator.com/item?id=49220609</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIによるHugging Faceへの誤攻撃の経緯&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Timeline of the OpenAI accidental attack against Hugging Face&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49220609</guid>
+      <pubDate>Sat, 08 Aug 2026 10:57:44 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した</title>
+      <title>[Hacker News] (115pt) FastmailはEUデータリージョンを提供しています</title>
+      <link>https://news.ycombinator.com/item?id=49223082</link>
+      <description>&lt;p&gt;&lt;strong&gt;FastmailはEUデータリージョンを提供しています&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Fastmail offers EU data region&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49223082</guid>
+      <pubDate>Sat, 08 Aug 2026 16:04:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (51pt) デンマーク、AIによるカンニング対策として、学生の筆記課題に対する口頭発表を義務化</title>
+      <link>https://news.ycombinator.com/item?id=49224294</link>
+      <description>&lt;p&gt;&lt;strong&gt;デンマーク、AIによるカンニング対策として、学生の筆記課題に対する口頭発表を義務化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49224294</guid>
+      <pubDate>Sat, 08 Aug 2026 18:09:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
-      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずにひっそりと200万人の開発者を集めてきたが、木曜日にシリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Railway secures $100 million to challenge AWS with AI-native cloud infrastructure&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</guid>
@@ -43,7 +59,7 @@
       <title>[VentureBeat AI] Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、ひとつ問題があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、ひとつ問題があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が設けられており、&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -61,7 +77,7 @@
       <title>[VentureBeat AI] Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」を全面的に刷新したバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、同社幹部が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」の全面的に刷新されたバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、経営陣が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -70,7 +86,7 @@
       <title>[VentureBeat AI] Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
       <description>&lt;p&gt;&lt;strong&gt;Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡張する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
+&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡大する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</guid>
       <pubDate>Mon, 12 Jan 2026 11:30:00 GMT</pubDate>
@@ -85,85 +101,85 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 私のAIアシスタントが、私の銀行取引明細を見知らぬ人に転送しそうになったのですが、この手口の攻撃が存在すること自体、ほとんど誰も知りません。</title>
+      <title>[r/artificial] 今週のランキング上位を中国のLLMが独占</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vizcs8/chinese_llms_dominate_this_weeks_top_charts/</link>
+      <description>&lt;p&gt;&lt;strong&gt;今週のランキング上位を中国のLLMが独占&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;出典：https://openrouter.ai/rankings  &amp;#32; 投稿者：&amp;#32;  /u/Asleep-Television-24   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Chinese LLMs dominate this week's top charts&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vizcs8/chinese_llms_dominate_this_weeks_top_charts/</guid>
+      <pubDate>Sat, 08 Aug 2026 15:48:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 最高のAI画像生成ツールはどれですか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vj10i1/what_is_the_best_ai_image_generator/</link>
+      <description>&lt;p&gt;&lt;strong&gt;最高のAI画像生成ツールはどれですか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;新しいものを探しているんですが、前回の投稿が削除されてしまいました。Midjourneyも悪くはないんですが、顔や建物が近くにあると、ちょっと変な仕上がりになってしまうんです。プロンプトの調整にはかなり手間をかけてきたんですが。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What is the best AI image generator?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vj10i1/what_is_the_best_ai_image_generator/</guid>
+      <pubDate>Sat, 08 Aug 2026 16:55:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] つまり、AIが実際に機能するウイルスを設計したわけだ……</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vizn4x/so_ai_has_now_designed_actual_viruses_that_work/</link>
+      <description>&lt;p&gt;&lt;strong&gt;つまり、AIが実際に機能するウイルスを設計したわけだ……&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ちょうどこれを見つけたんだけど、正直言ってかなり衝撃的だ。研究者たちはAIを使って、自然界には存在しないまったく新しいウイルスを設計した。そして実際にそのうちのいくつかを実験室で作り出し、そのうち16個が……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: So AI has now designed actual viruses that work...&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vizn4x/so_ai_has_now_designed_actual_viruses_that_work/</guid>
+      <pubDate>Sat, 08 Aug 2026 16:00:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] KPMGの調査によると、コストが価値を上回った場合、49％の企業がAIエージェントの導入を中止していることが判明した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vj16y1/kpmg_finds_49_cut_ai_agent_rollouts_when_costs/</link>
+      <description>&lt;p&gt;&lt;strong&gt;KPMGの調査によると、コストが価値を上回った場合、49％の企業がAIエージェントの導入を中止していることが判明した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/danie-l   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: KPMG finds 49% cut AI agent rollouts when costs outran value&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vj16y1/kpmg_finds_49_cut_ai_agent_rollouts_when_costs/</guid>
+      <pubDate>Sat, 08 Aug 2026 17:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] バイトダンス、アンソロピックに対抗すべく大規模なAIモデルを学習中</title>
+      <link>https://www.reddit.com/r/artificial/comments/1virisx/bytedance_trains_massive_ai_model_in_bid_to_rival/</link>
+      <description>&lt;p&gt;&lt;strong&gt;バイトダンス、アンソロピックに対抗すべく大規模なAIモデルを学習中&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/NISMO1968   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: ByteDance trains massive AI model in bid to rival Anthropic&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1virisx/bytedance_trains_massive_ai_model_in_bid_to_rival/</guid>
+      <pubDate>Sat, 08 Aug 2026 09:28:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] PwCが4,454人のCEOを対象に実施した調査によると、AIから成果を上げている企業は、まずデータとガバナンスの整備を済ませていました。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vitkw8/companies_seeing_ai_returns_had_their_data_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;PwCが4,454人のCEOを対象に実施した調査によると、AIから成果を上げている企業は、まずデータとガバナンスの整備を済ませていました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/InsideDebt6345   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Companies seeing AI returns had their data and governance sorted first, per PwC's 4,454-CEO survey&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vitkw8/companies_seeing_ai_returns_had_their_data_and/</guid>
+      <pubDate>Sat, 08 Aug 2026 11:29:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 長年仕事を離れていた後、再び就職できるかどうかを見極めるために、AIツールを使っている人は他にいますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vj3cnc/anyone_else_using_ai_tools_to_figure_out_if/</link>
+      <description>&lt;p&gt;&lt;strong&gt;長年仕事を離れていた後、再び就職できるかどうかを見極めるために、AIツールを使っている人は他にいますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;こんなことを認めるのはちょっと気恥ずかしいですが、言ってみます。ここ数年は子供たちと一緒に家で過ごしてきました。それは正しい選択でしたが、今は、ある種の曖昧な過渡期にいて、これからどうするか考え始めているところです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anyone else using AI tools to figure out if they're actually employable again after years out of the workforce?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vj3cnc/anyone_else_using_ai_tools_to_figure_out_if/</guid>
+      <pubDate>Sat, 08 Aug 2026 18:29:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] タスクが完了したら、AIが私の携帯電話に電話をかけて話しかけてくるように設定した。これが便利なのか、それともちょっとおかしいのか、判断がつかない。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vijw90/gave_my_ai_the_ability_to_call_my_phone_and_talk/</link>
+      <description>&lt;p&gt;&lt;strong&gt;タスクが完了したら、AIが私の携帯電話に電話をかけて話しかけてくるように設定した。これが便利なのか、それともちょっとおかしいのか、判断がつかない。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;実行時間がどんどん長くなるタスクが増えてきて、その進捗を見失いがちだったので、処理が完了したときや、行き詰まって何か対応が必要なときに、実際に電話がかかってくるように設定しました。その内容は以下の通りです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gave my AI the ability to call my phone and talk to me when it finishes a task. Can't decide if it's useful or unhinged.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vijw90/gave_my_ai_the_ability_to_call_my_phone_and_talk/</guid>
+      <pubDate>Sat, 08 Aug 2026 02:25:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 私のAIアシスタントが、私の銀行取引明細を見知らぬ人に転送しそうになったのですが、この手口の攻撃が存在すること自体、ほとんど誰も知らないようです。</title>
       <link>https://www.reddit.com/r/artificial/comments/1vi1vxf/my_ai_assistant_almost_forwarded_my_bank/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私のAIアシスタントが、私の銀行取引明細を見知らぬ人に転送しそうになったのですが、この手口の攻撃が存在すること自体、ほとんど誰も知りません。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;正直、これには本当に怖くなりました。この件について、十分に話題になっていないと思います。私は、メールやカレンダーと連携したAIエージェントを使って、雑務の一部を処理してもらっています。数日前、私は&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;私のAIアシスタントが、私の銀行取引明細を見知らぬ人に転送しそうになったのですが、この手口の攻撃が存在すること自体、ほとんど誰も知らないようです。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;正直、これには本当に怖くなりました。この件について、十分に話題にされているとは思えません。私は、メールやカレンダーと連携したAIエージェントを使って、雑務の一部を処理してもらっています。数日前、私は&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: My ai assistant almost forwarded my bank statement to a stranger and barely anyone knows this attack exists.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vi1vxf/my_ai_assistant_almost_forwarded_my_bank/</guid>
       <pubDate>Fri, 07 Aug 2026 14:17:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 新民主党が提出した法案は、AI企業に課税して雇用を創出することを目指している</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vhljad/new_democratic_bill_would_tax_ai_companies_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;新民主党が提出した法案は、AI企業に課税して雇用を創出することを目指している&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Fcking_Chuck   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: New Democratic bill would tax AI companies to create jobs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vhljad/new_democratic_bill_would_tax_ai_companies_to/</guid>
-      <pubDate>Fri, 07 Aug 2026 00:25:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] サム・アルトマンは、AIが驚くほど普及すると考えている。もしそれが本当なら、一体何が価値を持つようになるのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vi7dxg/sam_altman_believes_ai_will_become_incredibly/</link>
-      <description>&lt;p&gt;&lt;strong&gt;サム・アルトマンは、AIが驚くほど普及すると考えている。もしそれが本当なら、一体何が価値を持つようになるのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;サム・アルトマンは、AIが時間の経過とともにますます利用しやすくなっていくことについて、しばしば語ってきた。もしすべての企業が最終的に最先端のモデルを利用できるようになれば、競争上の優位性とは何になるのだろうか？より質の高いデータか？それともより優れた&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Sam Altman believes AI will become incredibly abundant. If that's true, what actually becomes valuable?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vi7dxg/sam_altman_believes_ai_will_become_incredibly/</guid>
-      <pubDate>Fri, 07 Aug 2026 17:42:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 世界中の選挙不正：AIが選挙への信頼をいかに蝕んでいるか（2026年）</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vi50mv/election_fraud_worldwide_how_ai_is_eroding_trust/</link>
-      <description>&lt;p&gt;&lt;strong&gt;世界中の選挙不正：AIが選挙への信頼をいかに蝕んでいるか（2026年）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Sumsub_Insights   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Election Fraud Worldwide: How AI Is Eroding Trust in Elections (2026)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vi50mv/election_fraud_worldwide_how_ai_is_eroding_trust/</guid>
-      <pubDate>Fri, 07 Aug 2026 16:15:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ChatGPTエージェントに行動の許可を与える前に、どのような安全対策を講じていますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vi800c/what_safeguards_do_you_use_before_giving_chatgpt/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ChatGPTエージェントに行動の許可を与える前に、どのような安全対策を講じていますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIの安全性に関する研究者であるロマン・ヤンポルスキー氏のインタビューを見たところ、ChatGPTを高度なワークフローに活用している人々にとって、実用的な疑問が浮かび上がりました。彼の主張の要点は、ますます知能化が進む&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What safeguards do you use before giving ChatGPT agents permission to act?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vi800c/what_safeguards_do_you_use_before_giving_chatgpt/</guid>
-      <pubDate>Fri, 07 Aug 2026 18:04:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 乱雑な実績記録の一括編集――クロードや他のツールは、ファイル全体の入出力に対応できるでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vi1gav/mass_editing_of_messy_achievement_records_can/</link>
-      <description>&lt;p&gt;&lt;strong&gt;乱雑な実績記録の一括編集――クロードや他のツールは、ファイル全体の入出力に対応できるでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;みなさん、こんにちは。大量のテキストを扱うのに適した場所についてお聞きしたいのですが。実は、私は人々のさまざまな功績や業績に関する記録を扱っているんです。これらは特定の……の目録で、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Mass editing of messy achievement records – can Claude or others handle full-file I/O?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vi1gav/mass_editing_of_messy_achievement_records_can/</guid>
-      <pubDate>Fri, 07 Aug 2026 14:00:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 私たちの次の現実：AIを活用したメタバースが世界をどう変えるか</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vi6m8i/our_next_reality_how_the_aipowered_metaverse_will/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私たちの次の現実：AIを活用したメタバースが世界をどう変えるか&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;この本を読んだ人はいますか？　どう思いましたか？　彼の著作の多くは「希望的観測」のようにも思えますが、私はそれが正しい方向性だと信じています。  &amp;#32; 投稿者：&amp;#32;  /u/MeMe_Cluppy   [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Our Next Reality: How the AI-powered Metaverse Will Reshape the World&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vi6m8i/our_next_reality_how_the_aipowered_metaverse_will/</guid>
-      <pubDate>Fri, 07 Aug 2026 17:13:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] コンセプト画像を作成するのに最適なAIツール</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vhud1w/best_ai_tool_for_creating_concept_images/</link>
-      <description>&lt;p&gt;&lt;strong&gt;コンセプト画像を作成するのに最適なAIツール&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;現在ChatGPTを使っているのですが、しばらくすると画像が少しおかしくなってしまいます。例えば、画像の中の顔が歪んだり、画像内のテキストがぼやけたりするのですが、どう直せばいいのかよくわかりません。Geminiは創作に適しているのでしょうか。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Best ai tool for creating concept images&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vhud1w/best_ai_tool_for_creating_concept_images/</guid>
-      <pubDate>Fri, 07 Aug 2026 08:01:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] スコット・ギャロウェイが、なぜあなたの会社にはもはや5人のアナリストは必要なく、AIを理解しているアナリストが1人いれば十分なのかを解説する</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vhxze3/scott_galloway_explains_why_your_firm_doesnt_need/</link>
-      <description>&lt;p&gt;&lt;strong&gt;スコット・ギャロウェイが、なぜあなたの会社にはもはや5人のアナリストは必要なく、AIを理解しているアナリストが1人いれば十分なのかを解説する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;役職名は、その役職に就くほとんどの人よりも長く存続する。これは、ある役割を「AI支援型」と呼ぶ際、社内メモには決して書かれていない事実だ。スコット・ギャロウェイは具体的な数字を提示した。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Scott Galloway Explains Why Your Firm Doesn't Need 5 Analysts Anymore — Just 1 Who Understands AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vhxze3/scott_galloway_explains_why_your_firm_doesnt_need/</guid>
-      <pubDate>Fri, 07 Aug 2026 11:27:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
