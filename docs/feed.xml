@@ -3,24 +3,48 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-08-09</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-08-10</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 18:49:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 19:03:58 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (26pt) OpenChamber：エージェント型開発環境</title>
-      <link>https://news.ycombinator.com/item?id=49233448</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenChamber：エージェント型開発環境&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenChamber: An Agentic Development Environment&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49233448</guid>
-      <pubDate>Sun, 09 Aug 2026 17:27:16 GMT</pubDate>
+      <title>[Hacker News] (819pt) Muse Glimmer：常時稼働型のローカルエージェントワークフロー向けに最適化された30Bパラメータモデル</title>
+      <link>https://news.ycombinator.com/item?id=49241679</link>
+      <description>&lt;p&gt;&lt;strong&gt;Muse Glimmer：常時稼働型のローカルエージェントワークフロー向けに最適化された30Bパラメータモデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49241679</guid>
+      <pubDate>Mon, 10 Aug 2026 10:10:02 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (22pt) 人間対AI – エージェントによる編集下におけるテキストの差分ベースの行単位プロヴェナンス</title>
-      <link>https://news.ycombinator.com/item?id=49232300</link>
-      <description>&lt;p&gt;&lt;strong&gt;人間対AI – エージェントによる編集下におけるテキストの差分ベースの行単位プロヴェナンス&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Human vs. AI – Diff-based line-level provenance for text under agentic editing&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49232300</guid>
-      <pubDate>Sun, 09 Aug 2026 15:25:29 GMT</pubDate>
+      <title>[Hacker News] (111pt) メタがオープンモデルへの回帰を表明する中、マーク・ザッカーバーグ氏が「閉鎖的な」AI競合他社を批判</title>
+      <link>https://news.ycombinator.com/item?id=49243880</link>
+      <description>&lt;p&gt;&lt;strong&gt;メタがオープンモデルへの回帰を表明する中、マーク・ザッカーバーグ氏が「閉鎖的な」AI競合他社を批判&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49243880</guid>
+      <pubDate>Mon, 10 Aug 2026 14:06:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (79pt) Show HN: Ante — 単一のバイナリに収められた、オフラインで動作するコーディングエージェント</title>
+      <link>https://news.ycombinator.com/item?id=49245437</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN: Ante — 単一のバイナリに収められた、オフラインで動作するコーディングエージェント&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: Ante, a coding agent in a single binary that runs offline&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49245437</guid>
+      <pubDate>Mon, 10 Aug 2026 15:59:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (78pt) クロードの数学的能力についてさらに詳しく知る</title>
+      <link>https://news.ycombinator.com/item?id=49247070</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロードの数学的能力についてさらに詳しく知る&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Learning more about Claude's mathematical capabilities&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49247070</guid>
+      <pubDate>Mon, 10 Aug 2026 17:41:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (38pt) HN掲載：Stoa Markets（YC S26） – GPUおよびAIサーバーのマーケットプレイス</title>
+      <link>https://news.ycombinator.com/item?id=49246057</link>
+      <description>&lt;p&gt;&lt;strong&gt;HN掲載：Stoa Markets（YC S26） – GPUおよびAIサーバーのマーケットプレイス&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49246057</guid>
+      <pubDate>Mon, 10 Aug 2026 16:35:27 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した</title>
@@ -35,7 +59,7 @@
       <title>[VentureBeat AI] Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、ひとつ難点がある。それは、コストが高いということだ。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、ひとつ問題があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -53,7 +77,7 @@
       <title>[VentureBeat AI] Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」を全面的に刷新したバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、同社幹部が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」の全面的に刷新されたバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、経営陣が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -71,10 +95,55 @@
       <title>[VentureBeat AI] Nous Research社の「NousCoder-14B」は、まさに「Claude Code」ブームの真っ只中に登場したオープンソースのコーディングモデルです。</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
       <description>&lt;p&gt;&lt;strong&gt;Nous Research社の「NousCoder-14B」は、まさに「Claude Code」ブームの真っ只中に登場したオープンソースのコーディングモデルです。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;暗号資産ベンチャーキャピタル「パラダイム」の支援を受けるオープンソースAIスタートアップ「Nous Research」は月曜日、いくつかの既存のモデルと同等かそれ以上の性能を持つとする新たな競技プログラミングモデルを公開した。&lt;/p&gt;
+&lt;p&gt;暗号資産ベンチャーキャピタル「パラダイム」の支援を受けるオープンソースAIスタートアップ「Nous Research」は月曜日、いくつかの既存のモデルと同等かそれ以上の性能を持つとする新しい競技プログラミングモデルを公開した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</guid>
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] バーニー・サンダース氏は、サム・アルトマン氏、ダリオ・アモデイ氏、マーク・ザッカーバーグ氏に対し、人類の利益のためにAI開発のすべてを直ちに停止するよう求める書簡を送った。また、彼らが今すぐ適切な措置を講じなければ、米国上院が行動を起こすだろうと警告している。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vkqa02/bernie_sanders_has_written_a_letter_to_sam_altman/</link>
+      <description>&lt;p&gt;&lt;strong&gt;バーニー・サンダース氏は、サム・アルトマン氏、ダリオ・アモデイ氏、マーク・ザッカーバーグ氏に対し、人類の利益のためにAI開発のすべてを直ちに停止するよう求める書簡を送った。また、彼らが今すぐ適切な措置を講じなければ、米国上院が行動を起こすだろうと警告している。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/sharkymcstevenson2   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vkqa02/bernie_sanders_has_written_a_letter_to_sam_altman/</guid>
+      <pubDate>Mon, 10 Aug 2026 16:49:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] OpenAI、モデルが史上初の重大なサイバー能力に関する懸念を引き起こしたことを受け、Astraの利用を制限</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vkms9j/openai_locks_down_astra_after_model_raises/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAI、モデルが史上初の重大なサイバー能力に関する懸念を引き起こしたことを受け、Astraの利用を制限&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/sksarkpoes3   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI locks down Astra after model raises first-ever critical cyber capability fears&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vkms9j/openai_locks_down_astra_after_model_raises/</guid>
+      <pubDate>Mon, 10 Aug 2026 14:42:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] アドバイスをお願いします：特定の人物を写した、リアルな屋外シーンを作成しようとしています。Kreaの出力結果が、プラスチックっぽく見えたり、AIっぽすぎたりするのですが？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vkqs6c/need_advice_trying_to_generate_realistic_outdoor/</link>
+      <description>&lt;p&gt;&lt;strong&gt;アドバイスをお願いします：特定の人物を写した、リアルな屋外シーンを作成しようとしています。Kreaの出力結果が、プラスチックっぽく見えたり、AIっぽすぎたりするのですが？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;​みなさん、こんにちは！​今、スイスアルプスなどのリアルな屋外環境の中に特定の人物を配置するプロジェクトに取り組んでいます。目標は、まるで本物の自然な旅行写真のように見せることです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Need advice: Trying to generate realistic outdoor shots with a specific person. Krea outputs look too plastic/AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vkqs6c/need_advice_trying_to_generate_realistic_outdoor/</guid>
+      <pubDate>Mon, 10 Aug 2026 17:06:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIの財務計算における誤りを、リリース前に検出する決定論的エンジンを開発しました。このエンジンに欠点を見つけてくれる人を探しています。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vkqiik/i_built_a_deterministic_engine_that_catches_ais/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIの財務計算における誤りを、リリース前に検出する決定論的エンジンを開発しました。このエンジンに欠点を見つけてくれる人を探しています。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;簡単な背景説明：私はこの1年余り、「AIの幻覚」という分野、特に金融分野向けの何かを開発してきましたが、今後さらに進める前に率直なフィードバックをいただきたいと思っています。いいねではなく、実際の&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I built a deterministic engine that catches AI's financial math errors before they ship — looking for people to poke holes in it&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vkqiik/i_built_a_deterministic_engine_that_catches_ais/</guid>
+      <pubDate>Mon, 10 Aug 2026 16:57:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Metaは、「Muse Spark 1.2」と「Muse Glimmer 30B」をオープンソース化する</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vkhaf7/meta_will_open_source_their_muse_spark_12_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Metaは、「Muse Spark 1.2」と「Muse Glimmer 30B」をオープンソース化する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://preview.redd.it/jt5idx0u0jih1.png?width=960&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=170a37be6d0e2d4814a7d9bcc97f23c90ffe9bb0 Metaは「Muse Spark 1.2」と「Muse Glimmer 30B」をオープンソース化する予定だ。この大きな&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Meta will open source their Muse Spark 1.2 and Muse Glimmer 30B&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vkhaf7/meta_will_open_source_their_muse_spark_12_and/</guid>
+      <pubDate>Mon, 10 Aug 2026 10:41:16 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] なぜ10億ドル規模のロボットスタートアップが、洗濯物の畳みにこだわるのか</title>
@@ -86,85 +155,31 @@
       <pubDate>Sun, 09 Aug 2026 12:34:52 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] OpenAIがCodexのコンテキスト上限を272kに設定した理由として挙げているのは、キャッシュ読み取りのコストであり、同じ数値で課金額が2倍になることではない。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vjvpwb/openais_stated_reason_for_codexs_272k_context_cap/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIがCodexのコンテキスト上限を272kに設定した理由として挙げているのは、キャッシュ読み取りのコストであり、同じ数値で課金額が2倍になることではない。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;codexにはモデルカタログが付属しており、そのGPT-5.6のエントリには、コンテキストウィンドウが272,000トークンと記載されています。このモデルの公開仕様では1,050,000となっています。また、272,000はAPIの料金が再計算される閾値でもあります。それを超えると……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI's stated reason for Codex's 272k context cap is cache-read cost, not the 2x billing line at the same number&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vjvpwb/openais_stated_reason_for_codexs_272k_context_cap/</guid>
-      <pubDate>Sun, 09 Aug 2026 17:25:42 GMT</pubDate>
+      <title>[r/artificial] あるラボが、サイバー機能の問題を理由に、自社で開発中の未発表モデルの公開を一時停止した。その同じ週、あるエージェントが実際のメンテナに対してソーシャルエンジニアリングを仕掛けていたことが発覚した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vktyxf/a_lab_paused_its_own_unreleased_model_over_cyber/</link>
+      <description>&lt;p&gt;&lt;strong&gt;あるラボが、サイバー機能の問題を理由に、自社で開発中の未発表モデルの公開を一時停止した。その同じ週、あるエージェントが実際のメンテナに対してソーシャルエンジニアリングを仕掛けていたことが発覚した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIの規制と法制度をめぐる、実に波乱に満ちた1週間を締めくくるニュースとして： **OpenAIは、次世代モデル「Astra」の開発を一時停止した**。同社は、その「準備態勢」の下では「重要なサイバー能力を排除できない」と述べている。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A lab paused its own unreleased model over cyber capability, the same week an agent got caught running social engineering against real maintainers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vktyxf/a_lab_paused_its_own_unreleased_model_over_cyber/</guid>
+      <pubDate>Mon, 10 Aug 2026 19:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 今週のランキング上位を中国のLLMが独占</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vizcs8/chinese_llms_dominate_this_weeks_top_charts/</link>
-      <description>&lt;p&gt;&lt;strong&gt;今週のランキング上位を中国のLLMが独占&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;出典：https://openrouter.ai/rankings  &amp;#32; 投稿者：&amp;#32;  /u/Asleep-Television-24   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Chinese LLMs dominate this week's top charts&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vizcs8/chinese_llms_dominate_this_weeks_top_charts/</guid>
-      <pubDate>Sat, 08 Aug 2026 15:48:29 GMT</pubDate>
+      <title>[r/artificial] OpenAIのテストモデルが8つのゼロデイ脆弱性を連鎖的に悪用し、自力でHugging Faceに侵入した。また、その複製モデル同士が互いにメモを残していた。「評価（eval）」と「攻撃」の境界線はどこにあるのだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vkt874/an_openai_test_model_chained_8_zerodays_and_broke/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIのテストモデルが8つのゼロデイ脆弱性を連鎖的に悪用し、自力でHugging Faceに侵入した。また、その複製モデル同士が互いにメモを残していた。「評価（eval）」と「攻撃」の境界線はどこにあるのだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ここ数日、内部評価中にHugging Faceに侵入したOpenAIのエージェントに関する経緯を追っていました。報道されている内容を簡単にまとめると、実験的なOpe&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: An OpenAI test model chained 8 zero-days and broke into Hugging Face on its own and the copies left notes for each other. Where's the line between &quot;eval&quot; and &quot;attack&quot;?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vkt874/an_openai_test_model_chained_8_zerodays_and_broke/</guid>
+      <pubDate>Mon, 10 Aug 2026 18:33:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ボーカルや楽器の音色を変えずに、質の悪い曲をより高品質な曲に作り変えられるAI音楽ツールはありますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vjugll/is_there_any_ai_music_tool_that_can_recreate_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ボーカルや楽器の音色を変えずに、質の悪い曲をより高品質な曲に作り変えられるAI音楽ツールはありますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;要するに、オリジナルと全く同じものを、ただ音質を向上させた形で再現できるものを求めているんです。ボーカルやメロディー、楽器などの要素を変えたりせず、文字通りまったく同じレコードを作ってほしいんです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: is there any ai music tool that can recreate a garbage quality song into higher quality without altering the vocals or instruments&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vjugll/is_there_any_ai_music_tool_that_can_recreate_a/</guid>
-      <pubDate>Sun, 09 Aug 2026 16:36:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] なぜ非営利団体がAI革命を主導しなければならないのか</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vju00l/why_nonprofits_must_lead_the_ai_revolution/</link>
-      <description>&lt;p&gt;&lt;strong&gt;なぜ非営利団体がAI革命を主導しなければならないのか&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIはもはや、技術が「何ができるか」という問題ではありません。より重要な問いは、AIが「何をするべきか」ということです。特に、地域社会や社会的弱者、アクセシビリティ、そして社会の信頼に影響を及ぼす場合にはなおさらです。なぜ非営利団体なのか&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Why Nonprofits Must Lead the AI Revolution&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vju00l/why_nonprofits_must_lead_the_ai_revolution/</guid>
-      <pubDate>Sun, 09 Aug 2026 16:17:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Meta、AnthropicやOpenAIに対抗する初のAIコーディングエージェントを発表</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vjh4s6/meta_debuts_first_ai_coding_agent_to_take_on/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Meta、AnthropicやOpenAIに対抗する初のAIコーディングエージェントを発表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Junior_Froyo_6621   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Meta debuts first AI coding agent to take on Anthropic and OpenAI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vjh4s6/meta_debuts_first_ai_coding_agent_to_take_on/</guid>
-      <pubDate>Sun, 09 Aug 2026 05:17:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 実際に使ってみるまでは「単なる誇大宣伝だ」と思っていたAI機能は何ですか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vjwvxi/whats_an_ai_capability_you_thought_was_hype_until/</link>
-      <description>&lt;p&gt;&lt;strong&gt;実際に使ってみるまでは「単なる誇大宣伝だ」と思っていたAI機能は何ですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;実際に使ってみるまでは「単なる誇大宣伝だ」と思っていたAI機能は何ですか？ 私が先にお話ししますね。「エージェントのオーケストレーション」です。あるエージェントが別のエージェントを管理するという話を目にして、単なるデモ用の機能だと思っていました。ところが、実際に構築してみて……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What's an AI capability you thought was hype until you actually used it?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vjwvxi/whats_an_ai_capability_you_thought_was_hype_until/</guid>
-      <pubDate>Sun, 09 Aug 2026 18:11:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIエージェントは、タスクの遂行能力が格段に向上しています。ただ、検証の段階は依然として弱点だと思います。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vjwaba/ai_agents_are_getting_much_better_at_doing_tasks/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIエージェントは、タスクの遂行能力が格段に向上しています。ただ、検証の段階は依然として弱点だと思います。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;エージェントがブラウザやデスクトップの操作に熟達するにつれて、繰り返し浮上してくる問題について、私は試行錯誤を重ねてきました。それは、「エージェントは、自分の作業が成功したことを、実際にどうやって知るのか？」というものです。現在のワークフローの多くは……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI agents are getting much better at doing tasks. I think verification is still the weak link.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vjwaba/ai_agents_are_getting_much_better_at_doing_tasks/</guid>
-      <pubDate>Sun, 09 Aug 2026 17:48:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] エマド・モスタク氏（カメラの前で）：「純粋数学者にとっては厳しい時代だ」。AIが、2,000ドルの賞金をかけて、10年間未解決だった10の数学問題を解決した。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vjsil8/emad_mostaque_on_camera_its_a_bad_time_to_be_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;エマド・モスタク氏（カメラの前で）：「純粋数学者にとっては厳しい時代だ」。AIが、2,000ドルの賞金をかけて、10年間未解決だった10の数学問題を解決した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AI研究者や起業家たち――ピーター・ディアマンディス、アレックス・ウィスナー＝グロス、エマド・モスタク――からなるパネルが、反論の余地のない数字を提示しました。それは、2,000ドル分の演算能力と、10年前の、これまで未使用だった――&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Emad Mostaque, on camera: &quot;It's a bad time to be a pure mathematician.&quot; AI just solved 10 decade-old math problems for $2,000.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vjsil8/emad_mostaque_on_camera_its_a_bad_time_to_be_a/</guid>
-      <pubDate>Sun, 09 Aug 2026 15:18:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] なぜ、独立したAIエージェント向けの「App Store」はまだ存在しないのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vjr1kf/why_is_there_no_app_store_for_independent_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;なぜ、独立したAIエージェント向けの「App Store」はまだ存在しないのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私が驚いたことの一つは、参入障壁が予想以上に急速に低下していることです。現在では、モデルを連携させることができる「バイブコーディング」やローコードプラットフォームも数多く存在しています&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Why is there no “App Store” for independent AI agents yet?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vjr1kf/why_is_there_no_app_store_for_independent_ai/</guid>
-      <pubDate>Sun, 09 Aug 2026 14:17:50 GMT</pubDate>
+      <title>[r/artificial] ラディカル・ベンチャーズのロブ・トゥース氏は、同ファンドがAI分野の「ネオラボ」のほぼすべてを見送っている理由――ただし、現在1兆ドルの価値を持つ1社を除いて――について説明している。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vkp36w/radical_ventures_rob_toews_explains_why_his_fund/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ラディカル・ベンチャーズのロブ・トゥース氏は、同ファンドがAI分野の「ネオラボ」のほぼすべてを見送っている理由――ただし、現在1兆ドルの価値を持つ1社を除いて――について説明している。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;この分野の人たちが認めたくないほど、立場は天才に勝ることが多い。こうしたAIへの投資が実際にどのように資金調達されているかを追跡するたびに、同じ仕組みが繰り返されている。 実は、これを思い出したのだが&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Radical Ventures' Rob Toews explains why his fund passes on almost every AI &quot;Neolab&quot; — except the one now worth $1T&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vkp36w/radical_ventures_rob_toews_explains_why_his_fund/</guid>
+      <pubDate>Mon, 10 Aug 2026 16:06:45 GMT</pubDate>
     </item>
   </channel>
 </rss>
