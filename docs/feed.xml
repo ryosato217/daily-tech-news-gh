@@ -3,24 +3,40 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-08-11</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-08-12</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 19:09:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 19:08:51 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (299pt) プロプライエタリなLLM APIから推論トレースを盗む</title>
-      <link>https://news.ycombinator.com/item?id=49257876</link>
-      <description>&lt;p&gt;&lt;strong&gt;プロプライエタリなLLM APIから推論トレースを盗む&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Stealing Reasoning Traces from Proprietary LLM APIs&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49257876</guid>
-      <pubDate>Tue, 11 Aug 2026 13:22:00 GMT</pubDate>
+      <title>[Hacker News] (509pt) Tailscale、データベースの破損の原因を16年前のSQLiteのWALリセットバグと特定</title>
+      <link>https://news.ycombinator.com/item?id=49272832</link>
+      <description>&lt;p&gt;&lt;strong&gt;Tailscale、データベースの破損の原因を16年前のSQLiteのWALリセットバグと特定&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49272832</guid>
+      <pubDate>Wed, 12 Aug 2026 14:22:30 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (224pt) Apple Silicon と macOS 上の仮想マシン：Llama.cpp による LLM 推論の速度が 11～16 倍向上</title>
-      <link>https://news.ycombinator.com/item?id=49259339</link>
-      <description>&lt;p&gt;&lt;strong&gt;Apple Silicon と macOS 上の仮想マシン：Llama.cpp による LLM 推論の速度が 11～16 倍向上&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49259339</guid>
-      <pubDate>Tue, 11 Aug 2026 14:50:33 GMT</pubDate>
+      <title>[Hacker News] (408pt) 2026年の日食 ウェブカメラ</title>
+      <link>https://news.ycombinator.com/item?id=49270953</link>
+      <description>&lt;p&gt;&lt;strong&gt;2026年の日食 ウェブカメラ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: 2026 Eclipse Webcams&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49270953</guid>
+      <pubDate>Wed, 12 Aug 2026 11:53:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (151pt) 誰かが大規模な脆弱性スキャンを実行しており、ClaudeBotのようなAIボットを装っている</title>
+      <link>https://news.ycombinator.com/item?id=49272569</link>
+      <description>&lt;p&gt;&lt;strong&gt;誰かが大規模な脆弱性スキャンを実行しており、ClaudeBotのようなAIボットを装っている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49272569</guid>
+      <pubDate>Wed, 12 Aug 2026 14:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (41pt) WebSockets を利用した HTML：JavaScript をほとんど使わずに実現するリアルタイム SPA</title>
+      <link>https://news.ycombinator.com/item?id=49275335</link>
+      <description>&lt;p&gt;&lt;strong&gt;WebSockets を利用した HTML：JavaScript をほとんど使わずに実現するリアルタイム SPA&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: HTML over WebSockets: real-time SPAs with barely any JavaScript&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49275335</guid>
+      <pubDate>Wed, 12 Aug 2026 16:51:25 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した</title>
@@ -77,6 +93,33 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>[r/artificial] AI疲れ？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vmfq1s/ai_fatigue/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI疲れ？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;こんな経験をしているのは私だけでしょうか？マシンに自分のプロンプトを正しく理解してもらえるように試行錯誤したり、拒否されたり、反応が遅れたり、誤った回答が出たりする中で、だんだん使う頻度が減ってきていることに気づきました。これはよくあることなのでしょうか&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI Fatigue?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vmfq1s/ai_fatigue/</guid>
+      <pubDate>Wed, 12 Aug 2026 14:28:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 最高裁、特許出願においてAIを発明者として記載することはできないとの判断を下す</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vmiqu5/ai_cant_be_listed_as_inventor_on_patent/</link>
+      <description>&lt;p&gt;&lt;strong&gt;最高裁、特許出願においてAIを発明者として記載することはできないとの判断を下す&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/masiroo   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI Can’t Be Listed as Inventor on Patent Applications, Japan’s Top Court Rules&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vmiqu5/ai_cant_be_listed_as_inventor_on_patent/</guid>
+      <pubDate>Wed, 12 Aug 2026 16:19:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] インターネットが合成コンテンツで溢れかえるにつれて、生成AI登場以前のデータの価値は高まるのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vmmi1o/does_pregenerativeai_data_become_more_valuable_as/</link>
+      <description>&lt;p&gt;&lt;strong&gt;インターネットが合成コンテンツで溢れかえるにつれて、生成AI登場以前のデータの価値は高まるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;やあやあ、皆さん。生成AIブームがもたらした奇妙な結果について考えていたんだ。特に、Anthropicが本を破壊するという悲観的な話（ブー、悪いAnthropic、悪い）を踏まえてね。まず第一に……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Does pre-generative-AI data become more valuable as the internet fills with synthetic material?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vmmi1o/does_pregenerativeai_data_become_more_valuable_as/</guid>
+      <pubDate>Wed, 12 Aug 2026 18:31:54 GMT</pubDate>
+    </item>
+    <item>
       <title>[r/artificial] Claudeは現在、生成するすべてのテキストに目に見えない透かしを埋め込んでいます。</title>
       <link>https://www.reddit.com/r/artificial/comments/1vlag0q/claude_now_embeds_an_invisible_watermark_into/</link>
       <description>&lt;p&gt;&lt;strong&gt;Claudeは現在、生成するすべてのテキストに目に見えない透かしを埋め込んでいます。&lt;/strong&gt;&lt;/p&gt;
@@ -86,58 +129,31 @@
       <pubDate>Tue, 11 Aug 2026 07:20:06 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] NVIDIAは、中国の主要なオープンモデルと直接競合し、米国におけるオープンモデル分野のトップの座を確保するため、次世代の「Nemotron 4」ファミリーを開発している。『The Information』の独自報道によると、最大規模のバージョンは少なくとも1兆のパラメータを持つことになるという。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vlluom/nvidia_is_building_its_nextgen_nemotron_4_family/</link>
-      <description>&lt;p&gt;&lt;strong&gt;NVIDIAは、中国の主要なオープンモデルと直接競合し、米国におけるオープンモデル分野のトップの座を確保するため、次世代の「Nemotron 4」ファミリーを開発している。『The Information』の独自報道によると、最大規模のバージョンは少なくとも1兆のパラメータを持つことになるという。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Left-Hotel904   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: NVIDIA is building its next-gen Nemotron 4 family to compete directly with leading Chinese open models and secure the open-weight crown for the U.S. The largest version will have at least 1 trillion parameters, according to original reporting from The Information&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vlluom/nvidia_is_building_its_nextgen_nemotron_4_family/</guid>
-      <pubDate>Tue, 11 Aug 2026 16:11:15 GMT</pubDate>
+      <title>[r/artificial] インターネットが合成コンテンツで溢れかえるにつれて、生成AI登場以前のデータの価値は高まるのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vmmgzr/does_pregenerativeai_data_become_more_valuable_as/</link>
+      <description>&lt;p&gt;&lt;strong&gt;インターネットが合成コンテンツで溢れかえるにつれて、生成AI登場以前のデータの価値は高まるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;やあやあ、皆さん。最近、生成AIブームがもたらす奇妙な結果について考えていました。特に、Anthropicが本を破壊するという悲観的な話（ブー、悪いAnthropic、悪い）を踏まえてのことですが。まず第一に……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Does pre-generative-AI data become more valuable as the internet fills with synthetic material?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vmmgzr/does_pregenerativeai_data_become_more_valuable_as/</guid>
+      <pubDate>Wed, 12 Aug 2026 18:30:49 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] バーニー・サンダース氏は、サム・アルトマン氏、ダリオ・アモデイ氏、マーク・ザッカーバーグ氏に対し、人類の利益のためにAI開発のすべてを直ちに停止するよう求める書簡を送った。また、彼らが今すぐ適切な措置を講じなければ、米国上院が措置を講じると警告している。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vkqa02/bernie_sanders_has_written_a_letter_to_sam_altman/</link>
-      <description>&lt;p&gt;&lt;strong&gt;バーニー・サンダース氏は、サム・アルトマン氏、ダリオ・アモデイ氏、マーク・ザッカーバーグ氏に対し、人類の利益のためにAI開発のすべてを直ちに停止するよう求める書簡を送った。また、彼らが今すぐ適切な措置を講じなければ、米国上院が措置を講じると警告している。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/sharkymcstevenson2   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vkqa02/bernie_sanders_has_written_a_letter_to_sam_altman/</guid>
-      <pubDate>Mon, 10 Aug 2026 16:49:17 GMT</pubDate>
+      <title>[r/artificial] 1対1の面談にAIを活用することで、実際にマネージャーとしての能力は向上するのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vmkt36/does_using_ai_for_1on1s_actually_make_you_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1対1の面談にAIを活用することで、実際にマネージャーとしての能力は向上するのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;リモートチームのリーダーを務めてから、もう2年ほどになります。それ以前は人事部門に在籍していたので、優れた人材管理とはどのようなものかについて、かなり確固たる考えを持っています。本音で語り合い、率直な対話を重ね、場の空気を読むこと&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Does using AI for 1-on-1s actually make you a better manager?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vmkt36/does_using_ai_for_1on1s_actually_make_you_a/</guid>
+      <pubDate>Wed, 12 Aug 2026 17:31:21 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 双曲幾何学を用いて、LLMが学習した概念を閲覧可能なツリー構造としてマッピングするオープンソースツール</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vlqi6s/opensource_tool_that_maps_what_concepts_an_llm/</link>
-      <description>&lt;p&gt;&lt;strong&gt;双曲幾何学を用いて、LLMが学習した概念を閲覧可能なツリー構造としてマッピングするオープンソースツール&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は、LLMが「知っている」ことを抽出し、それをツリー状の概念マップとして整理するオープンソースの解釈可能性ツール「HyperSAE」を開発しました。その考え方は、LLMは概念を階層的に学習するというものです。「P&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Open-source tool that maps what concepts an LLM has learned into browsable tree structures using hyperbolic geometry&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vlqi6s/opensource_tool_that_maps_what_concepts_an_llm/</guid>
-      <pubDate>Tue, 11 Aug 2026 18:56:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Row-Botにおける更新されたエージェントオーケストレーションの仕組みについて、多くの質問をいただきました。そのアーキテクチャは以下の通りです。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vle36y/i_got_a_lot_of_questions_on_how_updated_agent/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Row-Botにおける更新されたエージェントオーケストレーションの仕組みについて、多くの質問をいただきました。そのアーキテクチャは以下の通りです。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Row-Botは、作業を複数のエージェントに分担しつつ、最終結果の責任を1つのエージェントが担うことで、より大規模な作業にも対応できるようになりました。調査、コーディング、レビューをすべて同時に進めることが可能です。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I got a lot of questions on how updated agent orchestration works in Row-Bot. Here is the architecture.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vle36y/i_got_a_lot_of_questions_on_how_updated_agent/</guid>
-      <pubDate>Tue, 11 Aug 2026 10:51:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 概要：OpenAI</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vliv6l/the_breakdown_openai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;概要：OpenAI&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;\OC\ 私が執筆した、OpenAIという企業を分析した記事です。倫理的な問題や企業価値評価から、将来の潜在的なTAM（総市場規模）、さらにはロボティクスやhaなど、OpenAIが事業拡大できる分野に至るまで、あらゆる側面を網羅しています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Breakdown: OpenAI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vliv6l/the_breakdown_openai/</guid>
-      <pubDate>Tue, 11 Aug 2026 14:22:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 計画を立てるのに最適なAIはどれですか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vlp4iq/which_ai_is_best_for_planing_stuff/</link>
-      <description>&lt;p&gt;&lt;strong&gt;計画を立てるのに最適なAIはどれですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;スケジュールとかを計画したいんです。プロを目指しているので、その仕事に適した賢いAIが必要なんです。プロになるために何をすべきか、AIが理解できていなければなりません。過去の会話内容を覚えていてくれると、なお良いです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Which ai is best for planing stuff?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vlp4iq/which_ai_is_best_for_planing_stuff/</guid>
-      <pubDate>Tue, 11 Aug 2026 18:07:55 GMT</pubDate>
+      <title>[r/artificial] Terminal-Bench上のClaude Code Orchestrator：同じモデル、同じタスク ― 作業が委任された場合にのみOpusが拒否した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vm7a6t/claude_code_orchestrator_on_terminalbench_same/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Terminal-Bench上のClaude Code Orchestrator：同じモデル、同じタスク ― 作業が委任された場合にのみOpusが拒否した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Bartaseth   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Code Orchestrator on Terminal-Bench: Same model, same tasks - Opus refused only when the work was delegated&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vm7a6t/claude_code_orchestrator_on_terminalbench_same/</guid>
+      <pubDate>Wed, 12 Aug 2026 07:30:54 GMT</pubDate>
     </item>
   </channel>
 </rss>
