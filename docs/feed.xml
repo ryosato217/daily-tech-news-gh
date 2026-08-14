@@ -3,40 +3,32 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-08-13</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-08-14</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 19:09:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 19:01:17 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (277pt) Gemini 3.7 Flash</title>
-      <link>https://news.ycombinator.com/item?id=49289112</link>
-      <description>&lt;p&gt;&lt;strong&gt;Gemini 3.7 Flash&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gemini 3.7 Flash&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49289112</guid>
-      <pubDate>Thu, 13 Aug 2026 17:23:22 GMT</pubDate>
+      <title>[Hacker News] (72pt) 手作業によるAI</title>
+      <link>https://news.ycombinator.com/item?id=49300568</link>
+      <description>&lt;p&gt;&lt;strong&gt;手作業によるAI&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI by Hand&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49300568</guid>
+      <pubDate>Fri, 14 Aug 2026 15:58:59 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (93pt) GPT-5.6 Sol Ultrafastの高速化</title>
-      <link>https://news.ycombinator.com/item?id=49289844</link>
-      <description>&lt;p&gt;&lt;strong&gt;GPT-5.6 Sol Ultrafastの高速化&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Accelerating GPT-5.6 Sol Ultrafast&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49289844</guid>
-      <pubDate>Thu, 13 Aug 2026 18:10:02 GMT</pubDate>
+      <title>[Hacker News] (60pt) 「Claude Code」セッションの価値を最大限に引き出す</title>
+      <link>https://news.ycombinator.com/item?id=49300800</link>
+      <description>&lt;p&gt;&lt;strong&gt;「Claude Code」セッションの価値を最大限に引き出す&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Maximizing the value of your Claude Code sessions&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49300800</guid>
+      <pubDate>Fri, 14 Aug 2026 16:15:21 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (36pt) 昔のウェブはどこへ行ってしまったのか？　その真相を突き止めるため、657,607件のリンクをたどってみた</title>
-      <link>https://news.ycombinator.com/item?id=49289532</link>
-      <description>&lt;p&gt;&lt;strong&gt;昔のウェブはどこへ行ってしまったのか？　その真相を突き止めるため、657,607件のリンクをたどってみた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Where did the old web go? We followed 657,607 links to find out&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49289532</guid>
-      <pubDate>Thu, 13 Aug 2026 17:49:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (35pt) 「家庭でのAI」第1部：ガラクタの箱</title>
-      <link>https://news.ycombinator.com/item?id=49288293</link>
-      <description>&lt;p&gt;&lt;strong&gt;「家庭でのAI」第1部：ガラクタの箱&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI At Home Part 1: A Box Of Scraps&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49288293</guid>
-      <pubDate>Thu, 13 Aug 2026 16:22:05 GMT</pubDate>
+      <title>[Hacker News] (4pt) Show HN：ウェブサイトに本物のLinuxターミナルを埋め込む</title>
+      <link>https://news.ycombinator.com/item?id=49303027</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN：ウェブサイトに本物のLinuxターミナルを埋め込む&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: Embed a real Linux terminal on your website&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49303027</guid>
+      <pubDate>Fri, 14 Aug 2026 18:51:27 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した</title>
@@ -51,7 +43,7 @@
       <title>[VentureBeat AI] Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、ひとつ問題があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、ひとつ難点がある。それは、コストが高いということだ。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が設けられている。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -69,7 +61,7 @@
       <title>[VentureBeat AI] Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
       <description>&lt;p&gt;&lt;strong&gt;Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」の全面的に刷新されたバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、経営陣が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」を全面的に刷新したバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、同社幹部が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -93,85 +85,76 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ヴェネチアの10代が、教会での大量銃撃を計画した容疑で逮捕された。AIで生成された61ページに及ぶマニフェストをオンラインで公開していた。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vmzg8k/venice_teen_arrested_for_planning_mass_shooting/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ヴェネチアの10代が、教会での大量銃撃を計画した容疑で逮捕された。AIで生成された61ページに及ぶマニフェストをオンラインで公開していた。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/coolbern   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Venice Teen Arrested For Planning Mass Shooting At Church. Shared a 61 page AI-generated manifesto online.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vmzg8k/venice_teen_arrested_for_planning_mass_shooting/</guid>
-      <pubDate>Thu, 13 Aug 2026 03:28:50 GMT</pubDate>
+      <title>[r/artificial] AI初心者の方へ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vo2xy9/new_to_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI初心者の方へ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;こんにちは！私は最近高校を卒業し、この秋から大学で工学を専攻することになりました。ClaudeやChatGPTなどのAIツールは使ったことはありますが、経験が不足していて（あるいはその気すら……）&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: New to AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vo2xy9/new_to_ai/</guid>
+      <pubDate>Fri, 14 Aug 2026 09:55:52 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ひっそりと消え去ったAIのトレンドとは何か？そして、それに取って代わったものは何か？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vnabhp/whats_an_ai_trend_that_quietly_died_and_what/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ひっそりと消え去ったAIのトレンドとは何か？そして、それに取って代わったものは何か？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ひっそりと消え去ったAIのトレンドとは何でしょうか？そして、それに取って代わったものは何でしょうか？まず私が挙げます。「AIがすべてに取って代わる」というありきたりなブログ記事です。これは一時期ブームになりましたが、人々がそれに飽き飽きしてしまったため、すぐに下火になりました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What's an AI trend that quietly died: and what replaced it?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vnabhp/whats_an_ai_trend_that_quietly_died_and_what/</guid>
-      <pubDate>Thu, 13 Aug 2026 13:11:23 GMT</pubDate>
+      <title>[r/artificial] LiquidAI LFM2.5-VL-3B：Gemma-4 E4Bを上回る31億のローカルVLM — 画面理解能力 2.5 → 82.2</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vodx2x/liquidai_lfm25vl3b_a_31b_local_vlm_that_beats/</link>
+      <description>&lt;p&gt;&lt;strong&gt;LiquidAI LFM2.5-VL-3B：Gemma-4 E4Bを上回る31億のローカルVLM — 画面理解能力 2.5 → 82.2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LiquidAI LFM2.5-VL-3B：Gemma-4 E4Bを上回る31億パラメータのローカルVLM — 画面理解スコア 2.5 → 82.2 まとめ： LiquidAIは、完全にローカルで動作する31億パラメータのビジョン・言語モデル「LFM2.5-VL-3B」をリリースした（llama.cpp、M&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: LiquidAI LFM2.5-VL-3B: a 3.1B local VLM that beats Gemma-4 E4B — screen understanding 2.5 → 82.2&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vodx2x/liquidai_lfm25vl3b_a_31b_local_vlm_that_beats/</guid>
+      <pubDate>Fri, 14 Aug 2026 17:37:31 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] アンドレイ・カーパシー氏は、OpenAIの研究者たちも私たちと同じようなキャリアへの不安を抱いていることを認めた――彼の実際の論旨は、悲観的な見出しよりもはるかに参考になる</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vn601y/andrej_karpathy_just_admitted_openais_own/</link>
-      <description>&lt;p&gt;&lt;strong&gt;アンドレイ・カーパシー氏は、OpenAIの研究者たちも私たちと同じようなキャリアへの不安を抱いていることを認めた――彼の実際の論旨は、悲観的な見出しよりもはるかに参考になる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;テスラの元AI部門ディレクターが肩をすくめて「それが一時的なものかどうかは分からないし、どう思うかまだはっきりしない」と語っているのを見て、私は何かを感じた。たいていは、若手社員が……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Andrej Karpathy just admitted OpenAI's own researchers feel the same career anxiety we do — his actual reasoning is more useful than the doom headlines&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vn601y/andrej_karpathy_just_admitted_openais_own/</guid>
-      <pubDate>Thu, 13 Aug 2026 09:35:23 GMT</pubDate>
+      <title>[r/artificial] 最も優れたAIモデルが、実はビジネス上最悪の選択となる場合</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vo13up/when_the_smartest_ai_model_is_actually_a_terrible/</link>
+      <description>&lt;p&gt;&lt;strong&gt;最も優れたAIモデルが、実はビジネス上最悪の選択となる場合&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIをめぐる過熱した期待に一石を投じるこの記事を見つけました。最も先進的なモデルこそが、ビジネスにとっては最悪の場合もあるというのです。高コスト、インセンティブの不整合、そして倫理的なリスクが、技術的な成功を……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: When the smartest AI model is actually a terrible business move&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vo13up/when_the_smartest_ai_model_is_actually_a_terrible/</guid>
+      <pubDate>Fri, 14 Aug 2026 08:06:09 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ハッカーたちは自律型AIエージェントを用いて台湾を攻撃した。これがサイバー戦争の未来なのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vnc7hm/hackers_used_autonomous_ai_agents_to_attack/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ハッカーたちは自律型AIエージェントを用いて台湾を攻撃した。これがサイバー戦争の未来なのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Fcking_Chuck   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Hackers used autonomous AI agents to attack Taiwan. Is this the future of cyberwarfare?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vnc7hm/hackers_used_autonomous_ai_agents_to_attack/</guid>
-      <pubDate>Thu, 13 Aug 2026 14:25:18 GMT</pubDate>
+      <title>[r/artificial] 🚀 「Android Remote Control MCP」の新バージョンがリリースされました！AIエージェントにスマートフォンを操作させましょう。今回から、端末上で個人を特定できる情報（PII）のマスキング機能も搭載されました！🛡️ ケーブルもルート権限も不要です！</title>
+      <link>https://www.reddit.com/r/artificial/comments/1voafib/new_version_of_android_remote_control_mcp/</link>
+      <description>&lt;p&gt;&lt;strong&gt;🚀 「Android Remote Control MCP」の新バージョンがリリースされました！AIエージェントにスマートフォンを操作させましょう。今回から、端末上で個人を特定できる情報（PII）のマスキング機能も搭載されました！🛡️ ケーブルもルート権限も不要です！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🚀 Android Remote Control MCPの新バージョンがリリースされました。これは、お使いのスマートフォン上で動作するMCPサーバーで、AIエージェントに任意のアプリを使用させる機能を提供します！こちらから入手してください：https://github.com/danielealbano/&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: 🚀 New version of Android Remote Control MCP released! Let your AI agent control your phone, now with on-device PII redaction! 🛡️ No cables or root needed!&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1voafib/new_version_of_android_remote_control_mcp/</guid>
+      <pubDate>Fri, 14 Aug 2026 15:29:38 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] [学術調査] ドイツで働く従業員：職場におけるAIに対する意識（所要時間：5～7分）</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vnchse/academic_survey_employees_working_in_germany/</link>
-      <description>&lt;p&gt;&lt;strong&gt;[学術調査] ドイツで働く従業員：職場におけるAIに対する意識（所要時間：5～7分）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;みなさん、こんにちは！私は修士論文の一環としてこのアンケートを実施しています。ぜひご協力いただければ幸いです。本研究では、従業員が人事施策をどのように認識しているか、それが……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: [Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5–7 min)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vnchse/academic_survey_employees_working_in_germany/</guid>
-      <pubDate>Thu, 13 Aug 2026 14:36:09 GMT</pubDate>
+      <title>[r/artificial] AI音声エージェントは、絶えず話を遮ってくる人に対して、どの程度うまく対応できるのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vnqdgc/how_well_do_ai_voice_agents_handle_people_who/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI音声エージェントは、絶えず話を遮ってくる人に対して、どの程度うまく対応できるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これは、実際の顧客との通話では頻繁に目にするものの、音声AIのデモではあまり表に出てこない現象です。顧客は絶えず話を遮ります。質問が終わる前に答え始めたり、自分の発言を訂正したりするのです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How well do AI voice agents handle people who constantly interrupt?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vnqdgc/how_well_do_ai_voice_agents_handle_people_who/</guid>
+      <pubDate>Thu, 13 Aug 2026 23:08:15 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] エージェントの攻撃対象領域</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vnem07/the_attack_surface_of_your_agent/</link>
-      <description>&lt;p&gt;&lt;strong&gt;エージェントの攻撃対象領域&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私のエージェント「ルミナ」のサイバーセキュリティ面には、多大な労力を注いできました。壊滅的な障害を防ぐために、ガードレールやフック、ゲート、トラストチャネルなどが数多く設けられています。実行中&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The attack surface of your agent&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vnem07/the_attack_surface_of_your_agent/</guid>
-      <pubDate>Thu, 13 Aug 2026 15:52:46 GMT</pubDate>
+      <title>[r/artificial] AIのデバッグ作業で、私がいつも間違えてしまっていたことには、実は決まった呼び名があることに気づきました。それは、「症状が解消した」ことと「原因が特定された」ことを混同してしまうことです。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vo4pwa/realized_theres_a_name_for_the_thing_i_kept_doing/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIのデバッグ作業で、私がいつも間違えてしまっていたことには、実は決まった呼び名があることに気づきました。それは、「症状が解消した」ことと「原因が特定された」ことを混同してしまうことです。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;さまざまなAI支援デバッグセッションで特定の失敗パターンに繰り返し遭遇していましたが、実際に腰を据えていくつかを並べて比較してみるまでは、それを明確に説明する方法が見つかりませんでした。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Realized there's a name for the thing I kept doing wrong in AI debugging sessions: confusing &quot;symptom resolved&quot; with &quot;cause found&quot;&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vo4pwa/realized_theres_a_name_for_the_thing_i_kept_doing/</guid>
+      <pubDate>Fri, 14 Aug 2026 11:32:39 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ホワイトハウスは、オープンAIのモデルを、秘密裏に行われるリリース前の安全性テストの枠組みの対象に含める準備を進めていると報じられている。そう、ますます興味深い展開になってきた。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vn3n70/the_white_house_is_reportedly_preparing_to_bring/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ホワイトハウスは、オープンAIのモデルを、秘密裏に行われるリリース前の安全性テストの枠組みの対象に含める準備を進めていると報じられている。そう、ますます興味深い展開になってきた。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;『WIRED』によると、この自主的な枠組みは現在、OpenAIやAnthropicなどの研究所が開発した最先端のクローズドモデルを対象としている。オープンモデルについては、同等の能力に達した時点でこの枠組みに加わることが見込まれており、場合によっては&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The White House is reportedly preparing to bring open AI models under its secret prerelease safety-testing framework. So yeah, its getting interesting.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vn3n70/the_white_house_is_reportedly_preparing_to_bring/</guid>
-      <pubDate>Thu, 13 Aug 2026 07:15:33 GMT</pubDate>
+      <title>[r/artificial] 2026年に最も役立つAIスキルは、プロンプティングやエージェントではありません。それは、AIを「使わない」べき時を見極めることです。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vo6h13/the_most_useful_ai_skill_in_2026_isnt_prompting/</link>
+      <description>&lt;p&gt;&lt;strong&gt;2026年に最も役立つAIスキルは、プロンプティングやエージェントではありません。それは、AIを「使わない」べき時を見極めることです。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;毎日、シェルスクリプトの方がうまくこなしていた作業に、LLMを無理やり組み込もうとしている人を見かけます。私が知る限り、優れたAIの実践者とは、早い段階で線引きができる人たちです： - 決定論的なタスクで、ルールが固定されている？　それならスクリプトで処理する。 - 1つ&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The most useful AI skill in 2026 isn't prompting or agents. It's knowing when NOT to use AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vo6h13/the_most_useful_ai_skill_in_2026_isnt_prompting/</guid>
+      <pubDate>Fri, 14 Aug 2026 12:53:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 小売・消費財（CPG）分野におけるAIプロジェクトが失敗する理由：戦略、パートナー、ROIに関するバイヤー向けガイド</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vnijjo/why_retail_cpg_ai_projects_fail_a_buyers_guide_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;小売・消費財（CPG）分野におけるAIプロジェクトが失敗する理由：戦略、パートナー、ROIに関するバイヤー向けガイド&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;小売業や消費財（CPG）企業がAIの導入において実際にどこでつまずいているのかを検討してきたのですが、興味深いのは、もはや最大の課題が必ずしもAIへのアクセスではないという点だと思います。私は&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Why Retail &amp; CPG AI Projects Fail: A Buyer's Guide to Strategy, Partners &amp; ROI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vnijjo/why_retail_cpg_ai_projects_fail_a_buyers_guide_to/</guid>
-      <pubDate>Thu, 13 Aug 2026 18:11:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] カスカディア、インテル製ハードウェア向け分散型AI推論ソリューションを発表</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vnbxow/cascadia_launches_distributed_ai_inference_for/</link>
-      <description>&lt;p&gt;&lt;strong&gt;カスカディア、インテル製ハードウェア向け分散型AI推論ソリューションを発表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/techne98   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Cascadia Launches Distributed AI Inference for Intel Hardware&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vnbxow/cascadia_launches_distributed_ai_inference_for/</guid>
-      <pubDate>Thu, 13 Aug 2026 14:14:59 GMT</pubDate>
+      <title>[r/artificial] 同じデモで、DeepSeek V4 Pro 0813では2回失敗したが、その後V4 Flashで完了した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vo5x4i/same_demo_two_failures_on_deepseek_v4_pro_0813/</link>
+      <description>&lt;p&gt;&lt;strong&gt;同じデモで、DeepSeek V4 Pro 0813では2回失敗したが、その後V4 Flashで完了した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今夜、DeepSeek V4 Pro 0813の簡単な初期テストを少しだけ行っただけなので、これはごくわずかなサンプルとして捉えてほしい。結論ではない。最初のProでの実行は失敗した。同じデモをFlashで実行したところ、Flashでは正常に完了した。私は&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Same demo, two failures on DeepSeek V4 Pro 0813, then V4 Flash finished it&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vo5x4i/same_demo_two_failures_on_deepseek_v4_pro_0813/</guid>
+      <pubDate>Fri, 14 Aug 2026 12:28:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
