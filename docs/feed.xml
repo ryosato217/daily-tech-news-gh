@@ -3,37 +3,37 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-08-15</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-08-16</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 18:36:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 18:35:48 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (174pt) AIとの取り組みは、コーディングというよりはむしろリーダーシップに近い</title>
-      <link>https://news.ycombinator.com/item?id=49309451</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIとの取り組みは、コーディングというよりはむしろリーダーシップに近い&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Working with AI Feels More Like Leadership Than Coding&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49309451</guid>
-      <pubDate>Sat, 15 Aug 2026 10:39:41 GMT</pubDate>
+      <title>[Hacker News] (355pt) クロード：システムプロンプト</title>
+      <link>https://news.ycombinator.com/item?id=49319556</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロード：システムプロンプト&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude: System Prompts&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49319556</guid>
+      <pubDate>Sun, 16 Aug 2026 12:48:21 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (77pt) 物議を醸しているアルツハイマー病の手術が、症状を逆転させるとされている</title>
-      <link>https://news.ycombinator.com/item?id=49312008</link>
-      <description>&lt;p&gt;&lt;strong&gt;物議を醸しているアルツハイマー病の手術が、症状を逆転させるとされている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A controversial Alzheimer's surgery is said to reverse symptoms&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49312008</guid>
-      <pubDate>Sat, 15 Aug 2026 16:38:34 GMT</pubDate>
+      <title>[Hacker News] (143pt) AIを活用したクレジット再販経済</title>
+      <link>https://news.ycombinator.com/item?id=49320611</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIを活用したクレジット再販経済&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The AI Credit Resale Economy&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49320611</guid>
+      <pubDate>Sun, 16 Aug 2026 14:44:55 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (47pt) AIは数学者よりも賢いわけではない。ただ、記憶力では彼らを上回っているのだ。</title>
-      <link>https://news.ycombinator.com/item?id=49312845</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIは数学者よりも賢いわけではない。ただ、記憶力では彼らを上回っているのだ。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI Isn't Outthinking Mathematicians. It's Out-Remembering Them&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49312845</guid>
-      <pubDate>Sat, 15 Aug 2026 18:13:02 GMT</pubDate>
+      <title>[Hacker News] (14pt) アーチー・G・ノークロスによるメイン州の山火事地図（1918年～1922年）</title>
+      <link>https://news.ycombinator.com/item?id=49279624</link>
+      <description>&lt;p&gt;&lt;strong&gt;アーチー・G・ノークロスによるメイン州の山火事地図（1918年～1922年）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Archie G. Norcross' Maine Forest Fire Maps (1918–22)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49279624</guid>
+      <pubDate>Wed, 12 Aug 2026 22:46:58 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した</title>
+      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
-      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずにひっそりと200万人の開発者を集めてきたが、木曜日にシリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Railway secures $100 million to challenge AWS with AI-native cloud infrastructure&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</guid>
@@ -43,7 +43,7 @@
       <title>[VentureBeat AI] Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、ひとつ問題があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が設けられており、&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、ひとつ問題があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
@@ -85,6 +85,51 @@
       <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>[r/artificial] 平均的な企業は昼食代程度の予算をAIに費やしている一方で、上位1％の企業は本格的な予算を投じている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vpxa46/the_median_company_is_spending_lunch_money_on_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;平均的な企業は昼食代程度の予算をAIに費やしている一方で、上位1％の企業は本格的な予算を投じている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;このグラフは、a16zが解説したRamp AI Indexのデータを使用しています。支出には、LLMのサブスクリプション、コーディングエージェント、APIの利用料、およびGPUクラウドの利用料が含まれます。上位1％の推移は激しいですが、中央値の方がむしろ興味深いと言えます。Lo&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The median company is spending lunch money on AI while the top 1% is burning real budget&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vpxa46/the_median_company_is_spending_lunch_money_on_ai/</guid>
+      <pubDate>Sun, 16 Aug 2026 13:37:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 1.7Bモデルが、Qwen3-8BやGemma-4-26Bを上回る「strict-7」形式推論を実現――スペシャリストがジェネラリストの領域を侵食しているのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vq2io1/17b_model_leading_strict7_formal_reasoning_above/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1.7Bモデルが、Qwen3-8BやGemma-4-26Bを上回る「strict-7」形式推論を実現――スペシャリストがジェネラリストの領域を侵食しているのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;大手研究所から生まれる推論能力の向上のほとんどは、依然として規模に依存しています。パラメータが増えれば、計算能力が高まり、推論能力も向上する。これがしばらくの間、主流の手法でした。そこで、この常識を覆すTwIL-LM2に出会いました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: 1.7B model leading strict-7 formal reasoning above Qwen3-8B and Gemma-4-26B - specialists eating generalist territory?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vq2io1/17b_model_leading_strict7_formal_reasoning_above/</guid>
+      <pubDate>Sun, 16 Aug 2026 17:08:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIエージェントが実際の企業業務で失敗する理由について、私が見つけた最も説得力のある説明は、神経科学における「大脳皮質対海馬」という二分法に基づいたものです。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vq21ve/a_split_from_neuroscience_cortex_vs_hippocampus/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIエージェントが実際の企業業務で失敗する理由について、私が見つけた最も説得力のある説明は、神経科学における「大脳皮質対海馬」という二分法に基づいたものです。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;企業内でAIエージェントが失敗する真の理由として、神経科学の分野にあるある見解が頭から離れません。これは文字通りの主張ではなく、あくまで例えとして捉えてほしいのですが、どうしても納得がいくのです。あなたの脳は&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A split from neuroscience (cortex vs hippocampus) is the best explanation I've found for why AI agents fail on real company work&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vq21ve/a_split_from_neuroscience_cortex_vs_hippocampus/</guid>
+      <pubDate>Sun, 16 Aug 2026 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] リソース - AIテキスト透かし：その仕組みと回避方法</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vpjsbh/resource_ai_text_watermarking_how_it_works_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;リソース - AIテキスト透かし：その仕組みと回避方法&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今月初め、Anthropic社は、Claudeの出力結果に目に見えないテキストの透かしを追加すると発表した。この発表は大きな注目を集めた。 それと同時に、欧州委員会は次のように発表した。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Resource - AI Text Watermarking: How it Works and How to Evade It&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vpjsbh/resource_ai_text_watermarking_how_it_works_and/</guid>
+      <pubDate>Sun, 16 Aug 2026 01:25:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ザッカーバーグの「超知能」に関するマニフェストが発表されたのは、アンソロピック社が自社の「不整合リスク」の推定値を引き上げたのと同じ週のことだった。この対照こそが、この話の核心である。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vq0uul/zuckerbergs_superintelligence_manifesto_landed/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ザッカーバーグの「超知能」に関するマニフェストが発表されたのは、アンソロピック社が自社の「不整合リスク」の推定値を引き上げたのと同じ週のことだった。この対照こそが、この話の核心である。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今週号は、まったく異なる記事の間に繰り返し見られたある共通の傾向を軸に構成しました。ザッカーバーグ氏は、Metaがすべての人にAIによる超知能を提供すべきだと主張する6,500語のエッセイを発表しました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Zuckerberg's superintelligence manifesto landed the same week Anthropic raised its own misalignment risk estimate. The contrast is the story.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vq0uul/zuckerbergs_superintelligence_manifesto_landed/</guid>
+      <pubDate>Sun, 16 Aug 2026 16:03:04 GMT</pubDate>
+    </item>
+    <item>
       <title>[r/artificial] OpenAIの人材流出、IPOを控えて「重大な懸念材料」となる</title>
       <link>https://www.reddit.com/r/artificial/comments/1voy5dh/openai_talent_exodus_raises_huge_red_flag_ahead/</link>
       <description>&lt;p&gt;&lt;strong&gt;OpenAIの人材流出、IPOを控えて「重大な懸念材料」となる&lt;/strong&gt;&lt;/p&gt;
@@ -92,15 +137,6 @@
 &lt;p&gt;&lt;small&gt;原題: OpenAI talent exodus raises 'huge red flag' ahead of IPO&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1voy5dh/openai_talent_exodus_raises_huge_red_flag_ahead/</guid>
       <pubDate>Sat, 15 Aug 2026 09:15:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] OpenAI、ゴールドマン・サックスのアナリストによる恐ろしいChatGPTの会話についてFBIに通報</title>
-      <link>https://www.reddit.com/r/artificial/comments/1volf3k/openai_reports_goldman_sachs_analyst_to_fbi_for/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAI、ゴールドマン・サックスのアナリストによる恐ろしいChatGPTの会話についてFBIに通報&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/coolbern   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI Reports Goldman Sachs Analyst to FBI for Horrifying ChatGPT Conversations&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1volf3k/openai_reports_goldman_sachs_analyst_to_fbi_for/</guid>
-      <pubDate>Fri, 14 Aug 2026 22:22:14 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] 元恋人をレイプして殺害する計画をChatGPTに話したアナリストに保護観察処分が下された</title>
@@ -112,49 +148,13 @@
       <pubDate>Sat, 15 Aug 2026 14:05:46 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 登録も、会員登録も、隠れた課金も一切不要な、37種類以上の強力なAIツールをまとめたデータベースを作成しました。完全無料です。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1voulm9/i_curated_a_database_of_37_powerful_ai_tools_that/</link>
-      <description>&lt;p&gt;&lt;strong&gt;登録も、会員登録も、隠れた課金も一切不要な、37種類以上の強力なAIツールをまとめたデータベースを作成しました。完全無料です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;みなさん、こんにちは。たった一つの基本的な機能を試すだけで、アカウントの作成やGoogleでのログイン、あるいはメールアドレスの登録を強要してくるAIディレクトリにはうんざりしていました。この煩わしさを解消するために、私は何時間もかけて&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I curated a database of 37+ powerful AI tools that require NO Sign-ups, NO registration, and NO hidden paywalls. Completely free.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1voulm9/i_curated_a_database_of_37_powerful_ai_tools_that/</guid>
-      <pubDate>Sat, 15 Aug 2026 05:46:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIツールは、どのような時点でプラットフォームとなるのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vp7x59/at_what_point_does_an_ai_tool_become_a_platform/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIツールは、どのような時点でプラットフォームとなるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;多くのAI製品は、当初のカテゴリーにとどまらないことに気づきました。ある製品はツールとしてリリースされ、ある特定の機能をうまくこなすことで、それがその製品の価値のすべてとなります。そして1年後には……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: At what point does an AI tool become a platform?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vp7x59/at_what_point_does_an_ai_tool_become_a_platform/</guid>
-      <pubDate>Sat, 15 Aug 2026 16:56:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIエージェントが誤った判断を下した場合、その責任は誰にあるのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vp6y2l/who_is_responsible_when_an_ai_agent_makes_a_bad/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIエージェントが誤った判断を下した場合、その責任は誰にあるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIエージェントは、自ら意思決定を行い、行動を起こす能力を高めつつあります。しかし、エージェントが誤ったメールを送信したり、間違ったデータを変更したり、本来は実行すべきではない処理を誤って実行したりした場合、その責任は誰が負うのでしょうか。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Who is responsible when an AI agent makes a bad decision?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vp6y2l/who_is_responsible_when_an_ai_agent_makes_a_bad/</guid>
-      <pubDate>Sat, 15 Aug 2026 16:17:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 防衛技術のボトルネックはもはやAIではなく、製造にある</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vp4xrx/the_defense_tech_bottleneck_isnt_ai_anymore_its/</link>
-      <description>&lt;p&gt;&lt;strong&gt;防衛技術のボトルネックはもはやAIではなく、製造にある&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ここ3年間、防衛技術分野のトレンドは、より高性能なセンサー、より優れたモデル、そしてより優れた意思決定ソフトウェアの登場でした。Anduril、Shield AI、Palantir――これらはいずれも、AIネイティブ企業が&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The defense tech bottleneck isn't AI anymore — it's manufacturing&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vp4xrx/the_defense_tech_bottleneck_isnt_ai_anymore_its/</guid>
-      <pubDate>Sat, 15 Aug 2026 14:56:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] エマド・モスタク：誰の再教育計画も考慮に入れていない「デジタル・ダブル」の仕組み</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vp4uav/emad_mostaque_the_digital_double_mechanism/</link>
-      <description>&lt;p&gt;&lt;strong&gt;エマド・モスタク：誰の再教育計画も考慮に入れていない「デジタル・ダブル」の仕組み&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://reddit.com/link/1vp4uav/video/v9m00c73yjjh1/player エマド・モスタク氏：「最前線で活躍するエンジニアやAI変革を担う人材は、10人、100人分の仕事をこなせるからです。」 それが……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Emad Mostaque: the &quot;digital double&quot; mechanism nobody's retraining plan accounts for&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vp4uav/emad_mostaque_the_digital_double_mechanism/</guid>
-      <pubDate>Sat, 15 Aug 2026 14:52:05 GMT</pubDate>
+      <title>[r/artificial] AIデータセンターによる需要増で世界的な供給が逼迫する中、トランプ政権はアップルに対し、中国のメモリチップを購入しないよう圧力をかけている。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vpbtqz/the_trump_administration_is_pressuring_apple_not/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIデータセンターによる需要増で世界的な供給が逼迫する中、トランプ政権はアップルに対し、中国のメモリチップを購入しないよう圧力をかけている。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;WSJによると、アップルは中国で販売する端末向けに、CXMTおよびYMTC製のチップをテストしていると報じられている。ハワード・ルトニック商務長官は、ワシントンがこの動きに反対であることをアップルに「はっきりと」伝えたと述べている。アップルは合法的に&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Trump administration is pressuring Apple not to buy Chinese memory chips as AI data centers drain global supply.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vpbtqz/the_trump_administration_is_pressuring_apple_not/</guid>
+      <pubDate>Sat, 15 Aug 2026 19:30:54 GMT</pubDate>
     </item>
   </channel>
 </rss>
