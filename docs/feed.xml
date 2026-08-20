@@ -3,47 +3,39 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-08-19</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-08-20</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 18:41:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 18:48:32 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (470pt) 冗談半分で取得したドメインが、地政学的紛争へと発展した</title>
-      <link>https://news.ycombinator.com/item?id=49360015</link>
-      <description>&lt;p&gt;&lt;strong&gt;冗談半分で取得したドメインが、地政学的紛争へと発展した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A joke domain purchase turned in geopolitical warfare&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49360015</guid>
-      <pubDate>Wed, 19 Aug 2026 11:21:50 GMT</pubDate>
+      <title>[Hacker News] (708pt) AliExpressは、Bluetoothマルチポイント接続を妨害する、目立たないWebAudioフィンガープリンティングを実行しています</title>
+      <link>https://news.ycombinator.com/item?id=49372583</link>
+      <description>&lt;p&gt;&lt;strong&gt;AliExpressは、Bluetoothマルチポイント接続を妨害する、目立たないWebAudioフィンガープリンティングを実行しています&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49372583</guid>
+      <pubDate>Thu, 20 Aug 2026 10:08:52 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (39pt) LLM時代の拡張可能なソフトウェア</title>
-      <link>https://news.ycombinator.com/item?id=49363668</link>
-      <description>&lt;p&gt;&lt;strong&gt;LLM時代の拡張可能なソフトウェア&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Extensible Software in the Age of LLMs&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49363668</guid>
-      <pubDate>Wed, 19 Aug 2026 16:26:05 GMT</pubDate>
+      <title>[Hacker News] (377pt) Show HN：1億2500万パラメータのモデルを学習させ、端末上でピアノの自動補完を実現した</title>
+      <link>https://news.ycombinator.com/item?id=49373456</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN：1億2500万パラメータのモデルを学習させ、端末上でピアノの自動補完を実現した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: I trained a 125M model to autocomplete piano on-device&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49373456</guid>
+      <pubDate>Thu, 20 Aug 2026 12:04:38 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (25pt) HN公開：OneCLI (YC S26) – チーム向けのOSSサンドボックス型エージェント・ハーネス</title>
-      <link>https://news.ycombinator.com/item?id=49363710</link>
-      <description>&lt;p&gt;&lt;strong&gt;HN公開：OneCLI (YC S26) – チーム向けのOSSサンドボックス型エージェント・ハーネス&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49363710</guid>
-      <pubDate>Wed, 19 Aug 2026 16:29:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[VentureBeat AI] VentureBeatは、ロブ・ストレチェイ氏を初代主任アナリストに任命し、エンタープライズAI分野の研究体制を拡充した</title>
+      <title>[VentureBeat AI] VentureBeatは、ロブ・ストレチェイ氏を初のリードアナリストに任命し、エンタープライズAI分野の研究体制を強化した</title>
       <link>https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push</link>
-      <description>&lt;p&gt;&lt;strong&gt;VentureBeatは、ロブ・ストレチェイ氏を初代主任アナリストに任命し、エンタープライズAI分野の研究体制を拡充した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近までtheCUBE Researchのマネージング・ディレクター兼プリンシパル・アナリストを務めていたロブ・ストレチェイ氏が、VentureBeatの初代リード・アナリストおよびVentureBeat Researchの創設アナリストとして入社しました。彼の加入により、&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;VentureBeatは、ロブ・ストレチェイ氏を初のリードアナリストに任命し、エンタープライズAI分野の研究体制を強化した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近までtheCUBE Researchのマネージング・ディレクター兼主席アナリストを務めていたロブ・ストレチェイ氏が、VentureBeatに初のリードアナリストおよびVentureBeat Researchの創設アナリストとして加わりました。彼の加入により、&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push</guid>
       <pubDate>Wed, 19 Aug 2026 14:18:12 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
+      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラストラクチャでAWSに対抗するため、1億ドルの資金を確保した</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
-      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずにひっそりと200万人の開発者を集めてきたが、木曜日にシリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラストラクチャでAWSに対抗するため、1億ドルの資金を確保した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずにひっそりと200万人の開発者を集めてきたが、木曜日、シリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Railway secures $100 million to challenge AWS with AI-native cloud infrastructure&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</guid>
       <pubDate>Thu, 22 Jan 2026 14:00:00 GMT</pubDate>
@@ -52,25 +44,25 @@
       <title>[VentureBeat AI] Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、ひとつ難点がある。それは、コストが高いということだ。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、ある難点があります。それは、コストが高いということです。Anthropic社が開発したターミナルベースのAIエージェント「Claude Code」は、コードの記述、デバッグ、デプロイを自律的に行うことができますが、その機能には制限があり……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6,900万ドルを調達</title>
+      <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6900万ドルを調達</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
-      <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6,900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アルフレッド・ワールフォスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競り合うことは不可能に思えた。そこで彼は、&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;アルフレッド・ヴァールフォルスには、もはや打つ手がない状況だった。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーに対抗するのは不可能に思えた。そこで彼は……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
       <pubDate>Fri, 16 Jan 2026 14:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。</title>
+      <title>[VentureBeat AI] Salesforceは、職場向けAI分野でマイクロソフトやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
-      <description>&lt;p&gt;&lt;strong&gt;Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタントである「Slackbot」の全面的に刷新されたバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、経営陣が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Salesforceは、職場向けAI分野でマイクロソフトやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイスアシスタント「Slackbot」を全面的に刷新したバージョンをリリースし、単なる通知ツールから、経営陣が「完全な」と表現する存在へと変貌させた。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -79,100 +71,100 @@
       <title>[VentureBeat AI] Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
       <description>&lt;p&gt;&lt;strong&gt;Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは月曜日、「Cowork」をリリースした。これは、大成功を収めた「Claude Code」ツールの機能を、技術に詳しくないユーザーにも拡張する新しいAIエージェント機能である。同社関係者によると、このチームは……&lt;/p&gt;
+&lt;p&gt;Anthropicは月曜日、大ヒットした「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡張する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</guid>
       <pubDate>Mon, 12 Jan 2026 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 米国の若年層は、AIが雇用を奪うのではないかと懸念し、AIに対してますます警戒感を抱いている</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vs6yoh/young_adults_in_the_us_are_increasingly_wary_of/</link>
-      <description>&lt;p&gt;&lt;strong&gt;米国の若年層は、AIが雇用を奪うのではないかと懸念し、AIに対してますます警戒感を抱いている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;30歳未満の成人の55％が、AIに対して「期待」よりも「懸念」を抱くようになっており、これは2021年の31％から増加している。30歳未満の成人の73％は、今後20年間でAIによって米国の雇用が減少すると考えており、これは2024年の61％から増加している。Acro&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vs6yoh/young_adults_in_the_us_are_increasingly_wary_of/</guid>
-      <pubDate>Wed, 19 Aug 2026 00:27:33 GMT</pubDate>
+      <title>[r/artificial] AIによってインターネットの有用性は低下しているのだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vtkejc/is_ai_making_the_internet_less_useful/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIによってインターネットの有用性は低下しているのだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今やAIは、ほとんどどんな質問にも答えられるようになりました。しかし、オンライン上のコンテンツの多くもAIによって生成されるようになった場合、AIが学習する情報はどうなるのでしょうか？ある時点で、AIがAIが生成したデータを使って学習することになってしまうのでしょうか？&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Is AI making the internet less useful?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vtkejc/is_ai_making_the_internet_less_useful/</guid>
+      <pubDate>Thu, 20 Aug 2026 14:02:56 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 顧客が電話を切ってから、何が問題だったかを教えてくれるだけのAIツールに、みんなもううんざりしているのかな？それとも私だけかな？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vsm0zn/is_everybody_else_getting_tired_of_ai_tools_that/</link>
-      <description>&lt;p&gt;&lt;strong&gt;顧客が電話を切ってから、何が問題だったかを教えてくれるだけのAIツールに、みんなもううんざりしているのかな？それとも私だけかな？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;多くのツールは、通話終了後の分析には非常に優れているようです。通話記録やQAスコア、感情分析、コーチングメモなどが得られます。AHTが上昇した理由を示すダッシュボードもあるかもしれません。これらは確かに有用ですが、顧客は……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Is everybody else getting tired of AI tools that only tell you what went wrong after the customer hangs up or is it just me?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vsm0zn/is_everybody_else_getting_tired_of_ai_tools_that/</guid>
-      <pubDate>Wed, 19 Aug 2026 13:11:16 GMT</pubDate>
+      <title>[r/artificial] 今のところ、AIワークフローツールのROIは現実離れしているように感じますが、私の考えが間違っていることを願っています</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vtlrnz/roi_on_ai_workflow_tools_feels_fake_right_now_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;今のところ、AIワークフローツールのROIは現実離れしているように感じますが、私の考えが間違っていることを願っています&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;自分のSaaSにおける顧客オンボーディングプロセスの一部を自動化しようとしています。特別なことではなく、週に2時間ほどを費やしているメールのやり取りを減らすだけです。これまでに、おそらく6時間ほどを費やして……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: ROI on AI workflow tools feels fake right now and i want to be wrong&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vtlrnz/roi_on_ai_workflow_tools_feels_fake_right_now_and/</guid>
+      <pubDate>Thu, 20 Aug 2026 14:55:21 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIアートに作者がいない場合：研究によると、生成された画像は多くの場合、学習データに由来するものと特定できないことが判明した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vsebj5/when_ai_art_has_no_author_study_finds_generated/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIアートに作者がいない場合：研究によると、生成された画像は多くの場合、学習データに由来するものと特定できないことが判明した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/frankster   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: When AI art has no author: Study finds generated images often can’t be traced to training data&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vsebj5/when_ai_art_has_no_author_study_finds_generated/</guid>
-      <pubDate>Wed, 19 Aug 2026 06:24:12 GMT</pubDate>
+      <title>[r/artificial] ウクライナは、ロシア製の巡航ミサイルの中から制御不能なNvidia製AIチップを発見した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vtjfva/ukraine_found_an_uncontrolled_nvidia_ai_chip/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ウクライナは、ロシア製の巡航ミサイルの中から制御不能なNvidia製AIチップを発見した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;数日前に明らかになったところによると、ウクライナの情報機関（HUR）は、撃墜されたロシア製のS-71M巡航ミサイルからNvidiaのJetson Orin NXモジュールを取り出した。Nvidiaの反応は少々突飛なものだ。この特定のチップは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Ukraine found an uncontrolled Nvidia AI chip inside a Russian cruise missile&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vtjfva/ukraine_found_an_uncontrolled_nvidia_ai_chip/</guid>
+      <pubDate>Thu, 20 Aug 2026 13:24:32 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] オープンウェイト型モデルが、自律型サイバー攻撃における差の大部分を埋めたばかりだ――これにより、誰がそれを実行できるかという点が変化する</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vsstg0/an_openweight_model_just_closed_most_of_the_gap/</link>
-      <description>&lt;p&gt;&lt;strong&gt;オープンウェイト型モデルが、自律型サイバー攻撃における差の大部分を埋めたばかりだ――これにより、誰がそれを実行できるかという点が変化する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIセキュリティ研究グループ「Irregular」は、オープンウェイトモデルである「Kimi K3」を、自律型サイバー攻撃を軸に構築されたベンチマーク「CyScenarioBench」を用いてテストした。このベンチマークでは、公開されているエクスプロイト手法を応用して……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: An open-weight model just closed most of the gap on autonomous cyber offense - and that changes who can run it&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vsstg0/an_openweight_model_just_closed_most_of_the_gap/</guid>
-      <pubDate>Wed, 19 Aug 2026 17:19:18 GMT</pubDate>
+      <title>[r/artificial] あなたはAIに詳しいのですか、それとも単に利用しているだけですか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vtr49w/are_you_good_at_ai_or_just_using_it/</link>
+      <description>&lt;p&gt;&lt;strong&gt;あなたはAIに詳しいのですか、それとも単に利用しているだけですか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;現在、AIの個人別習熟度を測る評価尺度を作成中ですが、各レベルとその定義について、皆様からのフィードバックをぜひお聞かせください。L0 初心者：AIをまったく初めて利用する、またはまだ利用したことがない。L1 チャット：簡単なプロンプトと応答&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Are you good at AI, or just using it?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vtr49w/are_you_good_at_ai_or_just_using_it/</guid>
+      <pubDate>Thu, 20 Aug 2026 18:09:13 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIを恐れている人は他にいますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vsuixb/ai_fears_anyone_else/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIを恐れている人は他にいますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;まず、私はIT業界で働いているわけでもなく、AIを頻繁に利用しているわけでもないことをお断りしておきます。しかし、私たちの生活におけるAIの役割について、ますます不安を感じています。皆さんのご意見をお聞かせいただければと思います。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI Fears anyone else?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vsuixb/ai_fears_anyone_else/</guid>
-      <pubDate>Wed, 19 Aug 2026 18:18:18 GMT</pubDate>
+      <title>[r/artificial] オープンソースが今、大注目されている：話題のスレッド</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vtmha5/open_source_is_trending_hard_today_hot_take_thread/</link>
+      <description>&lt;p&gt;&lt;strong&gt;オープンソースが今、大注目されている：話題のスレッド&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今、誰もがオープンソースについて話題にしています。主なニュースは、mojoがオープンソースになったということです。そのスレッドの中で、私の考えを刺激したある意見があります。「放棄されたオープンソースプロジェクトを救い、bを最新化するにはどうすればよいか」&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Open source is trending hard today: hot take thread&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vtmha5/open_source_is_trending_hard_today_hot_take_thread/</guid>
+      <pubDate>Thu, 20 Aug 2026 15:21:51 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 「Built with Claude」：重工業の排出量や公的登録データを追跡するライブ3D OSINT地球儀</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vsmg4g/built_with_claude_a_live_3d_osint_globe_tracking/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「Built with Claude」：重工業の排出量や公的登録データを追跡するライブ3D OSINT地球儀&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私が開発したものとその機能 「TrackWanted」は、公開されている環境データや登録記録を1つの3D地球上に集約する、リアルタイムのデータ可視化プラットフォームです。このプラットフォームには「Carbon Watch」という機能が搭載されています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Built with Claude: A live 3D OSINT globe tracking heavy industry emissions &amp; public registry data&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vsmg4g/built_with_claude_a_live_3d_osint_globe_tracking/</guid>
-      <pubDate>Wed, 19 Aug 2026 13:28:00 GMT</pubDate>
+      <title>[r/artificial] 「アラインメント税」：企業のAI対策により、コンピューティング費用が25～35％増加しているが、誰もそのことについて語らない</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vtbsca/the_alignment_tax_corporate_ai_guardrails_add/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「アラインメント税」：企業のAI対策により、コンピューティング費用が25～35％増加しているが、誰もそのことについて語らない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;あらゆる企業のAI予算には、ほとんど誰も監査しない費用項目が一つあります。それは請求書には記載されておらず、価格帯の比較表にも個別に明示されていません。しかし、その割合は25％を占めており、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The alignment tax: corporate AI guardrails add 25-35% to your compute bill and nobody talks about it&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vtbsca/the_alignment_tax_corporate_ai_guardrails_add/</guid>
+      <pubDate>Thu, 20 Aug 2026 06:42:55 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] どのAIが最もおべっか使いではないでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vshmk1/which_ai_has_the_least_sycophancy/</link>
-      <description>&lt;p&gt;&lt;strong&gt;どのAIが最もおべっか使いではないでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;皆さんの意見では、どのAIが最も「おべっかい」が少ないと思いますか？ もしランキング形式で教えていただけるとありがたいです。よろしくお願いします  &amp;#32; 投稿者：&amp;#32;  /u/MoneyAndCoke2712   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Which AI has the least Sycophancy?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vshmk1/which_ai_has_the_least_sycophancy/</guid>
-      <pubDate>Wed, 19 Aug 2026 09:36:07 GMT</pubDate>
+      <title>[r/artificial] 3人の皆さんから、私のLLMの履歴書審査に関する研究は、測定すべきでないものを測定していたと指摘されました。皆さんのご指摘は正しかったです。以下にデータを示します。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vtokti/three_of_you_told_me_my_llm_résuméscreening_study/</link>
+      <description>&lt;p&gt;&lt;strong&gt;3人の皆さんから、私のLLMの履歴書審査に関する研究は、測定すべきでないものを測定していたと指摘されました。皆さんのご指摘は正しかったです。以下にデータを示します。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;3ヶ月前、私はLLMによる履歴書審査に関する研究を投稿しました。その研究では、監査担当者がスコアの違いの45％をバイアスとして指摘していました。投稿へのフィードバックで私の方法論に疑問が呈されたため、新たな実験を行って検証しました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Three of you told me my LLM résumé-screening study measured the wrong thing. You were right. Here is the data.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vtokti/three_of_you_told_me_my_llm_résuméscreening_study/</guid>
+      <pubDate>Thu, 20 Aug 2026 16:37:54 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 大規模な職場実験で、AIを駆使した1人の従業員が2人組のチームに匹敵する成果を上げた - Research Today</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vstvk2/one_employee_with_ai_matched_a_twoperson_team_in/</link>
-      <description>&lt;p&gt;&lt;strong&gt;大規模な職場実験で、AIを駆使した1人の従業員が2人組のチームに匹敵する成果を上げた - Research Today&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/CandyFangs   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: One employee with AI matched a two-person team in a major workplace experiment - Research Today&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vstvk2/one_employee_with_ai_matched_a_twoperson_team_in/</guid>
-      <pubDate>Wed, 19 Aug 2026 17:56:15 GMT</pubDate>
+      <title>[r/artificial] 最新のLLMを一から構築しましょう。すべての行にコメントを付け、まるで5歳児に説明するように分かりやすく解説しています。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vtj1zv/build_a_modern_llm_from_scratch_every_line/</link>
+      <description>&lt;p&gt;&lt;strong&gt;最新のLLMを一から構築しましょう。すべての行にコメントを付け、まるで5歳児に説明するように分かりやすく解説しています。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/raiyanyahya   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Build a modern LLM from scratch. Every line commented. Explained like we are five.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vtj1zv/build_a_modern_llm_from_scratch_every_line/</guid>
+      <pubDate>Thu, 20 Aug 2026 13:08:36 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AI動画編集ツールだけを使って、シンプルな商品紹介動画をより興味深いものに変える方法をご存知の方はいらっしゃいますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vstgns/does_anyone_know_of_a_solution_for_turning_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI動画編集ツールだけを使って、シンプルな商品紹介動画をより興味深いものに変える方法をご存知の方はいらっしゃいますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;実は、オンラインの古着店を運営していて、最近YouTubeチャンネルを開設しました。手持ちの面白い商品、例えば新品同様のラジオシャックの旧在庫品や、新品の&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Does anyone know of a solution for turning a basic product showcasing video into something more interesting completely using an AI video editing tool?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vstgns/does_anyone_know_of_a_solution_for_turning_a/</guid>
-      <pubDate>Wed, 19 Aug 2026 17:41:48 GMT</pubDate>
+      <title>[r/artificial] インテル製PC向け分散型LLM推論に関する当社の研究の内幕</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vtrvod/inside_our_distributed_llm_inference_research_for/</link>
+      <description>&lt;p&gt;&lt;strong&gt;インテル製PC向け分散型LLM推論に関する当社の研究の内幕&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/techne98   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Inside Our Distributed LLM Inference Research for Intel PCs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vtrvod/inside_our_distributed_llm_inference_research_for/</guid>
+      <pubDate>Thu, 20 Aug 2026 18:36:22 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] セインズベリー、誤った万引きの疑いが浮上したことを受け、AI顔認識機能を一時停止</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vrqj9f/sainsburys_pauses_ai_facial_recognition_after/</link>
-      <description>&lt;p&gt;&lt;strong&gt;セインズベリー、誤った万引きの疑いが浮上したことを受け、AI顔認識機能を一時停止&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;英国のスーパーマーケット「セインズベリー」は、ロンドンのある店舗で、顧客が万引き犯と誤認され、退店を求められたことを受け、AI顔認識技術の使用を一時的に停止した。  この件について&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Sainsbury’s pauses AI facial recognition after wrongful shoplifting accusation&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vrqj9f/sainsburys_pauses_ai_facial_recognition_after/</guid>
-      <pubDate>Tue, 18 Aug 2026 14:19:29 GMT</pubDate>
+      <title>[r/artificial] うちのコーディング担当が、自らが引き起こしたページネーションのバグを承認しちゃった（笑）</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vtlisn/my_coding_agent_approved_its_own_pagination_bug/</link>
+      <description>&lt;p&gt;&lt;strong&gt;うちのコーディング担当が、自らが引き起こしたページネーションのバグを承認しちゃった（笑）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;先週、とんでもないミスをしてしまった。あるエージェントが、同期ジョブのページネーションのコードを一部変更したんだ。テストは通過し、プルリクエストも問題なさそうに見えたのに、ステージング環境ではカーソルが更新されなかったせいで、ちょうど100件目で処理が停止してしまった。その…&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: my coding agent approved its own pagination bug lol&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vtlisn/my_coding_agent_approved_its_own_pagination_bug/</guid>
+      <pubDate>Thu, 20 Aug 2026 14:46:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
