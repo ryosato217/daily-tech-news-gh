@@ -3,82 +3,74 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-08-23</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-08-24</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Aug 2026 18:36:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 18:48:50 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (335pt) タブレットを手に入れるために、266ドルと4つのAIモデルを費やしました。GLM-5.3が1日で仕上げてくれました。</title>
-      <link>https://news.ycombinator.com/item?id=49409073</link>
-      <description>&lt;p&gt;&lt;strong&gt;タブレットを手に入れるために、266ドルと4つのAIモデルを費やしました。GLM-5.3が1日で仕上げてくれました。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49409073</guid>
-      <pubDate>Sun, 23 Aug 2026 14:23:09 GMT</pubDate>
+      <title>[Hacker News] (280pt) MSペイントとフォトは、ローカルで生成された出力ファイルにもGUIDを目に見えない形で透かしとして挿入する</title>
+      <link>https://news.ycombinator.com/item?id=49421158</link>
+      <description>&lt;p&gt;&lt;strong&gt;MSペイントとフォトは、ローカルで生成された出力ファイルにもGUIDを目に見えない形で透かしとして挿入する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: MS Paint and Photos inivisibly watermark even locally generated output with GUID&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49421158</guid>
+      <pubDate>Mon, 24 Aug 2026 15:28:04 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (186pt) GLM-5.3（オープンウェイト）が、Anthropic／OpenAIのモデルを凌駕――そのコストはわずか5分の1</title>
-      <link>https://news.ycombinator.com/item?id=49410097</link>
-      <description>&lt;p&gt;&lt;strong&gt;GLM-5.3（オープンウェイト）が、Anthropic／OpenAIのモデルを凌駕――そのコストはわずか5分の1&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49410097</guid>
-      <pubDate>Sun, 23 Aug 2026 16:24:21 GMT</pubDate>
+      <title>[Hacker News] (184pt) IPFSのメンテナーが活動を縮小中</title>
+      <link>https://news.ycombinator.com/item?id=49421489</link>
+      <description>&lt;p&gt;&lt;strong&gt;IPFSのメンテナーが活動を縮小中&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: IPFS Maintainers Winding Down&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49421489</guid>
+      <pubDate>Mon, 24 Aug 2026 15:48:45 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (117pt) 『複雑系はなぜ崩壊するのか』（1998年）</title>
-      <link>https://news.ycombinator.com/item?id=49409473</link>
-      <description>&lt;p&gt;&lt;strong&gt;『複雑系はなぜ崩壊するのか』（1998年）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How Complex Systems Fail (1998)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49409473</guid>
-      <pubDate>Sun, 23 Aug 2026 15:13:31 GMT</pubDate>
+      <title>[Hacker News] (176pt) OpenAI：GPT 5.6の価格引き下げ（少なくとも11月21日まで）</title>
+      <link>https://news.ycombinator.com/item?id=49421074</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAI：GPT 5.6の価格引き下げ（少なくとも11月21日まで）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49421074</guid>
+      <pubDate>Mon, 24 Aug 2026 15:22:43 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (51pt) 不要な機能を削ぎ落としたオープンソースの代替案を紹介するウェブサイト</title>
-      <link>https://news.ycombinator.com/item?id=49410362</link>
-      <description>&lt;p&gt;&lt;strong&gt;不要な機能を削ぎ落としたオープンソースの代替案を紹介するウェブサイト&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A website for debloated open source alternatives&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49410362</guid>
-      <pubDate>Sun, 23 Aug 2026 16:54:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[VentureBeat AI] VentureBeatは、ロブ・ストレチェイ氏を初代リードアナリストに任命し、エンタープライズAI分野における研究活動を拡大する</title>
+      <title>[VentureBeat AI] VentureBeatは、ロブ・ストレチェイ氏を初代リードアナリストに任命し、エンタープライズAI分野の研究体制を強化した</title>
       <link>https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push</link>
-      <description>&lt;p&gt;&lt;strong&gt;VentureBeatは、ロブ・ストレチェイ氏を初代リードアナリストに任命し、エンタープライズAI分野における研究活動を拡大する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近までtheCUBE Researchのマネージング・ディレクター兼主席アナリストを務めていたロブ・ストレチェイ氏が、VentureBeatの初代リード・アナリストおよびVentureBeat Researchの創設アナリストとして入社しました。彼の加入は&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;VentureBeatは、ロブ・ストレチェイ氏を初代リードアナリストに任命し、エンタープライズAI分野の研究体制を強化した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近までtheCUBE Researchのマネージング・ディレクター兼主席アナリストを務めていたロブ・ストレチェイ氏が、VentureBeatに初のリードアナリストおよびVentureBeat Researchの創設アナリストとして加わりました。同氏の加入は&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push</guid>
       <pubDate>Wed, 19 Aug 2026 14:18:12 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
+      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラストラクチャでAWSに対抗するため、1億ドルの資金を確保した</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
-      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずにひっそりと200万人の開発者を獲得してきたが、木曜日にシリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラストラクチャでAWSに対抗するため、1億ドルの資金を確保した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずにひっそりと200万人の開発者を集めてきたが、木曜日にシリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Railway secures $100 million to challenge AWS with AI-native cloud infrastructure&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</guid>
       <pubDate>Thu, 22 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。</title>
+      <title>[VentureBeat AI] Claude Codeの月額料金は最大200ドルです。Gooseなら同じ機能を無料で利用できます。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
-      <description>&lt;p&gt;&lt;strong&gt;Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、ある問題点があります。それは、コストが高いということです。Anthropic社が開発したターミナルベースのAIエージェント「Claude Code」は、コードの記述、デバッグ、デプロイを自律的に行うことができますが、その容量には制限があり……&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Claude Codeの月額料金は最大200ドルです。Gooseなら同じ機能を無料で利用できます。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、ある問題点があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が設けられており、&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6,900万ドルを調達</title>
+      <title>[VentureBeat AI] Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6900万ドルを調達</title>
       <link>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</link>
-      <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6,900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アルフレッド・ヴァールフォルスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「リッスン・ラボ」は100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーと競い合うことは不可能に思えた。そこで彼は……&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Listen Labs、AIを活用した顧客インタビューの拡大に向け、話題を呼んだ採用キャンペーンをきっかけに6900万ドルを調達&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;アルフレッド・ヴァールフォスには、もはや打つ手がなくなっていた。彼が立ち上げたスタートアップ「Listen Labs」では、100人以上のエンジニアを採用する必要があったが、マーク・ザッカーバーグが提示する1億ドルのオファーに対抗することは不可能に思えた。そこで彼は、&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</guid>
       <pubDate>Fri, 16 Jan 2026 14:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] Salesforceは、職場向けAI分野でマイクロソフトやグーグルと競合する中、新しいSlackbot AIエージェントをリリースした</title>
+      <title>[VentureBeat AI] Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。</title>
       <link>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</link>
-      <description>&lt;p&gt;&lt;strong&gt;Salesforceは、職場向けAI分野でマイクロソフトやグーグルと競合する中、新しいSlackbot AIエージェントをリリースした&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタントである「Slackbot」の全面的に刷新されたバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、経営陣が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Salesforceは、職場向けAI分野でMicrosoftやGoogleと競合する中、新しいSlackbot AIエージェントをリリースした。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;セールスフォースは火曜日、同社のワークプレイス・アシスタント「Slackbot」を全面的に刷新したバージョンをリリースした。これにより、Slackbotは単なる通知ツールから、経営陣が「完全に」と表現するような存在へと変貌を遂げた。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</guid>
       <pubDate>Tue, 13 Jan 2026 13:00:00 GMT</pubDate>
@@ -87,82 +79,82 @@
       <title>[VentureBeat AI] Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
       <description>&lt;p&gt;&lt;strong&gt;Anthropicは、ファイル内で動作するClaude Desktopエージェント「Cowork」をリリースしました。コーディングは一切不要です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡張する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、このチームは……&lt;/p&gt;
+&lt;p&gt;Anthropicは月曜日、大ヒットを記録した「Claude Code」ツールの機能を技術に詳しくないユーザーにも拡大する新しいAIエージェント機能「Cowork」をリリースした。同社関係者によると、この機能を開発したチームは……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</guid>
       <pubDate>Mon, 12 Jan 2026 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] マイクロソフトの元CEO、スティーブ・バルマー氏：彼自身のメンテナンス担当者が、多くの企業におけるAI導入の進捗を上回る適応力を見せている</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vwbhe0/former_microsoft_ceo_steve_ballmer_his_own/</link>
-      <description>&lt;p&gt;&lt;strong&gt;マイクロソフトの元CEO、スティーブ・バルマー氏：彼自身のメンテナンス担当者が、多くの企業におけるAI導入の進捗を上回る適応力を見せている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;要約：スティーブ・バルマー氏の専属メンテナンス担当者の事例は、能力の評価基準が「資格」から「まずAIに尋ねてみる姿勢」へと移行しつつあることを示している。これは単なる修辞的な表現ではなく、すでに現実となっている。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Former Microsoft CEO Steve Ballmer: his own maintenance guy is out-adapting most corporate AI rollouts&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vwbhe0/former_microsoft_ceo_steve_ballmer_his_own/</guid>
-      <pubDate>Sun, 23 Aug 2026 16:19:19 GMT</pubDate>
+      <title>[r/artificial] 複雑な問題を解決するために、ChatGPT、Claude、Geminiをグループチャットに招き入れました。彼らが互いの「幻覚」を見抜いた経緯は以下の通りです。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vx1jrm/i_brought_chatgpt_claude_and_gemini_into_a_group/</link>
+      <description>&lt;p&gt;&lt;strong&gt;複雑な問題を解決するために、ChatGPT、Claude、Geminiをグループチャットに招き入れました。彼らが互いの「幻覚」を見抜いた経緯は以下の通りです。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;こんな経験、皆さんもあるでしょう。LLMに複雑なプロンプトを入力すると、LLMは自信満々の答えを吐き出し、あとはただ……それが正しいことを願うしかない、という状況です。もし別のタブで同じ質問を投げかければ、Cla&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I brought ChatGPT, Claude, and Gemini into a group chat to solve a complex problem. Here is how they caught each other hallucinating&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vx1jrm/i_brought_chatgpt_claude_and_gemini_into_a_group/</guid>
+      <pubDate>Mon, 24 Aug 2026 12:34:25 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Napsterのホームページは、今や完全にAIエージェントで構成されています。これは、トレーニングデータがいかに早く陳腐化するかという点を示す、明確なテストケースです。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vw85a0/napsters_homepage_is_now_entirely_ai_agents_its_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Napsterのホームページは、今や完全にAIエージェントで構成されています。これは、トレーニングデータがいかに早く陳腐化するかという点を示す、明確なテストケースです。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今日、気まぐれでnapster.comをチェックしてみました。ページのタイトルは「Napster | 音声、動画、記憶を備えた可視化されたAIエージェント」となっています。見出しは「目で見ることができ、会話ができ、自分で作成できるAIエージェント」です。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Napster's homepage is now entirely AI agents. It's a clean test case for how fast training data goes stale.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vw85a0/napsters_homepage_is_now_entirely_ai_agents_its_a/</guid>
-      <pubDate>Sun, 23 Aug 2026 14:07:30 GMT</pubDate>
+      <title>[r/artificial] AIエージェントが使用するトークンの量は、現在、人間の5倍に達している。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIエージェントが使用するトークンの量は、現在、人間の5倍に達している。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/BrightLeopard7590   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI agents are now using 5x more tokens than humans..&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/</guid>
+      <pubDate>Sun, 23 Aug 2026 22:10:28 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ちょっと異論を唱えるけど、AIはピークを迎え、次第に影を潜め、人間ならではの価値が「贅沢品」になるだろう</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vvh293/unpopular_opinion_ai_is_going_to_hit_a_peak_fade/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ちょっと異論を唱えるけど、AIはピークを迎え、次第に影を潜め、人間ならではの価値が「贅沢品」になるだろう&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;コンピュータがまだ贅沢品だった頃を覚えていますか？今ではどこにでもあるし、ほとんど目立たなくなりましたが、「ノートパソコンを持っている」と言っても、もう誰も感心しません。AIも同様の道をたどっていると思います。AIもすっかり一般的になって、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Unpopular opinion: AI is going to hit a peak, fade into the background, and human stuff becomes the luxury item&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vvh293/unpopular_opinion_ai_is_going_to_hit_a_peak_fade/</guid>
-      <pubDate>Sat, 22 Aug 2026 16:36:06 GMT</pubDate>
+      <title>[r/artificial] 報道によると、AnthropicのIPO申請書では、AIに対する世論の反対が正式なリスク要因として挙げられる見通しだ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vx2ylz/anthropics_ipo_filing_will_reportedly_name_public/</link>
+      <description>&lt;p&gt;&lt;strong&gt;報道によると、AnthropicのIPO申請書では、AIに対する世論の反対が正式なリスク要因として挙げられる見通しだ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CNBCは今週、Anthropic社が6月に提出した非公開のIPO申請書類において、AIや新たなデータセンターに対する世論の反対を、公開書類が公表され次第、正式なリスク要因として挙げると報じた。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic's IPO filing will reportedly name public opposition to AI as a formal risk factor&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vx2ylz/anthropics_ipo_filing_will_reportedly_name_public/</guid>
+      <pubDate>Mon, 24 Aug 2026 13:32:55 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] なぜエージェントのデプロイは、いまだにサイドプロジェクトをデプロイしているような気分になるのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vwccjp/why_does_deploying_an_agent_still_feel_like/</link>
-      <description>&lt;p&gt;&lt;strong&gt;なぜエージェントのデプロイは、いまだにサイドプロジェクトをデプロイしているような気分になるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;地元でエージェントを稼働させることは、とてつもなく簡単になりました。しかし、誰かにそのエージェントを頼りにしてもらうとなると、状況は一変します。環境、シークレット、権限、監視、評価などが必要になってきます。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Why does deploying an agent still feel like deploying a side project?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vwccjp/why_does_deploying_an_agent_still_feel_like/</guid>
-      <pubDate>Sun, 23 Aug 2026 16:52:27 GMT</pubDate>
+      <title>[r/artificial] AIによって完全に制御されていたドローンが、ウクライナ人3名を殺害した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vxb34m/a_drone_guided_entirely_by_ai_killed_three/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIによって完全に制御されていたドローンが、ウクライナ人3名を殺害した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A Drone Guided Entirely by A.I. Killed Three Ukrainians&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vxb34m/a_drone_guided_entirely_by_ai_killed_three/</guid>
+      <pubDate>Mon, 24 Aug 2026 18:28:17 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 英国の出版社各社は、Googleの新しい検索エンジン選択画面からChatGPTを排除するよう働きかけている――その理由は、皆さんが想像しているものとは異なる。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vwbj6p/uk_publishers_are_lobbying_to_keep_chatgpt_off/</link>
-      <description>&lt;p&gt;&lt;strong&gt;英国の出版社各社は、Googleの新しい検索エンジン選択画面からChatGPTを排除するよう働きかけている――その理由は、皆さんが想像しているものとは異なる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;つまり、Googleは英国のユーザーに対し、デフォルトの検索エンジンを選択できる画面を表示しなければならない。これは、新しいDMCCA法に基づく競争法上の是正措置である。出版社各社は、Chatが確実に機能するよう、規制当局に申請を行ったばかりだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: UK publishers are lobbying to keep ChatGPT OFF Google's new search choice screen - and the reason isn't what you'd think&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vwbj6p/uk_publishers_are_lobbying_to_keep_chatgpt_off/</guid>
-      <pubDate>Sun, 23 Aug 2026 16:21:07 GMT</pubDate>
+      <title>[r/artificial] よりスマートで高性能なAIを構築するための新たなアプローチ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vwxaip/a_new_approach_to_building_smarter_more_capable_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;よりスマートで高性能なAIを構築するための新たなアプローチ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;より賢く、より高性能なAIを構築するための新たなアプローチ AIの性能を向上させるための考え方において、私たちは「木を見て森を見ず」の状態に陥っているようです。私たちは、唯一の&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A new approach to building smarter more capable AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vwxaip/a_new_approach_to_building_smarter_more_capable_ai/</guid>
+      <pubDate>Mon, 24 Aug 2026 08:54:56 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIの達人の皆さん、コンサルタントレベルのプレゼンテーションを作成できる、優れたAIプラットフォームやツールを教えてください。また、知的な提案や事実に基づく分析機能も備えているものが望ましいです。現在利用可能なものの中からトップ5を教えてください。できれば無料のものが望ましいですが（無料版ではPPTを作成できないようなら）、有料のものでも構いません。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vwev6p/hi_ai_champs_please_let_me_know_top_ai_platforms/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIの達人の皆さん、コンサルタントレベルのプレゼンテーションを作成できる、優れたAIプラットフォームやツールを教えてください。また、知的な提案や事実に基づく分析機能も備えているものが望ましいです。現在利用可能なものの中からトップ5を教えてください。できれば無料のものが望ましいですが（無料版ではPPTを作成できないようなら）、有料のものでも構いません。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIの助けが必要  &amp;#32; 投稿者：&amp;#32;  /u/mynamear   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Hi AI champs, please let me know top AI platforms or tools to create consultant level presentations along with some intelligent suggestions and fact based analysis. Top 5 which are the best available, free preferred (don't think they create ppts) so the paid ones will do.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vwev6p/hi_ai_champs_please_let_me_know_top_ai_platforms/</guid>
-      <pubDate>Sun, 23 Aug 2026 18:26:50 GMT</pubDate>
+      <title>[r/artificial] ベンチマークを再実行しました。決定論的な結果は完全に再現されましたが、モデルに関連する指標は異なる結果を示しています。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vx563w/i_reran_the_benchmark_the_deterministic_result/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ベンチマークを再実行しました。決定論的な結果は完全に再現されましたが、モデルに関連する指標は異なる結果を示しています。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ベンチマークを再実行しました。決定論的な結果は完全に再現されましたが、モデルに関連する指標からは異なる結果が示されました。前回のベンチマークに関する議論を受けて、検証能力を再実行しました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I reran the benchmark. The deterministic result reproduced exactly — but the model-related metric tells a different story.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vx563w/i_reran_the_benchmark_the_deterministic_result/</guid>
+      <pubDate>Mon, 24 Aug 2026 14:57:28 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIはロゴスに到達できるのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vw8jui/can_ai_reach_the_logos/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIはロゴスに到達できるのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高度なAI（明らかに現在のものとは異なる）のこの仮説的な発展経路の独創性は気に入ったが、将来のシステムが真に自己修正能力を持ち、一貫性を追求するようになった場合、どのようなものが現れるのだろうか。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Can AI Reach the Logos?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vw8jui/can_ai_reach_the_logos/</guid>
-      <pubDate>Sun, 23 Aug 2026 14:24:23 GMT</pubDate>
+      <title>[r/artificial] 私は、AIを人間が指揮・統括するための表彰制度を構築しました。論旨：評価の権限は人間が持つべきである。この考えを徹底的に批判してください。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vxbhha/i_built_an_awards_institution_for_human/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私は、AIを人間が指揮・統括するための表彰制度を構築しました。論旨：評価の権限は人間が持つべきである。この考えを徹底的に批判してください。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;まず前置きとして：私はこのプロジェクトの創設者であり、これは私のプロジェクトで、投稿も私自身がしています。高評価を求めているわけではなく、議論の穴を探しています。前提として：AIの能力が高まるにつれて、インテ&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I built an awards institution for human orchestration of AI. Thesis: recognition authority should stay human. Tear it apart.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vxbhha/i_built_an_awards_institution_for_human/</guid>
+      <pubDate>Mon, 24 Aug 2026 18:41:45 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 失敗の要因は反抗ではない。「どうせうまくいく」という考え方だ。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1vw7goc/the_failure_mode_isnt_rebellion_it_is_it_works/</link>
-      <description>&lt;p&gt;&lt;strong&gt;失敗の要因は反抗ではない。「どうせうまくいく」という考え方だ。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今日、AIは多くのことをこなすことができます。そして、時が経つにつれて、さらに多くのことをこなせるようになるでしょう。まるで、その席に座っている人間だけが重要であるかのような状況になるでしょう。人間の判断や経験、そして戦いの傷跡だけが重要になるのです。しかし、そこには大きな人間性に関する問題があります：&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The failure mode isnt rebellion. It is &quot;it works anyway&quot;&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vw7goc/the_failure_mode_isnt_rebellion_it_is_it_works/</guid>
-      <pubDate>Sun, 23 Aug 2026 13:38:43 GMT</pubDate>
+      <title>[r/artificial] Gemini 3.7は、Gemini 3.6とほぼ同時期にリリースされたにもかかわらず、なぜフラッシュ性能がはるかに優れているのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1vxale6/why_does_gemini_37_flash_lot_out_perform_gemini/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Gemini 3.7は、Gemini 3.6とほぼ同時期にリリースされたにもかかわらず、なぜフラッシュ性能がはるかに優れているのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近、コーディングをしていた際、Deep Seek（少なくともWeb版はひどく性能が悪い）と比較すると、再試行回数を最小限に抑えつつ、非常に高品質で動作するコードを、しかも非常に迅速かつ低コストで生成してくれました（ジェミニが……というのも納得です）。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: why does gemini 3.7 flash lot out perform gemini 3.6 despite released near time ?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1vxale6/why_does_gemini_37_flash_lot_out_perform_gemini/</guid>
+      <pubDate>Mon, 24 Aug 2026 18:11:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
