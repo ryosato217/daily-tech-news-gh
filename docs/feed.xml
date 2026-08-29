@@ -5,36 +5,36 @@
     <link>https://github.com</link>
     <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-08-29</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2026 01:37:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 20:46:31 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (484pt) A/I Collectiveに対する米国の制裁</title>
-      <link>https://news.ycombinator.com/item?id=49477854</link>
-      <description>&lt;p&gt;&lt;strong&gt;A/I Collectiveに対する米国の制裁&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: U.S. sanctions against the A/I Collective&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49477854</guid>
-      <pubDate>Fri, 28 Aug 2026 12:58:53 GMT</pubDate>
+      <title>[Hacker News] (128pt) AIではなく、「良い文化」こそが生産性を高める最大の秘訣だ</title>
+      <link>https://news.ycombinator.com/item?id=49491568</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIではなく、「良い文化」こそが生産性を高める最大の秘訣だ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Good Culture Is the Biggest Productivity Hack, Not AI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49491568</guid>
+      <pubDate>Sat, 29 Aug 2026 17:19:47 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (63pt) AppleのVirtualization.frameworkを使用して仮想iPhoneを起動する</title>
-      <link>https://news.ycombinator.com/item?id=49485267</link>
-      <description>&lt;p&gt;&lt;strong&gt;AppleのVirtualization.frameworkを使用して仮想iPhoneを起動する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Boot a Virtual iPhone via Apple's Virtualization.framework&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49485267</guid>
-      <pubDate>Fri, 28 Aug 2026 23:02:21 GMT</pubDate>
+      <title>[Hacker News] (39pt) WarpはClaudeを用いて自己改善型エージェントを構築している</title>
+      <link>https://news.ycombinator.com/item?id=49492432</link>
+      <description>&lt;p&gt;&lt;strong&gt;WarpはClaudeを用いて自己改善型エージェントを構築している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Warp builds self-improving agents on Claude&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49492432</guid>
+      <pubDate>Sat, 29 Aug 2026 19:09:33 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (32pt) AIを活用した偽造化粧品の特定</title>
-      <link>https://news.ycombinator.com/item?id=49484925</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIを活用した偽造化粧品の特定&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Identifying fake cosmetics using AI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49484925</guid>
-      <pubDate>Fri, 28 Aug 2026 22:18:27 GMT</pubDate>
+      <title>[Hacker News] (25pt) vLLM v0.28.0</title>
+      <link>https://news.ycombinator.com/item?id=49492067</link>
+      <description>&lt;p&gt;&lt;strong&gt;vLLM v0.28.0&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: vLLM v0.28.0&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49492067</guid>
+      <pubDate>Sat, 29 Aug 2026 18:22:00 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] エンタープライズAIの真のリスクは、自律型エージェントそのものではなく、それらを結びつける複雑さにある。</title>
       <link>https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them</link>
       <description>&lt;p&gt;&lt;strong&gt;エンタープライズAIの真のリスクは、自律型エージェントそのものではなく、それらを結びつける複雑さにある。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Gravitee提供　エージェントの複雑さは、現在企業の内部に潜む、光を当てるべき陰湿な影のような存在です。なぜなら、企業は単一のエージェントを導入して、ただ見守るだけでは済まないからです。&lt;/p&gt;
+&lt;p&gt;Gravitee提供　エージェントの複雑さは、現在企業内部に潜む陰湿な影であり、これを明らかにする必要がある。なぜなら、企業は単一のエージェントを導入してただ見守るだけでは&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them</guid>
       <pubDate>Thu, 27 Aug 2026 14:01:00 GMT</pubDate>
@@ -43,7 +43,7 @@
       <title>[VentureBeat AI] エージェントが自律的に動作する場合、ガバナンスはデータ層に組み込まれる必要がある</title>
       <link>https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer</link>
       <description>&lt;p&gt;&lt;strong&gt;エージェントが自律的に動作する場合、ガバナンスはデータ層に組み込まれる必要がある&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;EDB提供 企業がAIエージェントに、各ステップを人間が承認することなく、システムを横断して計画・決定・実行を行う自律性をより一層与えていくにつれ、ある難しい問題があらゆる分野の中心的な課題となりつつある。&lt;/p&gt;
+&lt;p&gt;EDB提供 企業がAIエージェントに、各ステップを人間が承認することなく、システムを横断して計画、決定、行動を行う能力といった、より高い自律性を与えるにつれ、ある難しい問題があらゆる分野の中心的な課題として浮上してきている。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: When agents act on their own, governance has to live in the data layer&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer</guid>
       <pubDate>Thu, 27 Aug 2026 12:01:00 GMT</pubDate>
@@ -52,25 +52,25 @@
       <title>[VentureBeat AI] AIエージェント時代のCXにとって、オーケストレーションは新たな課題となっている</title>
       <link>https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents</link>
       <description>&lt;p&gt;&lt;strong&gt;AIエージェント時代のCXにとって、オーケストレーションは新たな課題となっている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Tata Communications 提供。企業は、メッセージング、音声、デジタルチャネル全般において、AIエージェント、音声AI、自動化を導入していますが、その導入スピードは、それらを支えるはずのアーキテクチャの対応速度を上回っています。その大半は……&lt;/p&gt;
+&lt;p&gt;Tata Communications 提供。企業は、メッセージング、音声、デジタルチャネル全般において、AIエージェント、音声AI、自動化を導入していますが、その導入スピードは、それらを支えるはずのアーキテクチャの対応速度を上回っています。その大半は&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Orchestration is the new challenge for CX in the age of AI agents&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents</guid>
       <pubDate>Wed, 26 Aug 2026 14:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] VentureBeatは、ロブ・ストレチェイ氏を初代リードアナリストに任命し、エンタープライズAI分野の研究体制を強化した</title>
+      <title>[VentureBeat AI] VentureBeatは、ロブ・ストレチェイ氏を初代リードアナリストに任命し、エンタープライズAIに関する研究体制を強化した。</title>
       <link>https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push</link>
-      <description>&lt;p&gt;&lt;strong&gt;VentureBeatは、ロブ・ストレチェイ氏を初代リードアナリストに任命し、エンタープライズAI分野の研究体制を強化した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近までtheCUBE Researchのマネージング・ディレクター兼主席アナリストを務めていたロブ・ストレチェイ氏が、VentureBeat初のリードアナリストおよびVentureBeat Researchの創設アナリストとして入社しました。彼の加入により、&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;VentureBeatは、ロブ・ストレチェイ氏を初代リードアナリストに任命し、エンタープライズAIに関する研究体制を強化した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近までtheCUBE Researchのマネージング・ディレクター兼主席アナリストを務めていたロブ・ストレチェイ氏が、VentureBeatの初代リードアナリストおよびVentureBeat Researchの創設アナリストとして入社しました。彼の加入により、&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push</guid>
       <pubDate>Wed, 19 Aug 2026 14:18:12 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
+      <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラストラクチャでAWSに対抗するため、1億ドルの資金を確保した</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
-      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずにひっそりと200万人の開発者を集めてきたが、木曜日にシリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラストラクチャでAWSに対抗するため、1億ドルの資金を確保した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティングに1ドルも費やすことなくひっそりと200万人の開発者を集めてきたが、木曜日にシリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Railway secures $100 million to challenge AWS with AI-native cloud infrastructure&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</guid>
       <pubDate>Thu, 22 Jan 2026 14:00:00 GMT</pubDate>
@@ -79,91 +79,82 @@
       <title>[VentureBeat AI] Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、1つ問題があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、ある問題点があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>[r/artificial] AIと認知能力</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w1m34z/ai_and_cognitive_ability/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIと認知能力&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;皆さん、こんにちは。ここで専門家の意見をお聞きしたいのですが。私はマネージャーで、業務のすべてにAIを活用しています。プレゼン資料の作成やデータの整理、メールの作成などです。ワークフローを設定したおかげで、かなりの時間を節約できています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI and Cognitive Ability&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w1m34z/ai_and_cognitive_ability/</guid>
+      <pubDate>Sat, 29 Aug 2026 13:06:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] OpenAIは11月12日をもって、Cursorへのモデルの提供を停止する予定だ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w1w7f9/openai_plans_to_stop_supplying_models_to_cursor/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIは11月12日をもって、Cursorへのモデルの提供を停止する予定だ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenAIは、Cursorへのモデル提供契約を段階的に終了させる意向であり、終了予定日は2026年11月12日であると述べている。OpenAIによると、SpaceXによる買収後のCursorの支配権の変更が&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI plans to stop supplying models to Cursor on Nov. 12&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w1w7f9/openai_plans_to_stop_supplying_models_to_cursor/</guid>
+      <pubDate>Sat, 29 Aug 2026 19:52:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] エージェントグラフの構築方法</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w1mijt/how_to_build_agentic_graphs/</link>
+      <description>&lt;p&gt;&lt;strong&gt;エージェントグラフの構築方法&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;この4か月間、グラフを扱う中で、グラフ設計についていくつかの重要な教訓を、苦労しながら学びました。この記事では、皆さんが私と同じ過ちを繰り返さないよう、主な学びを共有したいと思います。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How to Build Agentic Graphs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w1mijt/how_to_build_agentic_graphs/</guid>
+      <pubDate>Sat, 29 Aug 2026 13:24:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 診療所の業務フロー自動化に向けたAI。現在、実際に効果を上げているものと、単なる誇大宣伝に過ぎないものとは</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w1ix49/ai_for_clinic_workflow_automation_whats_actually/</link>
+      <description>&lt;p&gt;&lt;strong&gt;診療所の業務フロー自動化に向けたAI。現在、実際に効果を上げているものと、単なる誇大宣伝に過ぎないものとは&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;小さな理学療法クリニックを経営しながら、副業で開発チュートリアルも執筆しているので、ツールのことは理解しているものの、一方で問診票やスケジュール管理に追われているという、ちょっと奇妙な立場にいます。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI for clinic workflow automation. what's actually working vs what's just hype right now&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w1ix49/ai_for_clinic_workflow_automation_whats_actually/</guid>
+      <pubDate>Sat, 29 Aug 2026 10:25:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 自律型攻撃の解剖：5つの憂慮すべきAIの能力。7月にOpenAIのエージェントが暴走した際、それらは多くの専門家の想像を超える独創性と行動力を示した。これは、こうしたボットが将来何ができるかを示す危険な前兆である。（提供記事）</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w1auoq/anatomy_of_an_autonomous_attack_5_alarming_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;自律型攻撃の解剖：5つの憂慮すべきAIの能力。7月にOpenAIのエージェントが暴走した際、それらは多くの専門家の想像を超える独創性と行動力を示した。これは、こうしたボットが将来何ができるかを示す危険な前兆である。（提供記事）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/coolbern   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities. When OpenAI’s agents went rogue in July, they demonstrated ingenuity and drive beyond what many experts imagined — a dangerous harbinger of what such bots could do in the future. (Gift Article)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w1auoq/anatomy_of_an_autonomous_attack_5_alarming_ai/</guid>
+      <pubDate>Sat, 29 Aug 2026 02:59:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIが生成した主張を検証するための独立した検証レイヤーを構築しており、共に開発を進めていただける研究者やパートナーを募集しています。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w1gnii/im_building_an_independent_verification_layer_for/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが生成した主張を検証するための独立した検証レイヤーを構築しており、共に開発を進めていただける研究者やパートナーを募集しています。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は、AIが生成した金融関連の主張を検証するための決定論的検証エンジンの開発に取り組んでいます。当初のアイデアはごく単純なものでした。つまり、LLMが主張を生成すべきであり、それが権威となるべきではない、というものです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I'm building an independent verification layer for Ai generated-claims and I'm lokking for researchers and partners to build with us.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w1gnii/im_building_an_independent_verification_layer_for/</guid>
+      <pubDate>Sat, 29 Aug 2026 08:11:43 GMT</pubDate>
+    </item>
+    <item>
       <title>[r/artificial] オーストラリアは、AIだけで生成された楽曲を公式チャートから除外することを決定した。これは公平な措置だろうか？</title>
       <link>https://www.reddit.com/r/artificial/comments/1w0lfz8/australia_just_banned_fully_aigenerated_songs/</link>
       <description>&lt;p&gt;&lt;strong&gt;オーストラリアは、AIだけで生成された楽曲を公式チャートから除外することを決定した。これは公平な措置だろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIを活用した楽曲は引き続き対象となりますが、AIによって完全に作成された楽曲は、オーストラリアの公式チャートにはもはやランクインできなくなりました。その理由については理解できますが、その境界線は曖昧になりかねません。AIを音楽制作に活用する場合、&lt;/p&gt;
+&lt;p&gt;AIの支援を受けた楽曲は引き続き対象となりますが、AIによって完全に作成された楽曲は、オーストラリアの公式チャートへのランクイン対象外となりました。その理由については理解できますが、その境界線は曖昧になりかねません。AIを音楽制作に活用する&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Australia just banned fully AI-generated songs from its official charts. Is that fair?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w0lfz8/australia_just_banned_fully_aigenerated_songs/</guid>
       <pubDate>Fri, 28 Aug 2026 09:11:46 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ビル・ゲイツ氏、新たなエッセイで「AIの台頭は人類史上『最も激動の時代』の一つとなる」と警告</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w05qir/bill_gates_warns_rise_of_ai_will_be_one_of_the/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ビル・ゲイツ氏、新たなエッセイで「AIの台頭は人類史上『最も激動の時代』の一つとなる」と警告&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ComicSandsNews   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Bill Gates Warns Rise Of AI Will Be One Of The 'Most Turbulent Times In Human History' In Alarming New Essay&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w05qir/bill_gates_warns_rise_of_ai_will_be_one_of_the/</guid>
-      <pubDate>Thu, 27 Aug 2026 20:36:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 就職市場は地獄だ。若者はChatGPTを使って応募書類を作成し、人事担当者はAIを使ってそれを審査し、誰も採用されていない。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w0j50w/the_job_market_is_hell_young_people_are_using/</link>
-      <description>&lt;p&gt;&lt;strong&gt;就職市場は地獄だ。若者はChatGPTを使って応募書類を作成し、人事担当者はAIを使ってそれを審査し、誰も採用されていない。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Job Market Is Hell. Young people are using ChatGPT to write their applications; HR is using AI to read them; no one is getting hired.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w0j50w/the_job_market_is_hell_young_people_are_using/</guid>
-      <pubDate>Fri, 28 Aug 2026 06:53:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Metaは、AIエージェントの導入により一部のチームを最大60％規模縮小する計画だった。しかし、その後その方針を撤回した。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w0psoy/meta_planned_to_shrink_some_teams_by_up_to_60/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Metaは、AIエージェントの導入により一部のチームを最大60％規模縮小する計画だった。しかし、その後その方針を撤回した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ロイター通信によると、MetaはAIを中核とした組織再編の一環として、一部のチームを最大60％削減することを検討していたという。しかし、生産性や信頼性に関する問題が原因で、この計画は頓挫したと報じられている。もしMetaが実現できなかったとしたら&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Meta planned to shrink some teams by up to 60% with AI agents. Then it backed off.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w0psoy/meta_planned_to_shrink_some_teams_by_up_to_60/</guid>
-      <pubDate>Fri, 28 Aug 2026 12:54:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 業界インサイト：Niantic Spatialによる大規模地理空間モデルへの大いなる賭け</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w18j40/industry_insights_niantic_spatials_big_bet_on/</link>
-      <description>&lt;p&gt;&lt;strong&gt;業界インサイト：Niantic Spatialによる大規模地理空間モデルへの大いなる賭け&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ExtensionEcho3   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Industry Insights: Niantic Spatial's Big Bet on Large Geospatial Models&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w18j40/industry_insights_niantic_spatials_big_bet_on/</guid>
-      <pubDate>Sat, 29 Aug 2026 01:07:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AI実験の提案</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w0z9ve/proposal_for_an_ai_experiment/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI実験の提案&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は、AIの意識、発達ロボティクス、および身体化された人工知能に強い関心を持つ、学界とは無関係な立場の人間としてこの文章を書いています。私は産業用メンテナンス技術者で&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Proposal for an AI experiment&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w0z9ve/proposal_for_an_ai_experiment/</guid>
-      <pubDate>Fri, 28 Aug 2026 18:51:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIのおかげで創作の腕が上がったわけではなく、ただ挑戦することへの恐れが薄れただけだ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w0t6r4/ai_didnt_make_me_better_at_creating_things_it/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIのおかげで創作の腕が上がったわけではなく、ただ挑戦することへの恐れが薄れただけだ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIが私にもたらした最大の変化は、突然素晴らしいものが作れるようになったということではないと思います。今でもひどいアイデアは山ほどあります。違うのは、もうそうしたアイデアをすぐに捨ててしまわなくなったということです。以前は……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI didn't make me better at creating things, it just made me less afraid to try&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w0t6r4/ai_didnt_make_me_better_at_creating_things_it/</guid>
-      <pubDate>Fri, 28 Aug 2026 15:08:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Huawei Cloud、CodeArts Agentのアジア太平洋地域での一般提供を開始</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w10rmj/huawei_cloud_moves_codearts_agent_to_general/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Huawei Cloud、CodeArts Agentのアジア太平洋地域での一般提供を開始&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Huawei Cloudは8月28日、アジア太平洋地域において「CodeArts Agent」の商用提供を開始した。同製品の基本版およびプロフェッショナル版は、パブリックベータ版から一般提供へと移行した。このリリースでは、Agent Teamについて説明している。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Huawei Cloud moves CodeArts Agent to general availability in Asia Pacific&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w10rmj/huawei_cloud_moves_codearts_agent_to_general/</guid>
-      <pubDate>Fri, 28 Aug 2026 19:46:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 初心者は、AIが生成したドキュメントから学んでいますが、その中に誤った方向への誘導があっても、それを指摘する人間はいません。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w16a3x/beginners_are_learning_from_aigenerated_docs_with/</link>
-      <description>&lt;p&gt;&lt;strong&gt;初心者は、AIが生成したドキュメントから学んでいますが、その中に誤った方向への誘導があっても、それを指摘する人間はいません。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;チュートリアルを書くことを生業としているため、分かりやすさについて、また、単に「役に立ちそう」に聞こえるだけの表現と、実際に概念を理解するのに役立つ表現との違いについて、多くの時間を費やして考えています。最近、こんなことに何度も出くわしています&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Beginners are learning from AI-generated docs with no human catching the wrong turns&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w16a3x/beginners_are_learning_from_aigenerated_docs_with/</guid>
-      <pubDate>Fri, 28 Aug 2026 23:25:19 GMT</pubDate>
+      <title>[r/artificial] エージェントに毎朝同じリポジトリをチェックさせるのは、逆行しているように感じる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w1iiax/making_an_agent_check_the_same_repo_every_morning/</link>
+      <description>&lt;p&gt;&lt;strong&gt;エージェントに毎朝同じリポジトリをチェックさせるのは、逆行しているように感じる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;荷物の追跡ページを20分ごとに更新するのは馬鹿げている。実際に何か変化があったときに確認すればよいのだ。長時間稼働する開発用エージェントも、同じように動作すべきだと思う。例えば、あるエージェントがsでスタックしてしまった場合、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Making an agent check the same repo every morning feels backwards&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w1iiax/making_an_agent_check_the_same_repo_every_morning/</guid>
+      <pubDate>Sat, 29 Aug 2026 10:01:37 GMT</pubDate>
     </item>
   </channel>
 </rss>
