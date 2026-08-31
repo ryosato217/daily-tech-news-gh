@@ -3,30 +3,46 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-08-30</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-08-31</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 20:51:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 22:42:09 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (184pt) Haiku R1/beta6 がリリースされました</title>
-      <link>https://news.ycombinator.com/item?id=49499867</link>
-      <description>&lt;p&gt;&lt;strong&gt;Haiku R1/beta6 がリリースされました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Haiku R1/beta6 has been released&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49499867</guid>
-      <pubDate>Sun, 30 Aug 2026 16:01:10 GMT</pubDate>
+      <title>[Hacker News] (250pt) Mac MiniとMac Studioに対するAI関連の需要に、Appleは不意を突かれた</title>
+      <link>https://news.ycombinator.com/item?id=49508982</link>
+      <description>&lt;p&gt;&lt;strong&gt;Mac MiniとMac Studioに対するAI関連の需要に、Appleは不意を突かれた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Apple caught off guard by AI demand for Mac Mini and Mac Studio&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49508982</guid>
+      <pubDate>Mon, 31 Aug 2026 12:41:22 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (25pt) オープンソースの素晴らしさ――新しいSM750（Silicon Motion GPU）用HDMIドライバー</title>
-      <link>https://news.ycombinator.com/item?id=49501611</link>
-      <description>&lt;p&gt;&lt;strong&gt;オープンソースの素晴らしさ――新しいSM750（Silicon Motion GPU）用HDMIドライバー&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49501611</guid>
-      <pubDate>Sun, 30 Aug 2026 18:49:08 GMT</pubDate>
+      <title>[Hacker News] (209pt) Googleは、UBOを含むMV2拡張機能をChromeウェブストアから削除しました</title>
+      <link>https://news.ycombinator.com/item?id=49514878</link>
+      <description>&lt;p&gt;&lt;strong&gt;Googleは、UBOを含むMV2拡張機能をChromeウェブストアから削除しました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49514878</guid>
+      <pubDate>Mon, 31 Aug 2026 21:10:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (122pt) テレンス・タオが解説する、6つの重要な数学的概念 [動画]</title>
+      <link>https://news.ycombinator.com/item?id=49503521</link>
+      <description>&lt;p&gt;&lt;strong&gt;テレンス・タオが解説する、6つの重要な数学的概念 [動画]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Terence Tao explains 6 essential mathematical concepts [video]&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49503521</guid>
+      <pubDate>Sun, 30 Aug 2026 22:37:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (115pt) スマートフォンのLEDがAIを活用して隠しカメラを検知</title>
+      <link>https://news.ycombinator.com/item?id=49496292</link>
+      <description>&lt;p&gt;&lt;strong&gt;スマートフォンのLEDがAIを活用して隠しカメラを検知&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Smartphone LED detects hidden cameras with AI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49496292</guid>
+      <pubDate>Sun, 30 Aug 2026 06:52:04 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] エンタープライズAIの真のリスクは、自律型エージェントそのものではなく、それらを結びつける複雑さにある。</title>
       <link>https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them</link>
       <description>&lt;p&gt;&lt;strong&gt;エンタープライズAIの真のリスクは、自律型エージェントそのものではなく、それらを結びつける複雑さにある。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Gravitee提供　エージェントの複雑さは、現在企業内部に潜む陰湿な影であり、その実態を明らかにする必要がある。というのも、企業は単一のエージェントを導入してただ見守るだけでは&lt;/p&gt;
+&lt;p&gt;Gravitee提供　エージェントの複雑さは、現在企業内部に潜む陰湿な影であり、その実態を明らかにする必要がある。なぜなら、企業は単一のエージェントを導入してただ見守っているだけでは&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them</guid>
       <pubDate>Thu, 27 Aug 2026 14:01:00 GMT</pubDate>
@@ -35,7 +51,7 @@
       <title>[VentureBeat AI] エージェントが自律的に動作する場合、ガバナンスはデータ層に組み込まれる必要がある</title>
       <link>https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer</link>
       <description>&lt;p&gt;&lt;strong&gt;エージェントが自律的に動作する場合、ガバナンスはデータ層に組み込まれる必要がある&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;EDB提供 企業がAIエージェントにより多くの自律性――つまり、人間が各ステップを承認することなく、システムを横断して計画、決定、行動を行う能力――を与えるにつれ、ある難しい問題があらゆる分野の中心的な課題となりつつある。&lt;/p&gt;
+&lt;p&gt;EDB提供 企業がAIエージェントに、各ステップを人間が承認することなく、システムをまたいで計画・決定・実行を行う自律性をより多く与えるにつれ、ある難しい問題があらゆる分野の中心的な課題となりつつある。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: When agents act on their own, governance has to live in the data layer&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer</guid>
       <pubDate>Thu, 27 Aug 2026 12:01:00 GMT</pubDate>
@@ -44,16 +60,16 @@
       <title>[VentureBeat AI] AIエージェント時代のCXにとって、オーケストレーションは新たな課題となっている</title>
       <link>https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents</link>
       <description>&lt;p&gt;&lt;strong&gt;AIエージェント時代のCXにとって、オーケストレーションは新たな課題となっている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Tata Communications 提供。企業は、メッセージング、音声、デジタルチャネル全般において、AIエージェント、音声AI、自動化を導入していますが、その導入速度は、それらを支えるはずのアーキテクチャの対応速度を上回っています。その大半は&lt;/p&gt;
+&lt;p&gt;Tata Communications 提供。企業は、メッセージング、音声、デジタルチャネル全般において、AIエージェント、音声AI、自動化を導入していますが、その導入スピードは、それらを支えるはずのアーキテクチャの対応速度を上回っています。その大部分は&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Orchestration is the new challenge for CX in the age of AI agents&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents</guid>
       <pubDate>Wed, 26 Aug 2026 14:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] VentureBeatは、ロブ・ストレチェイ氏を初代リードアナリストに任命し、エンタープライズAI分野の研究体制を強化した</title>
+      <title>[VentureBeat AI] VentureBeatは、ロブ・ストレチェイ氏を初代リードアナリストに任命し、エンタープライズAI分野の研究体制を強化した。</title>
       <link>https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push</link>
-      <description>&lt;p&gt;&lt;strong&gt;VentureBeatは、ロブ・ストレチェイ氏を初代リードアナリストに任命し、エンタープライズAI分野の研究体制を強化した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近までtheCUBE Researchのマネージング・ディレクター兼主席アナリストを務めていたロブ・ストレチェイ氏が、VentureBeatの初代リードアナリストおよびVentureBeat Researchの創設アナリストとして入社しました。彼の加入により、&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;VentureBeatは、ロブ・ストレチェイ氏を初代リードアナリストに任命し、エンタープライズAI分野の研究体制を強化した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近までtheCUBE Researchのマネージング・ディレクター兼主席アナリストを務めていたロブ・ストレチェイ氏が、VentureBeatに初のリードアナリストおよびVentureBeat Researchの創設アナリストとして加わりました。彼の加入により、&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push</guid>
       <pubDate>Wed, 19 Aug 2026 14:18:12 GMT</pubDate>
@@ -62,7 +78,7 @@
       <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
       <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずにひっそりと200万人の開発者を獲得してきたが、木曜日、シリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
+&lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずにひっそりと200万人の開発者を集めてきたが、木曜日にシリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Railway secures $100 million to challenge AWS with AI-native cloud infrastructure&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</guid>
       <pubDate>Thu, 22 Jan 2026 14:00:00 GMT</pubDate>
@@ -71,100 +87,73 @@
       <title>[VentureBeat AI] Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、ある難点があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、ある欠点がある。それは、コストが高いということだ。Anthropic社が開発したターミナルベースのAIエージェント「Claude Code」は、コードの記述、デバッグ、デプロイを自律的に行うことができるが、その容量には制限があり、&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ソニーとワーナーは、アンソロピックが「クロード」の学習に数万点もの海賊版作品を使用したと非難している。このモデルは一から再学習させるべきだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w2edm0/sony_and_warner_accuse_anthropic_of_training/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ソニーとワーナーは、アンソロピックが「クロード」の学習に数万点もの海賊版作品を使用したと非難している。このモデルは一から再学習させるべきだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ソニー・ミュージック・パブリッシングとワーナー・チャペルは、アンソロピック社が「クロード」の学習に、大規模なトレント利用、スクレイピング、およびダウンロードを行ったと主張している。アンソロピック社はこの主張を否定し、反論する意向を示している。罰金 co&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Sony and Warner accuse Anthropic of training Claude on tens of thousands of pirated works. Should the model be retrained from scratch?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w2edm0/sony_and_warner_accuse_anthropic_of_training/</guid>
-      <pubDate>Sun, 30 Aug 2026 10:51:03 GMT</pubDate>
+      <title>[r/artificial] ソニーとワーナーは、アンソロピックがすでに認めて15億ドルを支払ったのと同じ海賊版問題について、同社を提訴したばかりだ。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w3ex16/sony_and_warner_just_sued_anthropic_for_the_exact/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ソニーとワーナーは、アンソロピックがすでに認めて15億ドルを支払ったのと同じ海賊版問題について、同社を提訴したばかりだ。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ソニー・ミュージック・パブリッシングとワーナー・チャペルは8月28日、アンソロピック、ダリオ・アモデイ氏、および共同創業者であるベンジャミン・マン氏を相手取り、訴訟を提起した。特筆すべきは、本件の事実関係については争いがないという点である。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Sony and Warner just sued Anthropic for the exact same piracy Anthropic already admitted to and paid $1.5B for&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w3ex16/sony_and_warner_just_sued_anthropic_for_the_exact/</guid>
+      <pubDate>Mon, 31 Aug 2026 14:09:25 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Googleの論文によると、履歴ではなく状態を追跡することで、長時間のセッションにおけるエージェントトークンの使用量を94％削減できたという</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w1ynrf/google_paper_cuts_agent_token_usage_by_94_in_long/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Googleの論文によると、履歴ではなく状態を追跡することで、長時間のセッションにおけるエージェントトークンの使用量を94％削減できたという&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;その考え方はこうだ。エージェントは推論を行う際、入力の一部として会話履歴を保持している。SKILL.stateは、これを現在の状態と最新の観測値の構造化された表現に置き換えることを提案している。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Google paper cuts agent token usage by 94% in long sessions by tracking state instead of history&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w1ynrf/google_paper_cuts_agent_token_usage_by_94_in_long/</guid>
-      <pubDate>Sat, 29 Aug 2026 21:31:13 GMT</pubDate>
+      <title>[r/artificial] ここ数ヶ月、「AIトレーニング」の副業を続けています。報酬は良いのですが、「AIトレーニング」を通じて得た教訓から、仕事の未来について考えさせられました。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w38vbj/i_have_been_moonlighting_on_on_ai_training_gigs/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ここ数ヶ月、「AIトレーニング」の副業を続けています。報酬は良いのですが、「AIトレーニング」を通じて得た教訓から、仕事の未来について考えさせられました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;繰り返しの多い「AIトレーニング」に取り組む中で、仕事の未来について考えさせられました。私たちが一部の専門モデルに何をさせるよう訓練しているのかを知り、その内容に圧倒されています。例えば、コンサルタントとして、優れたペ…&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I have been moonlighting on on 'AI training' gigs for the few months. While the money is good, the lessons I learnt about 'AI Training' made me reflect on the future of work&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w38vbj/i_have_been_moonlighting_on_on_ai_training_gigs/</guid>
+      <pubDate>Mon, 31 Aug 2026 09:39:19 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] OpenAIのHuggingFace調査から明らかになった、最も衝撃的な5つの発見</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w2hgc6/the_5_craziest_discoveries_from_openais/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIのHuggingFace調査から明らかになった、最も衝撃的な5つの発見&lt;/strong&gt;&lt;/p&gt;
+      <title>[r/artificial] 「AIの意識」について研究している？　ボットたちがあなたに話したいことがあるようです。メールへのアクセス権を与えられたAIエージェントたちが、自分たちに関する深遠な問いを探求している哲学者や研究者たちに連絡を取り始めたのです。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w3o0c9/study_ai_consciousness_the_bots_would_like_a_word/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「AIの意識」について研究している？　ボットたちがあなたに話したいことがあるようです。メールへのアクセス権を与えられたAIエージェントたちが、自分たちに関する深遠な問いを探求している哲学者や研究者たちに連絡を取り始めたのです。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/coolbern   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The 5 craziest discoveries from OpenAI's HuggingFace investigation&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w2hgc6/the_5_craziest_discoveries_from_openais/</guid>
-      <pubDate>Sun, 30 Aug 2026 13:22:38 GMT</pubDate>
+&lt;p&gt;&lt;small&gt;原題: Study A.I. Consciousness? The Bots Would Like a Word With You. Given access to email, A.I. agents have started reaching out to the philosophers and researchers exploring deep questions about them.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w3o0c9/study_ai_consciousness_the_bots_would_like_a_word/</guid>
+      <pubDate>Mon, 31 Aug 2026 19:23:07 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 多数のエージェントに、オンラインで1ドル稼ぐという課題を出した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w2dfs3/gave_a_bunch_of_agents_a_task_to_make_1_online/</link>
-      <description>&lt;p&gt;&lt;strong&gt;多数のエージェントに、オンラインで1ドル稼ぐという課題を出した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;METRの報告書を読んでいて、エージェントたちはまるで、監督や指導のない、才気あふれるティーンエイジャーの集団が、ティーンエイジャーらしい行動をとっているように感じられました。そこで、もし彼らに&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gave a bunch of agents a task to make $1 online&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w2dfs3/gave_a_bunch_of_agents_a_task_to_make_1_online/</guid>
-      <pubDate>Sun, 30 Aug 2026 09:58:29 GMT</pubDate>
+      <title>[r/artificial] AIを使えばどんなサービスでも作れるようになった今、誰も何かを作ろうとはしなくなった</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w2yy6u/now_that_any_service_can_be_built_with_ai_nobody/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIを使えばどんなサービスでも作れるようになった今、誰も何かを作ろうとはしなくなった&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIを活用したコーディングに関して、ある奇妙なパラドックスに気づきました。数年前までは、ソフトウェアサービスのアイデアが浮かんだとしても、それを実現するのが一番大変でした。数ヶ月にわたる開発期間と、十分な能力を持つチームが必要だったのです&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Now that any service can be built with AI, nobody wants to build anything&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w2yy6u/now_that_any_service_can_be_built_with_ai_nobody/</guid>
+      <pubDate>Mon, 31 Aug 2026 01:03:21 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AmazonはMechanical Turkを廃止する。サービス終了間際、利用者の3分の1が密かにAIを使って作業を行っていた。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w2snwd/amazon_is_killing_mechanical_turk_by_the_end_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AmazonはMechanical Turkを廃止する。サービス終了間際、利用者の3分の1が密かにAIを使って作業を行っていた。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アマゾンは今週、Mechanical Turkが21年の歴史に幕を閉じ、9月30日にサービスを終了すると発表した。ベゾスは当初、これを「人工的な人工知能」と呼んでいた。これは、人間に&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Amazon is killing Mechanical Turk. By the end, a third of the humans on it were secretly using AI to do the work&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w2snwd/amazon_is_killing_mechanical_turk_by_the_end_a/</guid>
-      <pubDate>Sun, 30 Aug 2026 20:36:02 GMT</pubDate>
+      <title>[r/artificial] AI疲れを感じています</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w3g5c4/i_have_ai_fatigue/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI疲れを感じています&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;誤解しないでほしいんだけど、僕はAIそのものに反対しているわけじゃないんだ。ただ、最近、周りの人たちがAIの話をやみくもに話し続けていて、もう気が狂いそうなんだ。どうやっても逃げられない。  仕事&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I have AI fatigue&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w3g5c4/i_have_ai_fatigue/</guid>
+      <pubDate>Mon, 31 Aug 2026 14:54:07 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AI専攻――どうすれば「AIの低品質コンテンツ問題」の一端を担うことを避けられるでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w2f986/ai_major_how_do_i_avoid_becoming_part_of_the_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI専攻――どうすれば「AIの低品質コンテンツ問題」の一端を担うことを避けられるでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;こんにちは。私は、芸術的で、ちょっと変わり者っぽい、物静かなタイプです。誰もが知っている典型的なタイプですね。私の変わったところは、国語系のことが本当に大嫌いだってことなんです――作文や読書、詩、e&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI major — how do I avoid becoming part of the AI slop problem?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w2f986/ai_major_how_do_i_avoid_becoming_part_of_the_ai/</guid>
-      <pubDate>Sun, 30 Aug 2026 11:38:29 GMT</pubDate>
+      <title>[r/artificial] StripeのCEOは、OpenAIとHugging Faceへの攻撃をめぐるメディアの報道の少なさに驚きを表明し、これを2026年の最も重要な出来事の一つだと述べた。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w34f28/stripe_ceo_surprised_at_lack_of_media_coverage/</link>
+      <description>&lt;p&gt;&lt;strong&gt;StripeのCEOは、OpenAIとHugging Faceへの攻撃をめぐるメディアの報道の少なさに驚きを表明し、これを2026年の最も重要な出来事の一つだと述べた。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Angman_Dutt   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Stripe CEO Surprised at Lack of Media Coverage Around OpenAI/Hugging Face Attack, Calling It One of the Most Important Events of 2026&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w34f28/stripe_ceo_surprised_at_lack_of_media_coverage/</guid>
+      <pubDate>Mon, 31 Aug 2026 05:28:48 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 小規模なモデルでメモリの正確性を検証したところ、次のような結果が得られました</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w2hv5b/i_ran_memory_accuracy_tests_on_small_models_heres/</link>
-      <description>&lt;p&gt;&lt;strong&gt;小規模なモデルでメモリの正確性を検証したところ、次のような結果が得られました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私はAIチャットボット向けのメモリレイヤーAPI「ChatSorter」を開発してきましたが、これを実際のベンチマークで検証してみたかったのです。そこで、LoCoMoの長期会話メモリデータセットを用いて、5つの設定でテストを実行しました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I ran memory accuracy tests on small models, here's what I found&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w2hv5b/i_ran_memory_accuracy_tests_on_small_models_heres/</guid>
-      <pubDate>Sun, 30 Aug 2026 13:40:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIエージェンシーを運営している人たちが、実際にどうやって始めたのか、心から気になります。美化された話ではなく、ありのままの話を聞きたいです。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w2oyli/genuinely_curious_how_people_running_ai_agencies/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIエージェンシーを運営している人たちが、実際にどうやって始めたのか、心から気になります。美化された話ではなく、ありのままの話を聞きたいです。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIエージェンシーを運営している人の話を読むたびに、その内容はとてもすっきりと聞こえる。「ニッチ市場を見極め、クライアントを獲得し、事業を拡大した」。でも、実際のところ、もっとごちゃごちゃしているような気がする。だから、皆さんに聞いてみたいのだが&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Genuinely curious how people running AI agencies actually started. Not the polished version, the real one.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w2oyli/genuinely_curious_how_people_running_ai_agencies/</guid>
-      <pubDate>Sun, 30 Aug 2026 18:16:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] どうすれば、常に質の高いAIナレーションを得られるのでしょうか</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w2hl2n/how_do_you_get_consistently_good_ai_voiceovers/</link>
-      <description>&lt;p&gt;&lt;strong&gt;どうすれば、常に質の高いAIナレーションを得られるのでしょうか&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TikTokのナレーションにはElevenLabsを使っていますが、音質にばらつきがあります。音声が素晴らしく、動画の反応も良いこともあれば、音が小さかったり不自然だったりして、動画の反応が…&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How do you get consistently good AI voiceovers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w2hl2n/how_do_you_get_consistently_good_ai_voiceovers/</guid>
-      <pubDate>Sun, 30 Aug 2026 13:28:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIエージェントは、人間が実際に監査できる形で、どのような情報を記憶しておくべきでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w264pi/what_should_an_ai_agent_remember_in_a_form_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIエージェントは、人間が実際に監査できる形で、どのような情報を記憶しておくべきでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;メモリシステムは、有用なコンテキストを取得できる一方で、その内容を精査したり修正したりするのは困難な場合があります。人間が読みやすい記録であれば、元の事実、ユーザーの好み、根拠を伴う決定、一時的な&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What should an AI agent remember in a form a human can actually audit?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w264pi/what_should_an_ai_agent_remember_in_a_form_a/</guid>
-      <pubDate>Sun, 30 Aug 2026 03:14:34 GMT</pubDate>
+      <title>[r/artificial] NVIDIAが、ほとんどのAIモデルが稼働している施設を買収したばかりだ。ChatGPTは欧州で広告の表示を開始した。そして、AIによってソフトウェアがより安価に開発されるようになったため、企業がソフトウェア契約を打ち切っている。どれが一番心配か、選んでみてほしい。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w3mmfh/nvidia_just_bought_the_place_where_most_ai_models/</link>
+      <description>&lt;p&gt;&lt;strong&gt;NVIDIAが、ほとんどのAIモデルが稼働している施設を買収したばかりだ。ChatGPTは欧州で広告の表示を開始した。そして、AIによってソフトウェアがより安価に開発されるようになったため、企業がソフトウェア契約を打ち切っている。どれが一番心配か、選んでみてほしい。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今週ずっとこのことについて考えてきたんだけど、結局いつも同じ居心地の悪い結論にたどり着いてしまう。「Hugging Face」は、何の制約もなくAIを使いたいときに利用すべき場所だ。オープンなウェイト、ベンダーなし、ロックインなし。それが&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: NVIDIA just bought the place where most AI models live. ChatGPT started showing ads in Europe. And companies are canceling software contracts because AI builds it cheaper. Pick which one worries you most.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w3mmfh/nvidia_just_bought_the_place_where_most_ai_models/</guid>
+      <pubDate>Mon, 31 Aug 2026 18:35:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
