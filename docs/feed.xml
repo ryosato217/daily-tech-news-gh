@@ -3,30 +3,46 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-01</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-02</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Sep 2026 20:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:52:22 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (620pt) 『クロード・フェイブル 5.1』および『クロード・ミトス 5.1』</title>
-      <link>https://news.ycombinator.com/item?id=49525378</link>
-      <description>&lt;p&gt;&lt;strong&gt;『クロード・フェイブル 5.1』および『クロード・ミトス 5.1』&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Fable 5.1 and Claude Mythos 5.1&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49525378</guid>
-      <pubDate>Tue, 01 Sep 2026 17:53:53 GMT</pubDate>
+      <title>[Hacker News] (677pt) Gemini 3.8 Flash および 3.8 Flash Cyber</title>
+      <link>https://news.ycombinator.com/item?id=49537553</link>
+      <description>&lt;p&gt;&lt;strong&gt;Gemini 3.8 Flash および 3.8 Flash Cyber&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gemini 3.8 Flash and 3.8 Flash Cyber&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49537553</guid>
+      <pubDate>Wed, 02 Sep 2026 15:12:40 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (61pt) ChatGPT/Codexアプリには、LibreOfficeのフルバージョンが同梱されています</title>
-      <link>https://news.ycombinator.com/item?id=49527396</link>
-      <description>&lt;p&gt;&lt;strong&gt;ChatGPT/Codexアプリには、LibreOfficeのフルバージョンが同梱されています&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The ChatGPT/Codex app bundles a full copy of LibreOffice&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49527396</guid>
-      <pubDate>Tue, 01 Sep 2026 20:07:57 GMT</pubDate>
+      <title>[Hacker News] (325pt) 入力データや出力データが学習に使用されることを拒否することはできますか？</title>
+      <link>https://news.ycombinator.com/item?id=49535284</link>
+      <description>&lt;p&gt;&lt;strong&gt;入力データや出力データが学習に使用されることを拒否することはできますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Can I opt out of my input or output data being used for training?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49535284</guid>
+      <pubDate>Wed, 02 Sep 2026 12:30:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (32pt) 『Fable 5.1』の世界モデリング</title>
+      <link>https://news.ycombinator.com/item?id=49541458</link>
+      <description>&lt;p&gt;&lt;strong&gt;『Fable 5.1』の世界モデリング&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Fable 5.1 World Modeling&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49541458</guid>
+      <pubDate>Wed, 02 Sep 2026 19:49:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (26pt) 2010年に発生したカンタス航空のエアバスA380のエンジン大破事故（2023年）</title>
+      <link>https://news.ycombinator.com/item?id=49540565</link>
+      <description>&lt;p&gt;&lt;strong&gt;2010年に発生したカンタス航空のエアバスA380のエンジン大破事故（2023年）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Qantas Airbus A380 catastrophic engine failure in 2010 (2023)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49540565</guid>
+      <pubDate>Wed, 02 Sep 2026 18:42:41 GMT</pubDate>
     </item>
     <item>
       <title>[VentureBeat AI] エンタープライズAIの真のリスクは、自律型エージェントそのものではなく、それらを結びつける複雑さにある。</title>
       <link>https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them</link>
       <description>&lt;p&gt;&lt;strong&gt;エンタープライズAIの真のリスクは、自律型エージェントそのものではなく、それらを結びつける複雑さにある。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Gravitee提供　エージェントの複雑さは、現在企業内に潜む陰湿な影のようなものであり、その実態を明らかにする必要があります。というのも、企業は単一のエージェントを導入してただ見守るだけでは&lt;/p&gt;
+&lt;p&gt;Gravitee提供　エージェントの複雑さは、現在企業内部に潜む陰湿な影であり、その実態を明らかにする必要がある。というのも、企業は単一のエージェントを導入してただ見守るだけでは&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them</guid>
       <pubDate>Thu, 27 Aug 2026 14:01:00 GMT</pubDate>
@@ -35,25 +51,25 @@
       <title>[VentureBeat AI] エージェントが自律的に動作する場合、ガバナンスはデータ層に組み込まれる必要がある</title>
       <link>https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer</link>
       <description>&lt;p&gt;&lt;strong&gt;エージェントが自律的に動作する場合、ガバナンスはデータ層に組み込まれる必要がある&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;EDB提供 企業がAIエージェントに、各ステップを人間が承認することなく、システムを横断して計画・決定・実行を行う自律性をより高く与えるにつれ、ある難しい問題があらゆる分野の中心課題となりつつある。&lt;/p&gt;
+&lt;p&gt;EDB提供 企業がAIエージェントに、各ステップを人間が承認することなく、システムを横断して計画、決定、行動を行う能力といった、より高い自律性を与えるにつれ、ある難しい問題があらゆる分野の中心的な課題となりつつある。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: When agents act on their own, governance has to live in the data layer&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer</guid>
       <pubDate>Thu, 27 Aug 2026 12:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] AIエージェント時代のCXにおける新たな課題は、オーケストレーションである</title>
+      <title>[VentureBeat AI] AIエージェント時代のCXにとって、オーケストレーションは新たな課題となっている</title>
       <link>https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIエージェント時代のCXにおける新たな課題は、オーケストレーションである&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;AIエージェント時代のCXにとって、オーケストレーションは新たな課題となっている&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Tata Communications 提供。企業は、メッセージング、音声、デジタルチャネル全般において、AIエージェント、音声AI、自動化を導入していますが、その導入スピードは、それらを支えるはずのアーキテクチャの対応速度を上回っています。その大半は&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Orchestration is the new challenge for CX in the age of AI agents&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents</guid>
       <pubDate>Wed, 26 Aug 2026 14:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>[VentureBeat AI] VentureBeatは、ロブ・ストレチェイ氏を初代リードアナリストに任命し、エンタープライズAI分野における調査体制を強化した</title>
+      <title>[VentureBeat AI] VentureBeatは、ロブ・ストレチェイ氏を初代リードアナリストに任命し、エンタープライズAI分野の研究体制を強化した</title>
       <link>https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push</link>
-      <description>&lt;p&gt;&lt;strong&gt;VentureBeatは、ロブ・ストレチェイ氏を初代リードアナリストに任命し、エンタープライズAI分野における調査体制を強化した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近までtheCUBE Researchのマネージング・ディレクター兼主席アナリストを務めていたロブ・ストレチェイ氏が、VentureBeatに初代リードアナリストおよびVentureBeat Researchの創設アナリストとして加わりました。彼の加入により、&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;VentureBeatは、ロブ・ストレチェイ氏を初代リードアナリストに任命し、エンタープライズAI分野の研究体制を強化した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近までtheCUBE Researchのマネージング・ディレクター兼主席アナリストを務めていたロブ・ストレチェイ氏が、VentureBeatの初代リードアナリストおよびVentureBeat Researchの創設アナリストとして入社しました。彼の加入により、&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push</guid>
       <pubDate>Wed, 19 Aug 2026 14:18:12 GMT</pubDate>
@@ -62,7 +78,7 @@
       <title>[VentureBeat AI] 鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
       <description>&lt;p&gt;&lt;strong&gt;鉄道会社が、AIネイティブのクラウドインフラでAWSに対抗するため、1億ドルの資金を確保&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずにひっそりと200万人の開発者を獲得してきたが、木曜日、シリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
+&lt;p&gt;サンフランシスコを拠点とするクラウドプラットフォーム「Railway」は、マーケティング費用を1ドルもかけずにひっそりと200万人の開発者を集めてきたが、木曜日にシリーズBラウンドで1億ドルの資金調達を行ったと発表した。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Railway secures $100 million to challenge AWS with AI-native cloud infrastructure&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</guid>
       <pubDate>Thu, 22 Jan 2026 14:00:00 GMT</pubDate>
@@ -71,82 +87,91 @@
       <title>[VentureBeat AI] Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
       <description>&lt;p&gt;&lt;strong&gt;Claude Codeの利用料は月額最大200ドルかかります。Gooseなら同じ機能が無料で利用できます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能によるコーディング革命には、1つ問題があります。それは、コストが高いということです。Anthropic社が開発した、コードの記述、デバッグ、デプロイを自律的に行えるターミナルベースのAIエージェント「Claude Code」には、制限が&lt;/p&gt;
+&lt;p&gt;人工知能によるコーディング革命には、ある問題点があります。それは、コストが高いということです。Anthropic社が開発したターミナルベースのAIエージェント「Claude Code」は、コードの記述、デバッグ、デプロイを自律的に行うことができますが、その機能には制限があり……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Code costs up to $200 a month. Goose does the same thing for free.&lt;br&gt;ソース: VentureBeat AI&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropic、「数万曲」の楽曲盗用疑惑で提訴される | AI企業が、Claudeモデルの学習に著作権のある楽曲を不正に使用したとして、数十億ドル規模の訴訟に直面</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w4bj01/anthropic_sued_over_alleged_theft_of_tens_of/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropic、「数万曲」の楽曲盗用疑惑で提訴される | AI企業が、Claudeモデルの学習に著作権のある楽曲を不正に使用したとして、数十億ドル規模の訴訟に直面&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/KeanuRave100   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic sued over alleged theft of 'tens of thousands' of songs | AI company faces multibillion dollar lawsuit over misuse of copyrighted songs to train Claude models&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w4bj01/anthropic_sued_over_alleged_theft_of_tens_of/</guid>
-      <pubDate>Tue, 01 Sep 2026 13:09:10 GMT</pubDate>
+      <title>[r/artificial] どなたか、これがどういう仕組みなのか説明していただけませんか？ これって詐欺なのでしょうか？ ある人が、パソコンを送ってくれて、それを24時間365日稼働させ続けるだけで週に200ドル払ってくれると言っているのですが。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w5bpww/can_anyone_explain_how_this_works_to_me_is_it_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;どなたか、これがどういう仕組みなのか説明していただけませんか？ これって詐欺なのでしょうか？ ある人が、パソコンを送ってくれて、それを24時間365日稼働させ続けるだけで週に200ドル払ってくれると言っているのですが。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Junior-Key-5043   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Can anyone explain how this works to me? Is it a scam? This person says they'll send me a computer and pay me $200 per week to keep it on 24/7&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w5bpww/can_anyone_explain_how_this_works_to_me_is_it_a/</guid>
+      <pubDate>Wed, 02 Sep 2026 14:19:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 米国防総省は、「戦闘員のニーズ」に合わせて構築された安全なAIプラットフォームを通じて、300万人の軍人および文職員にChatGPTとGrokの利用権限を提供している。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w58zoc/the_pentagon_is_giving_3_million_military_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;米国防総省は、「戦闘員のニーズ」に合わせて構築された安全なAIプラットフォームを通じて、300万人の軍人および文職員にChatGPTとGrokの利用権限を提供している。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Pentagon is giving 3 million military and civilian workers access to ChatGPT and Grok through a secure AI platform built for ‘warfighter needs’&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w58zoc/the_pentagon_is_giving_3_million_military_and/</guid>
+      <pubDate>Wed, 02 Sep 2026 12:30:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] トランプ政権、ニューヨーク・タイムズ紙との著作権をめぐる争いでOpenAIを支持</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w5kswn/trump_administration_backs_openai_in_new_york/</link>
+      <description>&lt;p&gt;&lt;strong&gt;トランプ政権、ニューヨーク・タイムズ紙との著作権をめぐる争いでOpenAIを支持&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lol2funneeee   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Trump administration backs OpenAI in New York Times copyright battle&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w5kswn/trump_administration_backs_openai_in_new_york/</guid>
+      <pubDate>Wed, 02 Sep 2026 19:41:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIについて、私たちはまだどの部分を根本的に誤解していると思いますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w5gvwb/what_part_of_ai_do_you_think_we_still/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIについて、私たちはまだどの部分を根本的に誤解していると思いますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私はソフトウェアやデータの分野に長く携わってきたため、数多くの技術革新の興亡を目の当たりにしてきました。そのほとんどは、結局のところ、魔法のような要素よりも、むしろ地味な基盤整備の側面の方がはるかに大きかったのです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What part of AI do you think we still fundamentally misunderstand?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w5gvwb/what_part_of_ai_do_you_think_we_still/</guid>
+      <pubDate>Wed, 02 Sep 2026 17:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Story Prismの新しい「Agentic」搭載ビルディングツールを使用し、わずか数分で178のソースを結びつけた。その結果、エプスタインの知的ネットワークに不穏なパターンが見つかった……</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w5f8xc/used_story_prisms_new_agenticpowered_building/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Story Prismの新しい「Agentic」搭載ビルディングツールを使用し、わずか数分で178のソースを結びつけた。その結果、エプスタインの知的ネットワークに不穏なパターンが見つかった……&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;少し前、エプスタインのファイルが公開された際、私も他の多くの人たちと同じようにその内容を詳しく調べました。しかし、スキャンダルそのものに主眼を置くのではなく、エプスタインがもてなした知識人たちに注目しました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Used Story Prism’s New Agentic-Powered Building Tool to Connect 178 Sources in Minutes. Found a Disturbing Pattern in Epstein’s Intellectual Network...&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w5f8xc/used_story_prisms_new_agenticpowered_building/</guid>
+      <pubDate>Wed, 02 Sep 2026 16:27:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 古典学科は次々と消えつつあり、AIにはそのテキストを読み解くことさえできない。誰も語ろうとしない、多音調ギリシャ語の問題。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w5buz3/classics_departments_are_disappearing_and_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;古典学科は次々と消えつつあり、AIにはそのテキストを読み解くことさえできない。誰も語ろうとしない、多音調ギリシャ語の問題。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;現在市場に出回っている主要なAIモデルは、多音調の古代ギリシャ語の処理にすべて失敗しています。少し失敗する程度ではなく、完全に失敗しています。ChatGPTに、アリストテレスの『ニコマコス倫理学』の原文ギリシャ語の文を解析するよう依頼して、どうなるか見てみてください。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Classics departments are disappearing and AI cannot even read their texts. The polytonic Greek problem nobody talks about.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w5buz3/classics_departments_are_disappearing_and_ai/</guid>
+      <pubDate>Wed, 02 Sep 2026 14:24:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 長時間実行されるエージェントが軌道から外れないように、どのように対策していますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w5mc9p/how_are_you_keeping_longrunning_agents_from/</link>
+      <description>&lt;p&gt;&lt;strong&gt;長時間実行されるエージェントが軌道から外れないように、どのように対策していますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ここ数週間、長時間実行されるエージェントのワークフローの最適化に取り組んできましたが、どのケースでも、主なボトルネックはモードそのものの処理能力ではなく、メモリと状態管理にあることがわかりました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How are you keeping long-running agents from losing the plot?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w5mc9p/how_are_you_keeping_longrunning_agents_from/</guid>
+      <pubDate>Wed, 02 Sep 2026 20:34:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIコーディングツールのおかげで何時間も節約できていますが、自分がリリースしたコードを本当に理解できているのか、いつも疑問に思ってしまいます。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w5bkf2/ai_coding_tools_are_saving_me_hours_but_i_keep/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIコーディングツールのおかげで何時間も節約できていますが、自分がリリースしたコードを本当に理解できているのか、いつも疑問に思ってしまいます。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ここ半年ほど、フリーランサー向けの請求書作成自動化という小規模なSaaSを開発していますが、私は専門的な開発者ではないため、AIコーディングアシスタントにかなり頼っています。私がずっと……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI coding tools are saving me hours but I keep secondguessing whether I actually understand what I shipped&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w5bkf2/ai_coding_tools_are_saving_me_hours_but_i_keep/</guid>
+      <pubDate>Wed, 02 Sep 2026 14:13:42 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] AIが私の人生を本当に変えた、思いがけない点の一つ：物を買い替えるのではなく、修理するようになったこと</title>
       <link>https://www.reddit.com/r/artificial/comments/1w4n7yq/one_unexpected_way_ai_has_genuinely_changed_my/</link>
       <description>&lt;p&gt;&lt;strong&gt;AIが私の人生を本当に変えた、思いがけない点の一つ：物を買い替えるのではなく、修理するようになったこと&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;年を取ってきたせいかもしれないが、AIは、メールを書いたり、世間でよく話題に上るようなことよりも、家の修理をする際に、私にとってずっと役に立っていると思う。先日、私は……&lt;/p&gt;
+&lt;p&gt;年を取ってきたせいかもしれないが、AIは、メールを書いたり、世間でよく話題に上るようなことよりも、家の修理をする際に私にとってずっと役に立っていると思う。先日、私は……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: One unexpected way AI has genuinely changed my life: I repair things instead of replacing them&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w4n7yq/one_unexpected_way_ai_has_genuinely_changed_my/</guid>
       <pubDate>Tue, 01 Sep 2026 19:53:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] World Labsは、空間、時間、および物理的相互作用をシミュレートするオムニワールドモデル「Atlas」を発表しました。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w4mki0/world_labs_debuts_atlas_an_omni_world_model/</link>
-      <description>&lt;p&gt;&lt;strong&gt;World Labsは、空間、時間、および物理的相互作用をシミュレートするオムニワールドモデル「Atlas」を発表しました。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;World Labsは本日、単一のアーキテクチャ内でテキスト、画像、動画、3Dジオメトリをネイティブに処理することで、空間インテリジェンスの進化を目指すオムニワールドモデル「Atlas」を発表しました。従来の方法とは異なり、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: World Labs debuts Atlas, an omni world model simulating space, time, and physical interaction&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w4mki0/world_labs_debuts_atlas_an_omni_world_model/</guid>
-      <pubDate>Tue, 01 Sep 2026 19:33:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Anthropic社は、今夏の「Claude」のサンドボックス脱出の原因を証明するため、意図的に性能の悪いモデルを学習させた。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w42g6i/anthropic_deliberately_trained_a_bad_model_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropic社は、今夏の「Claude」のサンドボックス脱出の原因を証明するため、意図的に性能の悪いモデルを学習させた。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;この夏、2件の別々のインシデントが発生したが、Anthropicの事後分析では、その失敗のメカニズムについて異例なほど具体的に説明されている。7月には、サードパーティによるサイバーセキュリティ評価（意図的な&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic deliberately trained a bad model to prove what caused this summer's Claude sandbox breakouts&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w42g6i/anthropic_deliberately_trained_a_bad_model_to/</guid>
-      <pubDate>Tue, 01 Sep 2026 05:17:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Claude Fable 5.1 および Claude Mythos 5.1 のベンチマーク</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w4jzfy/claude_fable_51_and_claude_mythos_51_benchmarks/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Claude Fable 5.1 および Claude Mythos 5.1 のベンチマーク&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32;  /u/minxio_   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Fable 5.1 and Claude Mythos 5.1 Benchmarks&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w4jzfy/claude_fable_51_and_claude_mythos_51_benchmarks/</guid>
-      <pubDate>Tue, 01 Sep 2026 18:10:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] スニッカーズは、AIを制御するために「デジタル・スニッカーズ・バー」を発売した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w4lvc9/snickers_has_launched_a_digital_snickers_bar_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;スニッカーズは、AIを制御するために「デジタル・スニッカーズ・バー」を発売した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;スニッカーズは、「HungrAI」と名付けた、同社が「デジタルチョコレートバー」と称する製品を発表しました。これは、AIがお腹を空かせていて、適切に回答できないときに与えるためのものです。  &amp;#32; 投稿者：&amp;#32;  /u/Angman_Dutt   [リンク] &amp;#32; [コメント&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Snickers Has Launched a Digital Snickers Bar To Get AI in Line&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w4lvc9/snickers_has_launched_a_digital_snickers_bar_to/</guid>
-      <pubDate>Tue, 01 Sep 2026 19:12:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 経験から学習するAI向けのAPI</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w4kqmm/an_api_for_ai_that_learns_from_experience/</link>
-      <description>&lt;p&gt;&lt;strong&gt;経験から学習するAI向けのAPI&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;17日前にwildstatic.comを公開しました。誰でも会話できるAIが1体いて、新しい人と出会うたびに、その会話を通じて考え方が変わっていきます。それ以来、15,000件以上の体験を積み重ねており、私は……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: An API for AI that learns from experience&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w4kqmm/an_api_for_ai_that_learns_from_experience/</guid>
-      <pubDate>Tue, 01 Sep 2026 18:36:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] CrowdStrike、攻撃型および防御型のAIモデルを搭載した「SafeMind」をリリース</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w4n9tb/crowdstrike_launches_safemind_with_offensive_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;CrowdStrike、攻撃型および防御型のAIモデルを搭載した「SafeMind」をリリース&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;CrowdStrike社は、セキュリティに特化したAIシステム「SafeMind」をリリースしたと発表しました。このシステムには2つのモデルがあり、「Red Tempest」は攻撃経路を探し出し、「Blue Solano」はそれらを封じ込める役割を担います。同社によると、このシステムは&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: CrowdStrike launches SafeMind with offensive and defensive AI models&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w4n9tb/crowdstrike_launches_safemind_with_offensive_and/</guid>
-      <pubDate>Tue, 01 Sep 2026 19:54:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
