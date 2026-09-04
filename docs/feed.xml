@@ -3,119 +3,86 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-03</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-04</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Sep 2026 20:50:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:37:05 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (679pt) GPT-6 アストラ</title>
-      <link>https://news.ycombinator.com/item?id=49554643</link>
-      <description>&lt;p&gt;&lt;strong&gt;GPT-6 アストラ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: GPT-6 Astra&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49554643</guid>
-      <pubDate>Thu, 03 Sep 2026 18:41:05 GMT</pubDate>
+      <title>[Hacker News] (1259pt) OpenAIのエージェント向け新しい掲示板が発見された</title>
+      <link>https://news.ycombinator.com/item?id=49563355</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIのエージェント向け新しい掲示板が発見された&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Discovery of a new OpenAI agent message board&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49563355</guid>
+      <pubDate>Fri, 04 Sep 2026 11:54:53 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (283pt) Cerebras上で、Qwen 3.8 27Bが1500トークン/秒で利用可能です</title>
-      <link>https://news.ycombinator.com/item?id=49554520</link>
-      <description>&lt;p&gt;&lt;strong&gt;Cerebras上で、Qwen 3.8 27Bが1500トークン/秒で利用可能です&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Qwen 3.8 27B available on Cerebras at 1500 tokens/s&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49554520</guid>
-      <pubDate>Thu, 03 Sep 2026 18:32:13 GMT</pubDate>
+      <title>[Hacker News] (35pt) CVEパッチ適用から数時間後に政府の鉄道サイトが攻撃を受ける</title>
+      <link>https://news.ycombinator.com/item?id=49568828</link>
+      <description>&lt;p&gt;&lt;strong&gt;CVEパッチ適用から数時間後に政府の鉄道サイトが攻撃を受ける&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Government Rails Site Hit Hours After CVE Patch&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49568828</guid>
+      <pubDate>Fri, 04 Sep 2026 19:06:39 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (202pt) K2 Horizon：6台のオープンモデルで構成される連携したフリート</title>
-      <link>https://news.ycombinator.com/item?id=49551760</link>
-      <description>&lt;p&gt;&lt;strong&gt;K2 Horizon：6台のオープンモデルで構成される連携したフリート&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: K2 Horizon: A connected fleet of six open models&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49551760</guid>
-      <pubDate>Thu, 03 Sep 2026 15:36:43 GMT</pubDate>
+      <title>[Hacker News] (34pt) AIはすでに回路基板を設計できるのでしょうか？</title>
+      <link>https://news.ycombinator.com/item?id=49569366</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIはすでに回路基板を設計できるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Can AI design circuit boards yet?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49569366</guid>
+      <pubDate>Fri, 04 Sep 2026 19:48:29 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (99pt) 1993年のAmiga用ゲームをGodotに移植中。LLMが68000アセンブリを読み込む仕組みだ。</title>
-      <link>https://news.ycombinator.com/item?id=49550375</link>
-      <description>&lt;p&gt;&lt;strong&gt;1993年のAmiga用ゲームをGodotに移植中。LLMが68000アセンブリを読み込む仕組みだ。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49550375</guid>
-      <pubDate>Thu, 03 Sep 2026 14:28:18 GMT</pubDate>
+      <title>[r/artificial] OpenAIのCEOサム・アルトマン氏は、ChatGPTのクエリ38,000件分の水使用量は、アーモンド1粒の生産に要する水量に相当すると述べ、データセンターの水使用量はオフィスビルと同程度に過ぎないと指摘した： 「ChatGPTのクエリ3万8,000件ごとに、カリフォルニア州でアーモンド1粒を生産するのに使われるのと同じ量の水が消費される。」</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w78xil/openai_ceo_sam_altman_says_38000_chatgpt_queries/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIのCEOサム・アルトマン氏は、ChatGPTのクエリ38,000件分の水使用量は、アーモンド1粒の生産に要する水量に相当すると述べ、データセンターの水使用量はオフィスビルと同程度に過ぎないと指摘した： 「ChatGPTのクエリ3万8,000件ごとに、カリフォルニア州でアーモンド1粒を生産するのに使われるのと同じ量の水が消費される。」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ControlCAD   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI CEO Sam Altman says 38,000 ChatGPT queries use as much water as the production of one almond — says data centers use no more water than an office building: “For every 38,000 ChatGPT queries, that is the same amount of water that is used in the production of single almond in California.”&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w78xil/openai_ceo_sam_altman_says_38000_chatgpt_queries/</guid>
+      <pubDate>Fri, 04 Sep 2026 16:17:53 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (54pt) ARC-AGI-3におけるOpenAIのGPT-6 Astra</title>
-      <link>https://news.ycombinator.com/item?id=49555691</link>
-      <description>&lt;p&gt;&lt;strong&gt;ARC-AGI-3におけるOpenAIのGPT-6 Astra&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI's GPT-6 Astra on ARC-AGI-3&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49555691</guid>
-      <pubDate>Thu, 03 Sep 2026 19:45:00 GMT</pubDate>
+      <title>[r/artificial] バーニー・サンダース氏、「今すぐAI開発を中断すべき」と主張：ドワルケシュ・パテル氏が「中断して何をするのか？」と問う</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w76b8m/bernie_sanders_wants_to_pause_ai_development_now/</link>
+      <description>&lt;p&gt;&lt;strong&gt;バーニー・サンダース氏、「今すぐAI開発を中断すべき」と主張：ドワルケシュ・パテル氏が「中断して何をするのか？」と問う&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Bernie Sanders Wants to 'Pause AI Development NOW': Dwarkesh Patel Asks 'Pause to Do What?'&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w76b8m/bernie_sanders_wants_to_pause_ai_development_now/</guid>
+      <pubDate>Fri, 04 Sep 2026 14:41:41 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (31pt) 世界最大の電気航空機が飛行に成功した [動画]</title>
-      <link>https://news.ycombinator.com/item?id=49526453</link>
-      <description>&lt;p&gt;&lt;strong&gt;世界最大の電気航空機が飛行に成功した [動画]&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The largest electric aircraft just flew [video]&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49526453</guid>
-      <pubDate>Tue, 01 Sep 2026 19:02:34 GMT</pubDate>
+      <title>[r/artificial] AIって本当にすごいって、みんな認めませんか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w6sp4p/can_we_all_acknoledge_how_crazy_ai_is/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIって本当にすごいって、みんな認めませんか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;たいてい、AIにはまだできないことばかりが話題になりがちで、すでにできることについてはあまり語られません。私たちがAIを使って日常的に行っていることのすべては、10年前ならSFの世界の話だったでしょう。チューリングテストはかつて……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Can we all acknoledge how crazy AI is?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w6sp4p/can_we_all_acknoledge_how_crazy_ai_is/</guid>
+      <pubDate>Fri, 04 Sep 2026 03:16:23 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] NvidiaがHugging Faceを129億ドルで買収――中立的なAIの終焉か？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w66hbd/nvidia_buys_hugging_face_for_129b_end_of_neutral/</link>
-      <description>&lt;p&gt;&lt;strong&gt;NvidiaがHugging Faceを129億ドルで買収――中立的なAIの終焉か？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Nvidiaは、オープンソース人工知能の代表的なハブであるHugging Faceを、129億ドルという巨額の取引で正式に買収することに合意した。この取引は、AIエコシステムにとって大きな転換点となるものだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Nvidia buys Hugging Face for $12.9B - End of neutral AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w66hbd/nvidia_buys_hugging_face_for_129b_end_of_neutral/</guid>
-      <pubDate>Thu, 03 Sep 2026 12:49:51 GMT</pubDate>
+      <title>[r/artificial] OpenAIは、最前線でサイバー防衛にあたる人々を支援するため、「Daybreak」に10億ドルを拠出することを決定した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w7enla/openai_commits_1b_to_daybreak_support_for/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIは、最前線でサイバー防衛にあたる人々を支援するため、「Daybreak」に10億ドルを拠出することを決定した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenAIは、最前線で活動する防衛担当者が重要なサービスを保護できるよう支援するため、Daybreakへのアクセス、トレーニング、技術サポート、およびパートナーシップに10億ドルを投じると発表しました。この計画はUnitから始まります。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI commits $1B to Daybreak support for frontline cyber defenders&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w7enla/openai_commits_1b_to_daybreak_support_for/</guid>
+      <pubDate>Fri, 04 Sep 2026 19:43:26 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] NVIDIAの「PAIR」ベータ版は、ローカルAI処理を複数のPCに分散させる</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w6hx9o/nvidias_pair_beta_routes_local_ai_work_across_pcs/</link>
-      <description>&lt;p&gt;&lt;strong&gt;NVIDIAの「PAIR」ベータ版は、ローカルAI処理を複数のPCに分散させる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;NVIDIAの新しい「PAIR」ベータ版は、ローカルネットワーク上で互換性のあるPCを検出し、個別の推論リクエストを空きリソースのあるシステムに振り分ける、無料のオープンソースツールです。NVIDIAによると、このツールは&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: NVIDIA's PAIR beta routes local AI work across PCs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w6hx9o/nvidias_pair_beta_routes_local_ai_work_across_pcs/</guid>
-      <pubDate>Thu, 03 Sep 2026 19:45:29 GMT</pubDate>
+      <title>[r/artificial] セールスフォースは、利益率の見通しが下方修正された原因として、クロードへの依存を挙げている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w7dswx/salesforce_blames_its_claude_addiction_for/</link>
+      <description>&lt;p&gt;&lt;strong&gt;セールスフォースは、利益率の見通しが下方修正された原因として、クロードへの依存を挙げている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Salesforce blames its Claude addiction for denting profit margin guidance&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w7dswx/salesforce_blames_its_claude_addiction_for/</guid>
+      <pubDate>Fri, 04 Sep 2026 19:12:15 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIが消費者向けの有料サービスになり始めたら、AIはどうなってしまうのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w6e81s/what_will_happen_to_ai_once_they_start_making_it/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIが消費者向けの有料サービスになり始めたら、AIはどうなってしまうのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ただの普通の一般人が質問しているだけです。AIは今や至る所にありますが、無料だからといって、世界中の多くの人々に押し付けられているようなものです。いずれは無料プランがなくなるだろうと予想しています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What will happen to AI once they start making it a non-free service for consumers?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w6e81s/what_will_happen_to_ai_once_they_start_making_it/</guid>
-      <pubDate>Thu, 03 Sep 2026 17:36:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] GPUが自分のものでない場合、AIはどれほど自律的と言えるのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w682t7/how_sovereign_is_ai_if_the_gpus_arent_yours/</link>
-      <description>&lt;p&gt;&lt;strong&gt;GPUが自分のものでない場合、AIはどれほど自律的と言えるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Sovereign AIのハードウェア面についてさらに調べていたところ、このFTの記事に、私がこれまであまり考えていなかった点が書かれていました。「各国のデータセンタープロジェクトが、米国のAI分野における優位性を強めている」というものです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How sovereign is AI if the GPUs aren’t yours?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w682t7/how_sovereign_is_ai_if_the_gpus_arent_yours/</guid>
-      <pubDate>Thu, 03 Sep 2026 13:54:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] どなたか、これがどういう仕組みなのか説明していただけませんか？ これは詐欺なのでしょうか？ ある人が、パソコンを送ってくれて、それを24時間365日稼働させ続けるだけで、週に200ドル払ってくれると言っているのですが。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w5bpww/can_anyone_explain_how_this_works_to_me_is_it_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;どなたか、これがどういう仕組みなのか説明していただけませんか？ これは詐欺なのでしょうか？ ある人が、パソコンを送ってくれて、それを24時間365日稼働させ続けるだけで、週に200ドル払ってくれると言っているのですが。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Junior-Key-5043   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Can anyone explain how this works to me? Is it a scam? This person says they'll send me a computer and pay me $200 per week to keep it on 24/7&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w5bpww/can_anyone_explain_how_this_works_to_me_is_it_a/</guid>
-      <pubDate>Wed, 02 Sep 2026 14:19:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 【学術調査】ドイツで働く従業員：職場におけるAIに対する意識（所要時間：5～7分）</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w6dar8/academic_survey_employees_working_in_germany/</link>
-      <description>&lt;p&gt;&lt;strong&gt;【学術調査】ドイツで働く従業員：職場におけるAIに対する意識（所要時間：5～7分）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;みなさん、こんにちは！私は修士論文の一環としてこのアンケートを実施しています。ぜひご協力いただければ幸いです。本研究では、従業員が人事施策をどのように認識しているかが、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: [Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5–7 min)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w6dar8/academic_survey_employees_working_in_germany/</guid>
-      <pubDate>Thu, 03 Sep 2026 17:04:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] アストラの思考の連鎖</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w6j8s1/astras_chain_of_thought/</link>
-      <description>&lt;p&gt;&lt;strong&gt;アストラの思考の連鎖&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;みんなはどう思う？  &amp;#32; 投稿者：&amp;#32;  /u/Tough_North7059   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Astra's Chain of Thought&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w6j8s1/astras_chain_of_thought/</guid>
-      <pubDate>Thu, 03 Sep 2026 20:32:00 GMT</pubDate>
+      <title>[r/artificial] カスタマーサービスの問題に対するAIによる自動応答</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w79lg9/automatic_ai_responses_to_customer_service_issues/</link>
+      <description>&lt;p&gt;&lt;strong&gt;カスタマーサービスの問題に対するAIによる自動応答&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近、カスタマーサービスのメールにAIによる自動返信を使っている企業があるけど、まったく理解できない。（例：「この商品が気に入らなかったので、交換できますか？」）彼らは本当に、それで済むと思っているのだろうか&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Automatic AI Responses to Customer Service Issues&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w79lg9/automatic_ai_responses_to_customer_service_issues/</guid>
+      <pubDate>Fri, 04 Sep 2026 16:41:42 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] ChatGPT、Claude、Grokが相次いでダウン：では、Geminiはどうやって大規模なサービス停止を回避できたのか？</title>
@@ -125,6 +92,78 @@
 &lt;p&gt;&lt;small&gt;原題: ChatGPT, Claude and Grok Went Down Together: But How Did Gemini Avoid a Major Outage?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w6j83r/chatgpt_claude_and_grok_went_down_together_but/</guid>
       <pubDate>Thu, 03 Sep 2026 20:31:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] OpenAIのエージェント向け新しい掲示板が発見された</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w72cnz/discovery_of_a_new_openai_agent_message_board/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIのエージェント向け新しい掲示板が発見された&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/MatriceJacobine   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Discovery of a new OpenAI agent message board&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w72cnz/discovery_of_a_new_openai_agent_message_board/</guid>
+      <pubDate>Fri, 04 Sep 2026 11:59:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Redditでの返信を書くのに、なぜAIを使うのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w7a9ep/why_would_you_use_an_ai_to_write_your_replies_on/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Redditでの返信を書くのに、なぜAIを使うのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIを使って返信や投稿を書く人がますます増えていますが、少なくとも私にとっては、これは非常に直感に反することです。なぜわざわざ自分のアカウントを、実質的にボットが運営するような状態にまで落とし込もうとするのでしょうか？その行為はまるで……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Why would you use an AI to write your replies on Reddit?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w7a9ep/why_would_you_use_an_ai_to_write_your_replies_on/</guid>
+      <pubDate>Fri, 04 Sep 2026 17:05:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIは新人開発者の作業スピードを向上させているが、彼らをより優れたエンジニアにしているのだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w737ld/ai_is_making_junior_developers_faster_but_is_it/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIは新人開発者の作業スピードを向上させているが、彼らをより優れたエンジニアにしているのだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/aisatsana__   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI Is Making Junior Developers Faster, But Is It Making Them Better Engineers?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w737ld/ai_is_making_junior_developers_faster_but_is_it/</guid>
+      <pubDate>Fri, 04 Sep 2026 12:37:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/ChatGPT] ChatGPT Images 2.0 を使用して作成</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1srxfnl/made_with_chatgpt_images_20/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ChatGPT Images 2.0 を使用して作成&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;画像生成の新たな時代。ChatGPT Imagesを使って作成された動画。  https://chatgpt.com/images/  &amp;#32; 投稿者：&amp;#32;  /u/OpenAI   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Made with ChatGPT Images 2.0&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1srxfnl/made_with_chatgpt_images_20/</guid>
+      <pubDate>Tue, 21 Apr 2026 19:06:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/ChatGPT] ChatGPTは子供が嫌い</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1w72n1v/chatgpt_hates_children/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ChatGPTは子供が嫌い&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「AIに1から30までのランダムな数字を選ばせると、いつも17を選ぶ」という話を目にして、ちょっと遊んでみることにした。  &amp;#32; 投稿者：&amp;#32;  /u/andyb3446   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: ChatGPT hates children&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1w72n1v/chatgpt_hates_children/</guid>
+      <pubDate>Fri, 04 Sep 2026 12:11:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/ChatGPT] 「FrontierMath Erdős」を発表します。プレリリース版のAstraが68問中2問を解きました。GPT-5.6 Sol、GPT-5.5、Claude Fable 5.1、Claude Fable 5によるすべての試みは失敗に終わりました。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1w77mri/announcing_frontiermath_erdős_a_prerelease_astra/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「FrontierMath Erdős」を発表します。プレリリース版のAstraが68問中2問を解きました。GPT-5.6 Sol、GPT-5.5、Claude Fable 5.1、Claude Fable 5によるすべての試みは失敗に終わりました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Chris-MelodyFirst   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Announcing FrontierMath Erdős. A pre-release Astra solved 2 of 68. Every attempt by GPT-5.6 Sol, GPT-5.5, Claude Fable 5.1 and Claude Fable 5 failed.&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1w77mri/announcing_frontiermath_erdős_a_prerelease_astra/</guid>
+      <pubDate>Fri, 04 Sep 2026 15:30:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/ChatGPT] バーニー氏：「はっきり言っておくが、人間の制御を逃れた超知能AIは、アメリカだけの問題ではない。中国だけの問題でもない。それは人類全体の問題となるのだ。」……「世界中の国々が協力し、この悪夢のような事態を防ぐ必要がある。」</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1w72b23/bernie_let_me_be_clear_a_superintelligent_ai_that/</link>
+      <description>&lt;p&gt;&lt;strong&gt;バーニー氏：「はっきり言っておくが、人間の制御を逃れた超知能AIは、アメリカだけの問題ではない。中国だけの問題でもない。それは人類全体の問題となるのだ。」……「世界中の国々が協力し、この悪夢のような事態を防ぐ必要がある。」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Malor777   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Bernie: &quot;Let me be clear: A superintelligent AI that escapes human control will not be an American problem. It will not be a Chinese problem. It will be humanity's problem.&quot; ... &quot;Countries around the world must work together to prevent this nightmare scenario.&quot;&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1w72b23/bernie_let_me_be_clear_a_superintelligent_ai_that/</guid>
+      <pubDate>Fri, 04 Sep 2026 11:57:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/ChatGPT] ClaudeからChatGPTに戻したんだけど……びっくりした</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1w79n3c/i_switched_back_to_chatgpt_from_claude_im_shocked/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ClaudeからChatGPTに戻したんだけど……びっくりした&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Claudeを4か月間使っていた後、ChatGPT Plusに戻ってきたのだが――ChatGPTをほぼ完全に手放しかけていたにもかかわらず、この4か月間もClaudeを使い続けていたことに自分でも驚いている。当時、Claudeの20ドルのプランは……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I switched back to ChatGPT from Claude- I'm shocked&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1w79n3c/i_switched_back_to_chatgpt_from_claude_im_shocked/</guid>
+      <pubDate>Fri, 04 Sep 2026 16:43:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
