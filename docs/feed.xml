@@ -3,178 +3,178 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-05</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-06</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 05 Sep 2026 20:10:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 20:15:39 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (2003pt) OpenAIのエージェント向け新しい掲示板が発見された</title>
-      <link>https://news.ycombinator.com/item?id=49563355</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIのエージェント向け新しい掲示板が発見された&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Discovery of a new OpenAI agent message board&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49563355</guid>
-      <pubDate>Fri, 04 Sep 2026 11:54:53 GMT</pubDate>
+      <title>[Hacker News] (489pt) イザール・エアロスペース、2回目の飛行で軌道に到達し、ペイロードを展開</title>
+      <link>https://news.ycombinator.com/item?id=49584083</link>
+      <description>&lt;p&gt;&lt;strong&gt;イザール・エアロスペース、2回目の飛行で軌道に到達し、ペイロードを展開&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Isar Aerospace reaches orbit and deploys payloads on second flight&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49584083</guid>
+      <pubDate>Sun, 06 Sep 2026 07:21:06 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (723pt) フェルマーの最終定理の形式化</title>
-      <link>https://news.ycombinator.com/item?id=49568506</link>
-      <description>&lt;p&gt;&lt;strong&gt;フェルマーの最終定理の形式化&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Formalizing Fermat's Last Theorem&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49568506</guid>
-      <pubDate>Fri, 04 Sep 2026 18:42:56 GMT</pubDate>
+      <title>[Hacker News] (396pt) A/Iがシャットダウン――人間であり続けよう</title>
+      <link>https://news.ycombinator.com/item?id=49586898</link>
+      <description>&lt;p&gt;&lt;strong&gt;A/Iがシャットダウン――人間であり続けよう&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A/I shuts down – Stay human&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49586898</guid>
+      <pubDate>Sun, 06 Sep 2026 14:34:34 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (714pt) すべてのChromiumバージョンにおいて、積極的に悪用されているサンドボックスRCE</title>
-      <link>https://news.ycombinator.com/item?id=49570669</link>
-      <description>&lt;p&gt;&lt;strong&gt;すべてのChromiumバージョンにおいて、積極的に悪用されているサンドボックスRCE&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Actively exploited sandbox RCE in all Chromium versions&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49570669</guid>
-      <pubDate>Fri, 04 Sep 2026 21:52:01 GMT</pubDate>
+      <title>[Hacker News] (381pt) あなたの知性のボタンが外れている (2025)</title>
+      <link>https://news.ycombinator.com/item?id=49585644</link>
+      <description>&lt;p&gt;&lt;strong&gt;あなたの知性のボタンが外れている (2025)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Your intellectual fly is open (2025)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49585644</guid>
+      <pubDate>Sun, 06 Sep 2026 11:56:43 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (553pt) Nitterの稼働中のインスタンス数は、サービス停止前よりも増えている。</title>
-      <link>https://news.ycombinator.com/item?id=49571634</link>
-      <description>&lt;p&gt;&lt;strong&gt;Nitterの稼働中のインスタンス数は、サービス停止前よりも増えている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Nitter has more working instances than before the takedowns&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49571634</guid>
-      <pubDate>Sat, 05 Sep 2026 00:04:16 GMT</pubDate>
+      <title>[Hacker News] (294pt) 「ドゥームスクロール」で自らを死へと追いやる</title>
+      <link>https://news.ycombinator.com/item?id=49585627</link>
+      <description>&lt;p&gt;&lt;strong&gt;「ドゥームスクロール」で自らを死へと追いやる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Doomscrolling Ourselves to Death&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49585627</guid>
+      <pubDate>Sun, 06 Sep 2026 11:53:40 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (204pt) 「60ドルのゲーミングPC」 – AMD BC-250 (2025)</title>
-      <link>https://news.ycombinator.com/item?id=49576386</link>
-      <description>&lt;p&gt;&lt;strong&gt;「60ドルのゲーミングPC」 – AMD BC-250 (2025)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The &quot;$60 Gaming PC&quot; – AMD BC-250 (2025)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49576386</guid>
-      <pubDate>Sat, 05 Sep 2026 13:36:38 GMT</pubDate>
+      <title>[Hacker News] (234pt) 法的助言に基づき、ニッター・プロジェクトは継続されることとなった</title>
+      <link>https://news.ycombinator.com/item?id=49589003</link>
+      <description>&lt;p&gt;&lt;strong&gt;法的助言に基づき、ニッター・プロジェクトは継続されることとなった&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Following legal advice, the Nitter project will continue&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49589003</guid>
+      <pubDate>Sun, 06 Sep 2026 17:51:23 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (160pt) 人生の贅沢</title>
-      <link>https://news.ycombinator.com/item?id=49578866</link>
-      <description>&lt;p&gt;&lt;strong&gt;人生の贅沢&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Luxuries in Life&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49578866</guid>
-      <pubDate>Sat, 05 Sep 2026 17:46:16 GMT</pubDate>
+      <title>[Hacker News] (215pt) Nitterはアーカイブ解除され、今後も継続されます</title>
+      <link>https://news.ycombinator.com/item?id=49588988</link>
+      <description>&lt;p&gt;&lt;strong&gt;Nitterはアーカイブ解除され、今後も継続されます&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Nitter is unarchived and will continue&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49588988</guid>
+      <pubDate>Sun, 06 Sep 2026 17:49:47 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (91pt) テルプストラ・キーボード</title>
-      <link>https://news.ycombinator.com/item?id=49575150</link>
-      <description>&lt;p&gt;&lt;strong&gt;テルプストラ・キーボード&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Terpstra Keyboard&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49575150</guid>
-      <pubDate>Sat, 05 Sep 2026 10:33:01 GMT</pubDate>
+      <title>[Hacker News] (208pt) 異星人の心</title>
+      <link>https://news.ycombinator.com/item?id=49588080</link>
+      <description>&lt;p&gt;&lt;strong&gt;異星人の心&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: An Alien Mind&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49588080</guid>
+      <pubDate>Sun, 06 Sep 2026 16:27:05 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (70pt) OCamlでプログラミングを学ぶ</title>
-      <link>https://news.ycombinator.com/item?id=49578280</link>
-      <description>&lt;p&gt;&lt;strong&gt;OCamlでプログラミングを学ぶ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Learn Programming with OCaml&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49578280</guid>
-      <pubDate>Sat, 05 Sep 2026 16:45:02 GMT</pubDate>
+      <title>[Hacker News] (83pt) NetBSD 9.5 がリリースされ、NetBSD-9 のサポート終了（EOL）となりました</title>
+      <link>https://news.ycombinator.com/item?id=49587636</link>
+      <description>&lt;p&gt;&lt;strong&gt;NetBSD 9.5 がリリースされ、NetBSD-9 のサポート終了（EOL）となりました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: NetBSD 9.5 released and EOL for NetBSD-9&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49587636</guid>
+      <pubDate>Sun, 06 Sep 2026 15:44:24 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (59pt) RustのVtableの可視化：メモリ内でのdyn Traitの仕組み</title>
-      <link>https://news.ycombinator.com/item?id=49576343</link>
-      <description>&lt;p&gt;&lt;strong&gt;RustのVtableの可視化：メモリ内でのdyn Traitの仕組み&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Visualizing Rust's Vtables: How dyn Trait Works In Memory&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49576343</guid>
-      <pubDate>Sat, 05 Sep 2026 13:31:05 GMT</pubDate>
+      <title>[Hacker News] (51pt) NetBSD を用いて実施された研究</title>
+      <link>https://news.ycombinator.com/item?id=49587903</link>
+      <description>&lt;p&gt;&lt;strong&gt;NetBSD を用いて実施された研究&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Research carried out using NetBSD&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49587903</guid>
+      <pubDate>Sun, 06 Sep 2026 16:10:05 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (26pt) 『ステフェンの多面体』――グレッグ・イーガン</title>
-      <link>https://news.ycombinator.com/item?id=49552615</link>
-      <description>&lt;p&gt;&lt;strong&gt;『ステフェンの多面体』――グレッグ・イーガン&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Steffen's Polyhedron – Greg Egan&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49552615</guid>
-      <pubDate>Thu, 03 Sep 2026 16:24:13 GMT</pubDate>
+      <title>[Hacker News] (16pt) 自動車業界では、CarPlay搭載車と非搭載車の販売についてA/Bテストを実施した</title>
+      <link>https://news.ycombinator.com/item?id=49590225</link>
+      <description>&lt;p&gt;&lt;strong&gt;自動車業界では、CarPlay搭載車と非搭載車の販売についてA/Bテストを実施した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The car industry A/B tested selling a car with and without CarPlay&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49590225</guid>
+      <pubDate>Sun, 06 Sep 2026 19:53:23 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] トランプ氏、データセンターの急増を擁護し、AIが「何百万、何百万もの」雇用を生み出すと発言</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w89lyj/trump_says_ai_will_create_millions_and_millions/</link>
-      <description>&lt;p&gt;&lt;strong&gt;トランプ氏、データセンターの急増を擁護し、AIが「何百万、何百万もの」雇用を生み出すと発言&lt;/strong&gt;&lt;/p&gt;
+      <title>[r/artificial] マスク氏、AIによる児童ポルノを禁止するミネソタ州法の阻止に失敗</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w953sx/musk_loses_bid_to_block_mn_law_against_ai_child/</link>
+      <description>&lt;p&gt;&lt;strong&gt;マスク氏、AIによる児童ポルノを禁止するミネソタ州法の阻止に失敗&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Trump Says AI Will Create 'Millions and Millions' of Jobs as He Defends Data Centre Boom&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w89lyj/trump_says_ai_will_create_millions_and_millions/</guid>
-      <pubDate>Sat, 05 Sep 2026 19:11:08 GMT</pubDate>
+&lt;p&gt;&lt;small&gt;原題: Musk Loses Bid To Block MN Law Against AI Child Porn&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w953sx/musk_loses_bid_to_block_mn_law_against_ai_child/</guid>
+      <pubDate>Sun, 06 Sep 2026 19:07:51 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 企業には、自動化された攻撃に備えるために6か月の猶予がある</title>
+      <title>[r/artificial] ルニック氏の発言にもかかわらず、国防総省はアンソロピック社に対する禁止措置を継続すると表明</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w927or/pentagon_says_its_anthropic_ban_is_on_despite/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ルニック氏の発言にもかかわらず、国防総省はアンソロピック社に対する禁止措置を継続すると表明&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ThereWas   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Pentagon Says Its Anthropic Ban Is On, Despite Lutnick Remarks&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w927or/pentagon_says_its_anthropic_ban_is_on_despite/</guid>
+      <pubDate>Sun, 06 Sep 2026 17:22:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] GPT-6は、拡張版「Task-in-Prompt（TIP）」攻撃を用いて、わずか24時間以内にジェイルブレイクされたと報じられている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w8on5m/gpt6_reportedly_jailbroken_within_24_hours_using/</link>
+      <description>&lt;p&gt;&lt;strong&gt;GPT-6は、拡張版「Task-in-Prompt（TIP）」攻撃を用いて、わずか24時間以内にジェイルブレイクされたと報じられている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ある研究者が、GPT-6 Astraのリリースからわずか1日後に、そのジェイルブレイクに成功したと報告した。この攻撃は、ACL 2025の論文で提唱されたTIP（Task-in-Prompt）攻撃と、その他4つの未公開技術を組み合わせたものだと説明されている。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w8on5m/gpt6_reportedly_jailbroken_within_24_hours_using/</guid>
+      <pubDate>Sun, 06 Sep 2026 06:46:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 企業は自動化された攻撃への対策に6か月を要する</title>
       <link>https://www.reddit.com/r/artificial/comments/1w8aso1/companies_have_6_months_to_prepare_for_automated/</link>
-      <description>&lt;p&gt;&lt;strong&gt;企業には、自動化された攻撃に備えるために6か月の猶予がある&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;企業は自動化された攻撃への対策に6か月を要する&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/israelavila   [リンク] &amp;#32; [コメント]&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Companies Have 6 Months to Prepare for Automated Attacks&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w8aso1/companies_have_6_months_to_prepare_for_automated/</guid>
       <pubDate>Sat, 05 Sep 2026 19:57:08 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] OpenAIのCEOサム・アルトマン氏は、ChatGPTへの3万8000件のクエリで、アーモンド1粒の生産に要する量と同じだけの水が使われると述べ、データセンターの用水量はオフィスビルと同程度だと指摘した： 「ChatGPTのクエリ3万8,000件ごとに、カリフォルニア州でアーモンド1粒を生産するのに使用されるのと同じ量の水が消費される。」</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w78xil/openai_ceo_sam_altman_says_38000_chatgpt_queries/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIのCEOサム・アルトマン氏は、ChatGPTへの3万8000件のクエリで、アーモンド1粒の生産に要する量と同じだけの水が使われると述べ、データセンターの用水量はオフィスビルと同程度だと指摘した： 「ChatGPTのクエリ3万8,000件ごとに、カリフォルニア州でアーモンド1粒を生産するのに使用されるのと同じ量の水が消費される。」&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ControlCAD   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI CEO Sam Altman says 38,000 ChatGPT queries use as much water as the production of one almond — says data centers use no more water than an office building: “For every 38,000 ChatGPT queries, that is the same amount of water that is used in the production of single almond in California.”&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w78xil/openai_ceo_sam_altman_says_38000_chatgpt_queries/</guid>
-      <pubDate>Fri, 04 Sep 2026 16:17:53 GMT</pubDate>
+      <title>[r/artificial] LLMには決してできないことは何でしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w8m8rw/what_will_llms_never_do/</link>
+      <description>&lt;p&gt;&lt;strong&gt;LLMには決してできないことは何でしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;数年前までは、この件について盛んに議論されていましたが、今では以前ほど話題に上らなくなった気がします。かつては「LLMがAGIに到達することなどあり得ない」と言われていましたが、実際には日ごとにその実現に近づきつつあります。私は&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What will LLMs never do?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w8m8rw/what_will_llms_never_do/</guid>
+      <pubDate>Sun, 06 Sep 2026 04:35:38 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] なぜ、プライバシーを気にかける人がもっと増えないのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w7o0xv/why_are_more_people_not_concerned_about_privacy/</link>
-      <description>&lt;p&gt;&lt;strong&gt;なぜ、プライバシーを気にかける人がもっと増えないのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;編集のために自分の写真をアップロードしたり、他人の名前や詳細な体験、トラウマ、意見や考えを、まるで何のフィルターもかけずに公開したりしている人が非常に多い。さらに、パワーユーザーたちは&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Why are more people not concerned about privacy?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w7o0xv/why_are_more_people_not_concerned_about_privacy/</guid>
-      <pubDate>Sat, 05 Sep 2026 02:18:25 GMT</pubDate>
+      <title>[r/artificial] 環境VFXを迅速に制作するための新しいワークフローの検証</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w8zxi7/testing_a_new_workflow_for_rapid_environmental_vfx/</link>
+      <description>&lt;p&gt;&lt;strong&gt;環境VFXを迅速に制作するための新しいワークフローの検証&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;オリジナルのドローン映像［下］と、火、雨、雪、花という4つの異なる環境設定の映像。これらはすべてUisato Studio内で制作され、誰でも利用可能です。さらなる実験やプロジェクトについては、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Testing a new workflow for rapid environmental VFX&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w8zxi7/testing_a_new_workflow_for_rapid_environmental_vfx/</guid>
+      <pubDate>Sun, 06 Sep 2026 15:57:36 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIを使ったワークフローは、助けになるというよりむしろ負担になっていると感じているのは、私だけでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w88rti/am_i_the_only_one_thinking_ai_workflows_are_more/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIを使ったワークフローは、助けになるというよりむしろ負担になっていると感じているのは、私だけでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;誰かがマルチエージェント・フレームワークを起動させ、あるトピックについて調査し、コードを書き、アプリをデプロイする――その間、本人はコーヒーを飲んでいる、といったデモを、誰もが一度は見たことがあるだろう。しかし、実際に何かをセットアップしようとすると……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Am I the only one thinking AI workflows are more of a burden than relief?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w88rti/am_i_the_only_one_thinking_ai_workflows_are_more/</guid>
-      <pubDate>Sat, 05 Sep 2026 18:39:47 GMT</pubDate>
+      <title>[r/artificial] データセンターへの反発が地域社会に広がっている中、AI企業が中間選挙に向けて2億6500万ドルを投じている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w8gee5/ai_companies_are_dumping_265m_into_the_midterms/</link>
+      <description>&lt;p&gt;&lt;strong&gt;データセンターへの反発が地域社会に広がっている中、AI企業が中間選挙に向けて2億6500万ドルを投じている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI companies are dumping $265M into the midterms as data center backlash sweeps through communities&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w8gee5/ai_companies_are_dumping_265m_into_the_midterms/</guid>
+      <pubDate>Sat, 05 Sep 2026 23:50:17 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] さて、マイケル・ナイトのコンピューター「KITT」の模型を作る人はいるかな？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w7x9ht/ok_whos_gonna_make_a_model_of_michael_knights/</link>
-      <description>&lt;p&gt;&lt;strong&gt;さて、マイケル・ナイトのコンピューター「KITT」の模型を作る人はいるかな？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;じゃあ、普段使っているLLMのどのバージョンでも、これを使えるってこと？ 僕のLLMには、ほんの少しイギリス訛り……というか、トランスアトランティック訛りだったかな。ちょっと執事っぽい感じだけど、あと……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OK, who's gonna make a model of Michael Knight's computer KITT ?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w7x9ht/ok_whos_gonna_make_a_model_of_michael_knights/</guid>
-      <pubDate>Sat, 05 Sep 2026 10:38:38 GMT</pubDate>
+      <title>[r/artificial] なぜそんなことをするのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w96lyt/why_would_we_do_that/</link>
+      <description>&lt;p&gt;&lt;strong&gt;なぜそんなことをするのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;この分野では私はまだ初心者かもしれませんが、AIに関する悲観的なニュースやYouTubeの動画を見て、ある疑問が頭に浮かびました。なぜ、AIに邪悪で、利己的で、破壊的で、欺瞞的な能力を与える必要があるのでしょうか？もしそうなら……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Why would we do that?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w96lyt/why_would_we_do_that/</guid>
+      <pubDate>Sun, 06 Sep 2026 20:03:10 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 世代、世代。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w88r1a/the_generation_generation/</link>
-      <description>&lt;p&gt;&lt;strong&gt;世代、世代。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ふとこの言葉が頭に浮かんだ。もしかしたら、LLMが普及した後の時代を表す正式な名称にすべきかもしれない。まもなく、AIを常に利用できた時代に生きる世代が、丸々一世代現れることになるだろう。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The generation generation.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w88r1a/the_generation_generation/</guid>
-      <pubDate>Sat, 05 Sep 2026 18:38:59 GMT</pubDate>
+      <title>[r/artificial] AIはすでに回路基板を設計できるのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w8mzqg/can_ai_design_circuit_boards_yet/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIはすでに回路基板を設計できるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/tw1st3d_m3nt4t   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Can AI design circuit boards yet?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w8mzqg/can_ai_design_circuit_boards_yet/</guid>
+      <pubDate>Sun, 06 Sep 2026 05:14:52 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 2D動画から3Dアニメーションへの変換レイヤーを構築しています。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w81x6x/im_building_a_2d_video_to_3d_animation/</link>
-      <description>&lt;p&gt;&lt;strong&gt;2D動画から3Dアニメーションへの変換レイヤーを構築しています。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;この実験についてまとめました。背景として、私はこれまでBlenderやUnreal Engineを使ったことがなく、別の業界で開発者として働いています。Astraが特殊な推論や理解をどのように向上させるのかを確認したいと考えています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I'm building a 2D video to 3D animation translation layer.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w81x6x/im_building_a_2d_video_to_3d_animation/</guid>
-      <pubDate>Sat, 05 Sep 2026 14:15:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 安っぽい3Dモデルを使ったウェブアプリがこれほどたくさんあるのは、一体どういうことなんでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w84vih/whats_the_deal_with_all_those_cheap_3d_modelled/</link>
-      <description>&lt;p&gt;&lt;strong&gt;安っぽい3Dモデルを使ったウェブアプリがこれほどたくさんあるのは、一体どういうことなんでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私のフィードは、つい最近登場した新しいモデルによって生成されたランダムな世界を披露するデモで溢れかえっている。その名前はよくわからないけど、いわゆる「本物のAGI」ってやつだ。ただ、そのほとんどがプレハブを使っているんだけど……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What's the deal with all those cheap 3D modelled web apps?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w84vih/whats_the_deal_with_all_those_cheap_3d_modelled/</guid>
-      <pubDate>Sat, 05 Sep 2026 16:12:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] バーニー・サンダース氏が「今すぐAI開発を中断すべき」と主張：ドワルケシュ・パテル氏が「中断して何をするのか？」と問う</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w76b8m/bernie_sanders_wants_to_pause_ai_development_now/</link>
-      <description>&lt;p&gt;&lt;strong&gt;バーニー・サンダース氏が「今すぐAI開発を中断すべき」と主張：ドワルケシュ・パテル氏が「中断して何をするのか？」と問う&lt;/strong&gt;&lt;/p&gt;
+      <title>[r/artificial] トランプ氏、データセンターの急増を擁護し、AIが「何百万、何百万」もの雇用を生み出すと発言</title>
+      <link>https://www.reddit.com/r/artificial/comments/1w89lyj/trump_says_ai_will_create_millions_and_millions/</link>
+      <description>&lt;p&gt;&lt;strong&gt;トランプ氏、データセンターの急増を擁護し、AIが「何百万、何百万」もの雇用を生み出すと発言&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Bernie Sanders Wants to 'Pause AI Development NOW': Dwarkesh Patel Asks 'Pause to Do What?'&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w76b8m/bernie_sanders_wants_to_pause_ai_development_now/</guid>
-      <pubDate>Fri, 04 Sep 2026 14:41:41 GMT</pubDate>
+&lt;p&gt;&lt;small&gt;原題: Trump Says AI Will Create 'Millions and Millions' of Jobs as He Defends Data Centre Boom&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w89lyj/trump_says_ai_will_create_millions_and_millions/</guid>
+      <pubDate>Sat, 05 Sep 2026 19:11:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
