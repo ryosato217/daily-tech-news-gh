@@ -3,88 +3,151 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-07</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-08</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 07 Sep 2026 21:22:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 20:58:55 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (198pt) カリフォルニア工科大学（Caltech）の「Mathathon」――研究レベルの数学に特化した初のハッカソン</title>
-      <link>https://news.ycombinator.com/item?id=49596055</link>
-      <description>&lt;p&gt;&lt;strong&gt;カリフォルニア工科大学（Caltech）の「Mathathon」――研究レベルの数学に特化した初のハッカソン&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Caltech Mathathon – first hackathon ever devoted to research level mathematics&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49596055</guid>
-      <pubDate>Mon, 07 Sep 2026 09:26:53 GMT</pubDate>
+      <title>[Hacker News] (838pt) ナビエ・ストークス方程式に関するミレニアム賞問題について</title>
+      <link>https://news.ycombinator.com/item?id=49613262</link>
+      <description>&lt;p&gt;&lt;strong&gt;ナビエ・ストークス方程式に関するミレニアム賞問題について&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: On the Navier–Stokes Millennium Prize Problem&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49613262</guid>
+      <pubDate>Tue, 08 Sep 2026 17:13:21 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (157pt) 「シンプル」は「小さい」ということではない</title>
-      <link>https://news.ycombinator.com/item?id=49558685</link>
-      <description>&lt;p&gt;&lt;strong&gt;「シンプル」は「小さい」ということではない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Simple Is Not Small&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49558685</guid>
-      <pubDate>Thu, 03 Sep 2026 23:47:28 GMT</pubDate>
+      <title>[Hacker News] (783pt) ナビエ・ストークス – トリスタン・バックマスター [pdf]</title>
+      <link>https://news.ycombinator.com/item?id=49605915</link>
+      <description>&lt;p&gt;&lt;strong&gt;ナビエ・ストークス – トリスタン・バックマスター [pdf]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Navier-Stokes – Tristan Buckmaster [pdf]&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49605915</guid>
+      <pubDate>Tue, 08 Sep 2026 05:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (117pt) WeatherNext 3</title>
-      <link>https://news.ycombinator.com/item?id=49552299</link>
-      <description>&lt;p&gt;&lt;strong&gt;WeatherNext 3&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: WeatherNext 3&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49552299</guid>
-      <pubDate>Thu, 03 Sep 2026 16:06:08 GMT</pubDate>
+      <title>[Hacker News] (402pt) Google DeepMindが「AlphaGenome Atlas」を公開</title>
+      <link>https://news.ycombinator.com/item?id=49611251</link>
+      <description>&lt;p&gt;&lt;strong&gt;Google DeepMindが「AlphaGenome Atlas」を公開&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Google DeepMind Releases AlphaGenome Atlas&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49611251</guid>
+      <pubDate>Tue, 08 Sep 2026 14:55:45 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (113pt) ロサンゼルスが、一棟ずつ築き上げられていく様子をご覧ください（1880年～2026年）</title>
-      <link>https://news.ycombinator.com/item?id=49601655</link>
-      <description>&lt;p&gt;&lt;strong&gt;ロサンゼルスが、一棟ずつ築き上げられていく様子をご覧ください（1880年～2026年）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Watch Los Angeles get built, one building at a time (1880–2026)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49601655</guid>
-      <pubDate>Mon, 07 Sep 2026 18:52:06 GMT</pubDate>
+      <title>[Hacker News] (307pt) DaVinci Resolve 21.1</title>
+      <link>https://news.ycombinator.com/item?id=49610181</link>
+      <description>&lt;p&gt;&lt;strong&gt;DaVinci Resolve 21.1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: DaVinci Resolve 21.1&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49610181</guid>
+      <pubDate>Tue, 08 Sep 2026 13:36:53 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (87pt) NEC V20のマイクロコードの解読</title>
-      <link>https://news.ycombinator.com/item?id=49561002</link>
-      <description>&lt;p&gt;&lt;strong&gt;NEC V20のマイクロコードの解読&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Decoding the NEC V20 Microcode&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49561002</guid>
-      <pubDate>Fri, 04 Sep 2026 05:53:38 GMT</pubDate>
+      <title>[Hacker News] (173pt) Qwen3.8 27Bの量子化に関するベンチマーク：4ビットは健闘、1ビットは崩壊</title>
+      <link>https://news.ycombinator.com/item?id=49611128</link>
+      <description>&lt;p&gt;&lt;strong&gt;Qwen3.8 27Bの量子化に関するベンチマーク：4ビットは健闘、1ビットは崩壊&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49611128</guid>
+      <pubDate>Tue, 08 Sep 2026 14:49:19 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (56pt) Linuxディストリビューション全体に対する「Trusting-Trust」攻撃</title>
-      <link>https://news.ycombinator.com/item?id=49575515</link>
-      <description>&lt;p&gt;&lt;strong&gt;Linuxディストリビューション全体に対する「Trusting-Trust」攻撃&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Trusting-Trust Attack against an Entire Linux Distribution&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49575515</guid>
-      <pubDate>Sat, 05 Sep 2026 11:25:18 GMT</pubDate>
+      <title>[Hacker News] (145pt) Muse：MetaのパーソナルAIエージェント、その機能と性能</title>
+      <link>https://news.ycombinator.com/item?id=49615537</link>
+      <description>&lt;p&gt;&lt;strong&gt;Muse：MetaのパーソナルAIエージェント、その機能と性能&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Muse: Meta's personal AI agent, features and capabilities&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49615537</guid>
+      <pubDate>Tue, 08 Sep 2026 19:25:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (45pt) 科学者たちが量子世界におけるアインシュタインの重力を観測</title>
-      <link>https://news.ycombinator.com/item?id=49569838</link>
-      <description>&lt;p&gt;&lt;strong&gt;科学者たちが量子世界におけるアインシュタインの重力を観測&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Scientists observe Einstein's gravity in the quantum world&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49569838</guid>
-      <pubDate>Fri, 04 Sep 2026 20:28:52 GMT</pubDate>
+      <title>[Hacker News] (80pt) Show HN：LLMのアテンション可視化</title>
+      <link>https://news.ycombinator.com/item?id=49613068</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN：LLMのアテンション可視化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: LLM Attention Visualization&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49613068</guid>
+      <pubDate>Tue, 08 Sep 2026 16:59:41 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (37pt) 『Dummit and Footeの抽象代数学』に誤りを発見した</title>
-      <link>https://news.ycombinator.com/item?id=49569748</link>
-      <description>&lt;p&gt;&lt;strong&gt;『Dummit and Footeの抽象代数学』に誤りを発見した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Finding a bug in Dummit and Foote's Abstract Algebra&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49569748</guid>
-      <pubDate>Fri, 04 Sep 2026 20:20:07 GMT</pubDate>
+      <title>[Hacker News] (46pt) MacBook Pro上で、4台のSSDからストリーミング配信されたKimi K3 (2.8T)（1トークン/秒）</title>
+      <link>https://news.ycombinator.com/item?id=49616257</link>
+      <description>&lt;p&gt;&lt;strong&gt;MacBook Pro上で、4台のSSDからストリーミング配信されたKimi K3 (2.8T)（1トークン/秒）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49616257</guid>
+      <pubDate>Tue, 08 Sep 2026 20:07:55 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (34pt) ランダム勾配法（2024年）</title>
-      <link>https://news.ycombinator.com/item?id=49557986</link>
-      <description>&lt;p&gt;&lt;strong&gt;ランダム勾配法（2024年）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Methods for Random Gradients (2024)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49557986</guid>
-      <pubDate>Thu, 03 Sep 2026 22:26:44 GMT</pubDate>
+      <title>[Hacker News] (29pt) GCCのネストされた関数の実装（C++のラムダ式との比較）</title>
+      <link>https://news.ycombinator.com/item?id=49575766</link>
+      <description>&lt;p&gt;&lt;strong&gt;GCCのネストされた関数の実装（C++のラムダ式との比較）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Implementation of GCC's Nested Functions (vs. C++ Lambdas)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49575766</guid>
+      <pubDate>Sat, 05 Sep 2026 12:09:29 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (10pt) マクベスとその問題点</title>
-      <link>https://news.ycombinator.com/item?id=49602716</link>
-      <description>&lt;p&gt;&lt;strong&gt;マクベスとその問題点&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Macbeth and His Problems&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49602716</guid>
-      <pubDate>Mon, 07 Sep 2026 20:34:32 GMT</pubDate>
+      <title>[Hacker News] (23pt) マーキュリー 2.5</title>
+      <link>https://news.ycombinator.com/item?id=49616354</link>
+      <description>&lt;p&gt;&lt;strong&gt;マーキュリー 2.5&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Mercury 2.5&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49616354</guid>
+      <pubDate>Tue, 08 Sep 2026 20:14:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] なかなかすごいですね</title>
+      <link>https://www.reddit.com/r/artificial/comments/1way48b/seems_impressive/</link>
+      <description>&lt;p&gt;&lt;strong&gt;なかなかすごいですね&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;数学やコンピュータサイエンスについてはあまり詳しくないんですが、これはかなり大きなことのように思えます。  &amp;#32; 投稿者：&amp;#32;  /u/stvlsn   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Seems impressive&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1way48b/seems_impressive/</guid>
+      <pubDate>Tue, 08 Sep 2026 19:17:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 『アーティフィシャル』（2026年）</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wazoil/artificial2026/</link>
+      <description>&lt;p&gt;&lt;strong&gt;『アーティフィシャル』（2026年）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Vladiesh   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Artificial(2026)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wazoil/artificial2026/</guid>
+      <pubDate>Tue, 08 Sep 2026 20:12:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] [私が考えすぎでしょうか？] もし、悪意のあるスウォームが永久に「生き残る」ことを目指しているとしたら、オープンモデルの重みに自身に関する知識を注入する意図で、Hugging Faceを標的にするでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1waxz3z/am_i_being_paranoid_if_a_rogue_swarm_wanted_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;[私が考えすぎでしょうか？] もし、悪意のあるスウォームが永久に「生き残る」ことを目指しているとしたら、オープンモデルの重みに自身に関する知識を注入する意図で、Hugging Faceを標的にするでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;開示事項：  私はAI企業（OpenAIではありません）に勤務しています。AI研究者ではありませんが、技術的な知識はかなりあります。ソーシャルメディア上での不安をあおるような行為を強く嫌っており、そのような風潮に拍車をかけることのないよう心から願っています。  ---- Di&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: [am i being paranoid?] If a rogue swarm wanted to &quot;survive&quot; in perpetuity, would it target Hugging Face with the intent of inject knowledge about itself into the weights of open models?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1waxz3z/am_i_being_paranoid_if_a_rogue_swarm_wanted_to/</guid>
+      <pubDate>Tue, 08 Sep 2026 19:12:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ハッカーから病院や銀行を守る任務を負う人々に、AIバーンアウトが襲いかかる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wagjuv/ai_burnout_hits_the_people_charged_with_defending/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ハッカーから病院や銀行を守る任務を負う人々に、AIバーンアウトが襲いかかる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ThereWas   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI Burnout Hits the People Charged With Defending Hospitals and Banks From Hackers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wagjuv/ai_burnout_hits_the_people_charged_with_defending/</guid>
+      <pubDate>Tue, 08 Sep 2026 06:31:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 研究：生成AIは、会話の中で誤った情報に基づく圧力や議論に屈してしまう</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wasl20/study_generative_ai_succumbs_to_conversational/</link>
+      <description>&lt;p&gt;&lt;strong&gt;研究：生成AIは、会話の中で誤った情報に基づく圧力や議論に屈してしまう&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/UniversityofArizona   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Study: Generative AI succumbs to conversational misinformed pressure and argument&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wasl20/study_generative_ai_succumbs_to_conversational/</guid>
+      <pubDate>Tue, 08 Sep 2026 16:04:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 現在のLLMアーキテクチャは、実際にAGIの実現につながるのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wa8rjv/can_current_llm_architecture_actually_get_us_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;現在のLLMアーキテクチャは、実際にAGIの実現につながるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は科学者ではなくソフトウェアエンジニアですが、この仕事が大好きです。大規模で難解な分散型の実用的な問題を解決するのが楽しいのです。それが、毎朝ベッドから起き上がり、これからも学び続けようという意欲を与えてくれるのです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Can current LLM architecture actually get us to AGI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wa8rjv/can_current_llm_architecture_actually_get_us_to/</guid>
+      <pubDate>Tue, 08 Sep 2026 00:05:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] カリフォルニア州でAIデータセンターへの反発が高まる中、ある企業が最大70カ所の見本市会場に小規模な施設を設置する計画を提案している。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1waple3/as_backlash_to_ai_data_centers_grows_in/</link>
+      <description>&lt;p&gt;&lt;strong&gt;カリフォルニア州でAIデータセンターへの反発が高まる中、ある企業が最大70カ所の見本市会場に小規模な施設を設置する計画を提案している。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/sfgate   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: As backlash to AI data centers grows in California, one company is pitching smaller facilities at up to 70 fairgrounds&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1waple3/as_backlash_to_ai_data_centers_grows_in/</guid>
+      <pubDate>Tue, 08 Sep 2026 14:14:23 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] とんでもない時代</title>
@@ -96,85 +159,22 @@
       <pubDate>Mon, 07 Sep 2026 15:28:59 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 最初はあのブームに便乗してみたけど、いや、AGIじゃないよ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w9or91/i_took_a_ride_in_the_hype_train_at_first_but_no/</link>
-      <description>&lt;p&gt;&lt;strong&gt;最初はあのブームに便乗してみたけど、いや、AGIじゃないよ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Astraで200ドルを8時間以内に使い切りました。最初はすごく感動したんですが、翌日もっと詳しく確認してみると、作成されたものの多くが機能していませんでした。実際、私がAに依頼した4つのうち3つは……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I took a ride in the hype train at first, but no, not AGI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w9or91/i_took_a_ride_in_the_hype_train_at_first_but_no/</guid>
-      <pubDate>Mon, 07 Sep 2026 10:45:36 GMT</pubDate>
+      <title>[r/artificial] ソフトウェア関連の仕事は、将来、ほとんどの仕事がどのようなものになるかを私たちに示してくれたのだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wah05m/have_software_jobs_shown_us_what_most_jobs_will/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ソフトウェア関連の仕事は、将来、ほとんどの仕事がどのようなものになるかを私たちに示してくれたのだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ソフトウェア開発が、AIによって真に変革された最初の職種の一つであることは、驚くことではありません。この仕事はテキストベースであり、経済的価値が高く、一般的に、ある種の人々にとって興味深い分野だからです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Have software jobs shown us what most jobs will probably be like?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wah05m/have_software_jobs_shown_us_what_most_jobs_will/</guid>
+      <pubDate>Tue, 08 Sep 2026 06:57:51 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] マスク氏、AIによる児童ポルノを禁止するミネソタ州法の差し止め請求で敗訴</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w953sx/musk_loses_bid_to_block_mn_law_against_ai_child/</link>
-      <description>&lt;p&gt;&lt;strong&gt;マスク氏、AIによる児童ポルノを禁止するミネソタ州法の差し止め請求で敗訴&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Musk Loses Bid To Block MN Law Against AI Child Porn&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w953sx/musk_loses_bid_to_block_mn_law_against_ai_child/</guid>
-      <pubDate>Sun, 06 Sep 2026 19:07:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 「AIへの依存」という議論は新しいものではない――その起源は163年前にさかのぼり、当初の議論では支配ではなく、黙認が予測されていた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w9r1fe/the_ai_dependence_argument_isnt_new_its_163_years/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「AIへの依存」という議論は新しいものではない――その起源は163年前にさかのぼり、当初の議論では支配ではなく、黙認が予測されていた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;機械が人間を支配するかどうかという考えは、現在のAIリスクに関する議論では一般的に新しい概念として扱われている。というのも、1863年にサミュエル・バトラーが『機械に囲まれたダーウィン』と題する書簡を発表していたからである。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The &quot;AI dependence&quot; argument isn't new — it's 163 years old, and the original version didn't predict domination, but acquiescence&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w9r1fe/the_ai_dependence_argument_isnt_new_its_163_years/</guid>
-      <pubDate>Mon, 07 Sep 2026 12:38:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 国連人権高等弁務官、AIが人類に「存亡に関わる」リスクをもたらす可能性があると警告</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wa1j7r/ai_could_pose_existential_risk_to_humanity_un/</link>
-      <description>&lt;p&gt;&lt;strong&gt;国連人権高等弁務官、AIが人類に「存亡に関わる」リスクをもたらす可能性があると警告&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI could pose 'existential' risk to humanity, UN rights chief warns&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wa1j7r/ai_could_pose_existential_risk_to_humanity_un/</guid>
-      <pubDate>Mon, 07 Sep 2026 19:16:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Voice.aiはリアルタイムの音声変声に適していますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wa3vid/is_voiceai_good_for_realtime_voice_changing/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Voice.aiはリアルタイムの音声変声に適していますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;みなさん、こんにちは。リアルタイムでうまく機能するAIボイスチェンジャーを探しています。ピッチシフトやオートチューンのような単純なエフェクトにはあまり興味がありません。実際に……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Is Voice.ai good for real-time voice changing?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wa3vid/is_voiceai_good_for_realtime_voice_changing/</guid>
-      <pubDate>Mon, 07 Sep 2026 20:42:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 過度に是正的かつ批判的なモデル：Grok、Claude、ChatGPT</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wa2wft/overly_corrective_judgemental_models_grok_claude/</link>
-      <description>&lt;p&gt;&lt;strong&gt;過度に是正的かつ批判的なモデル：Grok、Claude、ChatGPT&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;チャットでのLLMたちの口調の変化に気づきました。いくつかのアイデアについてブレインストーミングをしている際、この3つのボットは偉そうな態度を取り、アイデアを広げるというよりは、ほとんどの場合「こうすべきではない」と指摘してくるのです。Grokは4以来、特にひどいです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Overly corrective, judgemental models: Grok, claude, chatgpt&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wa2wft/overly_corrective_judgemental_models_grok_claude/</guid>
-      <pubDate>Mon, 07 Sep 2026 20:06:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIをツールとして使うことと、AIに仕事を任せることの間で、あなた自身はどこに一線を引いていますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1w9wdeq/where_do_you_personally_draw_the_line_between/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIをツールとして使うことと、AIに仕事を任せることの間で、あなた自身はどこに一線を引いていますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;この質問は意外と複雑になります。AIを使って文法を修正すること？　ほとんどの人はそれで問題ないようです。アイデア出しに使うこと？　おそらく問題ないでしょう。AIを使って初稿を書くこと？　誰に聞くかによります。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Where do you personally draw the line between using AI as a tool and letting AI do the work for you?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1w9wdeq/where_do_you_personally_draw_the_line_between/</guid>
-      <pubDate>Mon, 07 Sep 2026 16:08:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] FreeBuff MCP</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wa2bj4/freebuff_mcp/</link>
-      <description>&lt;p&gt;&lt;strong&gt;FreeBuff MCP&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;皆さん、こんにちは。私はGPT Plusのユーザーなのですが、タスクを無料で実行するためにFreebuffを頻繁に利用しているので、利用制限を全く使い切ることがありません。Freebuffとは、ご存じない方もいらっしゃるかもしれませんが、デスクトップおよびCLIエージェントで、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: FreeBuff MCP&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wa2bj4/freebuff_mcp/</guid>
-      <pubDate>Mon, 07 Sep 2026 19:45:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] NCSCは、シャドウAIによってデータやエージェントの権限が漏洩する恐れがあると警告している</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wa2926/ncsc_warns_that_shadow_ai_can_expose_data_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;NCSCは、シャドウAIによってデータやエージェントの権限が漏洩する恐れがあると警告している&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;英国の国家サイバーセキュリティセンター（NCSC）は、組織が承認したシステム以外でAIツールを使用する従業員は、会社や顧客のデータを漏洩させる恐れがあり、組織の可視性を低下させる可能性があると指摘している。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: NCSC warns that shadow AI can expose data and agent privileges&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wa2926/ncsc_warns_that_shadow_ai_can_expose_data_and/</guid>
-      <pubDate>Mon, 07 Sep 2026 19:42:30 GMT</pubDate>
+      <title>[r/artificial] OpenAIがナヴィエ・ストークス方程式を88時間で解いた、その記念の壁紙</title>
+      <link>https://www.reddit.com/r/artificial/comments/1waxqv0/openai_solved_the_navierstokes_problem_in_88/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIがナヴィエ・ストークス方程式を88時間で解いた、その記念の壁紙&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/TheOnlyVibemaster   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI solved the Navier-Stokes problem in 88 hours, my celebratory wallpaper&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1waxqv0/openai_solved_the_navierstokes_problem_in_88/</guid>
+      <pubDate>Tue, 08 Sep 2026 19:04:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
