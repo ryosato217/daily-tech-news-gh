@@ -3,103 +3,132 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-09</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-10</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Sep 2026 20:46:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:42:07 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (729pt) ShopifyがTailwindを買収</title>
-      <link>https://news.ycombinator.com/item?id=49626190</link>
-      <description>&lt;p&gt;&lt;strong&gt;ShopifyがTailwindを買収&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Shopify acquires Tailwind&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49626190</guid>
-      <pubDate>Wed, 09 Sep 2026 13:27:11 GMT</pubDate>
+      <title>[Hacker News] (376pt) 研究者が未発表の数学的成果をOpenAIに託しても信頼できるかどうかについて、さらに疑問が投げかけられている</title>
+      <link>https://news.ycombinator.com/item?id=49639408</link>
+      <description>&lt;p&gt;&lt;strong&gt;研究者が未発表の数学的成果をOpenAIに託しても信頼できるかどうかについて、さらに疑問が投げかけられている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: More questions about whether researchers can trust OpenAI with unpublished math&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49639408</guid>
+      <pubDate>Thu, 10 Sep 2026 06:49:43 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (255pt) GPT-6 Astra、ループ型トランスフォーマー、そして隠れた推論</title>
-      <link>https://news.ycombinator.com/item?id=49627370</link>
-      <description>&lt;p&gt;&lt;strong&gt;GPT-6 Astra、ループ型トランスフォーマー、そして隠れた推論&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: GPT-6 Astra, looped transformers, and hidden reasoning&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49627370</guid>
-      <pubDate>Wed, 09 Sep 2026 14:37:47 GMT</pubDate>
+      <title>[Hacker News] (230pt) Cognitionが新モデル「SWE-2」を発表、Fable 5.1やGPT-Astraと肩を並べる</title>
+      <link>https://news.ycombinator.com/item?id=49645443</link>
+      <description>&lt;p&gt;&lt;strong&gt;Cognitionが新モデル「SWE-2」を発表、Fable 5.1やGPT-Astraと肩を並べる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49645443</guid>
+      <pubDate>Thu, 10 Sep 2026 15:29:47 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (239pt) AirPods 5</title>
-      <link>https://news.ycombinator.com/item?id=49630253</link>
-      <description>&lt;p&gt;&lt;strong&gt;AirPods 5&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AirPods 5&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49630253</guid>
-      <pubDate>Wed, 09 Sep 2026 17:39:24 GMT</pubDate>
+      <title>[r/artificial] Anthropic社は、自社の製品が労働市場に与える影響に関するモデルを公表した。その極端なシナリオでは、認知的失業率が17.9％に達し、GDPに占める労働分配率が60％から45％に低下するとされている。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wcjmg9/anthropic_published_a_model_of_its_own_products/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropic社は、自社の製品が労働市場に与える影響に関するモデルを公表した。その極端なシナリオでは、認知的失業率が17.9％に達し、GDPに占める労働分配率が60％から45％に低下するとされている。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;3つのシナリオですが、これらはあくまで予測ではなく、確率も示されていません。「控えめ」のシナリオでは、2030年までにAI導入なしのシナリオと比較してGDPが1.6％上回るという、インターネット規模の効果が見込まれます。「大幅」のシナリオでは8.3％、「極端」のシナリオでは32.4％となります。極端なケースでは：c&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic published a model of its own product's effect on the labor market. The extreme scenario has cognitive unemployment at 17.9% and labor's share of GDP falling from 60% to 45%.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wcjmg9/anthropic_published_a_model_of_its_own_products/</guid>
+      <pubDate>Thu, 10 Sep 2026 13:43:43 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (105pt) Qwen 3.8 は、GPT-5.5 Pro の推論用プリフィルを採用しています</title>
-      <link>https://news.ycombinator.com/item?id=49630026</link>
-      <description>&lt;p&gt;&lt;strong&gt;Qwen 3.8 は、GPT-5.5 Pro の推論用プリフィルを採用しています&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Qwen 3.8 follows GPT-5.5 Pro reasoning prefills&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49630026</guid>
-      <pubDate>Wed, 09 Sep 2026 17:24:28 GMT</pubDate>
+      <title>[r/artificial] 企業の競争力を維持するためには、自由市場と海外のAIモデルが必要だ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wcq4r8/we_need_free_market_and_foreign_ai_models_to_keep/</link>
+      <description>&lt;p&gt;&lt;strong&gt;企業の競争力を維持するためには、自由市場と海外のAIモデルが必要だ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;さまざまなAI企業から、「AIは極めて危険であるため、厳格な規制や審査なしに普及させるべきではない」という主張が盛んに聞かれます。私もこの意見には賛同しますが、一方で……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: We need free market and foreign AI models to keep companies competitive&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wcq4r8/we_need_free_market_and_foreign_ai_models_to_keep/</guid>
+      <pubDate>Thu, 10 Sep 2026 17:41:30 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIの時代において、社会主義こそが答えなのかもしれない</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wbidom/maybe_socialism_is_the_answer_during_the_age_of_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIの時代において、社会主義こそが答えなのかもしれない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;このタイトルを見て不快に思う方がいるかもしれませんが、これはOpenAIを国有化すべきだと言っている記事ではありません。この記事で取り上げるのは、現在市場が明らかに機能不全に陥っているある一点と、社会主義者たちが常に正しかったある一点についてです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Maybe Socialism is the answer during the age of AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wbidom/maybe_socialism_is_the_answer_during_the_age_of_ai/</guid>
-      <pubDate>Wed, 09 Sep 2026 11:01:31 GMT</pubDate>
+      <title>[r/artificial] GPT-6 Astraを、実際の登録用CAPTCHA 7種類に対してテストしました</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wcrgm4/i_ran_gpt6_astra_against_7_real_signup_captchas/</link>
+      <description>&lt;p&gt;&lt;strong&gt;GPT-6 Astraを、実際の登録用CAPTCHA 7種類に対してテストしました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenAIは本日、GPT-6 AstraをAPIに公開しました。これにより、特別アクセス権の提供開始を待つことなく、誰でも実際に呼び出せるようになりました。シャリフ・シャミーム氏の投稿がまだあちこちでシェアされ続けている今、まさに絶好のタイミングですね。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I ran GPT-6 Astra against 7 real signup CAPTCHAs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wcrgm4/i_ran_gpt6_astra_against_7_real_signup_captchas/</guid>
+      <pubDate>Thu, 10 Sep 2026 18:27:41 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 「マジでふざけてるの？」：母親、MetaのAIが削除した写真を復元し、居場所を特定したと主張</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wbolmg/are_you_fing_kidding_me_mum_claims_meta_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「マジでふざけてるの？」：母親、MetaのAIが削除した写真を復元し、居場所を特定したと主張&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 'Are You F***ing Kidding Me?': Mum Claims Meta AI Surfaced Deleted Photo, Pieced Together Her Location&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wbolmg/are_you_fing_kidding_me_mum_claims_meta_ai/</guid>
-      <pubDate>Wed, 09 Sep 2026 15:21:40 GMT</pubDate>
+      <title>[r/artificial] OpenAI、Codexハネスを基盤としたAgents APIのパブリックベータ版をリリース</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wctpbu/openai_launches_agents_api_public_beta_built_on/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAI、Codexハネスを基盤としたAgents APIのパブリックベータ版をリリース&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenAIは9月10日、Agents APIのパブリックベータ版をリリースしました。このAPIにより、開発者は1回のAPI呼び出しでタスク、モデル、ツール、およびコンピューティング環境を指定するだけで、クラウドエージェントを作成できるようになります。OpenAIはハーネスをホストしており、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI launches Agents API public beta built on Codex harness&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wctpbu/openai_launches_agents_api_public_beta_built_on/</guid>
+      <pubDate>Thu, 10 Sep 2026 19:46:35 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 「私たちの命を賭けている」：安全面への懸念から、また1人のAI社員が辞職</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wbpd4f/gambling_with_our_lives_another_ai_employee_quits/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「私たちの命を賭けている」：安全面への懸念から、また1人のAI社員が辞職&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/cnn   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: ‘Gambling with our lives’: Another AI employee quits over safety concerns&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wbpd4f/gambling_with_our_lives_another_ai_employee_quits/</guid>
-      <pubDate>Wed, 09 Sep 2026 15:49:39 GMT</pubDate>
+      <title>[r/artificial] GPT-6 Astra 対 GPT-5.6 Sol：50件の実在するPRを用いたベンチマーク。評価手法に関するフィードバックを求めています</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wcjppw/gpt6_astra_vs_gpt56_sol_benchmark_on_50_real_prs/</link>
+      <description>&lt;p&gt;&lt;strong&gt;GPT-6 Astra 対 GPT-5.6 Sol：50件の実在するPRを用いたベンチマーク。評価手法に関するフィードバックを求めています&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cal、Sentry、Discourse、Keycloak、Grafanaからの実際のPR 50件を対象に、GPT-6 AstraとGPT-5.6 Solのベンチマーク比較を行いました。Solは107件の確認済みバグを検出しましたが、Astraは91件でした。一方、Astraは精度が高く、誤検知率は低かった&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GPT-6 Astra vs GPT-5.6 Sol: benchmark on 50 real PRs, looking for feedback on the methodology&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wcjppw/gpt6_astra_vs_gpt56_sol_benchmark_on_50_real_prs/</guid>
+      <pubDate>Thu, 10 Sep 2026 13:47:17 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIへの懸念から、アンソロピックの研究者が辞職</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wb6olj/anthropic_researcher_quits_over_ai_fears/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIへの懸念から、アンソロピックの研究者が辞職&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Bubbly-Air7302   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic researcher quits over AI fears&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wb6olj/anthropic_researcher_quits_over_ai_fears/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:50:05 GMT</pubDate>
+      <title>[r/artificial] Anthropicの研究者が、「AIは10年の終わりまでに私たち全員を殺しかねない」と警告する衝撃的な暴言を吐く直前に、突然辞任した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wcpgig/anthropic_researcher_abruptly_resigns_before/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropicの研究者が、「AIは10年の終わりまでに私たち全員を殺しかねない」と警告する衝撃的な暴言を吐く直前に、突然辞任した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ComicSandsNews   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic Researcher Abruptly Resigns Before Warning That AI 'Could Kill Us All By The End Of The Decade' In Alarming Rant&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wcpgig/anthropic_researcher_abruptly_resigns_before/</guid>
+      <pubDate>Thu, 10 Sep 2026 17:18:01 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIがさまざまな職種にどの程度影響を与えるかを調査しながら、これを制作しました</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wbiei0/i_built_this_while_looking_into_how_much_ai_could/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIがさまざまな職種にどの程度影響を与えるかを調査しながら、これを制作しました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は空き時間を利用して、「rolefate.com」というサイトを制作しています。このサイトを、AIがさまざまな職種や業務にどのような影響を与えているかを理解するための、ドキュメントや参考資料としてのリソースにしたいと考えています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I built this while looking into how much AI could affect different jobs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wbiei0/i_built_this_while_looking_into_how_much_ai_could/</guid>
-      <pubDate>Wed, 09 Sep 2026 11:02:38 GMT</pubDate>
+      <title>[r/artificial] 派手なAIの活用事例よりも、実はどの「地味な」AIの活用事例の方が役に立ってきたのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wcg1t6/which_boring_ai_use_case_has_actually_been_more/</link>
+      <description>&lt;p&gt;&lt;strong&gt;派手なAIの活用事例よりも、実はどの「地味な」AIの活用事例の方が役に立ってきたのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;印象的なデモは注目を集めますが、私は今、人々が毎週頼りにしているありふれたものについて興味があります。一見退屈に見えるAIの活用例のうち、実際に本当に価値のあるものとは何でしょうか？  &amp;#32; 投稿者：&amp;#32;  /u/Turbulen&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Which boring AI use case has actually been more useful than the flashy ones?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wcg1t6/which_boring_ai_use_case_has_actually_been_more/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:06:55 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropic社は、警察が監視すべき活動家を予測するAIを開発している。サンフランシスコを拠点とするこのAI研究所は、活動家をテロリズムや国家主体の攻撃と同様に「脅威」として正式に分類する情報分析官に対し、最大23万ドルの報酬を支払っている。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wbsoor/anthropic_is_building_ai_to_predict_which/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropic社は、警察が監視すべき活動家を予測するAIを開発している。サンフランシスコを拠点とするこのAI研究所は、活動家をテロリズムや国家主体の攻撃と同様に「脅威」として正式に分類する情報分析官に対し、最大23万ドルの報酬を支払っている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic Is Building AI to Predict Which Activists Police Should Watch. SF-based AI lab pays up to $230,000 for intelligence analysts who formally categorize activism as a threat alongside terrorism and nation-state attacks&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wbsoor/anthropic_is_building_ai_to_predict_which/</guid>
-      <pubDate>Wed, 09 Sep 2026 17:47:30 GMT</pubDate>
+      <title>[r/LocalLLaMA] 2026年8月版：最高のローカルビジョン言語モデル</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vx7ei1/best_local_vision_language_models_august_2026/</link>
+      <description>&lt;p&gt;&lt;strong&gt;2026年8月版：最高のローカルビジョン言語モデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今、お気に入りのモデルとその理由を教えてください。VLMの評価には特有の課題（ベンチマークの信頼性の低さ、ツールの未成熟さ、本質的な不確実性など）があるため、できるだけ詳しく&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Best Local Vision Language Models - August 2026&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1vx7ei1/best_local_vision_language_models_august_2026/</guid>
+      <pubDate>Mon, 24 Aug 2026 16:18:56 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] マイクロソフトの別のチームも、AIが生成したコードの大量流入への対応に苦慮していることを認めた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wbw7j8/another_microsoft_team_admits_its_struggling_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;マイクロソフトの別のチームも、AIが生成したコードの大量流入への対応に苦慮していることを認めた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/NISMO1968   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Another Microsoft team admits it’s struggling to handle flood of AI-generated code&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wbw7j8/another_microsoft_team_admits_its_struggling_to/</guid>
-      <pubDate>Wed, 09 Sep 2026 19:49:55 GMT</pubDate>
+      <title>[r/LocalLLaMA] 別の研究者が、OpenAIが会話データを用いて学習を行い、その後、画期的な成果を主張していると非難している</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wcmgbn/another_researcher_accuses_openai_of_training_on/</link>
+      <description>&lt;p&gt;&lt;strong&gt;別の研究者が、OpenAIが会話データを用いて学習を行い、その後、画期的な成果を主張していると非難している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/SirReal14   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: ANOTHER researcher accuses OpenAI of training on conversations and then claiming a breakthrough&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1wcmgbn/another_researcher_accuses_openai_of_training_on/</guid>
+      <pubDate>Thu, 10 Sep 2026 15:29:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wcagoi/deepseekaideepseekv41flash_hugging_face/</link>
+      <description>&lt;p&gt;&lt;strong&gt;deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/t4a8945   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1wcagoi/deepseekaideepseekv41flash_hugging_face/</guid>
+      <pubDate>Thu, 10 Sep 2026 05:57:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] OUI-1：オーダーメイドのUI要素を生成するモデル</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wcqa03/oui1_a_model_that_generates_bespoke_ui_elements/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OUI-1：オーダーメイドのUI要素を生成するモデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;そこで、openui.comがDiffusionGemmaで微調整されたモデル「OUI-1」を公開したのを見かけました。このモデルの学習データセットでは、通常のHTMLやMarkdown、Reactの代わりに、カスタムDSL（ドメイン固有言語）であるOpenUI-Langが使用されています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OUI-1: a model that generates bespoke UI elements&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1wcqa03/oui1_a_model_that_generates_bespoke_ui_elements/</guid>
+      <pubDate>Thu, 10 Sep 2026 17:46:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/LocalLLaMA] 趣味のサブカルチャーが主流になることに関する考察</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wctos6/notes_on_a_hobby_sub_going_mainstream/</link>
+      <description>&lt;p&gt;&lt;strong&gt;趣味のサブカルチャーが主流になることに関する考察&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;例えばr/flashlightよりもはるかにニッチだったあるサブレディットが、インフラのますます中核的な部分を扱う最大のオンラインフォーラムへと急速に変化していく中で、良いことも悪いことも生じています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Notes on a hobby sub going mainstream&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1wctos6/notes_on_a_hobby_sub_going_mainstream/</guid>
+      <pubDate>Thu, 10 Sep 2026 19:46:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
