@@ -3,132 +3,112 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-10</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-11</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 20:42:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:47:51 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (376pt) 研究者が未発表の数学的成果をOpenAIに託しても信頼できるかどうかについて、さらに疑問が投げかけられている</title>
-      <link>https://news.ycombinator.com/item?id=49639408</link>
-      <description>&lt;p&gt;&lt;strong&gt;研究者が未発表の数学的成果をOpenAIに託しても信頼できるかどうかについて、さらに疑問が投げかけられている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: More questions about whether researchers can trust OpenAI with unpublished math&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49639408</guid>
-      <pubDate>Thu, 10 Sep 2026 06:49:43 GMT</pubDate>
+      <title>[Hacker News] (489pt) Claudeは18歳以上の方のみご利用いただけます</title>
+      <link>https://news.ycombinator.com/item?id=49656225</link>
+      <description>&lt;p&gt;&lt;strong&gt;Claudeは18歳以上の方のみご利用いただけます&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude is only available to people over 18 years&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49656225</guid>
+      <pubDate>Fri, 11 Sep 2026 10:48:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (230pt) Cognitionが新モデル「SWE-2」を発表、Fable 5.1やGPT-Astraと肩を並べる</title>
-      <link>https://news.ycombinator.com/item?id=49645443</link>
-      <description>&lt;p&gt;&lt;strong&gt;Cognitionが新モデル「SWE-2」を発表、Fable 5.1やGPT-Astraと肩を並べる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49645443</guid>
-      <pubDate>Thu, 10 Sep 2026 15:29:47 GMT</pubDate>
+      <title>[Hacker News] (280pt) 数学におけるAIの認識のずれ</title>
+      <link>https://news.ycombinator.com/item?id=49662371</link>
+      <description>&lt;p&gt;&lt;strong&gt;数学におけるAIの認識のずれ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A misalignment of AI in mathematics&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49662371</guid>
+      <pubDate>Fri, 11 Sep 2026 17:45:12 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropic社は、自社の製品が労働市場に与える影響に関するモデルを公表した。その極端なシナリオでは、認知的失業率が17.9％に達し、GDPに占める労働分配率が60％から45％に低下するとされている。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wcjmg9/anthropic_published_a_model_of_its_own_products/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropic社は、自社の製品が労働市場に与える影響に関するモデルを公表した。その極端なシナリオでは、認知的失業率が17.9％に達し、GDPに占める労働分配率が60％から45％に低下するとされている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;3つのシナリオですが、これらはあくまで予測ではなく、確率も示されていません。「控えめ」のシナリオでは、2030年までにAI導入なしのシナリオと比較してGDPが1.6％上回るという、インターネット規模の効果が見込まれます。「大幅」のシナリオでは8.3％、「極端」のシナリオでは32.4％となります。極端なケースでは：c&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic published a model of its own product's effect on the labor market. The extreme scenario has cognitive unemployment at 17.9% and labor's share of GDP falling from 60% to 45%.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wcjmg9/anthropic_published_a_model_of_its_own_products/</guid>
-      <pubDate>Thu, 10 Sep 2026 13:43:43 GMT</pubDate>
+      <title>[Hacker News] (84pt) Runeはオープンソースになりました</title>
+      <link>https://news.ycombinator.com/item?id=49660149</link>
+      <description>&lt;p&gt;&lt;strong&gt;Runeはオープンソースになりました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Rune is now open source&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49660149</guid>
+      <pubDate>Fri, 11 Sep 2026 15:31:47 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 企業の競争力を維持するためには、自由市場と海外のAIモデルが必要だ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wcq4r8/we_need_free_market_and_foreign_ai_models_to_keep/</link>
-      <description>&lt;p&gt;&lt;strong&gt;企業の競争力を維持するためには、自由市場と海外のAIモデルが必要だ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;さまざまなAI企業から、「AIは極めて危険であるため、厳格な規制や審査なしに普及させるべきではない」という主張が盛んに聞かれます。私もこの意見には賛同しますが、一方で……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: We need free market and foreign AI models to keep companies competitive&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wcq4r8/we_need_free_market_and_foreign_ai_models_to_keep/</guid>
-      <pubDate>Thu, 10 Sep 2026 17:41:30 GMT</pubDate>
+      <title>[Hacker News] (49pt) Litelm：無駄を省いたLiteLLM</title>
+      <link>https://news.ycombinator.com/item?id=49662767</link>
+      <description>&lt;p&gt;&lt;strong&gt;Litelm：無駄を省いたLiteLLM&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Litelm: LiteLLM Without the Bloat&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49662767</guid>
+      <pubDate>Fri, 11 Sep 2026 18:10:20 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] GPT-6 Astraを、実際の登録用CAPTCHA 7種類に対してテストしました</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wcrgm4/i_ran_gpt6_astra_against_7_real_signup_captchas/</link>
-      <description>&lt;p&gt;&lt;strong&gt;GPT-6 Astraを、実際の登録用CAPTCHA 7種類に対してテストしました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIは本日、GPT-6 AstraをAPIに公開しました。これにより、特別アクセス権の提供開始を待つことなく、誰でも実際に呼び出せるようになりました。シャリフ・シャミーム氏の投稿がまだあちこちでシェアされ続けている今、まさに絶好のタイミングですね。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I ran GPT-6 Astra against 7 real signup CAPTCHAs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wcrgm4/i_ran_gpt6_astra_against_7_real_signup_captchas/</guid>
-      <pubDate>Thu, 10 Sep 2026 18:27:41 GMT</pubDate>
+      <title>[r/artificial] 今週、Anthropicの研究者3人が、「AIが人類を全滅させる可能性がある」と公に発言した。そのうちの1人は、この発言をするために会社を辞めた。この事態に対し、我々がどう対応すべきか、誰も分からないようだ。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wdoy1g/three_anthropic_researchers_went_public_this_week/</link>
+      <description>&lt;p&gt;&lt;strong&gt;今週、Anthropicの研究者3人が、「AIが人類を全滅させる可能性がある」と公に発言した。そのうちの1人は、この発言をするために会社を辞めた。この事態に対し、我々がどう対応すべきか、誰も分からないようだ。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;見逃した方のために簡単に振り返っておきます。ジェイコブ・コックスン氏は火曜日にAnthropicを辞任しましたが、その目的は、OpenAIとAnthropicの両社が「私たちの命を賭け事にしている」と公に主張し、人種差別について…&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Three Anthropic researchers went public this week saying AI might kill everyone. One of them quit to say it. Nobody seems to know what we're supposed to do with that.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wdoy1g/three_anthropic_researchers_went_public_this_week/</guid>
+      <pubDate>Fri, 11 Sep 2026 18:46:15 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] OpenAI、Codexハネスを基盤としたAgents APIのパブリックベータ版をリリース</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wctpbu/openai_launches_agents_api_public_beta_built_on/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAI、Codexハネスを基盤としたAgents APIのパブリックベータ版をリリース&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIは9月10日、Agents APIのパブリックベータ版をリリースしました。このAPIにより、開発者は1回のAPI呼び出しでタスク、モデル、ツール、およびコンピューティング環境を指定するだけで、クラウドエージェントを作成できるようになります。OpenAIはハーネスをホストしており、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI launches Agents API public beta built on Codex harness&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wctpbu/openai_launches_agents_api_public_beta_built_on/</guid>
-      <pubDate>Thu, 10 Sep 2026 19:46:35 GMT</pubDate>
+      <title>[r/artificial] チーズバーガー1個が排出する温室効果ガスの量は、およそ63,000件のGemini AIテキストプロンプトが排出する量に相当します。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wd1dpf/one_cheeseburger_has_roughly_the_greenhouse_gas/</link>
+      <description>&lt;p&gt;&lt;strong&gt;チーズバーガー1個が排出する温室効果ガスの量は、およそ63,000件のGemini AIテキストプロンプトが排出する量に相当します。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2024年にウィスコンシン大学マディソン校が発表した論文によると、「チーズバーガー1個は1.9 kgのCO₂e排出量に相当する」と推定されている。Googleの2025年の研究論文では、「Gemini Appsのテキストの中央値は&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: One cheeseburger has roughly the greenhouse gas emissions of 63,000 Gemini AI text prompts.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wd1dpf/one_cheeseburger_has_roughly_the_greenhouse_gas/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:53:06 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] GPT-6 Astra 対 GPT-5.6 Sol：50件の実在するPRを用いたベンチマーク。評価手法に関するフィードバックを求めています</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wcjppw/gpt6_astra_vs_gpt56_sol_benchmark_on_50_real_prs/</link>
-      <description>&lt;p&gt;&lt;strong&gt;GPT-6 Astra 対 GPT-5.6 Sol：50件の実在するPRを用いたベンチマーク。評価手法に関するフィードバックを求めています&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Cal、Sentry、Discourse、Keycloak、Grafanaからの実際のPR 50件を対象に、GPT-6 AstraとGPT-5.6 Solのベンチマーク比較を行いました。Solは107件の確認済みバグを検出しましたが、Astraは91件でした。一方、Astraは精度が高く、誤検知率は低かった&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: GPT-6 Astra vs GPT-5.6 Sol: benchmark on 50 real PRs, looking for feedback on the methodology&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wcjppw/gpt6_astra_vs_gpt56_sol_benchmark_on_50_real_prs/</guid>
-      <pubDate>Thu, 10 Sep 2026 13:47:17 GMT</pubDate>
+      <title>[r/artificial] AI企業は、制御の問題に対処するために「ボロミア戦略」を採用している。「危険だ。だが、その危険を背負うのは私だ。どう対処すべきかは分かっている。」</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wcwues/ai_companies_pursue_the_boromir_strategy_to_deal/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI企業は、制御の問題に対処するために「ボロミア戦略」を採用している。「危険だ。だが、その危険を背負うのは私だ。どう対処すべきかは分かっている。」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/florinandrei   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI companies pursue the Boromir strategy to deal with the control problem. &quot;It's dangerous. But let that be me. I know what to do with it.&quot;&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wcwues/ai_companies_pursue_the_boromir_strategy_to_deal/</guid>
+      <pubDate>Thu, 10 Sep 2026 21:43:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropicの研究者が、「AIは10年の終わりまでに私たち全員を殺しかねない」と警告する衝撃的な暴言を吐く直前に、突然辞任した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wcpgig/anthropic_researcher_abruptly_resigns_before/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropicの研究者が、「AIは10年の終わりまでに私たち全員を殺しかねない」と警告する衝撃的な暴言を吐く直前に、突然辞任した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ComicSandsNews   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic Researcher Abruptly Resigns Before Warning That AI 'Could Kill Us All By The End Of The Decade' In Alarming Rant&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wcpgig/anthropic_researcher_abruptly_resigns_before/</guid>
-      <pubDate>Thu, 10 Sep 2026 17:18:01 GMT</pubDate>
+      <title>[r/artificial] 英国の議員ら、身も凍るような警告を受け、バーナム氏に超知能AIの禁止支持を要請 | AI（人工知能）</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wdnd3u/uk_lawmakers_urge_burnham_to_back_ban_on/</link>
+      <description>&lt;p&gt;&lt;strong&gt;英国の議員ら、身も凍るような警告を受け、バーナム氏に超知能AIの禁止支持を要請 | AI（人工知能）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/GenericNameRandomNum   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings | AI (artificial intelligence)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wdnd3u/uk_lawmakers_urge_burnham_to_back_ban_on/</guid>
+      <pubDate>Fri, 11 Sep 2026 17:49:34 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 派手なAIの活用事例よりも、実はどの「地味な」AIの活用事例の方が役に立ってきたのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wcg1t6/which_boring_ai_use_case_has_actually_been_more/</link>
-      <description>&lt;p&gt;&lt;strong&gt;派手なAIの活用事例よりも、実はどの「地味な」AIの活用事例の方が役に立ってきたのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;印象的なデモは注目を集めますが、私は今、人々が毎週頼りにしているありふれたものについて興味があります。一見退屈に見えるAIの活用例のうち、実際に本当に価値のあるものとは何でしょうか？  &amp;#32; 投稿者：&amp;#32;  /u/Turbulen&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Which boring AI use case has actually been more useful than the flashy ones?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wcg1t6/which_boring_ai_use_case_has_actually_been_more/</guid>
-      <pubDate>Thu, 10 Sep 2026 11:06:55 GMT</pubDate>
+      <title>[r/artificial] 数学者たちがAIによる「黙示録」に立ち向かう</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wdhp11/mathematicians_confront_the_ai_apocalypse/</link>
+      <description>&lt;p&gt;&lt;strong&gt;数学者たちがAIによる「黙示録」に立ち向かう&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/scientificamerican   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Mathematicians confront the AI apocalypse&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wdhp11/mathematicians_confront_the_ai_apocalypse/</guid>
+      <pubDate>Fri, 11 Sep 2026 14:21:43 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] 2026年8月版：最高のローカルビジョン言語モデル</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1vx7ei1/best_local_vision_language_models_august_2026/</link>
-      <description>&lt;p&gt;&lt;strong&gt;2026年8月版：最高のローカルビジョン言語モデル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今、お気に入りのモデルとその理由を教えてください。VLMの評価には特有の課題（ベンチマークの信頼性の低さ、ツールの未成熟さ、本質的な不確実性など）があるため、できるだけ詳しく&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Best Local Vision Language Models - August 2026&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1vx7ei1/best_local_vision_language_models_august_2026/</guid>
-      <pubDate>Mon, 24 Aug 2026 16:18:56 GMT</pubDate>
+      <title>[r/artificial] AIシステムにおいて、意識や知覚を再現することは不可能である可能性もあるのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wdrxla/it_could_prove_to_be_impossible_to_replicate/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIシステムにおいて、意識や知覚を再現することは不可能である可能性もあるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIシステムにおいて、意識や知覚を再現することは不可能である可能性もあるのでしょうか？  &amp;#32; 投稿者：&amp;#32;  /u/DoublePassRadiator   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: It could prove to be impossible to replicate consciousness and sentience in AI systems?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wdrxla/it_could_prove_to_be_impossible_to_replicate/</guid>
+      <pubDate>Fri, 11 Sep 2026 20:33:59 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] 別の研究者が、OpenAIが会話データを用いて学習を行い、その後、画期的な成果を主張していると非難している</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wcmgbn/another_researcher_accuses_openai_of_training_on/</link>
-      <description>&lt;p&gt;&lt;strong&gt;別の研究者が、OpenAIが会話データを用いて学習を行い、その後、画期的な成果を主張していると非難している&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/SirReal14   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: ANOTHER researcher accuses OpenAI of training on conversations and then claiming a breakthrough&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1wcmgbn/another_researcher_accuses_openai_of_training_on/</guid>
-      <pubDate>Thu, 10 Sep 2026 15:29:46 GMT</pubDate>
+      <title>[r/artificial] AI動画が依然として「AIっぽい」と感じさせる、私が気づいた5つの点</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wdbmwj/5_things_ive_noticed_that_still_make_ai_video/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI動画が依然として「AIっぽい」と感じさせる、私が気づいた5つの点&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ここしばらく、自動生成された動画いじりを続けていて、単体では素晴らしいクリップでも、順番に並べるとなぜか違和感を感じる理由を解明しようと、少し調べてみました。それは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: 5 things I've noticed that still make AI video read as AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wdbmwj/5_things_ive_noticed_that_still_make_ai_video/</guid>
+      <pubDate>Fri, 11 Sep 2026 09:47:53 GMT</pubDate>
     </item>
     <item>
-      <title>[r/LocalLLaMA] deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wcagoi/deepseekaideepseekv41flash_hugging_face/</link>
-      <description>&lt;p&gt;&lt;strong&gt;deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/t4a8945   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1wcagoi/deepseekaideepseekv41flash_hugging_face/</guid>
-      <pubDate>Thu, 10 Sep 2026 05:57:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] OUI-1：オーダーメイドのUI要素を生成するモデル</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wcqa03/oui1_a_model_that_generates_bespoke_ui_elements/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OUI-1：オーダーメイドのUI要素を生成するモデル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;そこで、openui.comがDiffusionGemmaで微調整されたモデル「OUI-1」を公開したのを見かけました。このモデルの学習データセットでは、通常のHTMLやMarkdown、Reactの代わりに、カスタムDSL（ドメイン固有言語）であるOpenUI-Langが使用されています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OUI-1: a model that generates bespoke UI elements&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1wcqa03/oui1_a_model_that_generates_bespoke_ui_elements/</guid>
-      <pubDate>Thu, 10 Sep 2026 17:46:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] 趣味のサブカルチャーが主流になることに関する考察</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wctos6/notes_on_a_hobby_sub_going_mainstream/</link>
-      <description>&lt;p&gt;&lt;strong&gt;趣味のサブカルチャーが主流になることに関する考察&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;例えばr/flashlightよりもはるかにニッチだったあるサブレディットが、インフラのますます中核的な部分を扱う最大のオンラインフォーラムへと急速に変化していく中で、良いことも悪いことも生じています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Notes on a hobby sub going mainstream&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1wctos6/notes_on_a_hobby_sub_going_mainstream/</guid>
-      <pubDate>Thu, 10 Sep 2026 19:46:01 GMT</pubDate>
+      <title>[r/artificial] 2週間、執筆のためにChatGPTとClaudeを並行して使ってみました。実際に何が起きたのか、以下に紹介します。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wdohel/used_chatgpt_and_claude_side_by_side_for_two/</link>
+      <description>&lt;p&gt;&lt;strong&gt;2週間、執筆のためにChatGPTとClaudeを並行して使ってみました。実際に何が起きたのか、以下に紹介します。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これは「どちらがベストか」という投稿ではありません。その質問はつまらないからです。ただ、私が気づいたことを書いただけです。クロードの方が、より人間らしく感じられます。フィードバックを求めると、「素晴らしい」といった反応ではなく、実際に私の意見に反対してくれるんです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: used chatgpt and claude side by side for two weeks for writing. here's what actually happened&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wdohel/used_chatgpt_and_claude_side_by_side_for_two/</guid>
+      <pubDate>Fri, 11 Sep 2026 18:29:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
