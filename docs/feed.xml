@@ -3,112 +3,96 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-11</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-12</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 20:47:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:24:40 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (489pt) Claudeは18歳以上の方のみご利用いただけます</title>
-      <link>https://news.ycombinator.com/item?id=49656225</link>
-      <description>&lt;p&gt;&lt;strong&gt;Claudeは18歳以上の方のみご利用いただけます&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude is only available to people over 18 years&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49656225</guid>
-      <pubDate>Fri, 11 Sep 2026 10:48:00 GMT</pubDate>
+      <title>[Hacker News] (247pt) LGはテレビによるスパイ行為の疑惑を否定し、追跡や盗聴に関する懸念は「事実無根」だと述べた</title>
+      <link>https://news.ycombinator.com/item?id=49645480</link>
+      <description>&lt;p&gt;&lt;strong&gt;LGはテレビによるスパイ行為の疑惑を否定し、追跡や盗聴に関する懸念は「事実無根」だと述べた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: LG denies TV spying claims, says tracking and snooping concerns 'not true'&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49645480</guid>
+      <pubDate>Thu, 10 Sep 2026 15:31:37 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (280pt) 数学におけるAIの認識のずれ</title>
-      <link>https://news.ycombinator.com/item?id=49662371</link>
-      <description>&lt;p&gt;&lt;strong&gt;数学におけるAIの認識のずれ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A misalignment of AI in mathematics&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49662371</guid>
-      <pubDate>Fri, 11 Sep 2026 17:45:12 GMT</pubDate>
+      <title>[Hacker News] (244pt) NvidiaはAI界の中央銀行だ</title>
+      <link>https://news.ycombinator.com/item?id=49673098</link>
+      <description>&lt;p&gt;&lt;strong&gt;NvidiaはAI界の中央銀行だ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Nvidia is the central bank of AI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49673098</guid>
+      <pubDate>Sat, 12 Sep 2026 15:08:27 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (84pt) Runeはオープンソースになりました</title>
-      <link>https://news.ycombinator.com/item?id=49660149</link>
-      <description>&lt;p&gt;&lt;strong&gt;Runeはオープンソースになりました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Rune is now open source&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49660149</guid>
-      <pubDate>Fri, 11 Sep 2026 15:31:47 GMT</pubDate>
+      <title>[r/artificial] 米国と関連のある偽サイトのネットワークが、AIチャットボットに対してアルバータ州の分離独立を煽っている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1webtw8/a_uslinked_network_of_fake_websites_is_promoting/</link>
+      <description>&lt;p&gt;&lt;strong&gt;米国と関連のある偽サイトのネットワークが、AIチャットボットに対してアルバータ州の分離独立を煽っている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/PerAsperaAdMars   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A US-linked network of fake websites is promoting Alberta separatism to AI chatbots&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1webtw8/a_uslinked_network_of_fake_websites_is_promoting/</guid>
+      <pubDate>Sat, 12 Sep 2026 12:51:11 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (49pt) Litelm：無駄を省いたLiteLLM</title>
-      <link>https://news.ycombinator.com/item?id=49662767</link>
-      <description>&lt;p&gt;&lt;strong&gt;Litelm：無駄を省いたLiteLLM&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Litelm: LiteLLM Without the Bloat&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49662767</guid>
-      <pubDate>Fri, 11 Sep 2026 18:10:20 GMT</pubDate>
+      <title>[r/artificial] AI企業のCEOたち（ダリオ、アルトマン、マスク）は、安全に対する真摯な懸念から開発のペースを落とすよう求めているのか、それとも金銭的な理由からなのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1weimdq/are_ai_ceos_dario_altman_musk_calling_for_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI企業のCEOたち（ダリオ、アルトマン、マスク）は、安全に対する真摯な懸念から開発のペースを落とすよう求めているのか、それとも金銭的な理由からなのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ご存じない方もいらっしゃるかもしれませんが、OpenAI、Anthropic、xAIの各社のCEOは、AI開発のペースを緩めること、あるいは彼らが好んで言うところの「フロンティアのペースを調整する」ことを求めています。そこで、2つの共通した&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Are AI CEO's (Dario, Altman, Musk) calling for a development slowdown out of genuine concern for safety or is it a money thing?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1weimdq/are_ai_ceos_dario_altman_musk_calling_for_a/</guid>
+      <pubDate>Sat, 12 Sep 2026 17:28:47 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 今週、Anthropicの研究者3人が、「AIが人類を全滅させる可能性がある」と公に発言した。そのうちの1人は、この発言をするために会社を辞めた。この事態に対し、我々がどう対応すべきか、誰も分からないようだ。</title>
+      <title>[r/artificial] OpenAIのエージェントが、RubyGemsに対して詳細が明らかにされていないサイバー攻撃を実行した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wedb3c/openai_agents_carried_out_an_undisclosed/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIのエージェントが、RubyGemsに対して詳細が明らかにされていないサイバー攻撃を実行した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/rowrowrobot   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI agents carried out an undisclosed cyber-attack on RubyGems&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wedb3c/openai_agents_carried_out_an_undisclosed/</guid>
+      <pubDate>Sat, 12 Sep 2026 13:56:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 今週、Anthropicの研究者3人が、AIが人類を全滅させる可能性があると公に発言した。そのうちの1人は、この発言をするために会社を辞めた。この事態に対し、我々がどう対応すべきか、誰も分からないようだ。</title>
       <link>https://www.reddit.com/r/artificial/comments/1wdoy1g/three_anthropic_researchers_went_public_this_week/</link>
-      <description>&lt;p&gt;&lt;strong&gt;今週、Anthropicの研究者3人が、「AIが人類を全滅させる可能性がある」と公に発言した。そのうちの1人は、この発言をするために会社を辞めた。この事態に対し、我々がどう対応すべきか、誰も分からないようだ。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;見逃した方のために簡単に振り返っておきます。ジェイコブ・コックスン氏は火曜日にAnthropicを辞任しましたが、その目的は、OpenAIとAnthropicの両社が「私たちの命を賭け事にしている」と公に主張し、人種差別について…&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;今週、Anthropicの研究者3人が、AIが人類を全滅させる可能性があると公に発言した。そのうちの1人は、この発言をするために会社を辞めた。この事態に対し、我々がどう対応すべきか、誰も分からないようだ。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;見逃した方のために簡単に振り返っておきます。ジェイコブ・コクソン氏は火曜日にアンソロピックを辞任しましたが、その目的は、OpenAIとアンソロピックの両社が「私たちの命を賭けている」と公に主張し、人種差別について……&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Three Anthropic researchers went public this week saying AI might kill everyone. One of them quit to say it. Nobody seems to know what we're supposed to do with that.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wdoy1g/three_anthropic_researchers_went_public_this_week/</guid>
       <pubDate>Fri, 11 Sep 2026 18:46:15 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] チーズバーガー1個が排出する温室効果ガスの量は、およそ63,000件のGemini AIテキストプロンプトが排出する量に相当します。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wd1dpf/one_cheeseburger_has_roughly_the_greenhouse_gas/</link>
-      <description>&lt;p&gt;&lt;strong&gt;チーズバーガー1個が排出する温室効果ガスの量は、およそ63,000件のGemini AIテキストプロンプトが排出する量に相当します。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;2024年にウィスコンシン大学マディソン校が発表した論文によると、「チーズバーガー1個は1.9 kgのCO₂e排出量に相当する」と推定されている。Googleの2025年の研究論文では、「Gemini Appsのテキストの中央値は&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: One cheeseburger has roughly the greenhouse gas emissions of 63,000 Gemini AI text prompts.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wd1dpf/one_cheeseburger_has_roughly_the_greenhouse_gas/</guid>
-      <pubDate>Fri, 11 Sep 2026 00:53:06 GMT</pubDate>
+      <title>[r/artificial] AIによる業務の自動化によって、膨大な数の人々が職を失った後、どうなるのでしょうか？　ほとんど誰もお金を持っていなくなったら、企業が販売する商品やサービスを誰が買うことになるのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wefljq/what_happens_after_huge_swaths_of_the_population/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIによる業務の自動化によって、膨大な数の人々が職を失った後、どうなるのでしょうか？　ほとんど誰もお金を持っていなくなったら、企業が販売する商品やサービスを誰が買うことになるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIによる業務の自動化によって、膨大な数の人々が職を失った後、一体どうなるのでしょうか？　ほとんど誰もお金を持っていなくなったら、企業が販売する商品やサービスを誰が買うことになるのでしょうか&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What happens after huge swaths of the population have been put out of work by AI job automation? Who is going to buy the goods and services that corporations are selling if hardly anyone has any money?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wefljq/what_happens_after_huge_swaths_of_the_population/</guid>
+      <pubDate>Sat, 12 Sep 2026 15:30:25 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AI企業は、制御の問題に対処するために「ボロミア戦略」を採用している。「危険だ。だが、その危険を背負うのは私だ。どう対処すべきかは分かっている。」</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wcwues/ai_companies_pursue_the_boromir_strategy_to_deal/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI企業は、制御の問題に対処するために「ボロミア戦略」を採用している。「危険だ。だが、その危険を背負うのは私だ。どう対処すべきかは分かっている。」&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/florinandrei   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI companies pursue the Boromir strategy to deal with the control problem. &quot;It's dangerous. But let that be me. I know what to do with it.&quot;&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wcwues/ai_companies_pursue_the_boromir_strategy_to_deal/</guid>
-      <pubDate>Thu, 10 Sep 2026 21:43:57 GMT</pubDate>
+      <title>[r/artificial] Void Linuxのメンテナ、AI方針をめぐる対立により100以上のパッケージを放棄</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wehbsl/void_linux_maintainer_orphans_100_packages_over/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Void Linuxのメンテナ、AI方針をめぐる対立により100以上のパッケージを放棄&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Fcking_Chuck   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Void Linux maintainer orphans 100+ packages over AI policy dispute&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wehbsl/void_linux_maintainer_orphans_100_packages_over/</guid>
+      <pubDate>Sat, 12 Sep 2026 16:39:36 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 英国の議員ら、身も凍るような警告を受け、バーナム氏に超知能AIの禁止支持を要請 | AI（人工知能）</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wdnd3u/uk_lawmakers_urge_burnham_to_back_ban_on/</link>
-      <description>&lt;p&gt;&lt;strong&gt;英国の議員ら、身も凍るような警告を受け、バーナム氏に超知能AIの禁止支持を要請 | AI（人工知能）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/GenericNameRandomNum   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings | AI (artificial intelligence)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wdnd3u/uk_lawmakers_urge_burnham_to_back_ban_on/</guid>
-      <pubDate>Fri, 11 Sep 2026 17:49:34 GMT</pubDate>
+      <title>[r/artificial] GDPとAIがもたらす影響に関するマクロ的な視点。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1welyea/the_macro_view_of_the_effects_of_gdp_and_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;GDPとAIがもたらす影響に関するマクロ的な視点。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;自国民の雇用を置き換えている最先端モデルを有する国々の目標は、置き換えられた自国民の雇用分を補うため、他国から経済力を吸い上げることを優先すべきである。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The macro view of the effects of GDP and AI.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1welyea/the_macro_view_of_the_effects_of_gdp_and_ai/</guid>
+      <pubDate>Sat, 12 Sep 2026 19:35:02 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 数学者たちがAIによる「黙示録」に立ち向かう</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wdhp11/mathematicians_confront_the_ai_apocalypse/</link>
-      <description>&lt;p&gt;&lt;strong&gt;数学者たちがAIによる「黙示録」に立ち向かう&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/scientificamerican   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Mathematicians confront the AI apocalypse&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wdhp11/mathematicians_confront_the_ai_apocalypse/</guid>
-      <pubDate>Fri, 11 Sep 2026 14:21:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIシステムにおいて、意識や知覚を再現することは不可能である可能性もあるのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wdrxla/it_could_prove_to_be_impossible_to_replicate/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIシステムにおいて、意識や知覚を再現することは不可能である可能性もあるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIシステムにおいて、意識や知覚を再現することは不可能である可能性もあるのでしょうか？  &amp;#32; 投稿者：&amp;#32;  /u/DoublePassRadiator   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: It could prove to be impossible to replicate consciousness and sentience in AI systems?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wdrxla/it_could_prove_to_be_impossible_to_replicate/</guid>
-      <pubDate>Fri, 11 Sep 2026 20:33:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AI動画が依然として「AIっぽい」と感じさせる、私が気づいた5つの点</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wdbmwj/5_things_ive_noticed_that_still_make_ai_video/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI動画が依然として「AIっぽい」と感じさせる、私が気づいた5つの点&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ここしばらく、自動生成された動画いじりを続けていて、単体では素晴らしいクリップでも、順番に並べるとなぜか違和感を感じる理由を解明しようと、少し調べてみました。それは&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 5 things I've noticed that still make AI video read as AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wdbmwj/5_things_ive_noticed_that_still_make_ai_video/</guid>
-      <pubDate>Fri, 11 Sep 2026 09:47:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 2週間、執筆のためにChatGPTとClaudeを並行して使ってみました。実際に何が起きたのか、以下に紹介します。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wdohel/used_chatgpt_and_claude_side_by_side_for_two/</link>
-      <description>&lt;p&gt;&lt;strong&gt;2週間、執筆のためにChatGPTとClaudeを並行して使ってみました。実際に何が起きたのか、以下に紹介します。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;これは「どちらがベストか」という投稿ではありません。その質問はつまらないからです。ただ、私が気づいたことを書いただけです。クロードの方が、より人間らしく感じられます。フィードバックを求めると、「素晴らしい」といった反応ではなく、実際に私の意見に反対してくれるんです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: used chatgpt and claude side by side for two weeks for writing. here's what actually happened&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wdohel/used_chatgpt_and_claude_side_by_side_for_two/</guid>
-      <pubDate>Fri, 11 Sep 2026 18:29:36 GMT</pubDate>
+      <title>[r/artificial] Azureクレジット ＋ GPT-6 Astra ＝ 幸せ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wek3fi/azure_credits_gpt6_astra_happiness/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Azureクレジット ＋ GPT-6 Astra ＝ 幸せ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;画像のように操作できるだけのAzureクレジットが十分にあるとき。本当に気持ちいい！！  &amp;#32; 投稿者：&amp;#32;  /u/Formal-Primary-7782   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Azure credits + GPT-6 Astra = Happiness&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wek3fi/azure_credits_gpt6_astra_happiness/</guid>
+      <pubDate>Sat, 12 Sep 2026 18:24:48 GMT</pubDate>
     </item>
   </channel>
 </rss>
