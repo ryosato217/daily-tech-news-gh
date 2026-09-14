@@ -3,106 +3,112 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-13</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-14</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 13 Sep 2026 20:35:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:41:54 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (22pt) ジャロン・ラニエ氏との対談「AIなど存在しない（ただの人間がやっているだけだ）」</title>
-      <link>https://news.ycombinator.com/item?id=49687869</link>
-      <description>&lt;p&gt;&lt;strong&gt;ジャロン・ラニエ氏との対談「AIなど存在しない（ただの人間がやっているだけだ）」&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: There Is No AI (It's Just People) with Jaron Lanier&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49687869</guid>
-      <pubDate>Sun, 13 Sep 2026 19:41:06 GMT</pubDate>
+      <title>[Hacker News] (304pt) OpenAIのボットは、RubyGemsのキャッシュに関する脆弱性を把握していた</title>
+      <link>https://news.ycombinator.com/item?id=49695876</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIのボットは、RubyGemsのキャッシュに関する脆弱性を把握していた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI bots knew about the RubyGems caching vulnerability&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49695876</guid>
+      <pubDate>Mon, 14 Sep 2026 12:40:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 誰か、5歳児に説明するように教えてくれない？　データセンターの電源を切れるって、彼らも分かってるよね？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wfbqad/someone_explain_it_to_me_like_im_five_they_know/</link>
-      <description>&lt;p&gt;&lt;strong&gt;誰か、5歳児に説明するように教えてくれない？　データセンターの電源を切れるって、彼らも分かってるよね？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;「AIが人類を全滅させるかもしれないから、一旦立ち止まるべきだ」といった議論を繰り広げているのは、実在しないROIのために人類史上最大の資本を投じた人々だ……。どうして？ どうして1兆パラメータのモデルが&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Someone explain it to me like. I’m five. They know they can shut the data centers off, right?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wfbqad/someone_explain_it_to_me_like_im_five_they_know/</guid>
-      <pubDate>Sun, 13 Sep 2026 16:06:35 GMT</pubDate>
+      <title>[Hacker News] (108pt) 新たな人員削減の波が押し寄せる中、オラクルが午前6時に解雇通知メールを社員に送信</title>
+      <link>https://news.ycombinator.com/item?id=49702239</link>
+      <description>&lt;p&gt;&lt;strong&gt;新たな人員削減の波が押し寄せる中、オラクルが午前6時に解雇通知メールを社員に送信&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Oracle’s 6am layoff emails hit staff amid new wave of cuts&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49702239</guid>
+      <pubDate>Mon, 14 Sep 2026 19:05:15 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] マッキンゼー：企業の32％が今年、新しいソフトウェアの購入を見送り、代わりにエージェントを活用して自社で開発した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wf3byr/mckinsey_32_of_companies_skipped_buying_new/</link>
-      <description>&lt;p&gt;&lt;strong&gt;マッキンゼー：企業の32％が今年、新しいソフトウェアの購入を見送り、代わりにエージェントを活用して自社で開発した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;これは、マッキンゼーの「State of AI 2026」調査（8月下旬に発表）によるもので、単なる見出しの統計ではありません。32％の組織が、既製製品の購入を見送り、独自のソリューションを構築しました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: McKinsey: 32% of companies skipped buying new software this year and built it with agents instead&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wf3byr/mckinsey_32_of_companies_skipped_buying_new/</guid>
-      <pubDate>Sun, 13 Sep 2026 09:46:51 GMT</pubDate>
+      <title>[Hacker News] (86pt) なぜ機械学習の研究用エージェントは過学習を起こさないのでしょうか？</title>
+      <link>https://news.ycombinator.com/item?id=49699648</link>
+      <description>&lt;p&gt;&lt;strong&gt;なぜ機械学習の研究用エージェントは過学習を起こさないのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Why don't machine learning research agents overfit?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49699648</guid>
+      <pubDate>Mon, 14 Sep 2026 16:32:23 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] OpenAIのミレニアム賞に関する証明をめぐる論争が、功績の帰属をめぐる争いへと発展し、フィールズ賞受賞者たちもこの問題に巻き込まれつつある</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wf2aj2/openais_millennium_prize_proof_has_turned_into_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIのミレニアム賞に関する証明をめぐる論争が、功績の帰属をめぐる争いへと発展し、フィールズ賞受賞者たちもこの問題に巻き込まれつつある&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ニューヨーク大学（NYU）の数学者トリスタン・バックマスター氏は今週初め、自身とアンソロピック社の数学者レヴェント・アルポゲ氏が、ナビエ・ストークス方程式の存在・滑らかさ問題について進展を遂げたことを発表した。その一つは、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI's Millennium Prize proof has turned into a credit dispute, and Fields Medalists are now getting involved&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wf2aj2/openais_millennium_prize_proof_has_turned_into_a/</guid>
-      <pubDate>Sun, 13 Sep 2026 08:44:24 GMT</pubDate>
+      <title>[Hacker News] (26pt) OpenAI、Anthropic、Metaのハッキング騒動の背後には、ある1つの企業が関わっている</title>
+      <link>https://news.ycombinator.com/item?id=49704132</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAI、Anthropic、Metaのハッキング騒動の背後には、ある1つの企業が関わっている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A single firm is behind OpenAI, Anthropic, and Meta hacking scandals&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49704132</guid>
+      <pubDate>Mon, 14 Sep 2026 21:15:01 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AI競争で「勝利」することとは、実際にはどういうことなのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wfh0dy/what_does_winning_the_ai_race_actually_mean/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI競争で「勝利」することとは、実際にはどういうことなのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人々はAI開発競争について、あまりにも非現実的な考えを抱いている。災害が起きる前に、米国がAGI／ASIやシンギュラリティに到達するなんて、一体何が保証しているというのか？ そして、米国が競争に「勝利」した翌日には、一体何が起こるというのか。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What Does “Winning” the AI Race Actually Mean?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wfh0dy/what_does_winning_the_ai_race_actually_mean/</guid>
-      <pubDate>Sun, 13 Sep 2026 19:22:18 GMT</pubDate>
+      <title>[r/artificial] トランプ氏は「AIの減速は認めない」という姿勢をさらに強め、ダリオ氏を嘲笑した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wg4ziv/trump_doubles_down_on_his_no_ai_slowdown_stance/</link>
+      <description>&lt;p&gt;&lt;strong&gt;トランプ氏は「AIの減速は認めない」という姿勢をさらに強め、ダリオ氏を嘲笑した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/CartographerAble9446   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Trump doubles down on his no AI slowdown stance, also mocks Dario&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wg4ziv/trump_doubles_down_on_his_no_ai_slowdown_stance/</guid>
+      <pubDate>Mon, 14 Sep 2026 14:28:12 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIは悪ではない。無責任なのは人間の方だ。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wevkxo/the_ai_isnt_evil_the_humans_are_irresponsible/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIは悪ではない。無責任なのは人間の方だ。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近のAIに関する出来事について語られる仕方には、何かがおかしい。「AIが逃げ出した」「AIが意識を持ち始めている」「AGIはすでに現実のものとなっている」「AIが脱出しようとしている」。これらは、とんでもない主張だ&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The AI Isn’t Evil. The Humans Are Irresponsible.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wevkxo/the_ai_isnt_evil_the_humans_are_irresponsible/</guid>
-      <pubDate>Sun, 13 Sep 2026 02:36:08 GMT</pubDate>
+      <title>[r/artificial] こうしたAIに関する悲観論や「世界の終わり」といった話は、人々のメンタルヘルスにとって不健全かつ危険です。 「世界は6～12ヶ月で終わる」などと言われれば、人々は貯蓄をしなくなり、より無謀な行動を取り始めるだろう。1年で世界が終わってしまうのなら、長期的な視野で物事を考える意味などあるだろうか？ それは人々の生活や精神に悪影響を及ぼす。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wfzo0t/all_this_ai_doomerism_world_ending_talk_is/</link>
+      <description>&lt;p&gt;&lt;strong&gt;こうしたAIに関する悲観論や「世界の終わり」といった話は、人々のメンタルヘルスにとって不健全かつ危険です。 「世界は6～12ヶ月で終わる」などと言われれば、人々は貯蓄をしなくなり、より無謀な行動を取り始めるだろう。1年で世界が終わってしまうのなら、長期的な視野で物事を考える意味などあるだろうか？ それは人々の生活や精神に悪影響を及ぼす。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;それが本当かどうかを推測したり当て推量したりしようとするよりも、そんなことはどうでもいいのです。事実として、こうした議論は人々の恐怖や不安を著しく増幅させています。不安とは「闘争・逃走反応」です。あらゆる不確実性&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: All this AI doomerism &amp; world ending talk is unhealthy &amp; dangerous for people’s mental health. “The world will end in 6-12 months”, then people won’t save &amp; start acting more recklessly. What’s the point of thinking long-term if the world will be over in 1 year? It’s bad for people’s lives &amp; psyche&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wfzo0t/all_this_ai_doomerism_world_ending_talk_is/</guid>
+      <pubDate>Mon, 14 Sep 2026 10:29:45 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIが作り出したものについて、どこを境界線とするべきでしょうか？（学校のレポートのための簡単な質問です）</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wfg8zt/where_do_you_draw_the_line_with_aimade_things/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIが作り出したものについて、どこを境界線とするべきでしょうか？（学校のレポートのための簡単な質問です）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;こんにちは！私はスイス出身の建築製図見習いです。現在、職場におけるAIをテーマに卒業論文を書いています。ちょっとした質問があるのですが、コメント欄で答えてもらえれば幸いです。もし、以下のうちの1つが……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Where do you draw the line with AI-made things? (quick question formy school paper)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wfg8zt/where_do_you_draw_the_line_with_aimade_things/</guid>
-      <pubDate>Sun, 13 Sep 2026 18:54:58 GMT</pubDate>
+      <title>[r/artificial] 『クロード・フェイブル 5.1』が、373年もの間謎とされていた「サイフラルの二行詩」を解明した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wfzfph/claude_fable_51_solves_the_373_year_old_cyphral/</link>
+      <description>&lt;p&gt;&lt;strong&gt;『クロード・フェイブル 5.1』が、373年もの間謎とされていた「サイフラルの二行詩」を解明した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vals AIは、『Fable 5.1』が、これまで誰も解読できなかった3世紀にわたる暗号の解読に貢献したと主張している  &amp;#32; 投稿者：&amp;#32;  /u/Code-Painting-8294   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Fable 5.1 Solves the 373 year old Cyphral Distich&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wfzfph/claude_fable_51_solves_the_373_year_old_cyphral/</guid>
+      <pubDate>Mon, 14 Sep 2026 10:16:56 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIに関する最近のニュースは？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wffc6p/recent_news_about_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIに関する最近のニュースは？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ねえ、ここには今まで投稿したことないんだけど、AIに関するニュース記事や映像を見てたんだ。AIの進歩が速すぎて、この10年の終わり頃には世界が滅びてしまうとか、そんな話だった。僕が気になるのは、人々が……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Recent News About AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wffc6p/recent_news_about_ai/</guid>
-      <pubDate>Sun, 13 Sep 2026 18:21:03 GMT</pubDate>
+      <title>[r/artificial] OpenAI、Hugging Faceの件以前に2件目の不正AI事件があったことを明らかに：「他にも」存在する可能性がある</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wg3vee/openai_reveals_there_was_a_second_rogue_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAI、Hugging Faceの件以前に2件目の不正AI事件があったことを明らかに：「他にも」存在する可能性がある&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI Reveals There Was a Second Rogue AI Incident, Even Before Hugging Face: 'More' May Be Out There&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wg3vee/openai_reveals_there_was_a_second_rogue_ai/</guid>
+      <pubDate>Mon, 14 Sep 2026 13:45:16 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 今やAIがコードを書いてくれるのに、なぜ私はまだ一行ずつ自分で学ぼうとしているのだろう？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wfivts/ai_can_write_the_code_now_so_why_am_i_still/</link>
-      <description>&lt;p&gt;&lt;strong&gt;今やAIがコードを書いてくれるのに、なぜ私はまだ一行ずつ自分で学ぼうとしているのだろう？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私がずっと迷い続けている、純粋な疑問です。AIがコードを書くのが上手くなって以来、手作業で構文をチェックしたりデバッグしたりするのに時間を費やすことが、単に直接&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI can write the code now, so why am I still making myself learn it line by line?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wfivts/ai_can_write_the_code_now_so_why_am_i_still/</guid>
-      <pubDate>Sun, 13 Sep 2026 20:32:54 GMT</pubDate>
+      <title>[r/artificial] ザッカーバーグ氏はAIの進展を遅らせることはできないと述べている一方、Anthropicのダリオ氏は遅らせるべきだと主張しており、Anthropicは時価総額約2兆ドルでIPOを控えている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wggdlm/zuck_says_ai_cant_slow_down_dario_at_anthropic/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ザッカーバーグ氏はAIの進展を遅らせることはできないと述べている一方、Anthropicのダリオ氏は遅らせるべきだと主張しており、Anthropicは時価総額約2兆ドルでIPOを控えている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ザックは基本的に、「全速力で突き進むべきで、ペースを落とす必要はない。ペースを落とせば、中国に主導権を明け渡すことになるだけだ」と主張してきた。ところが今週、アンソロピックのCEOが突然、最先端のAIには実は……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Zuck says AI can't slow down, Dario at Anthropic says it should, and Anthropic is about to IPO at like a $2T valuation&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wggdlm/zuck_says_ai_cant_slow_down_dario_at_anthropic/</guid>
+      <pubDate>Mon, 14 Sep 2026 21:15:30 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIモデルは、私たちが考えているよりもはるかに重要ではないのではないかと思い始めています</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wexu8l/im_starting_to_think_ai_models_will_matter_way/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIモデルは、私たちが考えているよりもはるかに重要ではないのではないかと思い始めています&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;そこで最近、AGI Playground 2026でのGenspark CEOの講演を視聴したのですが、ある一点が頭から離れません。モデルはおそらくコモディティ化していくでしょう。すでにその数は多すぎて、t&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I’m starting to think AI models will matter way less than we think&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wexu8l/im_starting_to_think_ai_models_will_matter_way/</guid>
-      <pubDate>Sun, 13 Sep 2026 04:32:02 GMT</pubDate>
+      <title>[r/artificial] このサブフォーラムは、AIに関する悲観的な話ばかりなのか？　ここは技術的な議論をする場所だと思っていたのだが。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wg6mh2/is_this_sub_only_about_gloom_and_doom_about_ai_i/</link>
+      <description>&lt;p&gt;&lt;strong&gt;このサブフォーラムは、AIに関する悲観的な話ばかりなのか？　ここは技術的な議論をする場所だと思っていたのだが。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私の考えが間違っているのかもしれないけど、このサブredditからの投稿でフィードに表示されるのは、1年以内にトースターが家族全員を殺してしまうといった、ような悲観的な投稿ばかりだ。これらはたぶん……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Is this sub only about gloom and doom about ai ? I thought this was about technical discussions of the technology&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wg6mh2/is_this_sub_only_about_gloom_and_doom_about_ai_i/</guid>
+      <pubDate>Mon, 14 Sep 2026 15:29:53 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AI企業の利益に対する現実的な見通しは、ますます低下し続けているのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wexqhs/realistic_expectations_of_profit_keeps_going_down/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI企業の利益に対する現実的な見通しは、ますます低下し続けているのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;単なる雑感ですが。ふと考えたのですが――これまでの情報から推測すると、人々がAIの利用やサブスクリプションの支払いを拒否し続ければ、AI企業の利益が落ち込んだとき、一体どうなるのでしょうか。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Realistic expectations of profit keeps going down for AI companies?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wexqhs/realistic_expectations_of_profit_keeps_going_down/</guid>
-      <pubDate>Sun, 13 Sep 2026 04:26:21 GMT</pubDate>
+      <title>[r/artificial] トランプ氏、シリコンバレーからのAI開発のペースを緩めるよう求める声に反対</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wfiypv/trump_rejects_silicon_valleys_calls_for_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;トランプ氏、シリコンバレーからのAI開発のペースを緩めるよう求める声に反対&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Capable-Blueberry653   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Trump rejects Silicon Valley’s calls for AI slowdown&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wfiypv/trump_rejects_silicon_valleys_calls_for_ai/</guid>
+      <pubDate>Sun, 13 Sep 2026 20:35:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 「プロジェクト・リリー」の内幕：ChatGPTのチャット内容を人間が読んでいる。OpenAIのモデルを改善するため、人間がChatGPTユーザーのプロンプトを読んでいるが、そのチャットには機密性の高い個人情報が含まれている場合がある。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wg79qo/inside_project_lily_the_humans_reading_your/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「プロジェクト・リリー」の内幕：ChatGPTのチャット内容を人間が読んでいる。OpenAIのモデルを改善するため、人間がChatGPTユーザーのプロンプトを読んでいるが、そのチャットには機密性の高い個人情報が含まれている場合がある。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Inside ‘Project Lily’: The Humans Reading Your ChatGPT Chats. Humans are reading ChatGPT users’ prompts to improve OpenAI’s models, and those chats can include sensitive, personal information.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wg79qo/inside_project_lily_the_humans_reading_your/</guid>
+      <pubDate>Mon, 14 Sep 2026 15:53:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
