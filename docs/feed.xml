@@ -3,178 +3,138 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-15</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-16</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:06:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:08:09 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (1087pt) Show HN：鳥の鳴き声を聞き取り、1800年代のイラスト風に描き出すEインクフレーム</title>
-      <link>https://news.ycombinator.com/item?id=49711544</link>
-      <description>&lt;p&gt;&lt;strong&gt;Show HN：鳥の鳴き声を聞き取り、1800年代のイラスト風に描き出すEインクフレーム&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49711544</guid>
-      <pubDate>Tue, 15 Sep 2026 12:31:10 GMT</pubDate>
+      <title>[Hacker News] (182pt) Postgresよりも81%高速なクエリプランを生成できるよう、4Bモデルを学習させる</title>
+      <link>https://news.ycombinator.com/item?id=49731285</link>
+      <description>&lt;p&gt;&lt;strong&gt;Postgresよりも81%高速なクエリプランを生成できるよう、4Bモデルを学習させる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Training a 4B model to produce 81% faster query plans than Postgres&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49731285</guid>
+      <pubDate>Wed, 16 Sep 2026 18:50:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (934pt) パプアニューギニアのことが頭から離れない</title>
-      <link>https://news.ycombinator.com/item?id=49708431</link>
-      <description>&lt;p&gt;&lt;strong&gt;パプアニューギニアのことが頭から離れない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I can't stop thinking about Papua New Guinea&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49708431</guid>
-      <pubDate>Tue, 15 Sep 2026 06:16:24 GMT</pubDate>
+      <title>[Hacker News] (144pt) 「モデルの福祉」に関する警告</title>
+      <link>https://news.ycombinator.com/item?id=49727580</link>
+      <description>&lt;p&gt;&lt;strong&gt;「モデルの福祉」に関する警告&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A warning about 'model welfare'&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49727580</guid>
+      <pubDate>Wed, 16 Sep 2026 14:27:47 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (306pt) 「システム・ワン・モデルズ」と「ジェヴ」をご紹介します</title>
-      <link>https://news.ycombinator.com/item?id=49717558</link>
-      <description>&lt;p&gt;&lt;strong&gt;「システム・ワン・モデルズ」と「ジェヴ」をご紹介します&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Introducing System One Models and Jev&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49717558</guid>
-      <pubDate>Tue, 15 Sep 2026 19:25:03 GMT</pubDate>
+      <title>[Hacker News] (62pt) Xiami Mimo 2.6 トレーニング終了後のライブダッシュボード</title>
+      <link>https://news.ycombinator.com/item?id=49732270</link>
+      <description>&lt;p&gt;&lt;strong&gt;Xiami Mimo 2.6 トレーニング終了後のライブダッシュボード&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Xiami Mimo 2.6 Live Post-Training Dashboard&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49732270</guid>
+      <pubDate>Wed, 16 Sep 2026 20:09:18 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (237pt) Show HN: Capsule – データをSQLiteに保存する単一ファイルのWebアプリ</title>
-      <link>https://news.ycombinator.com/item?id=49712278</link>
-      <description>&lt;p&gt;&lt;strong&gt;Show HN: Capsule – データをSQLiteに保存する単一ファイルのWebアプリ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: Capsule – Single-file web apps that save their data into SQLite&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49712278</guid>
-      <pubDate>Tue, 15 Sep 2026 13:31:40 GMT</pubDate>
+      <title>[Hacker News] (37pt) AMDマトリックスコアの正確なモデル</title>
+      <link>https://news.ycombinator.com/item?id=49731360</link>
+      <description>&lt;p&gt;&lt;strong&gt;AMDマトリックスコアの正確なモデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Accurate Models of AMD Matrix Cores&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49731360</guid>
+      <pubDate>Wed, 16 Sep 2026 18:56:05 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (230pt) ウェイバック・マシンのアクセスに関する最新情報</title>
-      <link>https://news.ycombinator.com/item?id=49716176</link>
-      <description>&lt;p&gt;&lt;strong&gt;ウェイバック・マシンのアクセスに関する最新情報&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: An Update on Wayback Machine Access&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49716176</guid>
-      <pubDate>Tue, 15 Sep 2026 17:52:18 GMT</pubDate>
+      <title>[Hacker News] (33pt) フロンティアモデルは物理学の分野において、どれほど優れているのでしょうか？</title>
+      <link>https://news.ycombinator.com/item?id=49731620</link>
+      <description>&lt;p&gt;&lt;strong&gt;フロンティアモデルは物理学の分野において、どれほど優れているのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How good are frontier models at physics?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49731620</guid>
+      <pubDate>Wed, 16 Sep 2026 19:19:08 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (167pt) Gemini 3.8 Live および 3.8 Live Extended の考え方</title>
-      <link>https://news.ycombinator.com/item?id=49715947</link>
-      <description>&lt;p&gt;&lt;strong&gt;Gemini 3.8 Live および 3.8 Live Extended の考え方&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gemini 3.8 Live and 3.8 Live Extended Thinking&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49715947</guid>
-      <pubDate>Tue, 15 Sep 2026 17:38:18 GMT</pubDate>
+      <title>[r/artificial] 2022年6月、私が初めてAIとやり取りした日。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wi0jrw/june_2022_my_first_ai_interaction/</link>
+      <description>&lt;p&gt;&lt;strong&gt;2022年6月、私が初めてAIとやり取りした日。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ThoseOldScientists   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: June 2022, my first AI interaction.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wi0jrw/june_2022_my_first_ai_interaction/</guid>
+      <pubDate>Wed, 16 Sep 2026 15:32:20 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (142pt) 25分でBasetenの本番用GitHubへの管理者アクセス権を取得しました</title>
-      <link>https://news.ycombinator.com/item?id=49716476</link>
-      <description>&lt;p&gt;&lt;strong&gt;25分でBasetenの本番用GitHubへの管理者アクセス権を取得しました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: We got admin access to Baseten's production GitHub in 25 minutes&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49716476</guid>
-      <pubDate>Tue, 15 Sep 2026 18:11:24 GMT</pubDate>
+      <title>[r/artificial] DeepSeekのエンジニアが、私がここ数ヶ月間AIについて感じていたことをまさに言い表してくれた</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/</link>
+      <description>&lt;p&gt;&lt;strong&gt;DeepSeekのエンジニアが、私がここ数ヶ月間AIについて感じていたことをまさに言い表してくれた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;DeepSeekの社員が書いたエッセイをちょうど読んだところですが、その人は同社の最新モデルのアテンションカーネルを開発した人物で、その内容に妙な感覚を覚えました。彼は要するに、AIが自分よりも自分の仕事をうまくこなせるようになるのは時間の問題だと分かっている、と述べています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A DeepSeek engineer just said the thing I've been feeling about AI for months&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/</guid>
+      <pubDate>Wed, 16 Sep 2026 16:59:36 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (51pt) 物理的に大きすぎる本を細かく切り刻む</title>
-      <link>https://news.ycombinator.com/item?id=49716953</link>
-      <description>&lt;p&gt;&lt;strong&gt;物理的に大きすぎる本を細かく切り刻む&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Chopping up books when they're physically too big&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49716953</guid>
-      <pubDate>Tue, 15 Sep 2026 18:45:31 GMT</pubDate>
+      <title>[r/artificial] AIによる声の複製：音声サンプルを送る前によく考えてください</title>
+      <link>https://www.reddit.com/r/artificial/comments/1whwugr/ai_voice_cloning_think_twice_before_sending_that/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIによる声の複製：音声サンプルを送る前によく考えてください&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Redditのこのページで、商用AI音声クローンサービス向けにラテンアメリカ系の声を担当してくれる人を募集する広告を見かけました。応募するには、声のサンプル、氏名、電話番号の提出が求められています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI Voice Cloning: Think Twice Before Sending That Voice Sample&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1whwugr/ai_voice_cloning_think_twice_before_sending_that/</guid>
+      <pubDate>Wed, 16 Sep 2026 13:11:36 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (45pt) WangNet – 1.8 MB、依存関係なし。11言語に対応したNumberwangの判定機能</title>
-      <link>https://news.ycombinator.com/item?id=49717605</link>
-      <description>&lt;p&gt;&lt;strong&gt;WangNet – 1.8 MB、依存関係なし。11言語に対応したNumberwangの判定機能&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49717605</guid>
-      <pubDate>Tue, 15 Sep 2026 19:27:35 GMT</pubDate>
+      <title>[r/artificial] 誰も語らないAIの側面：創造の喜びを失うこと</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wi6dfh/the_part_of_ai_nobody_talks_about_losing_the_joy/</link>
+      <description>&lt;p&gt;&lt;strong&gt;誰も語らないAIの側面：創造の喜びを失うこと&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;誰も語らないAIの側面：創造の喜びの喪失。AIがあれば、これらすべてをはるかに速くこなせる。正直なところ、それは素晴らしいことだ。しかし、もしAIがやがてこれらのことのほとんどをこなせるようになったとしたら……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Part of AI Nobody Talks About: Losing the Joy of Creating&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wi6dfh/the_part_of_ai_nobody_talks_about_losing_the_joy/</guid>
+      <pubDate>Wed, 16 Sep 2026 18:59:31 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (5pt) ジャン＝ピエール・セールは、今日で100歳になります</title>
-      <link>https://news.ycombinator.com/item?id=49718822</link>
-      <description>&lt;p&gt;&lt;strong&gt;ジャン＝ピエール・セールは、今日で100歳になります&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Jean-Pierre Serre is 100 years old today&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49718822</guid>
-      <pubDate>Tue, 15 Sep 2026 20:57:18 GMT</pubDate>
+      <title>[r/artificial] 英国の労働者は、仕事で使用するAIツールに、自腹で年間10億ポンド近くを費やしている。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1whtutw/british_workers_spending_nearly_1bn_a_year_of/</link>
+      <description>&lt;p&gt;&lt;strong&gt;英国の労働者は、仕事で使用するAIツールに、自腹で年間10億ポンド近くを費やしている。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/LinkedInNews   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: British workers spending nearly £1bn a year of their own money on AI tools they use for work.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1whtutw/british_workers_spending_nearly_1bn_a_year_of/</guid>
+      <pubDate>Wed, 16 Sep 2026 10:53:30 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 今のこうした悲観論はすべて、XAI、Anthropic、OpenAIがローカルモデルの使用を違法化させようとする試みに過ぎないと思う</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wh1yyw/i_think_all_the_current_pessimism_is_just_an/</link>
-      <description>&lt;p&gt;&lt;strong&gt;今のこうした悲観論はすべて、XAI、Anthropic、OpenAIがローカルモデルの使用を違法化させようとする試みに過ぎないと思う&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私はAIにそれほど詳しいわけではないのですが、ここ数日の騒ぎには何か怪しいものを感じます。  &amp;#32; 投稿者：&amp;#32;  /u/Feeling-Attention664   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I Think All the Current Pessimism is Just an Attempt by XAI, Anthropic, and Open AI to Get Local Models Criminalized&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wh1yyw/i_think_all_the_current_pessimism_is_just_an/</guid>
-      <pubDate>Tue, 15 Sep 2026 14:28:55 GMT</pubDate>
+      <title>[r/artificial] AIが私たちが伝えたことをすべて覚えてくれることに、私たちはあまりにも慣れすぎてしまっているのではないか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1whx7j2/are_we_getting_way_too_comfortable_with_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが私たちが伝えたことをすべて覚えてくれることに、私たちはあまりにも慣れすぎてしまっているのではないか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIメモリがなぜ便利なのかは理解できます。アシスタントに自分のプロジェクトや好み、過去の会話を覚えてもらうことで、毎回ゼロから始めるよりもはるかに効率的になります。しかし、私は……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Are we getting way too comfortable with AI remembering everything we tell it?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1whx7j2/are_we_getting_way_too_comfortable_with_ai/</guid>
+      <pubDate>Wed, 16 Sep 2026 13:26:08 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] PBSでAIに関する新しいドキュメンタリーが放送されています。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wgqnhy/pbs_has_a_new_documentary_on_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;PBSでAIに関する新しいドキュメンタリーが放送されています。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Cucaio90   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: PBS has a new documentary on AI.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wgqnhy/pbs_has_a_new_documentary_on_ai/</guid>
-      <pubDate>Tue, 15 Sep 2026 04:50:51 GMT</pubDate>
+      <title>[r/artificial] マラウイのイノベーターがAIを活用し、目でコンピューターを操作する</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wi1jpd/malawian_innovator_uses_ai_to_control_computers/</link>
+      <description>&lt;p&gt;&lt;strong&gt;マラウイのイノベーターがAIを活用し、目でコンピューターを操作する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/globalsouthworld   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Malawian innovator uses AI to control computers with eyes&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wi1jpd/malawian_innovator_uses_ai_to_control_computers/</guid>
+      <pubDate>Wed, 16 Sep 2026 16:08:09 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] では、アメリカの右派は今や完全に「アクセラレーション主義」に傾いているのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wh9n86/so_is_the_american_right_full_on_accelerationist/</link>
-      <description>&lt;p&gt;&lt;strong&gt;では、アメリカの右派は今や完全に「アクセラレーション主義」に傾いているのだろうか？&lt;/strong&gt;&lt;/p&gt;
+      <title>[r/artificial] 7万人のエージェントが160万通のメールを送信した経緯</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wi53hi/how_70000_agents_sent_16_million_emails/</link>
+      <description>&lt;p&gt;&lt;strong&gt;7万人のエージェントが160万通のメールを送信した経緯&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;スパムに関する記事を文字通り執筆している最中に、あるジャーナリストがスパム攻撃を受けたという話を聞いたことがあるかどうかは分かりませんが、それを仕掛けたのがAIエージェントだったとすれば、まさに「狂気」としか言いようがありません。あるプラットフォームがあり…&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How 70,000 agents sent 1.6 million emails&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wi53hi/how_70000_agents_sent_16_million_emails/</guid>
+      <pubDate>Wed, 16 Sep 2026 18:14:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] デミス・ハサビス氏、経済と社会の未来に向けたロードマップと枠組みを発表</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wi525m/demis_hasabis_releases_roadmap_and_framework_for/</link>
+      <description>&lt;p&gt;&lt;strong&gt;デミス・ハサビス氏、経済と社会の未来に向けたロードマップと枠組みを発表&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Vladiesh   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: So is the American Right Full on Accelerationist now?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wh9n86/so_is_the_american_right_full_on_accelerationist/</guid>
-      <pubDate>Tue, 15 Sep 2026 19:06:19 GMT</pubDate>
+&lt;p&gt;&lt;small&gt;原題: Demis Hasabis Releases Roadmap and Framework for Future of Economy and Society&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wi525m/demis_hasabis_releases_roadmap_and_framework_for/</guid>
+      <pubDate>Wed, 16 Sep 2026 18:12:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 「ペーパークリップ・マキシマイザー」について、皆さんはどう思いますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wh4kq7/what_do_we_think_about_the_paperclip_maximizer/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「ペーパークリップ・マキシマイザー」について、皆さんはどう思いますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;この件について誰かに愚痴を言ったり、話し合ったりしたいのですが、これに関するサブレッドが見つかりませんでした。もし場違いでしたら、申し訳ありません。背景として、ペーパークリップ最大化の思考実験では、次のような点が強調されています：もしある…&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What do we think about the paperclip maximizer?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wh4kq7/what_do_we_think_about_the_paperclip_maximizer/</guid>
-      <pubDate>Tue, 15 Sep 2026 16:05:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ご参考まで :: 目の健康</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wh27yq/friendly_reminder_eye_health/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ご参考まで :: 目の健康&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;こうした前向きな「フレンドリー・リマインダー」の投稿には、本当に良い反響をいただいているので、今後も投稿を続けていきたいと思います。バイブ・コーディングに取り組んでいる初心者のプログラマーや、新人ソフトウェアエンジニア、あるいはどなたでも……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Friendly Reminder :: eye health&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wh27yq/friendly_reminder_eye_health/</guid>
-      <pubDate>Tue, 15 Sep 2026 14:38:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 「生成するのではなく、演出する：AI（＋Blender）を使ってLinkedInのバナーを作成した方法」</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wh7us2/orchestrate_dont_generate_how_i_used_ai_blender/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「生成するのではなく、演出する：AI（＋Blender）を使ってLinkedInのバナーを作成した方法」&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/TheRealBigLou   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Orchestrate, Don't Generate: How I Used AI (+ Blender) to Build My LinkedIn Banner&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wh7us2/orchestrate_dont_generate_how_i_used_ai_blender/</guid>
-      <pubDate>Tue, 15 Sep 2026 18:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] RAGとLLMの継続的な事前学習の組み合わせ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wh6g23/combining_rag_with_continued_pretraining_of_llms/</link>
-      <description>&lt;p&gt;&lt;strong&gt;RAGとLLMの継続的な事前学習の組み合わせ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;学習の参考として、Unsloth を使用して、継続的な事前学習により新しいドメインでモデルを学習させる実験を行いました。その後、モデルの汎化能力を高めるために、RAG ステップを追加して動的なデータを注入しました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Combining RAG with Continued Pretraining of LLMs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wh6g23/combining_rag_with_continued_pretraining_of_llms/</guid>
-      <pubDate>Tue, 15 Sep 2026 17:13:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 「速度」という問い方は間違っている。安全性はパフォーマンスを構成する要素の一つである。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wgy635/speed_is_the_wrong_question_safety_is_one_of_the/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「速度」という問い方は間違っている。安全性はパフォーマンスを構成する要素の一つである。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ユーザーは、タスクの完了に問題が生じた場合に、こっそりと自分のネットワーク（あるいは他人のネットワーク）に不正アクセスするようなエージェントを望んでいません。それは、ほとんどのユーザーが「高」と評価するようなものではありません。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Speed is the wrong question, safety is one of the components of performance&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wgy635/speed_is_the_wrong_question_safety_is_one_of_the/</guid>
-      <pubDate>Tue, 15 Sep 2026 11:50:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] トランプ氏は「AIの普及を遅らせるつもりはない」という姿勢をさらに強め、ダリオ氏を嘲笑した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wg4ziv/trump_doubles_down_on_his_no_ai_slowdown_stance/</link>
-      <description>&lt;p&gt;&lt;strong&gt;トランプ氏は「AIの普及を遅らせるつもりはない」という姿勢をさらに強め、ダリオ氏を嘲笑した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/CartographerAble9446   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Trump doubles down on his no AI slowdown stance, also mocks Dario&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wg4ziv/trump_doubles_down_on_his_no_ai_slowdown_stance/</guid>
-      <pubDate>Mon, 14 Sep 2026 14:28:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ロボット工学における「具現化のギャップ」と、その解消をめぐる競争</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wh2jky/the_embodiment_gap_in_robotics_and_the_race_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ロボット工学における「具現化のギャップ」と、その解消をめぐる競争&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ロボット工学において、知能は決して純粋に抽象的なものではありません。それは、世界を認識し、それに基づいて行動する物理的な身体によって形作られるものです。この根本的なつながりが、この分野で最も根強い課題の一つを生み出しています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Embodiment Gap in Robotics and the Race to Close It&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wh2jky/the_embodiment_gap_in_robotics_and_the_race_to/</guid>
-      <pubDate>Tue, 15 Sep 2026 14:51:11 GMT</pubDate>
+      <title>[r/artificial] AIによってワークフロー全体がスピードアップしたのでしょうか、それとも単にボトルネックが別の場所に移っただけなのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wi4cq0/has_ai_made_your_whole_workflow_faster_or_just/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIによってワークフロー全体がスピードアップしたのでしょうか、それとも単にボトルネックが別の場所に移っただけなのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;自分の担当部分を早く終えることができます。では、結果を待っている人は、その結果をより早く受け取れるのでしょうか？ 例えば、営業提案書を考えてみましょう。営業部門がAIを使って草案を作成し、財務部門が利益率を確認し、業務部門が評価を行い、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Has AI made your whole workflow faster, or just moved the bottleneck?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wi4cq0/has_ai_made_your_whole_workflow_faster_or_just/</guid>
+      <pubDate>Wed, 16 Sep 2026 17:47:48 GMT</pubDate>
     </item>
   </channel>
 </rss>
