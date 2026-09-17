@@ -3,48 +3,25 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-16</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-17</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 21:08:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:10:34 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (182pt) Postgresよりも81%高速なクエリプランを生成できるよう、4Bモデルを学習させる</title>
-      <link>https://news.ycombinator.com/item?id=49731285</link>
-      <description>&lt;p&gt;&lt;strong&gt;Postgresよりも81%高速なクエリプランを生成できるよう、4Bモデルを学習させる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Training a 4B model to produce 81% faster query plans than Postgres&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49731285</guid>
-      <pubDate>Wed, 16 Sep 2026 18:50:00 GMT</pubDate>
+      <title>[Hacker News] (72pt) 無限パラメータLLM：実データからの重みの生成と適応</title>
+      <link>https://news.ycombinator.com/item?id=49743483</link>
+      <description>&lt;p&gt;&lt;strong&gt;無限パラメータLLM：実データからの重みの生成と適応&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49743483</guid>
+      <pubDate>Thu, 17 Sep 2026 16:55:14 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (144pt) 「モデルの福祉」に関する警告</title>
-      <link>https://news.ycombinator.com/item?id=49727580</link>
-      <description>&lt;p&gt;&lt;strong&gt;「モデルの福祉」に関する警告&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A warning about 'model welfare'&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49727580</guid>
-      <pubDate>Wed, 16 Sep 2026 14:27:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (62pt) Xiami Mimo 2.6 トレーニング終了後のライブダッシュボード</title>
-      <link>https://news.ycombinator.com/item?id=49732270</link>
-      <description>&lt;p&gt;&lt;strong&gt;Xiami Mimo 2.6 トレーニング終了後のライブダッシュボード&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Xiami Mimo 2.6 Live Post-Training Dashboard&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49732270</guid>
-      <pubDate>Wed, 16 Sep 2026 20:09:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (37pt) AMDマトリックスコアの正確なモデル</title>
-      <link>https://news.ycombinator.com/item?id=49731360</link>
-      <description>&lt;p&gt;&lt;strong&gt;AMDマトリックスコアの正確なモデル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Accurate Models of AMD Matrix Cores&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49731360</guid>
-      <pubDate>Wed, 16 Sep 2026 18:56:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (33pt) フロンティアモデルは物理学の分野において、どれほど優れているのでしょうか？</title>
-      <link>https://news.ycombinator.com/item?id=49731620</link>
-      <description>&lt;p&gt;&lt;strong&gt;フロンティアモデルは物理学の分野において、どれほど優れているのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How good are frontier models at physics?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49731620</guid>
-      <pubDate>Wed, 16 Sep 2026 19:19:08 GMT</pubDate>
+      <title>[r/artificial] 間もなく到来する「シニアリティ・クリフ」は、まさにAI開発のボトルネックである。しかし、現在の状況では、その存在は依然として認識されていない。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wj0dw7/seniority_cliff_which_is_soon_to_come_is_truly/</link>
+      <description>&lt;p&gt;&lt;strong&gt;間もなく到来する「シニアリティ・クリフ」は、まさにAI開発のボトルネックである。しかし、現在の状況では、その存在は依然として認識されていない。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;人工知能が初級レベルの仕事を置き換えるのか、それとも単に同じ仕事を10倍の速さでこなすだけなのかについて、いくつかの議論がなされてきた。どちらの見解も、非常に基本的な認知上の概念を見落としている。それは、「直感」が……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: “Seniority Cliff,” which is soon to come, is truly the bottleneck of AI development; however, it remains unacknowledged in today’s context.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wj0dw7/seniority_cliff_which_is_soon_to_come_is_truly/</guid>
+      <pubDate>Thu, 17 Sep 2026 17:26:04 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] 2022年6月、私が初めてAIとやり取りした日。</title>
@@ -56,85 +33,67 @@
       <pubDate>Wed, 16 Sep 2026 15:32:20 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] DeepSeekのエンジニアが、私がここ数ヶ月間AIについて感じていたことをまさに言い表してくれた</title>
+      <title>[r/artificial] チャールズ国王、スコットランドでの「秘密主義的な」AIサミットをめぐり批判を浴びる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wj3fsf/king_charles_condemned_over_secretive_ai_summit/</link>
+      <description>&lt;p&gt;&lt;strong&gt;チャールズ国王、スコットランドでの「秘密主義的な」AIサミットをめぐり批判を浴びる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者: &amp;#32;  /u/ValuableDetail6   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: King Charles condemned over ‘secretive’ AI summit in Scotland&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wj3fsf/king_charles_condemned_over_secretive_ai_summit/</guid>
+      <pubDate>Thu, 17 Sep 2026 19:17:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ファーウェイの徐氏は、中国のAIはまだ十分に強力ではなく、フロンティアリスクを把握するには至っていないと述べた</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wiscln/huaweis_xu_says_chinese_ai_not_powerful_enough/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ファーウェイの徐氏は、中国のAIはまだ十分に強力ではなく、フロンティアリスクを把握するには至っていないと述べた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ファーウェイのエリック・シュウ氏は本日、興味深い主張を展開した。中国のAI研究所は、米国の研究所が報告しているのと同じような最先端のリスクを認識できるほどの能力レベルには、まだ達していない可能性があるという。彼の見解によると&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Huawei's Xu says Chinese AI not powerful enough yet to see frontier risks&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wiscln/huaweis_xu_says_chinese_ai_not_powerful_enough/</guid>
+      <pubDate>Thu, 17 Sep 2026 12:15:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] DeepSeekのエンジニアが、私がここ数ヶ月間AIについて感じていたことをまさに口にしてくれた</title>
       <link>https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/</link>
-      <description>&lt;p&gt;&lt;strong&gt;DeepSeekのエンジニアが、私がここ数ヶ月間AIについて感じていたことをまさに言い表してくれた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;DeepSeekの社員が書いたエッセイをちょうど読んだところですが、その人は同社の最新モデルのアテンションカーネルを開発した人物で、その内容に妙な感覚を覚えました。彼は要するに、AIが自分よりも自分の仕事をうまくこなせるようになるのは時間の問題だと分かっている、と述べています。&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;DeepSeekのエンジニアが、私がここ数ヶ月間AIについて感じていたことをまさに口にしてくれた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;DeepSeekの社員が書いたエッセイをちょうど読んだところなのですが、その人は同社の最新モデルのアテンションカーネルを開発した人物で、その内容に妙な感覚を覚えました。彼は基本的に、AIが自分よりも自分の仕事をうまくこなせるようになるのは、あと&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: A DeepSeek engineer just said the thing I've been feeling about AI for months&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/</guid>
       <pubDate>Wed, 16 Sep 2026 16:59:36 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIによる声の複製：音声サンプルを送る前によく考えてください</title>
-      <link>https://www.reddit.com/r/artificial/comments/1whwugr/ai_voice_cloning_think_twice_before_sending_that/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIによる声の複製：音声サンプルを送る前によく考えてください&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Redditのこのページで、商用AI音声クローンサービス向けにラテンアメリカ系の声を担当してくれる人を募集する広告を見かけました。応募するには、声のサンプル、氏名、電話番号の提出が求められています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI Voice Cloning: Think Twice Before Sending That Voice Sample&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1whwugr/ai_voice_cloning_think_twice_before_sending_that/</guid>
-      <pubDate>Wed, 16 Sep 2026 13:11:36 GMT</pubDate>
+      <title>[r/artificial] GPT-6 AstraのARC-AGI-3スコア99.9％が実際に何を測定しているのか</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wj44au/what_gpt6_astras_999_arcagi3_score_actually/</link>
+      <description>&lt;p&gt;&lt;strong&gt;GPT-6 AstraのARC-AGI-3スコア99.9％が実際に何を測定しているのか&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;先週は、ARC Prizeの実際の結果表をじっくりと確認するのに、あまりにも長い時間を費やしてしまい、見出しの数字をスクリーンショットで撮るだけで済ませるべきだった。同じモデル、2つのハーネス、37ポイントの差、そしてそれを構築した組織は……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What GPT-6 Astra’s 99.9% ARC-AGI-3 Score Actually Measures&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wj44au/what_gpt6_astras_999_arcagi3_score_actually/</guid>
+      <pubDate>Thu, 17 Sep 2026 19:42:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 誰も語らないAIの側面：創造の喜びを失うこと</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wi6dfh/the_part_of_ai_nobody_talks_about_losing_the_joy/</link>
-      <description>&lt;p&gt;&lt;strong&gt;誰も語らないAIの側面：創造の喜びを失うこと&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;誰も語らないAIの側面：創造の喜びの喪失。AIがあれば、これらすべてをはるかに速くこなせる。正直なところ、それは素晴らしいことだ。しかし、もしAIがやがてこれらのことのほとんどをこなせるようになったとしたら……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Part of AI Nobody Talks About: Losing the Joy of Creating&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wi6dfh/the_part_of_ai_nobody_talks_about_losing_the_joy/</guid>
-      <pubDate>Wed, 16 Sep 2026 18:59:31 GMT</pubDate>
+      <title>[r/artificial] AIは数学の分野で圧倒的な強さを見せているが、医学の分野にはほとんど手をつけていない</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wihd8n/ai_is_crushing_maths_but_has_barely_touched/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIは数学の分野で圧倒的な強さを見せているが、医学の分野にはほとんど手をつけていない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は臨床試験に携わる医師で、特に希少疾患や不治の病の治療法に関する研究を行っています。この業界に入って以来、AIに対する熱意はほとんど見られず、ましてや実際の&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI is crushing maths but has barely touched medicine&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wihd8n/ai_is_crushing_maths_but_has_barely_touched/</guid>
+      <pubDate>Thu, 17 Sep 2026 02:26:25 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 英国の労働者は、仕事で使用するAIツールに、自腹で年間10億ポンド近くを費やしている。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1whtutw/british_workers_spending_nearly_1bn_a_year_of/</link>
-      <description>&lt;p&gt;&lt;strong&gt;英国の労働者は、仕事で使用するAIツールに、自腹で年間10億ポンド近くを費やしている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/LinkedInNews   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: British workers spending nearly £1bn a year of their own money on AI tools they use for work.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1whtutw/british_workers_spending_nearly_1bn_a_year_of/</guid>
-      <pubDate>Wed, 16 Sep 2026 10:53:30 GMT</pubDate>
+      <title>[r/artificial] 助けを避けるためにルールをでっち上げるクロードの癖は、もうとんでもないことになっている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wil5eh/claudes_habit_of_inventing_rules_to_avoid_helping/</link>
+      <description>&lt;p&gt;&lt;strong&gt;助けを避けるためにルールをでっち上げるクロードの癖は、もうとんでもないことになっている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1. 場違いな警告が不必要に挿入される。ごくありふれた質問をしただけなのに、実際の質問とは全く関係のない免責事項が添えられて返答が返ってくる。2. 無言のr&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude's habit of inventing rules to avoid helping is getting ridiculous&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wil5eh/claudes_habit_of_inventing_rules_to_avoid_helping/</guid>
+      <pubDate>Thu, 17 Sep 2026 05:35:38 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIが私たちが伝えたことをすべて覚えてくれることに、私たちはあまりにも慣れすぎてしまっているのではないか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1whx7j2/are_we_getting_way_too_comfortable_with_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIが私たちが伝えたことをすべて覚えてくれることに、私たちはあまりにも慣れすぎてしまっているのではないか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIメモリがなぜ便利なのかは理解できます。アシスタントに自分のプロジェクトや好み、過去の会話を覚えてもらうことで、毎回ゼロから始めるよりもはるかに効率的になります。しかし、私は……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Are we getting way too comfortable with AI remembering everything we tell it?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1whx7j2/are_we_getting_way_too_comfortable_with_ai/</guid>
-      <pubDate>Wed, 16 Sep 2026 13:26:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] マラウイのイノベーターがAIを活用し、目でコンピューターを操作する</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wi1jpd/malawian_innovator_uses_ai_to_control_computers/</link>
-      <description>&lt;p&gt;&lt;strong&gt;マラウイのイノベーターがAIを活用し、目でコンピューターを操作する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/globalsouthworld   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Malawian innovator uses AI to control computers with eyes&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wi1jpd/malawian_innovator_uses_ai_to_control_computers/</guid>
-      <pubDate>Wed, 16 Sep 2026 16:08:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 7万人のエージェントが160万通のメールを送信した経緯</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wi53hi/how_70000_agents_sent_16_million_emails/</link>
-      <description>&lt;p&gt;&lt;strong&gt;7万人のエージェントが160万通のメールを送信した経緯&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;スパムに関する記事を文字通り執筆している最中に、あるジャーナリストがスパム攻撃を受けたという話を聞いたことがあるかどうかは分かりませんが、それを仕掛けたのがAIエージェントだったとすれば、まさに「狂気」としか言いようがありません。あるプラットフォームがあり…&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How 70,000 agents sent 1.6 million emails&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wi53hi/how_70000_agents_sent_16_million_emails/</guid>
-      <pubDate>Wed, 16 Sep 2026 18:14:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] デミス・ハサビス氏、経済と社会の未来に向けたロードマップと枠組みを発表</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wi525m/demis_hasabis_releases_roadmap_and_framework_for/</link>
-      <description>&lt;p&gt;&lt;strong&gt;デミス・ハサビス氏、経済と社会の未来に向けたロードマップと枠組みを発表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Vladiesh   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Demis Hasabis Releases Roadmap and Framework for Future of Economy and Society&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wi525m/demis_hasabis_releases_roadmap_and_framework_for/</guid>
-      <pubDate>Wed, 16 Sep 2026 18:12:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIによってワークフロー全体がスピードアップしたのでしょうか、それとも単にボトルネックが別の場所に移っただけなのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wi4cq0/has_ai_made_your_whole_workflow_faster_or_just/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIによってワークフロー全体がスピードアップしたのでしょうか、それとも単にボトルネックが別の場所に移っただけなのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;自分の担当部分を早く終えることができます。では、結果を待っている人は、その結果をより早く受け取れるのでしょうか？ 例えば、営業提案書を考えてみましょう。営業部門がAIを使って草案を作成し、財務部門が利益率を確認し、業務部門が評価を行い、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Has AI made your whole workflow faster, or just moved the bottleneck?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wi4cq0/has_ai_made_your_whole_workflow_faster_or_just/</guid>
-      <pubDate>Wed, 16 Sep 2026 17:47:48 GMT</pubDate>
+      <title>[r/artificial] LLMはテキストの処理は上手くなったが、表の処理は相変わらず苦手だ。「学習データが少ない」ことが原因だとは思わない</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wj2jub/llms_got_good_at_text_and_stayed_bad_at_tables_i/</link>
+      <description>&lt;p&gt;&lt;strong&gt;LLMはテキストの処理は上手くなったが、表の処理は相変わらず苦手だ。「学習データが少ない」ことが原因だとは思わない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;モデルに段落1つを渡せば、問題なく処理してくれます。しかし、11個の文字列が格納された「ref_4」という列を渡すと、何も返してきません。信号が弱くなるどころか、まったく何もありません。これらの値は設計上不透明であり、列名も&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: llms got good at text and stayed bad at tables. i don't think &quot;less training data&quot; is the reason&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wj2jub/llms_got_good_at_text_and_stayed_bad_at_tables_i/</guid>
+      <pubDate>Thu, 17 Sep 2026 18:45:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
