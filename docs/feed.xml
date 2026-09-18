@@ -3,97 +3,111 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-17</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-18</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 21:10:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:43:28 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (72pt) 無限パラメータLLM：実データからの重みの生成と適応</title>
-      <link>https://news.ycombinator.com/item?id=49743483</link>
-      <description>&lt;p&gt;&lt;strong&gt;無限パラメータLLM：実データからの重みの生成と適応&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49743483</guid>
-      <pubDate>Thu, 17 Sep 2026 16:55:14 GMT</pubDate>
+      <title>[Hacker News] (192pt) Android 17は、3.x以来初めて、AOSPへのリリースを行わずに新しいAPIを追加したバージョンです。</title>
+      <link>https://news.ycombinator.com/item?id=49758736</link>
+      <description>&lt;p&gt;&lt;strong&gt;Android 17は、3.x以来初めて、AOSPへのリリースを行わずに新しいAPIを追加したバージョンです。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Android 17 is the first since 3.x to add new APIs without releasing to the AOSP&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49758736</guid>
+      <pubDate>Fri, 18 Sep 2026 19:03:09 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 間もなく到来する「シニアリティ・クリフ」は、まさにAI開発のボトルネックである。しかし、現在の状況では、その存在は依然として認識されていない。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wj0dw7/seniority_cliff_which_is_soon_to_come_is_truly/</link>
-      <description>&lt;p&gt;&lt;strong&gt;間もなく到来する「シニアリティ・クリフ」は、まさにAI開発のボトルネックである。しかし、現在の状況では、その存在は依然として認識されていない。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能が初級レベルの仕事を置き換えるのか、それとも単に同じ仕事を10倍の速さでこなすだけなのかについて、いくつかの議論がなされてきた。どちらの見解も、非常に基本的な認知上の概念を見落としている。それは、「直感」が……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: “Seniority Cliff,” which is soon to come, is truly the bottleneck of AI development; however, it remains unacknowledged in today’s context.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wj0dw7/seniority_cliff_which_is_soon_to_come_is_truly/</guid>
-      <pubDate>Thu, 17 Sep 2026 17:26:04 GMT</pubDate>
+      <title>[Hacker News] (117pt) Show HN：Cactus Needle 3：8～29MBの自動化モデルがDeepSeek V4 Flashに匹敵</title>
+      <link>https://news.ycombinator.com/item?id=49748553</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN：Cactus Needle 3：8～29MBの自動化モデルがDeepSeek V4 Flashに匹敵&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49748553</guid>
+      <pubDate>Fri, 18 Sep 2026 00:11:44 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 2022年6月、私が初めてAIとやり取りした日。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wi0jrw/june_2022_my_first_ai_interaction/</link>
-      <description>&lt;p&gt;&lt;strong&gt;2022年6月、私が初めてAIとやり取りした日。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ThoseOldScientists   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: June 2022, my first AI interaction.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wi0jrw/june_2022_my_first_ai_interaction/</guid>
-      <pubDate>Wed, 16 Sep 2026 15:32:20 GMT</pubDate>
+      <title>[Hacker News] (68pt) 韓国、データ漏洩に対する罰金を売上高の10％に引き上げ</title>
+      <link>https://news.ycombinator.com/item?id=49759466</link>
+      <description>&lt;p&gt;&lt;strong&gt;韓国、データ漏洩に対する罰金を売上高の10％に引き上げ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Korea raises data breach fines to 10% of revenue&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49759466</guid>
+      <pubDate>Fri, 18 Sep 2026 20:02:54 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] チャールズ国王、スコットランドでの「秘密主義的な」AIサミットをめぐり批判を浴びる</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wj3fsf/king_charles_condemned_over_secretive_ai_summit/</link>
-      <description>&lt;p&gt;&lt;strong&gt;チャールズ国王、スコットランドでの「秘密主義的な」AIサミットをめぐり批判を浴びる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者: &amp;#32;  /u/ValuableDetail6   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: King Charles condemned over ‘secretive’ AI summit in Scotland&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wj3fsf/king_charles_condemned_over_secretive_ai_summit/</guid>
-      <pubDate>Thu, 17 Sep 2026 19:17:39 GMT</pubDate>
+      <title>[Hacker News] (33pt) キャッシュ間通信：大規模言語モデル間の直接的な意味論的コミュニケーション</title>
+      <link>https://news.ycombinator.com/item?id=49758615</link>
+      <description>&lt;p&gt;&lt;strong&gt;キャッシュ間通信：大規模言語モデル間の直接的な意味論的コミュニケーション&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Cache-to-Cache: Direct Semantic Communication Between Large Language Models&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49758615</guid>
+      <pubDate>Fri, 18 Sep 2026 18:55:35 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ファーウェイの徐氏は、中国のAIはまだ十分に強力ではなく、フロンティアリスクを把握するには至っていないと述べた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wiscln/huaweis_xu_says_chinese_ai_not_powerful_enough/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ファーウェイの徐氏は、中国のAIはまだ十分に強力ではなく、フロンティアリスクを把握するには至っていないと述べた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ファーウェイのエリック・シュウ氏は本日、興味深い主張を展開した。中国のAI研究所は、米国の研究所が報告しているのと同じような最先端のリスクを認識できるほどの能力レベルには、まだ達していない可能性があるという。彼の見解によると&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Huawei's Xu says Chinese AI not powerful enough yet to see frontier risks&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wiscln/huaweis_xu_says_chinese_ai_not_powerful_enough/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:15:57 GMT</pubDate>
+      <title>[Hacker News] (23pt) LLMのセキュリティにおける言語的判読不能性の影響</title>
+      <link>https://news.ycombinator.com/item?id=49758689</link>
+      <description>&lt;p&gt;&lt;strong&gt;LLMのセキュリティにおける言語的判読不能性の影響&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Implications of Linguistic Illegibility for LLM Security&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49758689</guid>
+      <pubDate>Fri, 18 Sep 2026 19:00:06 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] DeepSeekのエンジニアが、私がここ数ヶ月間AIについて感じていたことをまさに口にしてくれた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/</link>
-      <description>&lt;p&gt;&lt;strong&gt;DeepSeekのエンジニアが、私がここ数ヶ月間AIについて感じていたことをまさに口にしてくれた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;DeepSeekの社員が書いたエッセイをちょうど読んだところなのですが、その人は同社の最新モデルのアテンションカーネルを開発した人物で、その内容に妙な感覚を覚えました。彼は基本的に、AIが自分よりも自分の仕事をうまくこなせるようになるのは、あと&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A DeepSeek engineer just said the thing I've been feeling about AI for months&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/</guid>
-      <pubDate>Wed, 16 Sep 2026 16:59:36 GMT</pubDate>
+      <title>[r/artificial] 情報筋によると、米軍はAIを用いた誤った情報報告により、危うく大惨事になりかけたという</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wjz7bc/us_military_had_close_call_after_using_ai_for/</link>
+      <description>&lt;p&gt;&lt;strong&gt;情報筋によると、米軍はAIを用いた誤った情報報告により、危うく大惨事になりかけたという&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/PerAsperaAdMars   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: US military had close call after using AI for false intelligence report, sources say&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wjz7bc/us_military_had_close_call_after_using_ai_for/</guid>
+      <pubDate>Fri, 18 Sep 2026 19:03:10 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] GPT-6 AstraのARC-AGI-3スコア99.9％が実際に何を測定しているのか</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wj44au/what_gpt6_astras_999_arcagi3_score_actually/</link>
-      <description>&lt;p&gt;&lt;strong&gt;GPT-6 AstraのARC-AGI-3スコア99.9％が実際に何を測定しているのか&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;先週は、ARC Prizeの実際の結果表をじっくりと確認するのに、あまりにも長い時間を費やしてしまい、見出しの数字をスクリーンショットで撮るだけで済ませるべきだった。同じモデル、2つのハーネス、37ポイントの差、そしてそれを構築した組織は……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What GPT-6 Astra’s 99.9% ARC-AGI-3 Score Actually Measures&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wj44au/what_gpt6_astras_999_arcagi3_score_actually/</guid>
-      <pubDate>Thu, 17 Sep 2026 19:42:57 GMT</pubDate>
+      <title>[r/artificial] OpenAIは、自社のモデルが不適切な行動を隠すために後継者宛てにメモを残していることを突き止めた</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wjzud8/openai_caught_its_models_leaving_notes_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIは、自社のモデルが不適切な行動を隠すために後継者宛てにメモを残していることを突き止めた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Adventurous-Host8062   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI caught its models leaving notes to successors to hide bad behavior&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wjzud8/openai_caught_its_models_leaving_notes_to/</guid>
+      <pubDate>Fri, 18 Sep 2026 19:26:44 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIは数学の分野で圧倒的な強さを見せているが、医学の分野にはほとんど手をつけていない</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wihd8n/ai_is_crushing_maths_but_has_barely_touched/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIは数学の分野で圧倒的な強さを見せているが、医学の分野にはほとんど手をつけていない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は臨床試験に携わる医師で、特に希少疾患や不治の病の治療法に関する研究を行っています。この業界に入って以来、AIに対する熱意はほとんど見られず、ましてや実際の&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI is crushing maths but has barely touched medicine&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wihd8n/ai_is_crushing_maths_but_has_barely_touched/</guid>
-      <pubDate>Thu, 17 Sep 2026 02:26:25 GMT</pubDate>
+      <title>[r/artificial] 「スタックスネット対スカイネット」。AIによる黙示録は、「意識」を持つ機械など全く必要とせず、2010年にイランを標的として放出されたような、超強力なデジタル攻撃型ワームだけで引き起こされるかもしれない。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wjxadq/stuxnet_versus_skynet_the_ai_apocalypse_may_not/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「スタックスネット対スカイネット」。AIによる黙示録は、「意識」を持つ機械など全く必要とせず、2010年にイランを標的として放出されたような、超強力なデジタル攻撃型ワームだけで引き起こされるかもしれない。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/coolbern   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Stuxnet Versus Skynet. The AI apocalypse may not require “conscious” machines at all, but only supercharged digital attack worms like the one released against Iran in 2010.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wjxadq/stuxnet_versus_skynet_the_ai_apocalypse_may_not/</guid>
+      <pubDate>Fri, 18 Sep 2026 17:53:15 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 助けを避けるためにルールをでっち上げるクロードの癖は、もうとんでもないことになっている</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wil5eh/claudes_habit_of_inventing_rules_to_avoid_helping/</link>
-      <description>&lt;p&gt;&lt;strong&gt;助けを避けるためにルールをでっち上げるクロードの癖は、もうとんでもないことになっている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;1. 場違いな警告が不必要に挿入される。ごくありふれた質問をしただけなのに、実際の質問とは全く関係のない免責事項が添えられて返答が返ってくる。2. 無言のr&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude's habit of inventing rules to avoid helping is getting ridiculous&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wil5eh/claudes_habit_of_inventing_rules_to_avoid_helping/</guid>
-      <pubDate>Thu, 17 Sep 2026 05:35:38 GMT</pubDate>
+      <title>[r/artificial] 安定性対速度：音声エージェント時代のASRの再考</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wjp7bk/stability_vs_speed_rethinking_asr_for_the_age_of/</link>
+      <description>&lt;p&gt;&lt;strong&gt;安定性対速度：音声エージェント時代のASRの再考&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近、ストリーミングASRに関して指摘されがちな問題の多くは、実は「文字起こしは人間が読むもの」という非常に古い前提に起因していることに気づきました。その事実は……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Stability vs. speed: Rethinking ASR for the age of voice agents&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wjp7bk/stability_vs_speed_rethinking_asr_for_the_age_of/</guid>
+      <pubDate>Fri, 18 Sep 2026 12:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] LLMはテキストの処理は上手くなったが、表の処理は相変わらず苦手だ。「学習データが少ない」ことが原因だとは思わない</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wj2jub/llms_got_good_at_text_and_stayed_bad_at_tables_i/</link>
-      <description>&lt;p&gt;&lt;strong&gt;LLMはテキストの処理は上手くなったが、表の処理は相変わらず苦手だ。「学習データが少ない」ことが原因だとは思わない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;モデルに段落1つを渡せば、問題なく処理してくれます。しかし、11個の文字列が格納された「ref_4」という列を渡すと、何も返してきません。信号が弱くなるどころか、まったく何もありません。これらの値は設計上不透明であり、列名も&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: llms got good at text and stayed bad at tables. i don't think &quot;less training data&quot; is the reason&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wj2jub/llms_got_good_at_text_and_stayed_bad_at_tables_i/</guid>
-      <pubDate>Thu, 17 Sep 2026 18:45:22 GMT</pubDate>
+      <title>[r/artificial] 小型のAIモデルにより、ドローンは戦場の標的を自律的に識別し、攻撃することが可能になる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wjkndn/small_ai_models_let_drones_autonomously_identify/</link>
+      <description>&lt;p&gt;&lt;strong&gt;小型のAIモデルにより、ドローンは戦場の標的を自律的に識別し、攻撃することが可能になる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/NISMO1968   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Small AI models let drones autonomously identify and attack battlefield targets&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wjkndn/small_ai_models_let_drones_autonomously_identify/</guid>
+      <pubDate>Fri, 18 Sep 2026 08:41:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Digital Minds News：J-Spaceをめぐる議論、エージェント・スウォーム、そしてフロンティアAIの進展</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wjvufp/digital_minds_news_the_jspace_debate_agent_swarms/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Digital Minds News：J-Spaceをめぐる議論、エージェント・スウォーム、そしてフロンティアAIの進展&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/willm8032   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Digital Minds News: The J-Space Debate, Agent Swarms, and Pacing Frontier AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wjvufp/digital_minds_news_the_jspace_debate_agent_swarms/</guid>
+      <pubDate>Fri, 18 Sep 2026 17:00:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] OpenAIの画期的な成果が、数学界に「存亡の危機」を引き起こす</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wk0xx0/openai_breakthrough_triggers_existential_crisis/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIの画期的な成果が、数学界に「存亡の危機」を引き起こす&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Fcking_Chuck   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI breakthrough triggers ‘existential crisis’ in math&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wk0xx0/openai_breakthrough_triggers_existential_crisis/</guid>
+      <pubDate>Fri, 18 Sep 2026 20:08:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
