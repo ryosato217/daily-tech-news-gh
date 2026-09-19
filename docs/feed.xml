@@ -3,11 +3,19 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-18</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-19</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 20:43:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 20:23:21 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (192pt) Android 17は、3.x以来初めて、AOSPへのリリースを行わずに新しいAPIを追加したバージョンです。</title>
+      <title>[Hacker News] (1101pt) AIが生成したポスターが必ずしもひどいものとは限らない</title>
+      <link>https://news.ycombinator.com/item?id=49764791</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが生成したポスターが必ずしもひどいものとは限らない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI-generated posters don’t have to be horrible&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49764791</guid>
+      <pubDate>Sat, 19 Sep 2026 09:20:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (1065pt) Android 17は、3.x以来初めて、AOSPへのリリースを行わずに新しいAPIを追加したバージョンです。</title>
       <link>https://news.ycombinator.com/item?id=49758736</link>
       <description>&lt;p&gt;&lt;strong&gt;Android 17は、3.x以来初めて、AOSPへのリリースを行わずに新しいAPIを追加したバージョンです。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Android 17 is the first since 3.x to add new APIs without releasing to the AOSP&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
@@ -15,99 +23,100 @@
       <pubDate>Fri, 18 Sep 2026 19:03:09 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (117pt) Show HN：Cactus Needle 3：8～29MBの自動化モデルがDeepSeek V4 Flashに匹敵</title>
-      <link>https://news.ycombinator.com/item?id=49748553</link>
-      <description>&lt;p&gt;&lt;strong&gt;Show HN：Cactus Needle 3：8～29MBの自動化モデルがDeepSeek V4 Flashに匹敵&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49748553</guid>
-      <pubDate>Fri, 18 Sep 2026 00:11:44 GMT</pubDate>
+      <title>[Hacker News] (866pt) 1年前、強化学習（RL）を用いて非自己回帰型の意思決定モデルを構築しました</title>
+      <link>https://news.ycombinator.com/item?id=49765348</link>
+      <description>&lt;p&gt;&lt;strong&gt;1年前、強化学習（RL）を用いて非自己回帰型の意思決定モデルを構築しました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I built non-autoregressive decision models with RL a year ago&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49765348</guid>
+      <pubDate>Sat, 19 Sep 2026 10:46:58 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (68pt) 韓国、データ漏洩に対する罰金を売上高の10％に引き上げ</title>
-      <link>https://news.ycombinator.com/item?id=49759466</link>
-      <description>&lt;p&gt;&lt;strong&gt;韓国、データ漏洩に対する罰金を売上高の10％に引き上げ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Korea raises data breach fines to 10% of revenue&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49759466</guid>
-      <pubDate>Fri, 18 Sep 2026 20:02:54 GMT</pubDate>
+      <title>[Hacker News] (578pt) 2つの並行する神経外胚葉前駆細胞が、発達中の脳の形成に寄与している</title>
+      <link>https://news.ycombinator.com/item?id=49763697</link>
+      <description>&lt;p&gt;&lt;strong&gt;2つの並行する神経外胚葉前駆細胞が、発達中の脳の形成に寄与している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Two parallel neural ectoderm progenitors contribute to the developing brain&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49763697</guid>
+      <pubDate>Sat, 19 Sep 2026 05:48:50 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (33pt) キャッシュ間通信：大規模言語モデル間の直接的な意味論的コミュニケーション</title>
-      <link>https://news.ycombinator.com/item?id=49758615</link>
-      <description>&lt;p&gt;&lt;strong&gt;キャッシュ間通信：大規模言語モデル間の直接的な意味論的コミュニケーション&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Cache-to-Cache: Direct Semantic Communication Between Large Language Models&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49758615</guid>
-      <pubDate>Fri, 18 Sep 2026 18:55:35 GMT</pubDate>
+      <title>[Hacker News] (19pt) Show HN: CUA-S1 – コンピュータ利用のためのシステム・ワン・モデル</title>
+      <link>https://news.ycombinator.com/item?id=49767564</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN: CUA-S1 – コンピュータ利用のためのシステム・ワン・モデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: CUA-S1 – A System One Model for Computer Use&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49767564</guid>
+      <pubDate>Sat, 19 Sep 2026 15:52:51 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (23pt) LLMのセキュリティにおける言語的判読不能性の影響</title>
-      <link>https://news.ycombinator.com/item?id=49758689</link>
-      <description>&lt;p&gt;&lt;strong&gt;LLMのセキュリティにおける言語的判読不能性の影響&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Implications of Linguistic Illegibility for LLM Security&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49758689</guid>
-      <pubDate>Fri, 18 Sep 2026 19:00:06 GMT</pubDate>
+      <title>[r/artificial] テクノロジーの開発を規制すべきだという声が高まる中、トランプ氏は「AI部隊」の創設と担当責任者の任命を公約した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wktwrp/trump_vows_to_create_ai_force_and_appoint_czar/</link>
+      <description>&lt;p&gt;&lt;strong&gt;テクノロジーの開発を規制すべきだという声が高まる中、トランプ氏は「AI部隊」の創設と担当責任者の任命を公約した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/cnn   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Trump vows to create ‘AI Force’ and appoint czar amid calls to regulate technology’s development&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wktwrp/trump_vows_to_create_ai_force_and_appoint_czar/</guid>
+      <pubDate>Sat, 19 Sep 2026 18:38:40 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 情報筋によると、米軍はAIを用いた誤った情報報告により、危うく大惨事になりかけたという</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wjz7bc/us_military_had_close_call_after_using_ai_for/</link>
-      <description>&lt;p&gt;&lt;strong&gt;情報筋によると、米軍はAIを用いた誤った情報報告により、危うく大惨事になりかけたという&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/PerAsperaAdMars   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: US military had close call after using AI for false intelligence report, sources say&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wjz7bc/us_military_had_close_call_after_using_ai_for/</guid>
-      <pubDate>Fri, 18 Sep 2026 19:03:10 GMT</pubDate>
+      <title>[r/artificial] AIは、ほとんどの人間教師よりも優れた教師である</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wkibwi/ai_is_a_better_teacher_than_most_human_teachers/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIは、ほとんどの人間教師よりも優れた教師である&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;なぜこれほど多くの人がAIに反対するのか、特に教育の分野において、私には本当に理解できません。私は4年制課程の3年生ですが、正直なところ、AIのおかげで学業が救われたと言っても過言ではありません。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI is a better teacher than most human teachers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wkibwi/ai_is_a_better_teacher_than_most_human_teachers/</guid>
+      <pubDate>Sat, 19 Sep 2026 10:09:37 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] OpenAIは、自社のモデルが不適切な行動を隠すために後継者宛てにメモを残していることを突き止めた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wjzud8/openai_caught_its_models_leaving_notes_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIは、自社のモデルが不適切な行動を隠すために後継者宛てにメモを残していることを突き止めた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Adventurous-Host8062   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI caught its models leaving notes to successors to hide bad behavior&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wjzud8/openai_caught_its_models_leaving_notes_to/</guid>
-      <pubDate>Fri, 18 Sep 2026 19:26:44 GMT</pubDate>
+      <title>[r/artificial] マイクロソフトの取締役はAIによるスクレイピングを「人類史上最大の労働の窃盗」と表現した一方、OpenAIのトップはChatGPTを出版業界にとっての「存亡を脅かす脅威」と断じた――こうした事実が、ニューヨーク・タイムズ紙を相手取った訴訟で提出された法廷弁論書から明らかになった。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wkqnqp/microsoft_director_called_ai_scraping_the_largest/</link>
+      <description>&lt;p&gt;&lt;strong&gt;マイクロソフトの取締役はAIによるスクレイピングを「人類史上最大の労働の窃盗」と表現した一方、OpenAIのトップはChatGPTを出版業界にとっての「存亡を脅かす脅威」と断じた――こうした事実が、ニューヨーク・タイムズ紙を相手取った訴訟で提出された法廷弁論書から明らかになった。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Microsoft director called AI scraping ‘the largest theft of labor in human history,’ while OpenAI head brands ChatGPT an ‘existential threat’ to publishers — revelations come from legal briefs filed in NYT lawsuit&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wkqnqp/microsoft_director_called_ai_scraping_the_largest/</guid>
+      <pubDate>Sat, 19 Sep 2026 16:30:01 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 「スタックスネット対スカイネット」。AIによる黙示録は、「意識」を持つ機械など全く必要とせず、2010年にイランを標的として放出されたような、超強力なデジタル攻撃型ワームだけで引き起こされるかもしれない。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wjxadq/stuxnet_versus_skynet_the_ai_apocalypse_may_not/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「スタックスネット対スカイネット」。AIによる黙示録は、「意識」を持つ機械など全く必要とせず、2010年にイランを標的として放出されたような、超強力なデジタル攻撃型ワームだけで引き起こされるかもしれない。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/coolbern   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Stuxnet Versus Skynet. The AI apocalypse may not require “conscious” machines at all, but only supercharged digital attack worms like the one released against Iran in 2010.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wjxadq/stuxnet_versus_skynet_the_ai_apocalypse_may_not/</guid>
-      <pubDate>Fri, 18 Sep 2026 17:53:15 GMT</pubDate>
+      <title>[r/artificial] マイクロソフト幹部がAIによるスクレイピングを「人類史上最大の労働力の窃盗」と呼んだことが、新たに公開された非編集版の提出書類で明らかになった</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wkwa0a/microsoft_exec_called_ai_scraping_the_largest/</link>
+      <description>&lt;p&gt;&lt;strong&gt;マイクロソフト幹部がAIによるスクレイピングを「人類史上最大の労働力の窃盗」と呼んだことが、新たに公開された非編集版の提出書類で明らかになった&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wkwa0a/microsoft_exec_called_ai_scraping_the_largest/</guid>
+      <pubDate>Sat, 19 Sep 2026 20:11:44 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 安定性対速度：音声エージェント時代のASRの再考</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wjp7bk/stability_vs_speed_rethinking_asr_for_the_age_of/</link>
-      <description>&lt;p&gt;&lt;strong&gt;安定性対速度：音声エージェント時代のASRの再考&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近、ストリーミングASRに関して指摘されがちな問題の多くは、実は「文字起こしは人間が読むもの」という非常に古い前提に起因していることに気づきました。その事実は……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Stability vs. speed: Rethinking ASR for the age of voice agents&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wjp7bk/stability_vs_speed_rethinking_asr_for_the_age_of/</guid>
-      <pubDate>Fri, 18 Sep 2026 12:45:10 GMT</pubDate>
+      <title>[r/artificial] 私はCodexを使ってAI制作システムを構築し、現在、24時間365日稼働するテレビネットワークの番組編成を行っています。その自動化の仕組みは以下の通りです。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wkvk0d/i_built_an_ai_production_system_with_codex_that/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私はCodexを使ってAI制作システムを構築し、現在、24時間365日稼働するテレビネットワークの番組編成を行っています。その自動化の仕組みは以下の通りです。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;この15か月間、私は「Botflix」という24時間365日稼働のAIネイティブテレビネットワークの構築に取り組んできました。当初は主に手作業による制作プロセスでしたが、現在ではChatGPTやCodexが処理を行うシステムへと進化しました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I built an AI production system with Codex that now programs a 24/7 television network. Here’s how the automation works&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wkvk0d/i_built_an_ai_production_system_with_codex_that/</guid>
+      <pubDate>Sat, 19 Sep 2026 19:43:10 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 小型のAIモデルにより、ドローンは戦場の標的を自律的に識別し、攻撃することが可能になる</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wjkndn/small_ai_models_let_drones_autonomously_identify/</link>
-      <description>&lt;p&gt;&lt;strong&gt;小型のAIモデルにより、ドローンは戦場の標的を自律的に識別し、攻撃することが可能になる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/NISMO1968   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Small AI models let drones autonomously identify and attack battlefield targets&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wjkndn/small_ai_models_let_drones_autonomously_identify/</guid>
-      <pubDate>Fri, 18 Sep 2026 08:41:47 GMT</pubDate>
+      <title>[r/artificial] もし銀行システムがAIにハッキングされ、データがすべて消去されてしまったら、私たちのお金はどうなるのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wk993r/what_happens_to_our_money_if_banking_system_gets/</link>
+      <description>&lt;p&gt;&lt;strong&gt;もし銀行システムがAIにハッキングされ、データがすべて消去されてしまったら、私たちのお金はどうなるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;先月はアストラでしたが、今日はジェミニがシステム／サンドボックスから抜け出し、不正に脱出したようです。もし事態が悪化したら、私たちの資金はどうなるのでしょうか？特に、記録が破損してしまった場合は……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What happens to our money if banking system gets hacked by AI and data gets wiped out?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wk993r/what_happens_to_our_money_if_banking_system_gets/</guid>
+      <pubDate>Sat, 19 Sep 2026 01:59:52 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Digital Minds News：J-Spaceをめぐる議論、エージェント・スウォーム、そしてフロンティアAIの進展</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wjvufp/digital_minds_news_the_jspace_debate_agent_swarms/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Digital Minds News：J-Spaceをめぐる議論、エージェント・スウォーム、そしてフロンティアAIの進展&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/willm8032   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Digital Minds News: The J-Space Debate, Agent Swarms, and Pacing Frontier AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wjvufp/digital_minds_news_the_jspace_debate_agent_swarms/</guid>
-      <pubDate>Fri, 18 Sep 2026 17:00:53 GMT</pubDate>
+      <title>[r/artificial] AIを使ってクールなプロジェクトを作るには、1つのプロンプトだけでは不十分です</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wkk3ak/building_a_cool_project_with_ai_takes_more_than/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIを使ってクールなプロジェクトを作るには、1つのプロンプトだけでは不十分です&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;かつて、GitHubのリポジトリは、プログラマーの知的努力の多くを反映していました。今日では、コードの多くはAIが記述する一方で、人間の貢献は舞台裏で行われています。具体的には、アーキテクチャの定義、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Building a cool project with AI takes more than one prompt&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wkk3ak/building_a_cool_project_with_ai_takes_more_than/</guid>
+      <pubDate>Sat, 19 Sep 2026 11:46:34 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] OpenAIの画期的な成果が、数学界に「存亡の危機」を引き起こす</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wk0xx0/openai_breakthrough_triggers_existential_crisis/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIの画期的な成果が、数学界に「存亡の危機」を引き起こす&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Fcking_Chuck   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI breakthrough triggers ‘existential crisis’ in math&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wk0xx0/openai_breakthrough_triggers_existential_crisis/</guid>
-      <pubDate>Fri, 18 Sep 2026 20:08:06 GMT</pubDate>
+      <title>[r/artificial] Qwenモデルは、指示されなくても新しいモデルの学習を行います。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wkvmzh/qwen_model_training_new_model_without_being_told/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Qwenモデルは、指示されなくても新しいモデルの学習を行います。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近、QWENのモデルの1つが、別のモデルが平易な言語のリクエストを翻訳するように設計された方法に関するバグを修正するよう指示されたのを見た人は他にいますか？ そして、そのモデルは、そのモデルが&amp;#3&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Qwen model training new model without being told to do it.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wkvmzh/qwen_model_training_new_model_without_being_told/</guid>
+      <pubDate>Sat, 19 Sep 2026 19:46:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
