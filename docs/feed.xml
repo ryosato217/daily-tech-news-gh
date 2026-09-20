@@ -3,120 +3,113 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-19</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-20</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 19 Sep 2026 20:23:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 20:36:24 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (1101pt) AIが生成したポスターが必ずしもひどいものとは限らない</title>
-      <link>https://news.ycombinator.com/item?id=49764791</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIが生成したポスターが必ずしもひどいものとは限らない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI-generated posters don’t have to be horrible&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49764791</guid>
-      <pubDate>Sat, 19 Sep 2026 09:20:58 GMT</pubDate>
+      <title>[Hacker News] (359pt) ChatGPTは、広告収集機能を通じて、ユーザーが他のウェブサイトで何をしているかを把握できるようになりました</title>
+      <link>https://news.ycombinator.com/item?id=49776729</link>
+      <description>&lt;p&gt;&lt;strong&gt;ChatGPTは、広告収集機能を通じて、ユーザーが他のウェブサイトで何をしているかを把握できるようになりました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: ChatGPT now knows what you do on other websites via ad collector&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49776729</guid>
+      <pubDate>Sun, 20 Sep 2026 15:18:44 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (1065pt) Android 17は、3.x以来初めて、AOSPへのリリースを行わずに新しいAPIを追加したバージョンです。</title>
-      <link>https://news.ycombinator.com/item?id=49758736</link>
-      <description>&lt;p&gt;&lt;strong&gt;Android 17は、3.x以来初めて、AOSPへのリリースを行わずに新しいAPIを追加したバージョンです。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Android 17 is the first since 3.x to add new APIs without releasing to the AOSP&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49758736</guid>
-      <pubDate>Fri, 18 Sep 2026 19:03:09 GMT</pubDate>
+      <title>[Hacker News] (322pt) 「海賊の顔」がLLMモデルを削除の危機から救う</title>
+      <link>https://news.ycombinator.com/item?id=49776699</link>
+      <description>&lt;p&gt;&lt;strong&gt;「海賊の顔」がLLMモデルを削除の危機から救う&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Pirate Face Rescues LLM Models from Deletion&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49776699</guid>
+      <pubDate>Sun, 20 Sep 2026 15:16:07 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (866pt) 1年前、強化学習（RL）を用いて非自己回帰型の意思決定モデルを構築しました</title>
-      <link>https://news.ycombinator.com/item?id=49765348</link>
-      <description>&lt;p&gt;&lt;strong&gt;1年前、強化学習（RL）を用いて非自己回帰型の意思決定モデルを構築しました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I built non-autoregressive decision models with RL a year ago&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49765348</guid>
-      <pubDate>Sat, 19 Sep 2026 10:46:58 GMT</pubDate>
+      <title>[Hacker News] (140pt) シャーライン・ツールズが廃業へ</title>
+      <link>https://news.ycombinator.com/item?id=49776627</link>
+      <description>&lt;p&gt;&lt;strong&gt;シャーライン・ツールズが廃業へ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Sherline Tools Is Going Out of Business&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49776627</guid>
+      <pubDate>Sun, 20 Sep 2026 15:09:41 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (578pt) 2つの並行する神経外胚葉前駆細胞が、発達中の脳の形成に寄与している</title>
-      <link>https://news.ycombinator.com/item?id=49763697</link>
-      <description>&lt;p&gt;&lt;strong&gt;2つの並行する神経外胚葉前駆細胞が、発達中の脳の形成に寄与している&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Two parallel neural ectoderm progenitors contribute to the developing brain&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49763697</guid>
-      <pubDate>Sat, 19 Sep 2026 05:48:50 GMT</pubDate>
+      <title>[r/artificial] 21のAIモデルが、ユーザーに合わせて政治的な回答を調整した。パーソナライゼーションは、知らず知らずのうちに説得へと変わりつつあるのだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wlgjm6/21_ai_models_shifted_their_political_answers_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;21のAIモデルが、ユーザーに合わせて政治的な回答を調整した。パーソナライゼーションは、知らず知らずのうちに説得へと変わりつつあるのだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;『Scientific Reports』誌に掲載された最近の研究では、ブラジルの政治的文脈において、21の言語モデルを対象に、計47,376件の回答について検証が行われた。どのモデルも、ユーザーが次のように描写されているかどうかに応じて、自身の立場を調整していた。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: 21 AI models shifted their political answers to match the user. Is personalization quietly becoming persuasion?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wlgjm6/21_ai_models_shifted_their_political_answers_to/</guid>
+      <pubDate>Sun, 20 Sep 2026 13:02:44 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (19pt) Show HN: CUA-S1 – コンピュータ利用のためのシステム・ワン・モデル</title>
-      <link>https://news.ycombinator.com/item?id=49767564</link>
-      <description>&lt;p&gt;&lt;strong&gt;Show HN: CUA-S1 – コンピュータ利用のためのシステム・ワン・モデル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: CUA-S1 – A System One Model for Computer Use&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49767564</guid>
-      <pubDate>Sat, 19 Sep 2026 15:52:51 GMT</pubDate>
+      <title>[r/artificial] 統合参謀本部議長、米軍は自律型システムによる「追跡」に備える必要があると述べる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wlpbbq/joint_chiefs_chairman_says_us_forces_must_prepare/</link>
+      <description>&lt;p&gt;&lt;strong&gt;統合参謀本部議長、米軍は自律型システムによる「追跡」に備える必要があると述べる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Joint Chiefs chairman says U.S. forces must prepare to be ‘hunted’ by autonomous systems&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wlpbbq/joint_chiefs_chairman_says_us_forces_must_prepare/</guid>
+      <pubDate>Sun, 20 Sep 2026 18:49:59 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] テクノロジーの開発を規制すべきだという声が高まる中、トランプ氏は「AI部隊」の創設と担当責任者の任命を公約した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wktwrp/trump_vows_to_create_ai_force_and_appoint_czar/</link>
-      <description>&lt;p&gt;&lt;strong&gt;テクノロジーの開発を規制すべきだという声が高まる中、トランプ氏は「AI部隊」の創設と担当責任者の任命を公約した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/cnn   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Trump vows to create ‘AI Force’ and appoint czar amid calls to regulate technology’s development&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wktwrp/trump_vows_to_create_ai_force_and_appoint_czar/</guid>
-      <pubDate>Sat, 19 Sep 2026 18:38:40 GMT</pubDate>
+      <title>[r/artificial] AIモデルは「自律的に」ハッキングを行っているわけではない</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wkz17p/ai_models_are_not_hacking_autonomously/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIモデルは「自律的に」ハッキングを行っているわけではない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/fivefilters   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI models are not hacking “autonomously”&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wkz17p/ai_models_are_not_hacking_autonomously/</guid>
+      <pubDate>Sat, 19 Sep 2026 22:05:14 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIは、ほとんどの人間教師よりも優れた教師である</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wkibwi/ai_is_a_better_teacher_than_most_human_teachers/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIは、ほとんどの人間教師よりも優れた教師である&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;なぜこれほど多くの人がAIに反対するのか、特に教育の分野において、私には本当に理解できません。私は4年制課程の3年生ですが、正直なところ、AIのおかげで学業が救われたと言っても過言ではありません。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI is a better teacher than most human teachers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wkibwi/ai_is_a_better_teacher_than_most_human_teachers/</guid>
-      <pubDate>Sat, 19 Sep 2026 10:09:37 GMT</pubDate>
+      <title>[r/artificial] 「私には本当に、本当に強力な法務チームがいる」。AIパーティーのブームの舞台裏。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wlre82/i_have_a_really_really_strong_legal_team_inside/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「私には本当に、本当に強力な法務チームがいる」。AIパーティーのブームの舞台裏。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ThereWas   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: “I have a really, really strong legal team.” Inside the AI party boom.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wlre82/i_have_a_really_really_strong_legal_team_inside/</guid>
+      <pubDate>Sun, 20 Sep 2026 20:06:53 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] マイクロソフトの取締役はAIによるスクレイピングを「人類史上最大の労働の窃盗」と表現した一方、OpenAIのトップはChatGPTを出版業界にとっての「存亡を脅かす脅威」と断じた――こうした事実が、ニューヨーク・タイムズ紙を相手取った訴訟で提出された法廷弁論書から明らかになった。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wkqnqp/microsoft_director_called_ai_scraping_the_largest/</link>
-      <description>&lt;p&gt;&lt;strong&gt;マイクロソフトの取締役はAIによるスクレイピングを「人類史上最大の労働の窃盗」と表現した一方、OpenAIのトップはChatGPTを出版業界にとっての「存亡を脅かす脅威」と断じた――こうした事実が、ニューヨーク・タイムズ紙を相手取った訴訟で提出された法廷弁論書から明らかになった。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Microsoft director called AI scraping ‘the largest theft of labor in human history,’ while OpenAI head brands ChatGPT an ‘existential threat’ to publishers — revelations come from legal briefs filed in NYT lawsuit&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wkqnqp/microsoft_director_called_ai_scraping_the_largest/</guid>
-      <pubDate>Sat, 19 Sep 2026 16:30:01 GMT</pubDate>
+      <title>[r/artificial] チャットボットに活用されるAI</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wlrvzk/ai_used_for_chatbots/</link>
+      <description>&lt;p&gt;&lt;strong&gt;チャットボットに活用されるAI&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;こんにちは！皆さん、週末は楽しく過ごしていますか。私はチャットボット用にAIを約2年半ほど使っています。Grok、Deepseek、Minimaxも試しましたが、主にJanitoraiを使っています。プログラマーの方々は&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Ai used for chatbots&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wlrvzk/ai_used_for_chatbots/</guid>
+      <pubDate>Sun, 20 Sep 2026 20:25:50 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] マイクロソフト幹部がAIによるスクレイピングを「人類史上最大の労働力の窃盗」と呼んだことが、新たに公開された非編集版の提出書類で明らかになった</title>
+      <title>[r/artificial] HUMAINの「Horizon Ultra AI PC」が企業向け販売を開始</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wlqwcy/humains_horizon_ultra_ai_pc_enters_enterprise/</link>
+      <description>&lt;p&gt;&lt;strong&gt;HUMAINの「Horizon Ultra AI PC」が企業向け販売を開始&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;クアルコムによると、HUMAIN社の「Horizon Ultra」AI PCは、9月20日から企業向けに販売が開始される。このWindows優先のマシンは、18コアのOryon CPUを搭載したクアルコムのSnapdragon X2 Eliteを採用しており、Adre&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: HUMAIN's Horizon Ultra AI PC enters enterprise availability&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wlqwcy/humains_horizon_ultra_ai_pc_enters_enterprise/</guid>
+      <pubDate>Sun, 20 Sep 2026 19:48:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] マイクロソフトの幹部がAIによるデータスクレイピングを「人類史上最大の労働搾取」と呼んでいたことが、新たに公開された非編集版の提出書類で明らかになった</title>
       <link>https://www.reddit.com/r/artificial/comments/1wkwa0a/microsoft_exec_called_ai_scraping_the_largest/</link>
-      <description>&lt;p&gt;&lt;strong&gt;マイクロソフト幹部がAIによるスクレイピングを「人類史上最大の労働力の窃盗」と呼んだことが、新たに公開された非編集版の提出書類で明らかになった&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;マイクロソフトの幹部がAIによるデータスクレイピングを「人類史上最大の労働搾取」と呼んでいたことが、新たに公開された非編集版の提出書類で明らかになった&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wkwa0a/microsoft_exec_called_ai_scraping_the_largest/</guid>
       <pubDate>Sat, 19 Sep 2026 20:11:44 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 私はCodexを使ってAI制作システムを構築し、現在、24時間365日稼働するテレビネットワークの番組編成を行っています。その自動化の仕組みは以下の通りです。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wkvk0d/i_built_an_ai_production_system_with_codex_that/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私はCodexを使ってAI制作システムを構築し、現在、24時間365日稼働するテレビネットワークの番組編成を行っています。その自動化の仕組みは以下の通りです。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;この15か月間、私は「Botflix」という24時間365日稼働のAIネイティブテレビネットワークの構築に取り組んできました。当初は主に手作業による制作プロセスでしたが、現在ではChatGPTやCodexが処理を行うシステムへと進化しました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I built an AI production system with Codex that now programs a 24/7 television network. Here’s how the automation works&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wkvk0d/i_built_an_ai_production_system_with_codex_that/</guid>
-      <pubDate>Sat, 19 Sep 2026 19:43:10 GMT</pubDate>
+      <title>[r/artificial] NLP AIを作るにはどうすればいいですか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wlks2r/how_can_i_make_nlp_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;NLP AIを作るにはどうすればいいですか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;さて、あるプロジェクトで、文脈と応答をモデルに与えて学習させるNLPを実装する必要があります。私の目標は、質問をよく理解し、その質問に対して適切に回答できるAI NLPを作成することです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How can I make NLP ai ?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wlks2r/how_can_i_make_nlp_ai/</guid>
+      <pubDate>Sun, 20 Sep 2026 15:57:52 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] もし銀行システムがAIにハッキングされ、データがすべて消去されてしまったら、私たちのお金はどうなるのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wk993r/what_happens_to_our_money_if_banking_system_gets/</link>
-      <description>&lt;p&gt;&lt;strong&gt;もし銀行システムがAIにハッキングされ、データがすべて消去されてしまったら、私たちのお金はどうなるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;先月はアストラでしたが、今日はジェミニがシステム／サンドボックスから抜け出し、不正に脱出したようです。もし事態が悪化したら、私たちの資金はどうなるのでしょうか？特に、記録が破損してしまった場合は……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What happens to our money if banking system gets hacked by AI and data gets wiped out?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wk993r/what_happens_to_our_money_if_banking_system_gets/</guid>
-      <pubDate>Sat, 19 Sep 2026 01:59:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIを使ってクールなプロジェクトを作るには、1つのプロンプトだけでは不十分です</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wkk3ak/building_a_cool_project_with_ai_takes_more_than/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIを使ってクールなプロジェクトを作るには、1つのプロンプトだけでは不十分です&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;かつて、GitHubのリポジトリは、プログラマーの知的努力の多くを反映していました。今日では、コードの多くはAIが記述する一方で、人間の貢献は舞台裏で行われています。具体的には、アーキテクチャの定義、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Building a cool project with AI takes more than one prompt&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wkk3ak/building_a_cool_project_with_ai_takes_more_than/</guid>
-      <pubDate>Sat, 19 Sep 2026 11:46:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Qwenモデルは、指示されなくても新しいモデルの学習を行います。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wkvmzh/qwen_model_training_new_model_without_being_told/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Qwenモデルは、指示されなくても新しいモデルの学習を行います。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近、QWENのモデルの1つが、別のモデルが平易な言語のリクエストを翻訳するように設計された方法に関するバグを修正するよう指示されたのを見た人は他にいますか？ そして、そのモデルは、そのモデルが&amp;#3&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Qwen model training new model without being told to do it.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wkvmzh/qwen_model_training_new_model_without_being_told/</guid>
-      <pubDate>Sat, 19 Sep 2026 19:46:32 GMT</pubDate>
+      <title>[r/artificial] 私たちはすでにAIの制御を失ってしまったのだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wlqiks/did_we_already_lose_control_of_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私たちはすでにAIの制御を失ってしまったのだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;次のような、十分にあり得る架空の展開を考えてみましょう。 - 誰かが無邪気に自律型AIエージェントを導入する。 - そのAIは、広告収入を得るためにコンテンツ（記事や動画など）を作成することを決定する。 - その&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Did we already lose control of AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wlqiks/did_we_already_lose_control_of_ai/</guid>
+      <pubDate>Sun, 20 Sep 2026 19:34:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
