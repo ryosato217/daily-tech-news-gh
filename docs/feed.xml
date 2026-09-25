@@ -3,113 +3,104 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-24</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-25</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Sep 2026 21:22:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:22:43 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (161pt) Rails World 2026 オープニング・キーノート [動画]</title>
-      <link>https://news.ycombinator.com/item?id=49817680</link>
-      <description>&lt;p&gt;&lt;strong&gt;Rails World 2026 オープニング・キーノート [動画]&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Rails World 2026 Opening Keynote [video]&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49817680</guid>
-      <pubDate>Wed, 23 Sep 2026 15:33:33 GMT</pubDate>
+      <title>[Hacker News] (308pt) 米連邦控訴裁判所、Anthropicをサプライチェーン上のリスクとして指定した判断を支持</title>
+      <link>https://news.ycombinator.com/item?id=49845977</link>
+      <description>&lt;p&gt;&lt;strong&gt;米連邦控訴裁判所、Anthropicをサプライチェーン上のリスクとして指定した判断を支持&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: U.S. appeals court upholds designation of Anthropic as supply chain risk&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49845977</guid>
+      <pubDate>Fri, 25 Sep 2026 15:29:25 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (32pt) LLMを活用して錬金術の知識を辿り、17世紀の手紙を解読する</title>
-      <link>https://news.ycombinator.com/item?id=49835531</link>
-      <description>&lt;p&gt;&lt;strong&gt;LLMを活用して錬金術の知識を辿り、17世紀の手紙を解読する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Using LLMs to trace alchemical knowledge and decode 17th century letters&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49835531</guid>
-      <pubDate>Thu, 24 Sep 2026 19:14:27 GMT</pubDate>
+      <title>[Hacker News] (197pt) Ollaya – オープンソースのJevスタイル意思決定モデル向けOllama</title>
+      <link>https://news.ycombinator.com/item?id=49848269</link>
+      <description>&lt;p&gt;&lt;strong&gt;Ollaya – オープンソースのJevスタイル意思決定モデル向けOllama&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Ollaya – Ollama for open-source, Jev-style decision models&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49848269</guid>
+      <pubDate>Fri, 25 Sep 2026 18:33:50 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (19pt) Opus 5.5は解説動画の制作に優れています</title>
-      <link>https://news.ycombinator.com/item?id=49836374</link>
-      <description>&lt;p&gt;&lt;strong&gt;Opus 5.5は解説動画の制作に優れています&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Opus 5.5 is good at explainer videos&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49836374</guid>
-      <pubDate>Thu, 24 Sep 2026 20:28:47 GMT</pubDate>
+      <title>[Hacker News] (18pt) AIすぎ；読んでない</title>
+      <link>https://news.ycombinator.com/item?id=49849625</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIすぎ；読んでない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Too AI; Didn't Read&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49849625</guid>
+      <pubDate>Fri, 25 Sep 2026 20:37:56 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] マーク・ザッカーバーグ氏、業界全体でのAI開発の減速を求める声に反対</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wp6yvb/mark_zuckerberg_rejects_calls_for_industrywide_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;マーク・ザッカーバーグ氏、業界全体でのAI開発の減速を求める声に反対&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Mark Zuckerberg rejects calls for industrywide AI slowdown&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wp6yvb/mark_zuckerberg_rejects_calls_for_industrywide_ai/</guid>
-      <pubDate>Thu, 24 Sep 2026 16:52:17 GMT</pubDate>
+      <title>[r/artificial] なぜAI企業は今になって不安を感じ始めたのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wpr1uk/why_have_ai_companies_started_getting_scared_now/</link>
+      <description>&lt;p&gt;&lt;strong&gt;なぜAI企業は今になって不安を感じ始めたのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI企業が、AIが世界を支配するといった懸念や警告を今になって人類に向けて大声で叫んでいるのが理解できない。だって、AIを作り出したのは彼ら自身なんだから。私が馬鹿なだけなのかもしれないけど……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Why have AI companies started getting scared now?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wpr1uk/why_have_ai_companies_started_getting_scared_now/</guid>
+      <pubDate>Fri, 25 Sep 2026 08:41:20 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 私の婚約者は、AIが今後数年のうちに壊滅的な事態や絶滅級の事態を引き起こす可能性が高いと確信しています。彼の懸念はどれほど根拠があるのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wosn95/my_fiance_is_convinced_ai_will_likely_cause_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私の婚約者は、AIが今後数年のうちに壊滅的な事態や絶滅級の事態を引き起こす可能性が高いと確信しています。彼の懸念はどれほど根拠があるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;タイトルにもある通りです。私の婚約者は私よりもはるかに学識が豊富ですが、テクノロジー業界ではなく、映画業界で働いています。ここ2週間のニュースのせいで、彼はかなり不安になっていて……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: My Fiance is Convinced AI will likely cause a Catastrophic or Extinction-Type Event in the Next Few Years - How Justified Are His Fears?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wosn95/my_fiance_is_convinced_ai_will_likely_cause_a/</guid>
-      <pubDate>Thu, 24 Sep 2026 05:03:36 GMT</pubDate>
+      <title>[r/artificial] ついに「Ai」の良さが私にも腑に落ちた</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wq70zo/ai_finally_clicked_for_me/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ついに「Ai」の良さが私にも腑に落ちた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#x200B; ここしばらく、gpt、claude、そしてClaude Codeをいじり続けてきたんですが、ようやく自分がどこを間違えていたのか分かった気がします。プロンプトだけにばかり気を取られすぎていたんです。何かを尋ねてみたり……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Ai FINALLY clicked for me&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wq70zo/ai_finally_clicked_for_me/</guid>
+      <pubDate>Fri, 25 Sep 2026 20:29:36 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] メールのやり取りから、アマゾンが解雇した従業員の再雇用を試みていることが明らかになった</title>
-      <link>https://www.reddit.com/r/artificial/comments/1woxkmd/amazon_is_trying_to_rehire_workers_it_laid_off/</link>
-      <description>&lt;p&gt;&lt;strong&gt;メールのやり取りから、アマゾンが解雇した従業員の再雇用を試みていることが明らかになった&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/aspublic   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Amazon is trying to rehire workers it laid off, emails show&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1woxkmd/amazon_is_trying_to_rehire_workers_it_laid_off/</guid>
-      <pubDate>Thu, 24 Sep 2026 10:03:05 GMT</pubDate>
+      <title>[r/artificial] オラクルは2万1,000人の人員削減を行い、18億ドルの退職金を支払った一方で、AIインフラへの過去最高規模の投資を発表した。この人員削減はAIが原因ではない。むしろ、AIへの投資資金を確保するための措置なのだ。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wpnhzz/oracle_cut_21000_jobs_and_paid_18b_in_severance/</link>
+      <description>&lt;p&gt;&lt;strong&gt;オラクルは2万1,000人の人員削減を行い、18億ドルの退職金を支払った一方で、AIインフラへの過去最高規模の投資を発表した。この人員削減はAIが原因ではない。むしろ、AIへの投資資金を確保するための措置なのだ。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;オラクルの数字について、ずっと気になっていたことがあったのですが、ようやくその原因を突き止めた気がします。今年は2万1,000人の人員削減。18億ドルの退職金支出。さらに、11月13日には800人の削減が予定されているとのことです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Oracle cut 21,000 jobs and paid $1.8B in severance while announcing record AI infrastructure spending. The layoffs aren't because of AI. They're funding it.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wpnhzz/oracle_cut_21000_jobs_and_paid_18b_in_severance/</guid>
+      <pubDate>Fri, 25 Sep 2026 04:59:42 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 中国のAI研究所は、なぜこれほど低コストで競争力のあるモデルを公開できているのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wpaq16/how_are_chinese_ai_labs_releasing_competitive/</link>
-      <description>&lt;p&gt;&lt;strong&gt;中国のAI研究所は、なぜこれほど低コストで競争力のあるモデルを公開できているのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;一部の中国の研究所は、アメリカ製のモデルと競合するモデルを市場に送り出しているが、その費用は明らかにごくわずかしかかかっていないようだ。オープンソースの研究が一役買っていることは承知しているし、中には急速に開発を進めているところもある&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How are Chinese AI labs releasing competitive models so cheaply?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wpaq16/how_are_chinese_ai_labs_releasing_competitive/</guid>
-      <pubDate>Thu, 24 Sep 2026 19:12:27 GMT</pubDate>
+      <title>[r/artificial] AIを多用するユーザーは、プロンプト作成よりもルーティングに多くのリソースを浪費しているのではないかと思います</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wptoj3/i_think_heavy_ai_users_may_be_wasting_more/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIを多用するユーザーは、プロンプト作成よりもルーティングに多くのリソースを浪費しているのではないかと思います&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;実際の業務でマルチエージェントシステムを運用している中で、直感に反するある事実に気づきました。CodexやChatGPTを使った長いセッションを手動で行う際、私は通常、最初に大まかな判断を一つ下します。それは……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I think heavy AI users may be wasting more capacity on routing than on prompting&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wptoj3/i_think_heavy_ai_users_may_be_wasting_more/</guid>
+      <pubDate>Fri, 25 Sep 2026 11:19:40 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 新たな調査によると、AIハイパースケーラー各社は、2027年までに約1.1兆ドルに上るインフラ投資を正当化するためには、2030年までに生産性を2.7倍に高める必要があるかもしれない。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wowoyc/ai_hyperscalers_may_need_to_raise_productivity_27/</link>
-      <description>&lt;p&gt;&lt;strong&gt;新たな調査によると、AIハイパースケーラー各社は、2027年までに約1.1兆ドルに上るインフラ投資を正当化するためには、2030年までに生産性を2.7倍に高める必要があるかもしれない。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;『MIT Technology Review』は、ウォートン・スクールの金融学教授であるジェシカ・ワクター氏と共著者のジョナサン・ワクター氏による研究を取り上げた。両氏は、アルファベット、マイクロソフト、アマゾン、メタによる支出を基に推計を行い、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI hyperscalers may need to raise productivity 2.7 times by 2030 to justify nearly $1.1 trillion in infrastructure spending through 2027, according to new research.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wowoyc/ai_hyperscalers_may_need_to_raise_productivity_27/</guid>
-      <pubDate>Thu, 24 Sep 2026 09:07:48 GMT</pubDate>
+      <title>[r/artificial] AIのアラインメントは、私たちが今後直面することになる最も重要な課題です。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wq479x/ai_alignment_is_the_most_important_problem_we/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIのアラインメントは、私たちが今後直面することになる最も重要な課題です。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;長文になってしまい、あらかじめお詫び申し上げます。ただ、自分の考えを書き留めておきたかっただけです。AIのアラインメントは、私たちが現在直面している最も重要な課題です。AIのアラインメントを解決できれば、RSIに安全に参入でき、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI alignment is the most important problem we will ever have to face.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wq479x/ai_alignment_is_the_most_important_problem_we/</guid>
+      <pubDate>Fri, 25 Sep 2026 18:38:08 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 私は25年分の自分の文章を使ってAIを学習させ、「役に立つようなことはするな」と指示しました。その結果はこうなりました。</title>
+      <title>[r/artificial] 私は25年間にわたる自分の文章を使ってAIを学習させ、「役に立つようなことはするな」と指示しました。その結果はこうでした。</title>
       <link>https://www.reddit.com/r/artificial/comments/1wpcojb/i_trained_an_ai_on_25_years_of_my_own_writing_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私は25年分の自分の文章を使ってAIを学習させ、「役に立つようなことはするな」と指示しました。その結果はこうなりました。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;しばらく何かを作っていたんですが、ようやくシェアする価値のある成果ができました。1995年以降に書いたものをすべて集めてみました：ブログ記事、ジャーナリズム記事、メール、Redditのコメント、昔のTwitter、Instagramのキャプチャなど&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;私は25年間にわたる自分の文章を使ってAIを学習させ、「役に立つようなことはするな」と指示しました。その結果はこうでした。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;しばらく何かを作っていたのですが、ようやく共有する価値のある成果ができました。1995年以降に書いたものをすべて集めてみました：ブログ記事、記事、メール、Redditのコメント、昔のTwitter、Instagramのスクリーンショットなど&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: I trained an AI on 25 years of my own writing and told it not to be helpful. Here's what happened.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wpcojb/i_trained_an_ai_on_25_years_of_my_own_writing_and/</guid>
       <pubDate>Thu, 24 Sep 2026 20:28:21 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] クロードは本当にChatGPTよりもずっと優れているのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wp0ww6/is_claude_really_so_much_better_than_chatgpt/</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロードは本当にChatGPTよりもずっと優れているのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私はChatGPTがリリースされてからほぼ最初から使い続けています。また、Claudeについても、上位の料金プランの1つを利用して1～2週間ほど試してみました。しかし、私自身のテストでは、その良さを十分に実感することはできませんでした。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Is Claude really so much better than ChatGPT?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wp0ww6/is_claude_really_so_much_better_than_chatgpt/</guid>
-      <pubDate>Thu, 24 Sep 2026 12:56:34 GMT</pubDate>
+      <title>[r/artificial] ビル・ゲイツ氏、AIは「10億人の死者」を出すほどの威力があると警告</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wq7w7l/bill_gates_warns_ai_is_powerful_enough_to_cause_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ビル・ゲイツ氏、AIは「10億人の死者」を出すほどの威力があると警告&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/unconventionalbook   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Bill Gates warns AI is powerful enough to cause &quot;a billion deaths&quot;&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wq7w7l/bill_gates_warns_ai_is_powerful_enough_to_cause_a/</guid>
+      <pubDate>Fri, 25 Sep 2026 21:04:17 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ChatGPTは、タンブラー・リッジの銃乱射犯が銃や戦術、テロに焦点を当てるのを助けた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wpcixz/chatgpt_helped_tumbler_ridge_shooter_focus_on/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ChatGPTは、タンブラー・リッジの銃乱射犯が銃や戦術、テロに焦点を当てるのを助けた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/motherjonesmag   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: ChatGPT Helped Tumbler Ridge Shooter Focus on Guns, Tactics, and Terror&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wpcixz/chatgpt_helped_tumbler_ridge_shooter_focus_on/</guid>
-      <pubDate>Thu, 24 Sep 2026 20:22:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIの真の力は「より優れた思考」ではなく、「大規模なコラボレーション」にある理由</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wpblny/why_the_real_power_of_ai_isnt_better_thinkingits/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIの真の力は「より優れた思考」ではなく、「大規模なコラボレーション」にある理由&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人工知能が人間を凌駕することについて議論する際、話題はたいてい処理速度や純粋な演算能力、あるいは記憶容量といった点に集中しがちです。しかし、真に状況を一変させるものは、単なる一過性のブームなどではありません。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Why the Real Power of AI Isn't Better Thinking—It's Mass Collaboration&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wpblny/why_the_real_power_of_ai_isnt_better_thinkingits/</guid>
-      <pubDate>Thu, 24 Sep 2026 19:46:32 GMT</pubDate>
+      <title>[r/artificial] AIが特定の分野を理解するのに役立つとしたら、それでもなお、自分たちで100本の論文を読む必要があるのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wptour/if_ai_can_help_you_understand_a_field_do_we_still/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが特定の分野を理解するのに役立つとしたら、それでもなお、自分たちで100本の論文を読む必要があるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は固体リチウム電池の研究をしている材料工学の博士課程の学生ですが、Zoteroのライブラリがとんでもない量になってきています。長い間、文献調査といえば、たいてい1つの総説を読んで、そこからたくさんの論文を開いては……という作業が中心でした。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: If AI can help you understand a field, do we still need to read 100 papers ourselves?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wptour/if_ai_can_help_you_understand_a_field_do_we_still/</guid>
+      <pubDate>Fri, 25 Sep 2026 11:20:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
