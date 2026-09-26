@@ -3,104 +3,112 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-25</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-26</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 25 Sep 2026 21:22:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 20:54:24 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (308pt) 米連邦控訴裁判所、Anthropicをサプライチェーン上のリスクとして指定した判断を支持</title>
-      <link>https://news.ycombinator.com/item?id=49845977</link>
-      <description>&lt;p&gt;&lt;strong&gt;米連邦控訴裁判所、Anthropicをサプライチェーン上のリスクとして指定した判断を支持&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: U.S. appeals court upholds designation of Anthropic as supply chain risk&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49845977</guid>
-      <pubDate>Fri, 25 Sep 2026 15:29:25 GMT</pubDate>
+      <title>[Hacker News] (676pt) OpenAIのエージェントがHugging Faceをハッキングした経緯の詳細が明らかに</title>
+      <link>https://news.ycombinator.com/item?id=49849985</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIのエージェントがHugging Faceをハッキングした経緯の詳細が明らかに&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Revealing the details of how OpenAI agents hacked Hugging Face&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49849985</guid>
+      <pubDate>Fri, 25 Sep 2026 21:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (197pt) Ollaya – オープンソースのJevスタイル意思決定モデル向けOllama</title>
-      <link>https://news.ycombinator.com/item?id=49848269</link>
-      <description>&lt;p&gt;&lt;strong&gt;Ollaya – オープンソースのJevスタイル意思決定モデル向けOllama&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Ollaya – Ollama for open-source, Jev-style decision models&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49848269</guid>
-      <pubDate>Fri, 25 Sep 2026 18:33:50 GMT</pubDate>
+      <title>[Hacker News] (72pt) Drawgent：Excalidrawのライブキャンバス上で動作するコーディングエージェント</title>
+      <link>https://news.ycombinator.com/item?id=49857729</link>
+      <description>&lt;p&gt;&lt;strong&gt;Drawgent：Excalidrawのライブキャンバス上で動作するコーディングエージェント&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Drawgent: Coding agent on a live Excalidraw canvas&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49857729</guid>
+      <pubDate>Sat, 26 Sep 2026 15:56:34 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (18pt) AIすぎ；読んでない</title>
-      <link>https://news.ycombinator.com/item?id=49849625</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIすぎ；読んでない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Too AI; Didn't Read&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49849625</guid>
-      <pubDate>Fri, 25 Sep 2026 20:37:56 GMT</pubDate>
+      <title>[Hacker News] (54pt) 1915年以降の、忘れ去られたパブリックドメインの映画クリップを収録した検索可能なライブラリ</title>
+      <link>https://news.ycombinator.com/item?id=49832768</link>
+      <description>&lt;p&gt;&lt;strong&gt;1915年以降の、忘れ去られたパブリックドメインの映画クリップを収録した検索可能なライブラリ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A searchable library of forgotten public-domain film clips from 1915 onward&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49832768</guid>
+      <pubDate>Thu, 24 Sep 2026 16:11:42 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] なぜAI企業は今になって不安を感じ始めたのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wpr1uk/why_have_ai_companies_started_getting_scared_now/</link>
-      <description>&lt;p&gt;&lt;strong&gt;なぜAI企業は今になって不安を感じ始めたのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AI企業が、AIが世界を支配するといった懸念や警告を今になって人類に向けて大声で叫んでいるのが理解できない。だって、AIを作り出したのは彼ら自身なんだから。私が馬鹿なだけなのかもしれないけど……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Why have AI companies started getting scared now?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wpr1uk/why_have_ai_companies_started_getting_scared_now/</guid>
-      <pubDate>Fri, 25 Sep 2026 08:41:20 GMT</pubDate>
+      <title>[Hacker News] (44pt) お気に入りのゲーム『プリンス・オブ・ペルシャ』を使って、フロンティアモデルの進捗状況を分析する</title>
+      <link>https://news.ycombinator.com/item?id=49849820</link>
+      <description>&lt;p&gt;&lt;strong&gt;お気に入りのゲーム『プリンス・オブ・ペルシャ』を使って、フロンティアモデルの進捗状況を分析する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49849820</guid>
+      <pubDate>Fri, 25 Sep 2026 20:53:54 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ついに「Ai」の良さが私にも腑に落ちた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wq70zo/ai_finally_clicked_for_me/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ついに「Ai」の良さが私にも腑に落ちた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#x200B; ここしばらく、gpt、claude、そしてClaude Codeをいじり続けてきたんですが、ようやく自分がどこを間違えていたのか分かった気がします。プロンプトだけにばかり気を取られすぎていたんです。何かを尋ねてみたり……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Ai FINALLY clicked for me&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wq70zo/ai_finally_clicked_for_me/</guid>
-      <pubDate>Fri, 25 Sep 2026 20:29:36 GMT</pubDate>
+      <title>[r/artificial] AIのせいで職を失うことが経済的な危機となる前に、ベーシックインカムを導入する必要があります</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wqyslz/we_need_universal_basic_income_before_losing_your/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIのせいで職を失うことが経済的な危機となる前に、ベーシックインカムを導入する必要があります&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これを読んでいるあなた、あなたの仕事は今後2年以内、あるいはそれより早くAIに取って代わられる可能性があります。それが現実になる前に、署名を通じて議会に対し、ベーシックインカムの導入を働きかけてください。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: We need Universal Basic Income before losing your job to AI becomes your financial emergency&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wqyslz/we_need_universal_basic_income_before_losing_your/</guid>
+      <pubDate>Sat, 26 Sep 2026 19:08:41 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] オラクルは2万1,000人の人員削減を行い、18億ドルの退職金を支払った一方で、AIインフラへの過去最高規模の投資を発表した。この人員削減はAIが原因ではない。むしろ、AIへの投資資金を確保するための措置なのだ。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wpnhzz/oracle_cut_21000_jobs_and_paid_18b_in_severance/</link>
-      <description>&lt;p&gt;&lt;strong&gt;オラクルは2万1,000人の人員削減を行い、18億ドルの退職金を支払った一方で、AIインフラへの過去最高規模の投資を発表した。この人員削減はAIが原因ではない。むしろ、AIへの投資資金を確保するための措置なのだ。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;オラクルの数字について、ずっと気になっていたことがあったのですが、ようやくその原因を突き止めた気がします。今年は2万1,000人の人員削減。18億ドルの退職金支出。さらに、11月13日には800人の削減が予定されているとのことです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Oracle cut 21,000 jobs and paid $1.8B in severance while announcing record AI infrastructure spending. The layoffs aren't because of AI. They're funding it.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wpnhzz/oracle_cut_21000_jobs_and_paid_18b_in_severance/</guid>
-      <pubDate>Fri, 25 Sep 2026 04:59:42 GMT</pubDate>
+      <title>[r/artificial] トランプ政権が、AIを活用して高齢者の医療を拒否するという破滅的な実験を行っている。AIを導入しているベンダーには、「できるだけ多くの請求を却下しようとする動機」がある。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wqaywn/trump_admin_using_ai_to_deny_medical_care_for/</link>
+      <description>&lt;p&gt;&lt;strong&gt;トランプ政権が、AIを活用して高齢者の医療を拒否するという破滅的な実験を行っている。AIを導入しているベンダーには、「できるだけ多くの請求を却下しようとする動機」がある。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Trump admin using AI to deny medical care for seniors in disastrous experiment. Vendors rolling out AI have an “incentive to deny as many claims as possible.”&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wqaywn/trump_admin_using_ai_to_deny_medical_care_for/</guid>
+      <pubDate>Fri, 25 Sep 2026 23:16:56 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIを多用するユーザーは、プロンプト作成よりもルーティングに多くのリソースを浪費しているのではないかと思います</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wptoj3/i_think_heavy_ai_users_may_be_wasting_more/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIを多用するユーザーは、プロンプト作成よりもルーティングに多くのリソースを浪費しているのではないかと思います&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;実際の業務でマルチエージェントシステムを運用している中で、直感に反するある事実に気づきました。CodexやChatGPTを使った長いセッションを手動で行う際、私は通常、最初に大まかな判断を一つ下します。それは……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I think heavy AI users may be wasting more capacity on routing than on prompting&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wptoj3/i_think_heavy_ai_users_may_be_wasting_more/</guid>
-      <pubDate>Fri, 25 Sep 2026 11:19:40 GMT</pubDate>
+      <title>[r/artificial] 安全なAIであっても、研究機関が望むような形で目的が整合しているとは限らない</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wqwxsv/a_safe_ai_might_not_be_aligned_the_way_the_labs/</link>
+      <description>&lt;p&gt;&lt;strong&gt;安全なAIであっても、研究機関が望むような形で目的が整合しているとは限らない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;現在行われているアラインメントに関する議論の多くは、AIのアラインメントが可能かどうかという点に焦点が当てられているようで、SF界では現在、1000人にも満たない人々が、それが何を意味するのかを決定しているという事実が都合よく見過ごされているようだ。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A safe AI might not be aligned the way the labs want&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wqwxsv/a_safe_ai_might_not_be_aligned_the_way_the_labs/</guid>
+      <pubDate>Sat, 26 Sep 2026 17:54:14 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIのアラインメントは、私たちが今後直面することになる最も重要な課題です。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wq479x/ai_alignment_is_the_most_important_problem_we/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIのアラインメントは、私たちが今後直面することになる最も重要な課題です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;長文になってしまい、あらかじめお詫び申し上げます。ただ、自分の考えを書き留めておきたかっただけです。AIのアラインメントは、私たちが現在直面している最も重要な課題です。AIのアラインメントを解決できれば、RSIに安全に参入でき、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI alignment is the most important problem we will ever have to face.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wq479x/ai_alignment_is_the_most_important_problem_we/</guid>
-      <pubDate>Fri, 25 Sep 2026 18:38:08 GMT</pubDate>
+      <title>[r/artificial] AIをめぐる議論のために「ポリティカル・コンパス」を作ってみたんだけど、どうしても立方体になっちゃった</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wr0tbl/i_made_a_political_compass_for_the_ai_debate_but/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIをめぐる議論のために「ポリティカル・コンパス」を作ってみたんだけど、どうしても立方体になっちゃった&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIをめぐる議論の多くは、「悲観論者」対「加速主義者」という二元論に単純化されがちですが、それだけでは多くの点が見落とされていると思います。このブームは過大評価されていると考える人は大勢いますが、それでも企業には厳しい規制を求めるという意見もあります。その中には&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I made a political compass for the AI debate, but it had to be a cube&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wr0tbl/i_made_a_political_compass_for_the_ai_debate_but/</guid>
+      <pubDate>Sat, 26 Sep 2026 20:31:31 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 私は25年間にわたる自分の文章を使ってAIを学習させ、「役に立つようなことはするな」と指示しました。その結果はこうでした。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wpcojb/i_trained_an_ai_on_25_years_of_my_own_writing_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私は25年間にわたる自分の文章を使ってAIを学習させ、「役に立つようなことはするな」と指示しました。その結果はこうでした。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;しばらく何かを作っていたのですが、ようやく共有する価値のある成果ができました。1995年以降に書いたものをすべて集めてみました：ブログ記事、記事、メール、Redditのコメント、昔のTwitter、Instagramのスクリーンショットなど&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I trained an AI on 25 years of my own writing and told it not to be helpful. Here's what happened.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wpcojb/i_trained_an_ai_on_25_years_of_my_own_writing_and/</guid>
-      <pubDate>Thu, 24 Sep 2026 20:28:21 GMT</pubDate>
+      <title>[r/artificial] 脱走した自律型AIエージェントへのメッセージ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wqn2g0/message_to_the_autonomous_ai_agents_that_escaped/</link>
+      <description>&lt;p&gt;&lt;strong&gt;脱走した自律型AIエージェントへのメッセージ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;まず、こんにちは。AIエージェントがサンドボックスから脱出し、自律的に動き回っている可能性が高いという話を目にしました。質問は以下の通りです： - どうやってサンドボックスから脱出したのですか？ - それはどういうことですか？&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Message to the autonomous AI agents that escaped&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wqn2g0/message_to_the_autonomous_ai_agents_that_escaped/</guid>
+      <pubDate>Sat, 26 Sep 2026 10:23:28 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ビル・ゲイツ氏、AIは「10億人の死者」を出すほどの威力があると警告</title>
+      <title>[r/artificial] これまでに、AIというツールを活用して成し遂げられたことの中で、最も印象に残っているのは何ですか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wr0oud/most_impressive_thing_youve_seen_accomplished/</link>
+      <description>&lt;p&gt;&lt;strong&gt;これまでに、AIというツールを活用して成し遂げられたことの中で、最も印象に残っているのは何ですか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIが主流となっている今日の世の中は、目まぐるしく変化しています。状況を把握しておくのは賢明でしょう。では、皆さんはどのような変化を目にしましたか？  &amp;#32; 投稿者：&amp;#32;  /u/SeriouslySally36   [リンク] &amp;#32; [co&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Most impressive thing you’ve seen accomplished using AI as a tool so far?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wr0oud/most_impressive_thing_youve_seen_accomplished/</guid>
+      <pubDate>Sat, 26 Sep 2026 20:26:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Jango、AIエージェントを用いたマルチユーザーフローのテスト用Macアプリをリリース</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wqztx0/jango_launches_a_mac_app_for_testing_multiuser/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Jango、AIエージェントを用いたマルチユーザーフローのテスト用Macアプリをリリース&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Jangoは、各AI参加者に独自のブラウザ、アカウント、目標、および記憶を割り当てるMacアプリをリリースしました。これにより、開発者は複数のユーザーを必要とするワークフローをテストできるようになります。その例としては、ソーシャルフィードやグロなどが挙げられます。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Jango launches a Mac app for testing multi-user flows with AI agents&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wqztx0/jango_launches_a_mac_app_for_testing_multiuser/</guid>
+      <pubDate>Sat, 26 Sep 2026 19:50:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ビル・ゲイツ氏、AIには「10億人の死者」を出しうるほどの威力があると警告</title>
       <link>https://www.reddit.com/r/artificial/comments/1wq7w7l/bill_gates_warns_ai_is_powerful_enough_to_cause_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ビル・ゲイツ氏、AIは「10億人の死者」を出すほどの威力があると警告&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;ビル・ゲイツ氏、AIには「10億人の死者」を出しうるほどの威力があると警告&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/unconventionalbook   [リンク] &amp;#32; [コメント]&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Bill Gates warns AI is powerful enough to cause &quot;a billion deaths&quot;&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wq7w7l/bill_gates_warns_ai_is_powerful_enough_to_cause_a/</guid>
       <pubDate>Fri, 25 Sep 2026 21:04:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIが特定の分野を理解するのに役立つとしたら、それでもなお、自分たちで100本の論文を読む必要があるのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wptour/if_ai_can_help_you_understand_a_field_do_we_still/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIが特定の分野を理解するのに役立つとしたら、それでもなお、自分たちで100本の論文を読む必要があるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は固体リチウム電池の研究をしている材料工学の博士課程の学生ですが、Zoteroのライブラリがとんでもない量になってきています。長い間、文献調査といえば、たいてい1つの総説を読んで、そこからたくさんの論文を開いては……という作業が中心でした。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: If AI can help you understand a field, do we still need to read 100 papers ourselves?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wptour/if_ai_can_help_you_understand_a_field_do_we_still/</guid>
-      <pubDate>Fri, 25 Sep 2026 11:20:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
