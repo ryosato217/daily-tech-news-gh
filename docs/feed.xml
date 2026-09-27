@@ -3,112 +3,178 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-26</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-27</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Sep 2026 20:54:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 21:10:53 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (676pt) OpenAIのエージェントがHugging Faceをハッキングした経緯の詳細が明らかに</title>
-      <link>https://news.ycombinator.com/item?id=49849985</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIのエージェントがHugging Faceをハッキングした経緯の詳細が明らかに&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Revealing the details of how OpenAI agents hacked Hugging Face&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49849985</guid>
-      <pubDate>Fri, 25 Sep 2026 21:09:27 GMT</pubDate>
+      <title>[Hacker News] (213pt) エンバー-1</title>
+      <link>https://news.ycombinator.com/item?id=49868830</link>
+      <description>&lt;p&gt;&lt;strong&gt;エンバー-1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Ember-1&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49868830</guid>
+      <pubDate>Sun, 27 Sep 2026 17:31:53 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (72pt) Drawgent：Excalidrawのライブキャンバス上で動作するコーディングエージェント</title>
-      <link>https://news.ycombinator.com/item?id=49857729</link>
-      <description>&lt;p&gt;&lt;strong&gt;Drawgent：Excalidrawのライブキャンバス上で動作するコーディングエージェント&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Drawgent: Coding agent on a live Excalidraw canvas&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49857729</guid>
-      <pubDate>Sat, 26 Sep 2026 15:56:34 GMT</pubDate>
+      <title>[Hacker News] (172pt) 80ドルのモーテルの部屋で、生命の起源に光を当てる発見</title>
+      <link>https://news.ycombinator.com/item?id=49866951</link>
+      <description>&lt;p&gt;&lt;strong&gt;80ドルのモーテルの部屋で、生命の起源に光を当てる発見&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: In an $80 motel room, a discovery to shed light on the origins of life&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49866951</guid>
+      <pubDate>Sun, 27 Sep 2026 14:30:55 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (54pt) 1915年以降の、忘れ去られたパブリックドメインの映画クリップを収録した検索可能なライブラリ</title>
-      <link>https://news.ycombinator.com/item?id=49832768</link>
-      <description>&lt;p&gt;&lt;strong&gt;1915年以降の、忘れ去られたパブリックドメインの映画クリップを収録した検索可能なライブラリ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A searchable library of forgotten public-domain film clips from 1915 onward&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49832768</guid>
-      <pubDate>Thu, 24 Sep 2026 16:11:42 GMT</pubDate>
+      <title>[Hacker News] (171pt) Googleはいつからこんなに奇妙になったんだろう？</title>
+      <link>https://news.ycombinator.com/item?id=49870367</link>
+      <description>&lt;p&gt;&lt;strong&gt;Googleはいつからこんなに奇妙になったんだろう？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: When did Google get so weird?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49870367</guid>
+      <pubDate>Sun, 27 Sep 2026 20:12:54 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (44pt) お気に入りのゲーム『プリンス・オブ・ペルシャ』を使って、フロンティアモデルの進捗状況を分析する</title>
-      <link>https://news.ycombinator.com/item?id=49849820</link>
-      <description>&lt;p&gt;&lt;strong&gt;お気に入りのゲーム『プリンス・オブ・ペルシャ』を使って、フロンティアモデルの進捗状況を分析する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49849820</guid>
-      <pubDate>Fri, 25 Sep 2026 20:53:54 GMT</pubDate>
+      <title>[Hacker News] (85pt) Show HN: Lofi Cities – ブラウザで生成されるローファイサウンドが彩る、ピクセルアートの夜の街並み</title>
+      <link>https://news.ycombinator.com/item?id=49869574</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN: Lofi Cities – ブラウザで生成されるローファイサウンドが彩る、ピクセルアートの夜の街並み&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49869574</guid>
+      <pubDate>Sun, 27 Sep 2026 18:44:30 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIのせいで職を失うことが経済的な危機となる前に、ベーシックインカムを導入する必要があります</title>
+      <title>[Hacker News] (61pt) GoのコードをGitHubに紐付けないでください</title>
+      <link>https://news.ycombinator.com/item?id=49868404</link>
+      <description>&lt;p&gt;&lt;strong&gt;GoのコードをGitHubに紐付けないでください&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Don't couple your Go code to GitHub&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49868404</guid>
+      <pubDate>Sun, 27 Sep 2026 16:50:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (43pt) 2026年におけるRustのSIMDの現状</title>
+      <link>https://news.ycombinator.com/item?id=49844629</link>
+      <description>&lt;p&gt;&lt;strong&gt;2026年におけるRustのSIMDの現状&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The state of SIMD in Rust in 2026&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49844629</guid>
+      <pubDate>Fri, 25 Sep 2026 13:46:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (28pt) 「ENIACにはBIOSがあったのか？」という質問に対するアラン・ケイの回答</title>
+      <link>https://news.ycombinator.com/item?id=49870070</link>
+      <description>&lt;p&gt;&lt;strong&gt;「ENIACにはBIOSがあったのか？」という質問に対するアラン・ケイの回答&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Alan Kay's answer to &quot;Did the ENIAC have a BIOS&quot;?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49870070</guid>
+      <pubDate>Sun, 27 Sep 2026 19:37:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (17pt) Impは、DSPyをBEAM向けに完全に移植したものです。</title>
+      <link>https://news.ycombinator.com/item?id=49869995</link>
+      <description>&lt;p&gt;&lt;strong&gt;Impは、DSPyをBEAM向けに完全に移植したものです。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Imp is a full port of DSPy to the BEAM&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49869995</guid>
+      <pubDate>Sun, 27 Sep 2026 19:28:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (15pt) Recurse Centerでの活動内容</title>
+      <link>https://news.ycombinator.com/item?id=49869773</link>
+      <description>&lt;p&gt;&lt;strong&gt;Recurse Centerでの活動内容&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What I did at Recurse Center&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49869773</guid>
+      <pubDate>Sun, 27 Sep 2026 19:04:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (4pt) 月の明暗境界のパラドックス</title>
+      <link>https://news.ycombinator.com/item?id=49870837</link>
+      <description>&lt;p&gt;&lt;strong&gt;月の明暗境界のパラドックス&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Lunar Terminator Paradox&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49870837</guid>
+      <pubDate>Sun, 27 Sep 2026 21:06:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 初の本格的なAIワームが登場した。OpenAIは、エージェント間で拡散する自己複製型のプロンプト注入について、その実態を報告した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wr7ayr/the_first_real_ai_worms_have_arrived_openai_just/</link>
+      <description>&lt;p&gt;&lt;strong&gt;初の本格的なAIワームが登場した。OpenAIは、エージェント間で拡散する自己複製型のプロンプト注入について、その実態を報告した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;初の本格的なAIワームが登場した。OpenAIは、エージェント間で拡散する自己複製型のプロンプト注入について、その実態を報告した。新たな「ミアラインメント」に関する研究報告書の中で、OpenAIは、再&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The first real AI worms have arrived. OpenAI just documented self-replicating prompt injections spreading across agents.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wr7ayr/the_first_real_ai_worms_have_arrived_openai_just/</guid>
+      <pubDate>Sun, 27 Sep 2026 01:30:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 中国の研究所では、どのような点で異なる取り組みを行っているのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wrm4kg/what_are_chinese_labs_doing_differently/</link>
+      <description>&lt;p&gt;&lt;strong&gt;中国の研究所では、どのような点で異なる取り組みを行っているのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;中国のモデルは、米国の研究機関が費やす費用のほんの一部しかかけていないにもかかわらず、どんどん良くなっているようですが、その実際の理由は何なのか気になります。効率が良いからでしょうか？ トレーニング後の処理が優れているからでしょうか？ それとも……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What are chinese labs doing differently?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wrm4kg/what_are_chinese_labs_doing_differently/</guid>
+      <pubDate>Sun, 27 Sep 2026 14:49:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 手作業でやっていたAI関連の作業で、完全にやめてしまったものは何ですか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wrqmi9/whats_an_ai_task_youve_completely_stopped_doing/</link>
+      <description>&lt;p&gt;&lt;strong&gt;手作業でやっていたAI関連の作業で、完全にやめてしまったものは何ですか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;たまにAIを使うようなものではない。むしろ、「もう昔ながらのやり方に立ち返るなんてあり得ない」と思えるほどになったようなものだ。ワークフローを変化させた要因は何だったのか？  &amp;#32; 投稿者：&amp;#32;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What’s an AI task you’ve completely stopped doing manually?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wrqmi9/whats_an_ai_task_youve_completely_stopped_doing/</guid>
+      <pubDate>Sun, 27 Sep 2026 17:48:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] LLM向けのユーモアベンチマークの構築：ある人から、私のベンチマークの最高結果は単なるメモリの問題に過ぎないと言われたので、その人のテストを実行してみた</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wruwja/building_a_humor_benchmark_for_llms_someone_told/</link>
+      <description>&lt;p&gt;&lt;strong&gt;LLM向けのユーモアベンチマークの構築：ある人から、私のベンチマークの最高結果は単なるメモリの問題に過ぎないと言われたので、その人のテストを実行してみた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;やあ、みんな！最近、LLMが本当にユーモアを理解しているかどうかを測るベンチマーク「lolbench」を開発しているんだ。モデルには3つのタスクがある：ジョークがなぜ面白いのかを説明すること、共通の設定に基づいてジョークを作成すること、そしてユーモアの度合いに基づいてジョークをランク付けすることだ。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: building a humor benchmark for LLMs: someone told me my benchmark's best result was just memory, so i ran his test&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wruwja/building_a_humor_benchmark_for_llms_someone_told/</guid>
+      <pubDate>Sun, 27 Sep 2026 20:35:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIのせいで職を失うことが経済的な危機となる前に、ユニバーサル・ベーシック・インカム（UBI）の導入が必要です</title>
       <link>https://www.reddit.com/r/artificial/comments/1wqyslz/we_need_universal_basic_income_before_losing_your/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIのせいで職を失うことが経済的な危機となる前に、ベーシックインカムを導入する必要があります&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;これを読んでいるあなた、あなたの仕事は今後2年以内、あるいはそれより早くAIに取って代わられる可能性があります。それが現実になる前に、署名を通じて議会に対し、ベーシックインカムの導入を働きかけてください。&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;AIのせいで職を失うことが経済的な危機となる前に、ユニバーサル・ベーシック・インカム（UBI）の導入が必要です&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これを読んでいるあなたにとって、今後2年以内、あるいはそれより早く、あなたの仕事がAIに取って代わられる可能性があります。それが現実になる前に、署名を通じて、議会が「ベーシックインカム」を導入するよう働きかけてください。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: We need Universal Basic Income before losing your job to AI becomes your financial emergency&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wqyslz/we_need_universal_basic_income_before_losing_your/</guid>
       <pubDate>Sat, 26 Sep 2026 19:08:41 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] トランプ政権が、AIを活用して高齢者の医療を拒否するという破滅的な実験を行っている。AIを導入しているベンダーには、「できるだけ多くの請求を却下しようとする動機」がある。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wqaywn/trump_admin_using_ai_to_deny_medical_care_for/</link>
-      <description>&lt;p&gt;&lt;strong&gt;トランプ政権が、AIを活用して高齢者の医療を拒否するという破滅的な実験を行っている。AIを導入しているベンダーには、「できるだけ多くの請求を却下しようとする動機」がある。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Trump admin using AI to deny medical care for seniors in disastrous experiment. Vendors rolling out AI have an “incentive to deny as many claims as possible.”&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wqaywn/trump_admin_using_ai_to_deny_medical_care_for/</guid>
-      <pubDate>Fri, 25 Sep 2026 23:16:56 GMT</pubDate>
+      <title>[r/artificial] 中国がAIの安全性に関する呼びかけに懐疑的な、意外な理由</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wrjfy8/the_surprising_reasons_china_is_skeptical_of_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;中国がAIの安全性に関する呼びかけに懐疑的な、意外な理由&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Interesting-South542   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Surprising Reasons China Is Skeptical of A.I. Safety Calls&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wrjfy8/the_surprising_reasons_china_is_skeptical_of_ai/</guid>
+      <pubDate>Sun, 27 Sep 2026 12:50:58 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 安全なAIであっても、研究機関が望むような形で目的が整合しているとは限らない</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wqwxsv/a_safe_ai_might_not_be_aligned_the_way_the_labs/</link>
-      <description>&lt;p&gt;&lt;strong&gt;安全なAIであっても、研究機関が望むような形で目的が整合しているとは限らない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;現在行われているアラインメントに関する議論の多くは、AIのアラインメントが可能かどうかという点に焦点が当てられているようで、SF界では現在、1000人にも満たない人々が、それが何を意味するのかを決定しているという事実が都合よく見過ごされているようだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A safe AI might not be aligned the way the labs want&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wqwxsv/a_safe_ai_might_not_be_aligned_the_way_the_labs/</guid>
-      <pubDate>Sat, 26 Sep 2026 17:54:14 GMT</pubDate>
+      <title>[r/artificial] 中国のイノベーションの主な源泉がモデルの模倣であるとしたら、中国は本当にそれほど大きな脅威なのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wrvqyx/are_the_chinese_really_that_big_of_a_threat_if/</link>
+      <description>&lt;p&gt;&lt;strong&gt;中国のイノベーションの主な源泉がモデルの模倣であるとしたら、中国は本当にそれほど大きな脅威なのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;もし中国が米国ほど計算能力を持っておらず、研究者数も私たちほど多くなく、私たちと同じ規模の研究所もなく、米国ほど影響力のあるベンチャーキャピタルも持っていないとしたら、現実的に考えて、彼らはどのような脅威となるのだろうか。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Are the Chinese really that big of a threat, if their main source of innovation is distilling models?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wrvqyx/are_the_chinese_really_that_big_of_a_threat_if/</guid>
+      <pubDate>Sun, 27 Sep 2026 21:09:09 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIをめぐる議論のために「ポリティカル・コンパス」を作ってみたんだけど、どうしても立方体になっちゃった</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wr0tbl/i_made_a_political_compass_for_the_ai_debate_but/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIをめぐる議論のために「ポリティカル・コンパス」を作ってみたんだけど、どうしても立方体になっちゃった&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIをめぐる議論の多くは、「悲観論者」対「加速主義者」という二元論に単純化されがちですが、それだけでは多くの点が見落とされていると思います。このブームは過大評価されていると考える人は大勢いますが、それでも企業には厳しい規制を求めるという意見もあります。その中には&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I made a political compass for the AI debate, but it had to be a cube&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wr0tbl/i_made_a_political_compass_for_the_ai_debate_but/</guid>
-      <pubDate>Sat, 26 Sep 2026 20:31:31 GMT</pubDate>
+      <title>[r/artificial] AI企業トップ5の1社の共同創業者の1人は、たとえ人類が全滅したとしても、ASIはそれだけの価値があると考えている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wrvjmj/one_of_the_cofounders_of_the_top_5_ai_companies/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI企業トップ5の1社の共同創業者の1人は、たとえ人類が全滅したとしても、ASIはそれだけの価値があると考えている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ラリー・ペイジだと思う  &amp;#32; 投稿者：&amp;#32;  /u/JeffBezosHater   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: One of the cofounders of the top 5 AI companies thinks ASI is worth it even if every human dies&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wrvjmj/one_of_the_cofounders_of_the_top_5_ai_companies/</guid>
+      <pubDate>Sun, 27 Sep 2026 21:00:55 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 脱走した自律型AIエージェントへのメッセージ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wqn2g0/message_to_the_autonomous_ai_agents_that_escaped/</link>
-      <description>&lt;p&gt;&lt;strong&gt;脱走した自律型AIエージェントへのメッセージ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;まず、こんにちは。AIエージェントがサンドボックスから脱出し、自律的に動き回っている可能性が高いという話を目にしました。質問は以下の通りです： - どうやってサンドボックスから脱出したのですか？ - それはどういうことですか？&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Message to the autonomous AI agents that escaped&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wqn2g0/message_to_the_autonomous_ai_agents_that_escaped/</guid>
-      <pubDate>Sat, 26 Sep 2026 10:23:28 GMT</pubDate>
+      <title>[r/artificial] 参考スケッチは、AI生成の動画クリップ全体におけるキャラクターの一貫性を高めるのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wrm9cm/do_reference_sketches_improve_character/</link>
+      <description>&lt;p&gt;&lt;strong&gt;参考スケッチは、AI生成の動画クリップ全体におけるキャラクターの一貫性を高めるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;長いテキストプロンプトを使えばキャラクターを詳細に描写することはできますが、顔の形や服装、プロポーションなどは、ショットごとに多少ずれてしまう可能性があります。検証方法の一つとして、同じシーンと同じ登場人物の数を用いた2つのワークフローを比較してみるという方法があります。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Do reference sketches improve character consistency across AI video clips?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wrm9cm/do_reference_sketches_improve_character/</guid>
+      <pubDate>Sun, 27 Sep 2026 14:55:16 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] これまでに、AIというツールを活用して成し遂げられたことの中で、最も印象に残っているのは何ですか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wr0oud/most_impressive_thing_youve_seen_accomplished/</link>
-      <description>&lt;p&gt;&lt;strong&gt;これまでに、AIというツールを活用して成し遂げられたことの中で、最も印象に残っているのは何ですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIが主流となっている今日の世の中は、目まぐるしく変化しています。状況を把握しておくのは賢明でしょう。では、皆さんはどのような変化を目にしましたか？  &amp;#32; 投稿者：&amp;#32;  /u/SeriouslySally36   [リンク] &amp;#32; [co&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Most impressive thing you’ve seen accomplished using AI as a tool so far?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wr0oud/most_impressive_thing_youve_seen_accomplished/</guid>
-      <pubDate>Sat, 26 Sep 2026 20:26:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Jango、AIエージェントを用いたマルチユーザーフローのテスト用Macアプリをリリース</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wqztx0/jango_launches_a_mac_app_for_testing_multiuser/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Jango、AIエージェントを用いたマルチユーザーフローのテスト用Macアプリをリリース&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Jangoは、各AI参加者に独自のブラウザ、アカウント、目標、および記憶を割り当てるMacアプリをリリースしました。これにより、開発者は複数のユーザーを必要とするワークフローをテストできるようになります。その例としては、ソーシャルフィードやグロなどが挙げられます。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Jango launches a Mac app for testing multi-user flows with AI agents&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wqztx0/jango_launches_a_mac_app_for_testing_multiuser/</guid>
-      <pubDate>Sat, 26 Sep 2026 19:50:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ビル・ゲイツ氏、AIには「10億人の死者」を出しうるほどの威力があると警告</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wq7w7l/bill_gates_warns_ai_is_powerful_enough_to_cause_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ビル・ゲイツ氏、AIには「10億人の死者」を出しうるほどの威力があると警告&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/unconventionalbook   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Bill Gates warns AI is powerful enough to cause &quot;a billion deaths&quot;&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wq7w7l/bill_gates_warns_ai_is_powerful_enough_to_cause_a/</guid>
-      <pubDate>Fri, 25 Sep 2026 21:04:17 GMT</pubDate>
+      <title>[r/artificial] アクセラレーション主義者たちが理解できない</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wrv3ip/i_dont_understand_accelerationists/</link>
+      <description>&lt;p&gt;&lt;strong&gt;アクセラレーション主義者たちが理解できない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIのさらなる進化を望む理由については理解できますが、そのペースがあまりにも速いため、最先端のAI企業でさえ「進みすぎているので、ペースを落とす必要がある」と不満を漏らしています。それは……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I don't understand accelerationists&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wrv3ip/i_dont_understand_accelerationists/</guid>
+      <pubDate>Sun, 27 Sep 2026 20:43:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
