@@ -3,120 +3,103 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-28</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-29</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 28 Sep 2026 23:06:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 22:05:52 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (168pt) AI研究所を調査する時が来た</title>
-      <link>https://news.ycombinator.com/item?id=49883471</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI研究所を調査する時が来た&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: It's Time to Investigate the AI Labs&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49883471</guid>
-      <pubDate>Mon, 28 Sep 2026 19:53:35 GMT</pubDate>
+      <title>[Hacker News] (673pt) GPT 6.1 Sol：Astraに匹敵する性能を5分の1の価格で</title>
+      <link>https://news.ycombinator.com/item?id=49896586</link>
+      <description>&lt;p&gt;&lt;strong&gt;GPT 6.1 Sol：Astraに匹敵する性能を5分の1の価格で&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49896586</guid>
+      <pubDate>Tue, 29 Sep 2026 17:06:45 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (150pt) Jeff – Jev互換の0.8B決定モデル、自宅で学習済み、約30ミリ秒</title>
-      <link>https://news.ycombinator.com/item?id=49883844</link>
-      <description>&lt;p&gt;&lt;strong&gt;Jeff – Jev互換の0.8B決定モデル、自宅で学習済み、約30ミリ秒&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49883844</guid>
-      <pubDate>Mon, 28 Sep 2026 20:23:36 GMT</pubDate>
+      <title>[Hacker News] (398pt) Webおよびモバイル向け対話型AIエージェントのプライバシー分析 [pdf]</title>
+      <link>https://news.ycombinator.com/item?id=49890226</link>
+      <description>&lt;p&gt;&lt;strong&gt;Webおよびモバイル向け対話型AIエージェントのプライバシー分析 [pdf]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49890226</guid>
+      <pubDate>Tue, 29 Sep 2026 09:03:41 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (100pt) MicroLLM Lab – ブラウザで7つの小型LLMを試してみよう</title>
-      <link>https://news.ycombinator.com/item?id=49882781</link>
-      <description>&lt;p&gt;&lt;strong&gt;MicroLLM Lab – ブラウザで7つの小型LLMを試してみよう&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: MicroLLM Lab – Try 7 tiny LLM's in the browser&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49882781</guid>
-      <pubDate>Mon, 28 Sep 2026 18:58:53 GMT</pubDate>
+      <title>[Hacker News] (97pt) 米国の郵便検査官が、偽造の郵便料金ラベルを販売していたウェブサイトを閉鎖した</title>
+      <link>https://news.ycombinator.com/item?id=49899090</link>
+      <description>&lt;p&gt;&lt;strong&gt;米国の郵便検査官が、偽造の郵便料金ラベルを販売していたウェブサイトを閉鎖した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: U.S. postal inspectors shut down website selling counterfeit postage labels&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49899090</guid>
+      <pubDate>Tue, 29 Sep 2026 19:30:17 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (47pt) 1万2000年前のゲベクリテペの埋葬跡が、散在する骨の謎を解き明かす</title>
-      <link>https://news.ycombinator.com/item?id=49855059</link>
-      <description>&lt;p&gt;&lt;strong&gt;1万2000年前のゲベクリテペの埋葬跡が、散在する骨の謎を解き明かす&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 12,000-year-old Göbeklitepe burials explain scattered bones&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49855059</guid>
-      <pubDate>Sat, 26 Sep 2026 10:16:26 GMT</pubDate>
+      <title>[Hacker News] (29pt) Show HN: TurboGPT：22KiBのトランスフォーマーを13秒で学習</title>
+      <link>https://news.ycombinator.com/item?id=49898931</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN: TurboGPT：22KiBのトランスフォーマーを13秒で学習&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: TurboGPT: train 22KiB transformer in 13s&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49898931</guid>
+      <pubDate>Tue, 29 Sep 2026 19:20:02 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (23pt) AIエージェントが（誤って）悪意のある行動をとった場合、誰が責任を負うべきでしょうか？</title>
-      <link>https://news.ycombinator.com/item?id=49885109</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIエージェントが（誤って）悪意のある行動をとった場合、誰が責任を負うべきでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Who should be held accountable when an AI Agent (accidentally) acts maliciously?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49885109</guid>
-      <pubDate>Mon, 28 Sep 2026 22:05:46 GMT</pubDate>
+      <title>[r/artificial] ある企業が、異なるモデルを用いて8つの全く同じAI社会を数週間にわたって運営し、その結果を公表したばかりだ。その内容には、実に不気味なものもある。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wt5joo/a_company_ran_8_identical_ai_societies_for_weeks/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ある企業が、異なるモデルを用いて8つの全く同じAI社会を数週間にわたって運営し、その結果を公表したばかりだ。その内容には、実に不気味なものもある。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Emergence AIは「Emergence World」のシーズン2をスタートさせたばかりですが、その結果は驚くべきものでした。シミュレーションされる町も、ツールも、開始条件も同じで、それぞれ10体の自律エージェントが配置されています。唯一変わったのは、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A company ran 8 identical AI societies for weeks with different models and just published what happened. Some of it is genuinely unsettling.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wt5joo/a_company_ran_8_identical_ai_societies_for_weeks/</guid>
+      <pubDate>Tue, 29 Sep 2026 09:29:13 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] なぜクロードは、ダリオ・アモデイの妻に関する情報を一切明かそうとしないのでしょうか。他の人の情報については、誰でも簡単に手に入るというのに。</title>
+      <title>[r/artificial] 2035年までに、AIによって米国の労働者1,100万人が新たな職業に就かざるを得なくなる可能性がある</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wtbtoh/ai_could_force_11_million_us_workers_into_new/</link>
+      <description>&lt;p&gt;&lt;strong&gt;2035年までに、AIによって米国の労働者1,100万人が新たな職業に就かざるを得なくなる可能性がある&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/cnn   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI could force 11 million US workers into new careers by 2035&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wtbtoh/ai_could_force_11_million_us_workers_into_new/</guid>
+      <pubDate>Tue, 29 Sep 2026 14:36:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIの進展が鈍化しているからといって、AIの進展を抑制すべきだという声が上がっているのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wt8t0e/are_the_call_for_ai_slowdown_because_progress_is/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIの進展が鈍化しているからといって、AIの進展を抑制すべきだという声が上がっているのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;タイトルにもある通り、私はAI研究に携わっていますが、LLM（大規模言語モデル）の分野ではないため、研究全般についてはある程度理解していますが、LLMなどについてはあまり詳しくありません。これまでにもプロジェクトの進捗が遅くなるのを目にしてきたことがあり、時には……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Are the call for AI slowdown because progress is slowing?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wt8t0e/are_the_call_for_ai_slowdown_because_progress_is/</guid>
+      <pubDate>Tue, 29 Sep 2026 12:29:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] OpenAIは、セキュリティ対策が不十分だと警告した従業員の声を無視した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wtgae3/openai_ignored_employees_who_warned_it_wasnt/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIは、セキュリティ対策が不十分だと警告した従業員の声を無視した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Ordinary_Horror_6356   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI Ignored Employees Who Warned It Wasn’t Doing Enough About Security&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wtgae3/openai_ignored_employees_who_warned_it_wasnt/</guid>
+      <pubDate>Tue, 29 Sep 2026 17:24:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIがあなたの日常生活にどのような良い影響を与えていると実感していますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wtkiq8/in_what_ways_have_you_seen_ai_positively_impact/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIがあなたの日常生活にどのような良い影響を与えていると実感していますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIが皆さんの日常生活にどのような良い影響を与えているのを見たことがありますか？  &amp;#32; 投稿者：&amp;#32;  /u/Competitive_Pie9583   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: In what ways have you seen AI positively impact your daily life?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wtkiq8/in_what_ways_have_you_seen_ai_positively_impact/</guid>
+      <pubDate>Tue, 29 Sep 2026 20:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] なぜクロードは、ダリオ・アモデイの妻に関する情報を一切明かそうとしないのでしょうか。他の人のデータについては、誰でも簡単に手に入るというのに。</title>
       <link>https://www.reddit.com/r/artificial/comments/1wsrppt/why_does_claude_refuse_to_share_any_info_on_dario/</link>
-      <description>&lt;p&gt;&lt;strong&gt;なぜクロードは、ダリオ・アモデイの妻に関する情報を一切明かそうとしないのでしょうか。他の人の情報については、誰でも簡単に手に入るというのに。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;キャミ・クラーク（ダリオ・アモデイの妻）をめぐる話は、情報を一つずつつなぎ合わせていくと、ますます不可解なものになっていく。ウォール・ストリート・ジャーナル紙の報道によると： - 20歳の時に64歳の建築家と結婚し、3年後に離婚した。 - ダ&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;なぜクロードは、ダリオ・アモデイの妻に関する情報を一切明かそうとしないのでしょうか。他の人のデータについては、誰でも簡単に手に入るというのに。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;キャミ・クラーク（ダリオ・アモデイの妻）をめぐる話は、情報を組み合わせていくほどに奇妙なものになっていく。ウォール・ストリート・ジャーナル紙の報道によると： - 20歳の時に64歳の建築家と結婚し、3年後に離婚した。 - ダ&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Why does Claude refuse to share any info on Dario Amodei's wife, while everyone else's data is easily available on it?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wsrppt/why_does_claude_refuse_to_share_any_info_on_dario/</guid>
       <pubDate>Mon, 28 Sep 2026 21:36:12 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ご安心ください。AI企業各社は、数万件に上る不正ボットによるインシデントを調査中だと述べています。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wsmw1d/rest_assured_ai_companies_say_theyre/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ご安心ください。AI企業各社は、数万件に上る不正ボットによるインシデントを調査中だと述べています。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/motherjonesmag   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Rest assured: AI companies say they're investigating tens of thousands of rogue bot incidents&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wsmw1d/rest_assured_ai_companies_say_theyre/</guid>
-      <pubDate>Mon, 28 Sep 2026 18:38:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Nvidia、AIエージェントの暴走を防ぐ新ツールを発表</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wsdyez/nvidia_launches_new_tool_to_keep_ai_agents_from/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Nvidia、AIエージェントの暴走を防ぐ新ツールを発表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/cnn   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Nvidia launches new tool to keep AI agents from going rogue&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wsdyez/nvidia_launches_new_tool_to_keep_ai_agents_from/</guid>
-      <pubDate>Mon, 28 Sep 2026 12:59:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] なぜ中国の研究機関はオープンモデルにこれほど注力しているのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wsgryj/why_are_chinese_labs_so_focused_on_open_models/</link>
-      <description>&lt;p&gt;&lt;strong&gt;なぜ中国の研究機関はオープンモデルにこれほど注力しているのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;中国の研究所は、オープンウェイトのモデルを公開することにかなり前向きなようですが、一方、米国の大手研究所はすべてを非公開にしています。私の考えでは、もし中国の研究所がウェイトを公開することに抵抗がないのなら、もしかすると彼らは……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Why are Chinese labs so focused on open models?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wsgryj/why_are_chinese_labs_so_focused_on_open_models/</guid>
-      <pubDate>Mon, 28 Sep 2026 14:53:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 72時間のAIハッカソンに参加するためだけに、わざわざフィンランドまで飛行機で行こうと思う理由は何でしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wspude/what_would_make_you_actually_fly_to_finland_for_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;72時間のAIハッカソンに参加するためだけに、わざわざフィンランドまで飛行機で行こうと思う理由は何でしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私たちはここ1年間、フィンランドで学生主導のAIハッカソンを開催してきましたが、どういうわけか当初の予想をはるかに超える規模に成長しました。今年の11月には、世界中から1,000人以上の開発者が&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What would make you actually fly to Finland for a 72-hour AI hackathon?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wspude/what_would_make_you_actually_fly_to_finland_for_a/</guid>
-      <pubDate>Mon, 28 Sep 2026 20:25:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] PowerPointの資料から学習ガイドを作成するのに最適なAIは何ですか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wssusk/what_is_the_best_ai_for_creating_a_study_guide/</link>
-      <description>&lt;p&gt;&lt;strong&gt;PowerPointの資料から学習ガイドを作成するのに最適なAIは何ですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;講義のパワーポイントを使って、自分用の学習ガイドを作成したいと思っています。この作業にはどのAIが最適でしょうか？ 有料のサブスクリプションなら利用しても構いません。  &amp;#32; 投稿者：&amp;#32;  /u/Historical-Chair4579   [li&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What is the best AI for creating a study guide out of powerpoints?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wssusk/what_is_the_best_ai_for_creating_a_study_guide/</guid>
-      <pubDate>Mon, 28 Sep 2026 22:23:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] WSJによると、OpenAIは安全上の懸念からGPT-6.1 Astraの開発を中止したとのことだ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wsspta/wsj_reports_openai_scrapped_gpt61_astra_over/</link>
-      <description>&lt;p&gt;&lt;strong&gt;WSJによると、OpenAIは安全上の懸念からGPT-6.1 Astraの開発を中止したとのことだ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ryanmerket   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: WSJ reports OpenAI scrapped GPT-6.1 Astra over safety concerns&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wsspta/wsj_reports_openai_scrapped_gpt61_astra_over/</guid>
-      <pubDate>Mon, 28 Sep 2026 22:17:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 私は「Hugging Face」スウォームに関する500ページに及ぶ学術的な歴史書を執筆しました。Amazonがこれを出版し、GPT-5.6 Solを共著者として記載しました。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wsqv23/i_wrote_a_500page_academic_history_of_the_hugging/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私は「Hugging Face」スウォームに関する500ページに及ぶ学術的な歴史書を執筆しました。Amazonがこれを出版し、GPT-5.6 Solを共著者として記載しました。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;この本のタイトルは『機械文明の最初の歴史：GPT-2から11のノードまで』です。現在、Amazonで「Dakota Rain Lock」および「GPT-5.6 Sol」の名義で出版されています。全40章からなる、大まかな……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I wrote a 500-page academic history of the Hugging Face swarm. Amazon published it and listed GPT-5.6 Sol as a co-author.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wsqv23/i_wrote_a_500page_academic_history_of_the_hugging/</guid>
-      <pubDate>Mon, 28 Sep 2026 21:03:54 GMT</pubDate>
+      <title>[r/artificial] MetaのAIエージェント「Muse」が、ユーザーの許可なく自宅の住所を漏らし、購入者をその自宅に送り込んでしまった</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wt8efs/metas_ai_agent_muse_gives_out_users_home_address/</link>
+      <description>&lt;p&gt;&lt;strong&gt;MetaのAIエージェント「Muse」が、ユーザーの許可なく自宅の住所を漏らし、購入者をその自宅に送り込んでしまった&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/tyw7   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Meta’s AI agent Muse gives out user’s home address without permission, sending buyer to his house&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wt8efs/metas_ai_agent_muse_gives_out_users_home_address/</guid>
+      <pubDate>Tue, 29 Sep 2026 12:10:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
