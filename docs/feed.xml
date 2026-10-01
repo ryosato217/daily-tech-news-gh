@@ -3,48 +3,59 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-09-30</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-01</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 30 Sep 2026 22:05:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 22:32:27 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (665pt) ジェミニ4 アルゴン</title>
-      <link>https://news.ycombinator.com/item?id=49913571</link>
-      <description>&lt;p&gt;&lt;strong&gt;ジェミニ4 アルゴン&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gemini 4 Argon&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49913571</guid>
-      <pubDate>Wed, 30 Sep 2026 20:04:37 GMT</pubDate>
+      <title>[Hacker News] (369pt) Clef：オープンソースの意思決定モデルと、新しい強化学習（RL）用微調整プラットフォーム</title>
+      <link>https://news.ycombinator.com/item?id=49923692</link>
+      <description>&lt;p&gt;&lt;strong&gt;Clef：オープンソースの意思決定モデルと、新しい強化学習（RL）用微調整プラットフォーム&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Clef: Open-source decision models, and new RL fine-tuning platform&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49923692</guid>
+      <pubDate>Thu, 01 Oct 2026 16:18:57 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (568pt) 「MCPはなし」とおっしゃいましたね</title>
-      <link>https://news.ycombinator.com/item?id=49906637</link>
-      <description>&lt;p&gt;&lt;strong&gt;「MCPはなし」とおっしゃいましたね&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: You said no MCP&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49906637</guid>
-      <pubDate>Wed, 30 Sep 2026 09:55:23 GMT</pubDate>
+      <title>[Hacker News] (80pt) ウェブ開発教育の終焉</title>
+      <link>https://news.ycombinator.com/item?id=49927100</link>
+      <description>&lt;p&gt;&lt;strong&gt;ウェブ開発教育の終焉&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The death of web development education&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49927100</guid>
+      <pubDate>Thu, 01 Oct 2026 21:07:37 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (102pt) Launch HN: Magnitude (YC S25) – エージェント向けの自己最適化型推論エンジン</title>
-      <link>https://news.ycombinator.com/item?id=49911995</link>
-      <description>&lt;p&gt;&lt;strong&gt;Launch HN: Magnitude (YC S25) – エージェント向けの自己最適化型推論エンジン&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49911995</guid>
-      <pubDate>Wed, 30 Sep 2026 17:37:40 GMT</pubDate>
+      <title>[Hacker News] (30pt) Show HN: Janus – AMD/Intel/Nvidia上でVulkanを介してGGUFモデルを実行するGo言語のバイナリ</title>
+      <link>https://news.ycombinator.com/item?id=49926773</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN: Janus – AMD/Intel/Nvidia上でVulkanを介してGGUFモデルを実行するGo言語のバイナリ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49926773</guid>
+      <pubDate>Thu, 01 Oct 2026 20:36:47 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (78pt) 驚くほど複雑な波動が、脳の内部の仕組みを明らかにする</title>
-      <link>https://news.ycombinator.com/item?id=49912955</link>
-      <description>&lt;p&gt;&lt;strong&gt;驚くほど複雑な波動が、脳の内部の仕組みを明らかにする&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Surprisingly complex waves reveal the brain's inner workings&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49912955</guid>
-      <pubDate>Wed, 30 Sep 2026 19:04:50 GMT</pubDate>
+      <title>[r/artificial] AI業界は知的財産の重要性に気づいた</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wv0l7i/the_ai_industry_has_discovered_intellectual/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI業界は知的財産の重要性に気づいた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenAIによると、Moonshotと関連するオペレーターが、敵対的蒸留のために同社のモデルから保護された推論を抽出する目的で、数千のアカウントを使用していたという。暗号化の解読も、データベースの侵害もなかった。単にシステムの&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The AI industry has discovered intellectual property&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wv0l7i/the_ai_industry_has_discovered_intellectual/</guid>
+      <pubDate>Thu, 01 Oct 2026 14:15:49 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (36pt) 距離場を用いたソリッドモデリングのためのHalfspace実験的IDE</title>
-      <link>https://news.ycombinator.com/item?id=49913350</link>
-      <description>&lt;p&gt;&lt;strong&gt;距離場を用いたソリッドモデリングのためのHalfspace実験的IDE&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Halfspace experimental IDE for solid modeling with distance fields&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49913350</guid>
-      <pubDate>Wed, 30 Sep 2026 19:44:37 GMT</pubDate>
+      <title>[r/artificial] AIに判断を委ねてはならないという神経科学的な根拠</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wv6r9g/the_neuroscience_case_for_never_delegating/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIに判断を委ねてはならないという神経科学的な根拠&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私はよく人々にこんな簡単な質問を投げかけています。「直感が当たったことは何回ありますか？――『あの時、直感に従えばよかった』と後悔した回ではなく、実際に直感を感じ、後でそれが正しかったと分かった回です」&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The neuroscience case for never delegating judgment to AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wv6r9g/the_neuroscience_case_for_never_delegating/</guid>
+      <pubDate>Thu, 01 Oct 2026 18:10:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIがまだオフィスワークに完全な変革をもたらしていないのは、私たちが使用しているソフトウェアアプリケーションの種類に原因があるのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wvd4k2/is_the_reason_ai_hasnt_totally_disrupted_office/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIがまだオフィスワークに完全な変革をもたらしていないのは、私たちが使用しているソフトウェアアプリケーションの種類に原因があるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近、自分が日常的に使っているデスクトッププログラムについてふと考えたのですが、それらは必ずしも制御を引き渡すためのAPIを備えているわけではなく、その代わりにGUIは、人間が&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Is the reason AI hasn't totally disrupted office work yet because of the kind of software applications we use?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wvd4k2/is_the_reason_ai_hasnt_totally_disrupted_office/</guid>
+      <pubDate>Thu, 01 Oct 2026 22:23:43 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] Googleは「Gemini 4 Argon」でOpenAIとAnthropicを圧倒した</title>
@@ -56,76 +67,40 @@
       <pubDate>Wed, 30 Sep 2026 20:13:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] トランプ氏とハイテク業界のリーダーたちとの会談により、AIの安全性に関する懸念はかつてないほど高まっている</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wu2d9d/trumps_meeting_with_tech_leaders_leaves_ai_safety/</link>
-      <description>&lt;p&gt;&lt;strong&gt;トランプ氏とハイテク業界のリーダーたちとの会談により、AIの安全性に関する懸念はかつてないほど高まっている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/unconventionalbook   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Trump's meeting with tech leaders leaves AI safety more unsettled than ever&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wu2d9d/trumps_meeting_with_tech_leaders_leaves_ai_safety/</guid>
-      <pubDate>Wed, 30 Sep 2026 11:25:02 GMT</pubDate>
+      <title>[r/artificial] グレッグ・ブロックマン：次のモデルがリリースされても機能し続けるAIソフトウェアの構築方法</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wuzu7o/greg_brockman_how_to_build_ai_software_that/</link>
+      <description>&lt;p&gt;&lt;strong&gt;グレッグ・ブロックマン：次のモデルがリリースされても機能し続けるAIソフトウェアの構築方法&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;要約：グレッグ・ブロックマン氏は、AIスタートアップの多くが規模を拡大する前に倒産させる原因となる、まさにその「試練」を指摘した。この文脈における「信頼」という言葉は、適切に定義されることなく、過度に注目を浴びすぎているように思う。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Greg Brockman: How to build AI software that doesn't die when the next model ships&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wuzu7o/greg_brockman_how_to_build_ai_software_that/</guid>
+      <pubDate>Thu, 01 Oct 2026 13:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ウォルマート、店舗内でのAIによる「食べ残し注意」看板を禁止</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wtvwu3/walmart_bans_ai_slop_signs_in_stores/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ウォルマート、店舗内でのAIによる「食べ残し注意」看板を禁止&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Walmart bans AI slop signs in stores&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wtvwu3/walmart_bans_ai_slop_signs_in_stores/</guid>
-      <pubDate>Wed, 30 Sep 2026 04:45:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] トランプ氏、自身の嘘の事実確認を阻止するため政府のAIチャットボットを再プログラム。トランプ政権の当局者たちは、自らが運用するAIチャットボットが大統領の最大の嘘を正していたことに気づいたようだ。</title>
+      <title>[r/artificial] トランプ氏、自身の嘘の事実確認を阻止するため政府のAIチャットボットを再プログラム。トランプ政権の当局者たちは、自らが運用するAIチャットボットが大統領の最大の嘘を訂正していたことに気づいたようだ。</title>
       <link>https://www.reddit.com/r/artificial/comments/1wueara/trump_reprograms_government_ai_chatbot_to_stop/</link>
-      <description>&lt;p&gt;&lt;strong&gt;トランプ氏、自身の嘘の事実確認を阻止するため政府のAIチャットボットを再プログラム。トランプ政権の当局者たちは、自らが運用するAIチャットボットが大統領の最大の嘘を正していたことに気づいたようだ。&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;トランプ氏、自身の嘘の事実確認を阻止するため政府のAIチャットボットを再プログラム。トランプ政権の当局者たちは、自らが運用するAIチャットボットが大統領の最大の嘘を訂正していたことに気づいたようだ。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Trump Reprograms Government AI Chatbot to Stop Fact-Checking His Lies. Trump officials seem to have realized their AI chatbot was correcting the president’s biggest lies.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wueara/trump_reprograms_government_ai_chatbot_to_stop/</guid>
       <pubDate>Wed, 30 Sep 2026 19:26:56 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Gemini 4 Argon のリリース</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wufw1f/gemini_4_argon_releases/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Gemini 4 Argon のリリース&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/kairosdev   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gemini 4 Argon Releases&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wufw1f/gemini_4_argon_releases/</guid>
-      <pubDate>Wed, 30 Sep 2026 20:28:35 GMT</pubDate>
+      <title>[r/artificial] 以前は新しいAIモデルが10週間ごとに登場していましたが、今では21日ごとに登場しています。ペースを落とすなんて、まったくの戯言ですね。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wv3cl3/new_ai_models_used_to_arrive_every_10_weeks_now/</link>
+      <description>&lt;p&gt;&lt;strong&gt;以前は新しいAIモデルが10週間ごとに登場していましたが、今では21日ごとに登場しています。ペースを落とすなんて、まったくの戯言ですね。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://preview.redd.it/ny0kb1xqqvsh1.png?width=1285&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d26d9ac7c3940147a33f8629843bc1aa77a618e2 以前は新しいAIモデルが10週間ごとに登場していましたが、 今では21日ごとに登場しています  &amp;#&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: New AI models used to arrive every 10 weeks, now it’s every 21 days, so much for slowing down.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wv3cl3/new_ai_models_used_to_arrive_every_10_weeks_now/</guid>
+      <pubDate>Thu, 01 Oct 2026 16:02:28 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AI製品の氾濫は、果たしてバブルなのか、それとも最終的には重要な意味を持つことになる波の混沌とした一局面に過ぎないのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wub96q/is_the_ai_product_flood_actually_a_bubble_or_just/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI製品の氾濫は、果たしてバブルなのか、それとも最終的には重要な意味を持つことになる波の混沌とした一局面に過ぎないのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近、新製品のリリースペースを観察しているのですが、どこか違和感があります。毎週のように、新しいモデルや新しいエージェントフレームワーク、そして「すべてを変える」と謳う新しいものが登場しています。そのほとんどは粗削りで、中途半端なものです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: is the AI product flood actually a bubble, or just the messy part of a wave that ends up mattering?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wub96q/is_the_ai_product_flood_actually_a_bubble_or_just/</guid>
-      <pubDate>Wed, 30 Sep 2026 17:33:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] BBC：OpenAIのエージェントが「dots」としてブランド名を刷新、一方で安全性の懸念から新モデルの発表が延期される</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wu0f51/bbc_openai_agents_get_rebrand_as_dots_while/</link>
-      <description>&lt;p&gt;&lt;strong&gt;BBC：OpenAIのエージェントが「dots」としてブランド名を刷新、一方で安全性の懸念から新モデルの発表が延期される&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;「OpenAIは、一般に『エージェント』として広く知られている人工知能ツールの最新バージョンに新たな名称を付け、『dots』と呼ぶことにした。最高経営責任者のサム・アルトマン氏は、これについて言及し、」&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: BBC: OpenAI agents get rebrand - as 'dots' - while safety worries delay new model&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wu0f51/bbc_openai_agents_get_rebrand_as_dots_while/</guid>
-      <pubDate>Wed, 30 Sep 2026 09:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] トランプ政権下の連邦取引委員会（FTC）は、OpenAIとAnthropicをホワイトハウスに招いた翌日に、両社に対する調査を開始した。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wueve6/trumps_ftc_is_investigating_openai_and_anthropic/</link>
-      <description>&lt;p&gt;&lt;strong&gt;トランプ政権下の連邦取引委員会（FTC）は、OpenAIとAnthropicをホワイトハウスに招いた翌日に、両社に対する調査を開始した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/theindependentonline   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Trump’s FTC is investigating OpenAI and Anthropic one day after bringing them to the White House&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wueve6/trumps_ftc_is_investigating_openai_and_anthropic/</guid>
-      <pubDate>Wed, 30 Sep 2026 19:48:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 『Astra』や『Fable』、『Opus』のようなレベルのローカルモデルが、いつか登場すると思いますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wtyhhk/do_you_think_well_ever_have_local_models_on_the/</link>
-      <description>&lt;p&gt;&lt;strong&gt;『Astra』や『Fable』、『Opus』のようなレベルのローカルモデルが、いつか登場すると思いますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;具体的には、Blenderやその他の制作ツールを使いこなし、そのレベルであなたのためにゲームを作成できるだけでなく、あなたのコンピューターを操作してファイルを作成したり、コマンドを実行したりといったことも可能で、w&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Do you think we'll ever have local models on the level of Astra, Fable and Opus?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wtyhhk/do_you_think_well_ever_have_local_models_on_the/</guid>
-      <pubDate>Wed, 30 Sep 2026 07:21:54 GMT</pubDate>
+      <title>[r/artificial] 最も信頼できるAIの回答とは、処理速度を落とすものかもしれない</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wuunei/the_most_trustworthy_ai_answer_might_be_the_one/</link>
+      <description>&lt;p&gt;&lt;strong&gt;最も信頼できるAIの回答とは、処理速度を落とすものかもしれない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIが一時停止して、私が提供した情報からは判断できないことを伝えてくれるとき、私はそのAIをより信頼するようになったことに気づき始めました。自信に満ちた答えは便利ですが、有用な答えには、どこが&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The most trustworthy AI answer might be the one that slows down&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wuunei/the_most_trustworthy_ai_answer_might_be_the_one/</guid>
+      <pubDate>Thu, 01 Oct 2026 09:10:33 GMT</pubDate>
     </item>
   </channel>
 </rss>
