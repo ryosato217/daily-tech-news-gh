@@ -3,104 +3,113 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-01</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-02</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 22:32:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 22:01:58 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (369pt) Clef：オープンソースの意思決定モデルと、新しい強化学習（RL）用微調整プラットフォーム</title>
-      <link>https://news.ycombinator.com/item?id=49923692</link>
-      <description>&lt;p&gt;&lt;strong&gt;Clef：オープンソースの意思決定モデルと、新しい強化学習（RL）用微調整プラットフォーム&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Clef: Open-source decision models, and new RL fine-tuning platform&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49923692</guid>
-      <pubDate>Thu, 01 Oct 2026 16:18:57 GMT</pubDate>
+      <title>[Hacker News] (134pt) グレッグ・クロー・ハートマン – LLM時代のセキュリティ [動画]</title>
+      <link>https://news.ycombinator.com/item?id=49929391</link>
+      <description>&lt;p&gt;&lt;strong&gt;グレッグ・クロー・ハートマン – LLM時代のセキュリティ [動画]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Greg Kroah-Hartman – Security in the LLM Age [video]&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49929391</guid>
+      <pubDate>Fri, 02 Oct 2026 02:51:27 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (80pt) ウェブ開発教育の終焉</title>
-      <link>https://news.ycombinator.com/item?id=49927100</link>
-      <description>&lt;p&gt;&lt;strong&gt;ウェブ開発教育の終焉&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The death of web development education&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49927100</guid>
-      <pubDate>Thu, 01 Oct 2026 21:07:37 GMT</pubDate>
+      <title>[Hacker News] (118pt) ほとんどの情報が隠されているため、ボードゲーム「ストラテゴ」はこれまでAIを悩ませてきた</title>
+      <link>https://news.ycombinator.com/item?id=49933740</link>
+      <description>&lt;p&gt;&lt;strong&gt;ほとんどの情報が隠されているため、ボードゲーム「ストラテゴ」はこれまでAIを悩ませてきた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: With most information hidden, the game Stratego had stumped AI until now&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49933740</guid>
+      <pubDate>Fri, 02 Oct 2026 14:11:24 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (30pt) Show HN: Janus – AMD/Intel/Nvidia上でVulkanを介してGGUFモデルを実行するGo言語のバイナリ</title>
-      <link>https://news.ycombinator.com/item?id=49926773</link>
-      <description>&lt;p&gt;&lt;strong&gt;Show HN: Janus – AMD/Intel/Nvidia上でVulkanを介してGGUFモデルを実行するGo言語のバイナリ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49926773</guid>
-      <pubDate>Thu, 01 Oct 2026 20:36:47 GMT</pubDate>
+      <title>[Hacker News] (51pt) ミューズ・ガジェット</title>
+      <link>https://news.ycombinator.com/item?id=49937504</link>
+      <description>&lt;p&gt;&lt;strong&gt;ミューズ・ガジェット&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Muse Gadgets&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49937504</guid>
+      <pubDate>Fri, 02 Oct 2026 19:26:54 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AI業界は知的財産の重要性に気づいた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wv0l7i/the_ai_industry_has_discovered_intellectual/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI業界は知的財産の重要性に気づいた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIによると、Moonshotと関連するオペレーターが、敵対的蒸留のために同社のモデルから保護された推論を抽出する目的で、数千のアカウントを使用していたという。暗号化の解読も、データベースの侵害もなかった。単にシステムの&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The AI industry has discovered intellectual property&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wv0l7i/the_ai_industry_has_discovered_intellectual/</guid>
-      <pubDate>Thu, 01 Oct 2026 14:15:49 GMT</pubDate>
+      <title>[r/artificial] マイクロソフトがAIのコスプレをしている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ww07rr/microsoft_is_cosplaying_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;マイクロソフトがAIのコスプレをしている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今日、仕事でMicrosoft Copilotを使ってみよう（無理やり使ってみた）ところ、はあ、本当に目が覚めるような体験でした。最も印象に残ったのは、Microsoftが、特に&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Microsoft is cosplaying AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ww07rr/microsoft_is_cosplaying_ai/</guid>
+      <pubDate>Fri, 02 Oct 2026 17:45:58 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIに判断を委ねてはならないという神経科学的な根拠</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wv6r9g/the_neuroscience_case_for_never_delegating/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIに判断を委ねてはならないという神経科学的な根拠&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私はよく人々にこんな簡単な質問を投げかけています。「直感が当たったことは何回ありますか？――『あの時、直感に従えばよかった』と後悔した回ではなく、実際に直感を感じ、後でそれが正しかったと分かった回です」&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The neuroscience case for never delegating judgment to AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wv6r9g/the_neuroscience_case_for_never_delegating/</guid>
-      <pubDate>Thu, 01 Oct 2026 18:10:26 GMT</pubDate>
+      <title>[r/artificial] Facebookのフィードは、今やその大部分がAIによって生成されている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wvxfey/facebook_feed_is_now_majority_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Facebookのフィードは、今やその大部分がAIによって生成されている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は35歳ですが、今でもたまにFacebookを利用しています。フィードは、ここ数年で、友人の投稿を表示する傾向から、クリエイターのコンテンツを表示する傾向へと変化してきました。ここ数週間で、その変化に気づきました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Facebook feed is now majority AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wvxfey/facebook_feed_is_now_majority_ai/</guid>
+      <pubDate>Fri, 02 Oct 2026 15:54:32 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIがまだオフィスワークに完全な変革をもたらしていないのは、私たちが使用しているソフトウェアアプリケーションの種類に原因があるのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wvd4k2/is_the_reason_ai_hasnt_totally_disrupted_office/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIがまだオフィスワークに完全な変革をもたらしていないのは、私たちが使用しているソフトウェアアプリケーションの種類に原因があるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近、自分が日常的に使っているデスクトッププログラムについてふと考えたのですが、それらは必ずしも制御を引き渡すためのAPIを備えているわけではなく、その代わりにGUIは、人間が&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Is the reason AI hasn't totally disrupted office work yet because of the kind of software applications we use?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wvd4k2/is_the_reason_ai_hasnt_totally_disrupted_office/</guid>
-      <pubDate>Thu, 01 Oct 2026 22:23:43 GMT</pubDate>
+      <title>[r/artificial] AI面接官は、台本から外れるべきタイミングをどの程度的確に見極められるのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ww61xz/how_good_are_ai_interviewers_at_knowing_when_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI面接官は、台本から外れるべきタイミングをどの程度的確に見極められるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIが進行役を務める研究インタビューについて調べていますが、基本的な質疑応答の部分はそれほど難しくないようです。私がもっと興味を持っているのは、誰かが誰も知らないような答えを返したときにどうなるかということです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How good are AI interviewers at knowing when to abandon the script?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ww61xz/how_good_are_ai_interviewers_at_knowing_when_to/</guid>
+      <pubDate>Fri, 02 Oct 2026 21:41:13 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Googleは「Gemini 4 Argon」でOpenAIとAnthropicを圧倒した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wufikm/google_cooked_openai_and_anthropic_with_gemini_4/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Googleは「Gemini 4 Argon」でOpenAIとAnthropicを圧倒した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;1ヶ月で3つのフロンティアモデル！新しいものが次々と古いものを追い越していく！  &amp;#32; 投稿者：&amp;#32;  /u/DataRemarkable7093   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Google cooked OpenAI and Anthropic with Gemini 4 Argon&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wufikm/google_cooked_openai_and_anthropic_with_gemini_4/</guid>
-      <pubDate>Wed, 30 Sep 2026 20:13:57 GMT</pubDate>
+      <title>[r/artificial] マクドナルドは、ビッグマックの価格を決定するためにAIを活用している</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ww0rrf/mcdonalds_has_been_using_ai_to_decide_how_much/</link>
+      <description>&lt;p&gt;&lt;strong&gt;マクドナルドは、ビッグマックの価格を決定するためにAIを活用している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/shield_x   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: McDonald's has been using AI to decide how much you should pay for a Big Mac&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ww0rrf/mcdonalds_has_been_using_ai_to_decide_how_much/</guid>
+      <pubDate>Fri, 02 Oct 2026 18:07:32 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] グレッグ・ブロックマン：次のモデルがリリースされても機能し続けるAIソフトウェアの構築方法</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wuzu7o/greg_brockman_how_to_build_ai_software_that/</link>
-      <description>&lt;p&gt;&lt;strong&gt;グレッグ・ブロックマン：次のモデルがリリースされても機能し続けるAIソフトウェアの構築方法&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;要約：グレッグ・ブロックマン氏は、AIスタートアップの多くが規模を拡大する前に倒産させる原因となる、まさにその「試練」を指摘した。この文脈における「信頼」という言葉は、適切に定義されることなく、過度に注目を浴びすぎているように思う。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Greg Brockman: How to build AI software that doesn't die when the next model ships&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wuzu7o/greg_brockman_how_to_build_ai_software_that/</guid>
-      <pubDate>Thu, 01 Oct 2026 13:45:15 GMT</pubDate>
+      <title>[r/artificial] 『スター・トレック』とAI</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wvso0w/star_trek_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;『スター・トレック』とAI&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私はファンであって専門家ではありませんが、なぜ『スター・トレック』の世界でAI（やロボット）がもっと大きな存在になっていないのか、ずっと不思議に思っていました……。そして昨日、この技術がいかに素晴らしく、かつ破壊的であるかを考えながら、ふと……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Star Trek &amp; AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wvso0w/star_trek_ai/</guid>
+      <pubDate>Fri, 02 Oct 2026 12:36:13 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] トランプ氏、自身の嘘の事実確認を阻止するため政府のAIチャットボットを再プログラム。トランプ政権の当局者たちは、自らが運用するAIチャットボットが大統領の最大の嘘を訂正していたことに気づいたようだ。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wueara/trump_reprograms_government_ai_chatbot_to_stop/</link>
-      <description>&lt;p&gt;&lt;strong&gt;トランプ氏、自身の嘘の事実確認を阻止するため政府のAIチャットボットを再プログラム。トランプ政権の当局者たちは、自らが運用するAIチャットボットが大統領の最大の嘘を訂正していたことに気づいたようだ。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Trump Reprograms Government AI Chatbot to Stop Fact-Checking His Lies. Trump officials seem to have realized their AI chatbot was correcting the president’s biggest lies.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wueara/trump_reprograms_government_ai_chatbot_to_stop/</guid>
-      <pubDate>Wed, 30 Sep 2026 19:26:56 GMT</pubDate>
+      <title>[r/artificial] 科学者たちが、実験を提案し、実行し、その結果から学習できるAIを開発した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ww5ozf/scientists_build_an_ai_that_can_propose/</link>
+      <description>&lt;p&gt;&lt;strong&gt;科学者たちが、実験を提案し、実行し、その結果から学習できるAIを開発した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;人工知能は、科学データの分析やアイデアの提案という段階を超えつつある。スウェーデンのある研究所では、人工知能が自らそのアイデアの一部を実証し始めている。チャルマース大学の研究者たちは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Scientists build an AI that can propose experiments, run them and learn from the results&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ww5ozf/scientists_build_an_ai_that_can_propose/</guid>
+      <pubDate>Fri, 02 Oct 2026 21:26:04 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 以前は新しいAIモデルが10週間ごとに登場していましたが、今では21日ごとに登場しています。ペースを落とすなんて、まったくの戯言ですね。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wv3cl3/new_ai_models_used_to_arrive_every_10_weeks_now/</link>
-      <description>&lt;p&gt;&lt;strong&gt;以前は新しいAIモデルが10週間ごとに登場していましたが、今では21日ごとに登場しています。ペースを落とすなんて、まったくの戯言ですね。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://preview.redd.it/ny0kb1xqqvsh1.png?width=1285&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d26d9ac7c3940147a33f8629843bc1aa77a618e2 以前は新しいAIモデルが10週間ごとに登場していましたが、 今では21日ごとに登場しています  &amp;#&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: New AI models used to arrive every 10 weeks, now it’s every 21 days, so much for slowing down.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wv3cl3/new_ai_models_used_to_arrive_every_10_weeks_now/</guid>
-      <pubDate>Thu, 01 Oct 2026 16:02:28 GMT</pubDate>
+      <title>[r/artificial] AIの「専門家」たちへの質問です：幻覚の発生率と信頼性は本当に向上しているのでしょうか、それとも頭打ちになりつつあるのでしょうか？すべてはこれにかかっています……</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ww43mn/a_question_for_the_ai_experts_are_hallucinations/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIの「専門家」たちへの質問です：幻覚の発生率と信頼性は本当に向上しているのでしょうか、それとも頭打ちになりつつあるのでしょうか？すべてはこれにかかっています……&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;プログラマーや、例えばニッチな数学の問題を解こうとしている人などではなく、一般的なユーザーにとっては、信頼性の問題（例えば、情報をでっち上げるなど）があるため、AIは依然として非常に制限されているように感じられます……。専門家ではない私としては、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A question for the AI &quot;experts&quot;: are hallucinations and reliability genuinely improving, or are we starting to plateau? Everything depends on this...&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ww43mn/a_question_for_the_ai_experts_are_hallucinations/</guid>
+      <pubDate>Fri, 02 Oct 2026 20:19:49 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 最も信頼できるAIの回答とは、処理速度を落とすものかもしれない</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wuunei/the_most_trustworthy_ai_answer_might_be_the_one/</link>
-      <description>&lt;p&gt;&lt;strong&gt;最も信頼できるAIの回答とは、処理速度を落とすものかもしれない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIが一時停止して、私が提供した情報からは判断できないことを伝えてくれるとき、私はそのAIをより信頼するようになったことに気づき始めました。自信に満ちた答えは便利ですが、有用な答えには、どこが&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The most trustworthy AI answer might be the one that slows down&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wuunei/the_most_trustworthy_ai_answer_might_be_the_one/</guid>
-      <pubDate>Thu, 01 Oct 2026 09:10:33 GMT</pubDate>
+      <title>[r/artificial] この光を利用したAIは、ディープフェイクを約98％の精度で検出できる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ww5zwo/this_lightpowered_ai_can_spot_deepfakes_with/</link>
+      <description>&lt;p&gt;&lt;strong&gt;この光を利用したAIは、ディープフェイクを約98％の精度で検出できる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ai-edition   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: This light-powered AI can spot deepfakes with nearly 98% accuracy&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ww5zwo/this_lightpowered_ai_can_spot_deepfakes_with/</guid>
+      <pubDate>Fri, 02 Oct 2026 21:38:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AMD Ryzen AI 開発者プラットフォームの OS が ROCm 10.0 および Linux 7.2 に更新されました</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ww4amv/amd_ryzen_ai_developer_platform_os_updated_with/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AMD Ryzen AI 開発者プラットフォームの OS が ROCm 10.0 および Linux 7.2 に更新されました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Fcking_Chuck   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AMD Ryzen AI Developer Platform OS updated with ROCm 10.0, Linux 7.2&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ww4amv/amd_ryzen_ai_developer_platform_os_updated_with/</guid>
+      <pubDate>Fri, 02 Oct 2026 20:27:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
