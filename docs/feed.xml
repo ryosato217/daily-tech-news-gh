@@ -3,104 +3,104 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-03</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-04</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 03 Oct 2026 20:52:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 21:08:38 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (399pt) Kolibri：主権型オープンウェイトモデル</title>
-      <link>https://news.ycombinator.com/item?id=49942706</link>
-      <description>&lt;p&gt;&lt;strong&gt;Kolibri：主権型オープンウェイトモデル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Kolibri: A Sovereign Open-Weight Model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49942706</guid>
-      <pubDate>Sat, 03 Oct 2026 09:36:04 GMT</pubDate>
+      <title>[Hacker News] (107pt) Apple MacOS 27 AIモデルツールの削除と無効化</title>
+      <link>https://news.ycombinator.com/item?id=49957116</link>
+      <description>&lt;p&gt;&lt;strong&gt;Apple MacOS 27 AIモデルツールの削除と無効化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Remove and Disable Apple Macos27 AI Models Tool&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49957116</guid>
+      <pubDate>Sun, 04 Oct 2026 19:42:25 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (42pt) Show HN: Pi pod – 自分のサーバー上のサンドボックスで Pi コーディングエージェントを実行する</title>
-      <link>https://news.ycombinator.com/item?id=49937304</link>
-      <description>&lt;p&gt;&lt;strong&gt;Show HN: Pi pod – 自分のサーバー上のサンドボックスで Pi コーディングエージェントを実行する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49937304</guid>
-      <pubDate>Fri, 02 Oct 2026 19:10:38 GMT</pubDate>
+      <title>[Hacker News] (14pt) Homa：AIクラスターにおけるTCPの終焉 [動画]</title>
+      <link>https://news.ycombinator.com/item?id=49957117</link>
+      <description>&lt;p&gt;&lt;strong&gt;Homa：AIクラスターにおけるTCPの終焉 [動画]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Homa: The End of TCP for AI Clusters [video]&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49957117</guid>
+      <pubDate>Sun, 04 Oct 2026 19:42:25 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (35pt) 『Claude』および『Claude Code』でOpus 5.5を最大限に活用する</title>
-      <link>https://news.ycombinator.com/item?id=49946567</link>
-      <description>&lt;p&gt;&lt;strong&gt;『Claude』および『Claude Code』でOpus 5.5を最大限に活用する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Getting the most out of Opus 5.5 in Claude and Claude Code&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49946567</guid>
-      <pubDate>Sat, 03 Oct 2026 18:29:30 GMT</pubDate>
+      <title>[Hacker News] (12pt) 私はクロードに、中を歩き回れるような、物理的に正確なオニール・シリンダーを作ってほしいと頼んだ</title>
+      <link>https://news.ycombinator.com/item?id=49957191</link>
+      <description>&lt;p&gt;&lt;strong&gt;私はクロードに、中を歩き回れるような、物理的に正確なオニール・シリンダーを作ってほしいと頼んだ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I asked Claude build a physically accurate O'Neill cylinder you can walk around&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49957191</guid>
+      <pubDate>Sun, 04 Oct 2026 19:49:12 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] PewDiePieが、家庭用PCで動作するように構築された「無修正」のAjax AIモデルを公開――開発者によると、OpenAIは製品開発に使用されたモデル蒸留を理由に、彼を2度にわたり利用停止処分にしたという</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wwccsz/pewdiepie_unveils_uncensored_ajax_ai_model_built/</link>
-      <description>&lt;p&gt;&lt;strong&gt;PewDiePieが、家庭用PCで動作するように構築された「無修正」のAjax AIモデルを公開――開発者によると、OpenAIは製品開発に使用されたモデル蒸留を理由に、彼を2度にわたり利用停止処分にしたという&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ControlCAD   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: PewDiePie unveils &quot;uncensored&quot; Ajax AI model built to run on home PCs — creator says OpenAI banned him twice over model distillation used to build his product&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wwccsz/pewdiepie_unveils_uncensored_ajax_ai_model_built/</guid>
-      <pubDate>Sat, 03 Oct 2026 02:52:27 GMT</pubDate>
+      <title>[r/artificial] 被引用数に基づくAI研究者トップ50</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wxm1vq/the_top_50_ai_researchers_by_citations/</link>
+      <description>&lt;p&gt;&lt;strong&gt;被引用数に基づくAI研究者トップ50&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;このリストに載っている論文のうち、いくつ知っていましたか？ もちろん、『Attention is All You Need』（被引用数27万8千件）のような1本の論文が大きな影響を与えることは明らかです――その論文の著者全員がリストに名を連ねています。とはいえ、個人的には興味深いと思います。詳しい背景はこちら：h&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The top 50 AI researchers by citations&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wxm1vq/the_top_50_ai_researchers_by_citations/</guid>
+      <pubDate>Sun, 04 Oct 2026 17:59:09 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 教皇は、AIから人間の創造性を守るために、芸術家たちの連携を望んでいます。このあなたのビジョンについて、どうお考えですか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wwh008/the_pope_would_like_an_alliance_of_artists_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;教皇は、AIから人間の創造性を守るために、芸術家たちの連携を望んでいます。このあなたのビジョンについて、どうお考えですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/m3nt3_   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Pope would like an alliance of artists to protect human creativity against AI. What do you think of this vision of yours?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wwh008/the_pope_would_like_an_alliance_of_artists_to/</guid>
-      <pubDate>Sat, 03 Oct 2026 07:21:20 GMT</pubDate>
+      <title>[r/artificial] ChatGPT-6「Astra」は『World of Warcraft』を「目隠し」状態でプレイし、40分でオークのスタートゾーンを死亡ゼロでクリアした――このAIエージェントは、生のサーバーネットワークパケットやSQLファイルを解析して移動している。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wxirdb/chatgpt6_astra_plays_world_of_warcraft_blind_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ChatGPT-6「Astra」は『World of Warcraft』を「目隠し」状態でプレイし、40分でオークのスタートゾーンを死亡ゼロでクリアした――このAIエージェントは、生のサーバーネットワークパケットやSQLファイルを解析して移動している。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ThereWas   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths — AI agent navigates by parsing raw server network packets and SQL filesa&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wxirdb/chatgpt6_astra_plays_world_of_warcraft_blind_and/</guid>
+      <pubDate>Sun, 04 Oct 2026 15:42:45 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 報道によると、マスク氏のAIチャットボット「Grok」は、トランプ氏に対し、ベネズエラ大統領を捕らえるよう促したという</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wwfhn1/musks_ai_chatbot_grok_reportedly_encouraged_trump/</link>
-      <description>&lt;p&gt;&lt;strong&gt;報道によると、マスク氏のAIチャットボット「Grok」は、トランプ氏に対し、ベネズエラ大統領を捕らえるよう促したという&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wwfhn1/musks_ai_chatbot_grok_reportedly_encouraged_trump/</guid>
-      <pubDate>Sat, 03 Oct 2026 05:49:57 GMT</pubDate>
+      <title>[r/artificial] 誰もが「1兆パラメータモデル」に夢中になっているので、私は100KBから2.5TBまでのAIの全範囲（およびそれらの実際の稼働コスト）を整理してみました。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wxanwe/everyone_is_obsessed_with_trillionparameter/</link>
+      <description>&lt;p&gt;&lt;strong&gt;誰もが「1兆パラメータモデル」に夢中になっているので、私は100KBから2.5TBまでのAIの全範囲（およびそれらの実際の稼働コスト）を整理してみました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今のAI業界は、巨大なデータセンター・クラスターやH100の時間単位でのレンタルに完全に焦点が当てられているように感じられます。しかし、これらのモデルの実際のフットプリントをあまりにも長い時間かけて調べてみた結果、私は……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Everyone is obsessed with trillion-parameter models, so I mapped out the entire AI spectrum from 100KB to 2.5TB (and what they actually cost to run)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wxanwe/everyone_is_obsessed_with_trillionparameter/</guid>
+      <pubDate>Sun, 04 Oct 2026 08:35:16 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] すべてのメッセージがAIによって磨き上げられるようになると、地域の方言はどうなるのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wwplw1/what_happens_to_local_accents_when_every_message/</link>
-      <description>&lt;p&gt;&lt;strong&gt;すべてのメッセージがAIによって磨き上げられるようになると、地域の方言はどうなるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIを使って文章をより分かりやすくするのが好きです。疲れているときや、得意ではない言語で書いているときに役立ちます。しかし、洗練された文章には、些細な要素が削られてしまうこともあることに気づきました。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What happens to local accents when every message gets polished by AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wwplw1/what_happens_to_local_accents_when_every_message/</guid>
-      <pubDate>Sat, 03 Oct 2026 15:10:58 GMT</pubDate>
+      <title>[r/artificial] Claude Opus 5.5に『マリオ64』風のゲームを作ってほしいと頼んだところ、約30分でこんなものが出来上がりました。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wwzkiw/i_asked_claude_opus_55_to_make_a_mario_64_style/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Claude Opus 5.5に『マリオ64』風のゲームを作ってほしいと頼んだところ、約30分でこんなものが出来上がりました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ElatedPyroHippo   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I asked Claude Opus 5.5 to make a Mario 64 style game, it gave me this in about 30 minutes.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wwzkiw/i_asked_claude_opus_55_to_make_a_mario_64_style/</guid>
+      <pubDate>Sat, 03 Oct 2026 22:17:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ベン・アフレックは、映画製作者が所有権を維持できるよう、8か月分の映像を独自のAIレイヤーに組み込んだと語っている――なぜ依然として多くのモデルが、同意なしに他者の映像を使って学習しているのか</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wwphsv/ben_affleck_says_he_built_8_months_of_footage/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ベン・アフレックは、映画製作者が所有権を維持できるよう、8か月分の映像を独自のAIレイヤーに組み込んだと語っている――なぜ依然として多くのモデルが、同意なしに他者の映像を使って学習しているのか&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;要約：ベン・アフレックは、映画製作者が所有権を維持できるよう独自のレイヤーを構築するために、自身のカメラで8か月間撮影を行ったと述べている――しかし、ほとんどのオープンモデルは、同意なしに彼の同業者たちを元に学習されており、それが問題なのだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Ben Affleck says he built 8 months of footage into a private AI layer so filmmakers keep ownership — why most models still train on peers without consent&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wwphsv/ben_affleck_says_he_built_8_months_of_footage/</guid>
-      <pubDate>Sat, 03 Oct 2026 15:06:22 GMT</pubDate>
+      <title>[r/artificial] 私が開発した医療相談ゲームでは、13体のAIモデルに医師役を演じさせました。195件の相談すべてで正しい診断が下されましたが、各モデルの違いは安全性の面で現れました。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wx8vyi/i_made_13_ai_models_play_the_doctor_in_my_medical/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私が開発した医療相談ゲームでは、13体のAIモデルに医師役を演じさせました。195件の相談すべてで正しい診断が下されましたが、各モデルの違いは安全性の面で現れました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私はオーストラリアで研修中のGP（家庭医）ですが、プレイヤーがGP役になって遊ぶゲームを作りました。このゲームでは、自分の言葉で患者と会話し、診察を行い、検査を指示し、薬を処方し、専門医へ紹介することができます。コード&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I made 13 AI models play the doctor in my medical consultation game. All 195 consults got the diagnosis right; what separated them was safety.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wx8vyi/i_made_13_ai_models_play_the_doctor_in_my_medical/</guid>
+      <pubDate>Sun, 04 Oct 2026 06:44:25 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ウェブサイトの出来が悪い企業に連絡する、もっと良い方法を見つけた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wwwdnt/i_found_a_better_way_to_contact_businesses_with/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ウェブサイトの出来が悪い企業に連絡する、もっと良い方法を見つけた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;見込み客のウェブサイトを手作業で確認するのにうんざりしてしまった。しばらくの間、私の営業活動の大部分は、単に企業を探し出し、そのウェブサイトを一つずつ開いて、実際に何ができるかを把握しようと試みるだけだった。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I Found a Better Way to Contact Businesses With Bad Websites&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wwwdnt/i_found_a_better_way_to_contact_businesses_with/</guid>
-      <pubDate>Sat, 03 Oct 2026 19:55:54 GMT</pubDate>
+      <title>[r/artificial] AIが生成したSNSの投稿がロボットっぽすぎるから、まだ書き直している人は他にいませんか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wxp1u8/is_anyone_else_still_rewriting_aigenerated_social/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが生成したSNSの投稿がロボットっぽすぎるから、まだ書き直している人は他にいませんか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;多くのAIソーシャルツールでは、依然としてブランドイメージにそぐわない、あるいは少し不自然な印象を与えるコンテンツが生成されていることに気づきました。私はHootsuiteのAI機能やLater、Fismbotを試してみました。Hootsuiteは管理機能に関しては堅実ですが、Laterは……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Is anyone else still rewriting AI-generated social posts because they sound too robotic?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wxp1u8/is_anyone_else_still_rewriting_aigenerated_social/</guid>
+      <pubDate>Sun, 04 Oct 2026 20:00:44 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 究極の支配をめぐるAIとの議論</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wwuuh0/discussion_with_ai_over_ultimate_dominance/</link>
-      <description>&lt;p&gt;&lt;strong&gt;究極の支配をめぐるAIとの議論&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;以下は、人間が最も大きくも強くもないにもかかわらず、いかにして頂点捕食者となったかという問いから発展した、AIとの議論です。この議論は、より広範な論点へと展開しています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Discussion with AI over ultimate dominance&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wwuuh0/discussion_with_ai_over_ultimate_dominance/</guid>
-      <pubDate>Sat, 03 Oct 2026 18:52:06 GMT</pubDate>
+      <title>[r/artificial] アンソロピック社は、AIの意識について検討するようバチカンに積極的に働きかけている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wxok9e/anthropic_has_been_aggressively_lobbying_the/</link>
+      <description>&lt;p&gt;&lt;strong&gt;アンソロピック社は、AIの意識について検討するようバチカンに積極的に働きかけている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/sourdub   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic Has Been Aggressively Lobbying the Vatican to Consider AI Consciousness&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wxok9e/anthropic_has_been_aggressively_lobbying_the/</guid>
+      <pubDate>Sun, 04 Oct 2026 19:40:46 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIは実際にあなたの時間を節約しているのでしょうか、それとも、その時間をAIの管理に費やしているだけなのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wwsdk5/is_ai_actually_saving_you_time_or_are_you/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIは実際にあなたの時間を節約しているのでしょうか、それとも、その時間をAIの管理に費やしているだけなのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近、このことについてよく考えるようになりました。私たちには、文章の作成、調査、要約、データ分析、画像や動画の生成、ワークフローの自動化を行い、ますます私たちの代わりに行動を起こしてくれるAIツールがあります。理論的には&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Is AI actually saving you time, or are you spending that time managing AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wwsdk5/is_ai_actually_saving_you_time_or_are_you/</guid>
-      <pubDate>Sat, 03 Oct 2026 17:09:19 GMT</pubDate>
+      <title>[r/artificial] 基本的にすべてのGoogleモデル、ウェブ版のナノバナでさえも弱体化されています</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wxo85r/all_google_models_basically_even_nanobanna_on_web/</link>
+      <description>&lt;p&gt;&lt;strong&gt;基本的にすべてのGoogleモデル、ウェブ版のナノバナでさえも弱体化されています&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;長い間この件を追いかけてきたので、簡単なウェブ検索以外ではGeminiモデルを信用できないと思う  &amp;#39; 投稿者 &amp;#32;  /u/HimaSphere   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: All Google models basically, even nanobanna on web is nerfed&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wxo85r/all_google_models_basically_even_nanobanna_on_web/</guid>
+      <pubDate>Sun, 04 Oct 2026 19:26:51 GMT</pubDate>
     </item>
   </channel>
 </rss>
