@@ -3,111 +3,119 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-05</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-06</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Oct 2026 23:55:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 22:33:22 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (472pt) Web検索API</title>
-      <link>https://news.ycombinator.com/item?id=49963171</link>
-      <description>&lt;p&gt;&lt;strong&gt;Web検索API&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Web Search API&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49963171</guid>
-      <pubDate>Mon, 05 Oct 2026 10:47:06 GMT</pubDate>
+      <title>[Hacker News] (191pt) OpenTPU – AIによって開発されたオープンソースのAIアクセラレータ</title>
+      <link>https://news.ycombinator.com/item?id=49980715</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenTPU – AIによって開発されたオープンソースのAIアクセラレータ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenTPU – An open-source AI accelerator, developed by AI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49980715</guid>
+      <pubDate>Tue, 06 Oct 2026 16:23:25 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (274pt) Beam：Reflection社の501Bオープンウェイトモデル</title>
-      <link>https://news.ycombinator.com/item?id=49969183</link>
-      <description>&lt;p&gt;&lt;strong&gt;Beam：Reflection社の501Bオープンウェイトモデル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Beam: Reflection's 501B open-weight model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49969183</guid>
-      <pubDate>Mon, 05 Oct 2026 19:16:35 GMT</pubDate>
+      <title>[Hacker News] (161pt) EmbeddingGemma 2：オープンで軽量なマルチモーダル埋め込みモデル</title>
+      <link>https://news.ycombinator.com/item?id=49980487</link>
+      <description>&lt;p&gt;&lt;strong&gt;EmbeddingGemma 2：オープンで軽量なマルチモーダル埋め込みモデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: EmbeddingGemma 2: An open, lightweight multimodal embedding model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49980487</guid>
+      <pubDate>Tue, 06 Oct 2026 16:03:49 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (173pt) Opus 5.5の研究チームが、室温で磁性を示す半導体の候補物質を2種類発見した</title>
-      <link>https://news.ycombinator.com/item?id=49970667</link>
-      <description>&lt;p&gt;&lt;strong&gt;Opus 5.5の研究チームが、室温で磁性を示す半導体の候補物質を2種類発見した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49970667</guid>
-      <pubDate>Mon, 05 Oct 2026 21:00:21 GMT</pubDate>
+      <title>[Hacker News] (44pt) クロード・コードが提案したメッセージ機能：本当の顧客はモデルそのものだと思う</title>
+      <link>https://news.ycombinator.com/item?id=49981905</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロード・コードが提案したメッセージ機能：本当の顧客はモデルそのものだと思う&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Code’s suggested message feature: I think the real customer is the model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49981905</guid>
+      <pubDate>Tue, 06 Oct 2026 18:00:34 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (74pt) Dust：バックプロパゲーションを使わないトランスフォーマーの事前学習</title>
-      <link>https://news.ycombinator.com/item?id=49970871</link>
-      <description>&lt;p&gt;&lt;strong&gt;Dust：バックプロパゲーションを使わないトランスフォーマーの事前学習&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Dust: Pretraining Transformers Without Backpropagation&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49970871</guid>
-      <pubDate>Mon, 05 Oct 2026 21:15:07 GMT</pubDate>
+      <title>[Hacker News] (38pt) Decisions APIはパブリックベータ版となっています</title>
+      <link>https://news.ycombinator.com/item?id=49984025</link>
+      <description>&lt;p&gt;&lt;strong&gt;Decisions APIはパブリックベータ版となっています&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Decisions API is in public beta&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49984025</guid>
+      <pubDate>Tue, 06 Oct 2026 20:57:25 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (54pt) ChatGPTは、『ニューヨーカー』誌の偽の漫画に、本物の漫画家の署名を追加している</title>
-      <link>https://news.ycombinator.com/item?id=49971846</link>
-      <description>&lt;p&gt;&lt;strong&gt;ChatGPTは、『ニューヨーカー』誌の偽の漫画に、本物の漫画家の署名を追加している&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49971846</guid>
-      <pubDate>Mon, 05 Oct 2026 22:46:45 GMT</pubDate>
+      <title>[Hacker News] (36pt) 数学分野におけるAIの進展を共有する</title>
+      <link>https://news.ycombinator.com/item?id=49984923</link>
+      <description>&lt;p&gt;&lt;strong&gt;数学分野におけるAIの進展を共有する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Sharing AI Progress in Mathematics&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49984923</guid>
+      <pubDate>Tue, 06 Oct 2026 22:17:21 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ピュー・リサーチの調査結果が示す、「インターネットの死」説が現実になりつつある可能性 | オンラインで読んでいる記事の多くが、AIボットによって書かれている可能性がある</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wycn6p/the_dead_internet_theory_may_be_coming_true_pew/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ピュー・リサーチの調査結果が示す、「インターネットの死」説が現実になりつつある可能性 | オンラインで読んでいる記事の多くが、AIボットによって書かれている可能性がある&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Altruism7   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Dead Internet Theory May Be Coming True, Pew Research Findings Show | More of what you're reading online could be written by an AI bot&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wycn6p/the_dead_internet_theory_may_be_coming_true_pew/</guid>
-      <pubDate>Mon, 05 Oct 2026 16:11:57 GMT</pubDate>
+      <title>[Hacker News] (14pt) OpenAIによって作成された数学の原稿および証明を裏付ける資料</title>
+      <link>https://news.ycombinator.com/item?id=49984976</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIによって作成された数学の原稿および証明を裏付ける資料&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Mathematical manuscripts and supporting proof artifacts produced by OpenAI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49984976</guid>
+      <pubDate>Tue, 06 Oct 2026 22:22:48 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIにおける最大のリスクは、自社の製品を廃止することに過度に躊躇してしまうことかもしれない</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wye82b/maybe_the_biggest_risk_in_ai_is_being_too_afraid/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIにおける最大のリスクは、自社の製品を廃止することに過度に躊躇してしまうことかもしれない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;まず、簡単に自己紹介を。私はGensparkの年間サブスクライバーで、かなりヘビーユーザーです。スライド作成、リサーチ、ウェブ関連の整理、雑多な業務などに利用しており、コミュニティのスキルもいくつも拝借して……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Maybe the biggest risk in AI is being too afraid to kill your own product&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wye82b/maybe_the_biggest_risk_in_ai_is_being_too_afraid/</guid>
-      <pubDate>Mon, 05 Oct 2026 17:12:42 GMT</pubDate>
+      <title>[r/artificial] もう誰もGoogleで検索しなくなった。みんなAIに尋ねるようになった。そして、AIは私の存在を知らない</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wza04r/people_dont_google_anymore_they_ask_ai_and_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;もう誰もGoogleで検索しなくなった。みんなAIに尋ねるようになった。そして、AIは私の存在を知らない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は小さな法律事務所を経営しています。家族法、遺言、相続などを扱っています。派手な仕事ではありませんが、私たちの仕事には自信があります。クライアントにも好評で、紹介もいただいています。開業して12年になりますが、いつも同じことを耳にします。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: People don't Google anymore. They ask AI. And AI doesn't know I exist&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wza04r/people_dont_google_anymore_they_ask_ai_and_ai/</guid>
+      <pubDate>Tue, 06 Oct 2026 18:20:06 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 現在、最も優れたテキストモデルはどれですか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wyjudu/best_text_model_currently/</link>
-      <description>&lt;p&gt;&lt;strong&gt;現在、最も優れたテキストモデルはどれですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;テキストのみの場合、どのモデルが最も優れているか  &amp;#32; 投稿者：&amp;#32;  /u/-Duplex-   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Best text model currently?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wyjudu/best_text_model_currently/</guid>
-      <pubDate>Mon, 05 Oct 2026 20:47:53 GMT</pubDate>
+      <title>[r/artificial] プリンストン大学の研究者らは、4BのLLMを訓練し、チェスでEloレーティング2700を達成させた（訓練を中止した時点でも頭打ちの兆候は見られなかった）。また、そのLLMは自身の指し手を正確に説明することもできる。研究者らは、この訓練手法は他のゲームやロボット工学、コンピュータの利用にも応用できるとしている。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wypjue/princeton_researchers_train_a_4b_llm_to_reach/</link>
+      <description>&lt;p&gt;&lt;strong&gt;プリンストン大学の研究者らは、4BのLLMを訓練し、チェスでEloレーティング2700を達成させた（訓練を中止した時点でも頭打ちの兆候は見られなかった）。また、そのLLMは自身の指し手を正確に説明することもできる。研究者らは、この訓練手法は他のゲームやロボット工学、コンピュータの利用にも応用できるとしている。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Eliv_nurotic   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Princeton researchers train a 4B LLM to reach 2700 Elo in chess (with no signs of a plateau when they stopped training) and can explain its moves accurately. They say the training technique can also be applied to other games, robotics, and computer use&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wypjue/princeton_researchers_train_a_4b_llm_to_reach/</guid>
+      <pubDate>Tue, 06 Oct 2026 01:02:28 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 裁判官が、殺害された男性のAI生成動画を「気に入っていた」と述べたことを受け、裁判所は殺人犯の判決を破棄した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wy43z7/court_throws_out_killers_sentence_after_judge/</link>
-      <description>&lt;p&gt;&lt;strong&gt;裁判官が、殺害された男性のAI生成動画を「気に入っていた」と述べたことを受け、裁判所は殺人犯の判決を破棄した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/nbcnews   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Court throws out killer’s sentence after judge said he ‘loved’ AI video of slain man&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wy43z7/court_throws_out_killers_sentence_after_judge/</guid>
-      <pubDate>Mon, 05 Oct 2026 09:26:57 GMT</pubDate>
+      <title>[r/artificial] Metaの「Muse」エージェントは、400万人のユーザーに関するファイルを作成している。インタラクションデータは、「Muse」エージェントの各インスタンス間で共有されている。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wz9fbj/metas_muse_agent_is_creating_dossiers_on_its_4/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Metaの「Muse」エージェントは、400万人のユーザーに関するファイルを作成している。インタラクションデータは、「Muse」エージェントの各インスタンス間で共有されている。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「Museは1時間ごとに、Museが読み取ったチャット、メッセージ、メールの中で、あなたやあなたが言及した人々に関する情報を更新します。これらのページは、各ユーザーの社会的関係を示す地図のようなものです。この&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Meta's Muse agent is creating dossiers on its 4 million users; Interaction data is shared between Muse agent instances&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wz9fbj/metas_muse_agent_is_creating_dossiers_on_its_4/</guid>
+      <pubDate>Tue, 06 Oct 2026 17:58:38 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 文脈言語モデル</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wyi5nb/context_language_models/</link>
-      <description>&lt;p&gt;&lt;strong&gt;文脈言語モデル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/striketheviol   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Context Language Models&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wyi5nb/context_language_models/</guid>
-      <pubDate>Mon, 05 Oct 2026 19:41:59 GMT</pubDate>
+      <title>[r/artificial] ウェブデザイナーを探しています</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wzeein/im_looking_for_web_designers/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ウェブデザイナーを探しています&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これを読んでいる方のほとんどがウェブデザイナーであることを願っています。というのも、あることが本当に気になっているからです。2026年、皆さんはどうやってクライアントを獲得しているのでしょうか？最近、多くのウェブデザイナーや代理店経営者と話をしましたが、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I’m Looking For Web Designers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wzeein/im_looking_for_web_designers/</guid>
+      <pubDate>Tue, 06 Oct 2026 21:10:08 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 被引用数に基づくAI研究者トップ50</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wxm1vq/the_top_50_ai_researchers_by_citations/</link>
-      <description>&lt;p&gt;&lt;strong&gt;被引用数に基づくAI研究者トップ50&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;このリストに載っている論文のうち、いくつ知っていましたか？ もちろん、『Attention is All You Need』（被引用数27万8千件）のような1本の論文が大きな影響を与えることは明らかです――その論文の著者全員がリストに名を連ねています。とはいえ、個人的には興味深いと思います。詳しい背景はこちら：h&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The top 50 AI researchers by citations&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wxm1vq/the_top_50_ai_researchers_by_citations/</guid>
-      <pubDate>Sun, 04 Oct 2026 17:59:09 GMT</pubDate>
+      <title>[r/artificial] AIが放射線科医に取って代わる可能性は？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wz5vw9/chances_of_ai_replacing_radiologists/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが放射線科医に取って代わる可能性は？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;たとえば10年から20年後。  &amp;#32; 投稿者：&amp;#32;  /u/avb707   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Chances of AI replacing radiologists?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wz5vw9/chances_of_ai_replacing_radiologists/</guid>
+      <pubDate>Tue, 06 Oct 2026 15:42:03 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 人々は、中間選挙での投票先を決める手助けをChatGPTに求めている</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wyfyuj/people_are_asking_chatgpt_to_help_them_decide_how/</link>
-      <description>&lt;p&gt;&lt;strong&gt;人々は、中間選挙での投票先を決める手助けをChatGPTに求めている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/shield_x   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: People are asking ChatGPT to help them decide how to vote in the midterms&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wyfyuj/people_are_asking_chatgpt_to_help_them_decide_how/</guid>
-      <pubDate>Mon, 05 Oct 2026 18:18:41 GMT</pubDate>
+      <title>[r/artificial] カプコンは、RE EngineをAI生成型ゲームエンジンへと進化させる計画を発表――「私たちの目標は、AIと共にゲームを創り出す未来です」</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wyxz0h/capcom_announces_plans_to_transform_the_re_engine/</link>
+      <description>&lt;p&gt;&lt;strong&gt;カプコンは、RE EngineをAI生成型ゲームエンジンへと進化させる計画を発表――「私たちの目標は、AIと共にゲームを創り出す未来です」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Fcking_Chuck   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Capcom announces plans to transform the RE Engine into an AI-generation game engine — ‘Our goal is a future where we create games together with AI’&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wyxz0h/capcom_announces_plans_to_transform_the_re_engine/</guid>
+      <pubDate>Tue, 06 Oct 2026 09:15:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 今週金曜日のAMA：マシュー・シュワルツ（ハーバード大学）「クロード型科学」について、r/physicsにて</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wzbibm/ama_this_friday_matthew_schwartz_harvard/</link>
+      <description>&lt;p&gt;&lt;strong&gt;今週金曜日のAMA：マシュー・シュワルツ（ハーバード大学）「クロード型科学」について、r/physicsにて&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ハーバード大学の物理学教授であり、『量子場理論と標準模型』の著者であるマシュー・シュワルツ氏が、今週金曜日の米国東部時間正午にAMA（何でも答えます）を行う予定です。最近、彼がAnthropicのブログに投稿した記事をご覧になった方もいらっしゃるかもしれません。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AMA this Friday: Matthew Schwartz (Harvard) “Claude-shaped science,” on r/physics&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wzbibm/ama_this_friday_matthew_schwartz_harvard/</guid>
+      <pubDate>Tue, 06 Oct 2026 19:17:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
