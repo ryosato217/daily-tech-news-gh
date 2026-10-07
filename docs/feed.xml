@@ -3,74 +3,77 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-06</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-07</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Oct 2026 22:33:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:56:58 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (191pt) OpenTPU – AIによって開発されたオープンソースのAIアクセラレータ</title>
-      <link>https://news.ycombinator.com/item?id=49980715</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenTPU – AIによって開発されたオープンソースのAIアクセラレータ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenTPU – An open-source AI accelerator, developed by AI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49980715</guid>
-      <pubDate>Tue, 06 Oct 2026 16:23:25 GMT</pubDate>
+      <title>[Hacker News] (585pt) クロード・ハイク 5.5</title>
+      <link>https://news.ycombinator.com/item?id=49996437</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロード・ハイク 5.5&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Haiku 5.5&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49996437</guid>
+      <pubDate>Wed, 07 Oct 2026 18:01:32 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (161pt) EmbeddingGemma 2：オープンで軽量なマルチモーダル埋め込みモデル</title>
-      <link>https://news.ycombinator.com/item?id=49980487</link>
-      <description>&lt;p&gt;&lt;strong&gt;EmbeddingGemma 2：オープンで軽量なマルチモーダル埋め込みモデル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: EmbeddingGemma 2: An open, lightweight multimodal embedding model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49980487</guid>
-      <pubDate>Tue, 06 Oct 2026 16:03:49 GMT</pubDate>
+      <title>[Hacker News] (424pt) GPT-6と、誰もが利用できるインテリジェントUI</title>
+      <link>https://news.ycombinator.com/item?id=49996425</link>
+      <description>&lt;p&gt;&lt;strong&gt;GPT-6と、誰もが利用できるインテリジェントUI&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GPT‑6 and Intelligent UI for everyone&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49996425</guid>
+      <pubDate>Wed, 07 Oct 2026 18:00:58 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (44pt) クロード・コードが提案したメッセージ機能：本当の顧客はモデルそのものだと思う</title>
-      <link>https://news.ycombinator.com/item?id=49981905</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード・コードが提案したメッセージ機能：本当の顧客はモデルそのものだと思う&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Code’s suggested message feature: I think the real customer is the model&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49981905</guid>
-      <pubDate>Tue, 06 Oct 2026 18:00:34 GMT</pubDate>
+      <title>[Hacker News] (149pt) Dockerエージェント</title>
+      <link>https://news.ycombinator.com/item?id=49996259</link>
+      <description>&lt;p&gt;&lt;strong&gt;Dockerエージェント&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Docker Agent&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49996259</guid>
+      <pubDate>Wed, 07 Oct 2026 17:48:38 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (38pt) Decisions APIはパブリックベータ版となっています</title>
-      <link>https://news.ycombinator.com/item?id=49984025</link>
-      <description>&lt;p&gt;&lt;strong&gt;Decisions APIはパブリックベータ版となっています&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Decisions API is in public beta&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49984025</guid>
-      <pubDate>Tue, 06 Oct 2026 20:57:25 GMT</pubDate>
+      <title>[r/artificial] なぜ人工知能は不可能なのか［1984年のソ連におけるAI観］</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x099rd/why_artificial_intelligence_is_impossible_ussr/</link>
+      <description>&lt;p&gt;&lt;strong&gt;なぜ人工知能は不可能なのか［1984年のソ連におけるAI観］&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;出典：https://archive.org/details/MarkovCyberneticsTodayMir1984/mode/1up 『なぜ人工知能は不可能なのか』 A. V. ブラシュリンスキー 現代のサイバネティクス研究者たちが、この問いに対して肯定的な答えを出そうとする願望は&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Why Artificial Intelligence Is Impossible [USSR Perspective on AI from 1984]&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x099rd/why_artificial_intelligence_is_impossible_ussr/</guid>
+      <pubDate>Wed, 07 Oct 2026 21:42:53 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (36pt) 数学分野におけるAIの進展を共有する</title>
-      <link>https://news.ycombinator.com/item?id=49984923</link>
-      <description>&lt;p&gt;&lt;strong&gt;数学分野におけるAIの進展を共有する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Sharing AI Progress in Mathematics&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49984923</guid>
-      <pubDate>Tue, 06 Oct 2026 22:17:21 GMT</pubDate>
+      <title>[r/artificial] 新しい「AIの駄作」が、あらゆるものを「AIの駄作」と呼んでいる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x0a90k/the_new_ai_slop_is_calling_everything_ai_slop/</link>
+      <description>&lt;p&gt;&lt;strong&gt;新しい「AIの駄作」が、あらゆるものを「AIの駄作」と呼んでいる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一時期、「AIスラップ」という言葉は有用だった。それは現実の現象を的確に表現していた。つまり、報道も編集も視点もなく、ただインターネット上に大量に流し込まれる、安っぽくてずさんな機械生成コンテンツの氾濫、そして……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The New AI Slop Is Calling Everything AI Slop&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x0a90k/the_new_ai_slop_is_calling_everything_ai_slop/</guid>
+      <pubDate>Wed, 07 Oct 2026 22:23:56 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (14pt) OpenAIによって作成された数学の原稿および証明を裏付ける資料</title>
-      <link>https://news.ycombinator.com/item?id=49984976</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIによって作成された数学の原稿および証明を裏付ける資料&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Mathematical manuscripts and supporting proof artifacts produced by OpenAI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49984976</guid>
-      <pubDate>Tue, 06 Oct 2026 22:22:48 GMT</pubDate>
+      <title>[r/artificial] 科学者たちは、DNA編集用のより優れたタンパク質を構築するために、生成AIを活用している。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x0ahd1/scientists_use_generative_ai_to_build_better/</link>
+      <description>&lt;p&gt;&lt;strong&gt;科学者たちは、DNA編集用のより優れたタンパク質を構築するために、生成AIを活用している。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;人工知能を用いて設計されたタンパク質は、実験用の遺伝子編集システムに組み込まれた際、培養細胞における標的DNAへの挿入率を2倍に高めた。この結果は、thの検索を通じて明らかになった。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Scientists use generative AI to build better proteins for editing DNA&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x0ahd1/scientists_use_generative_ai_to_build_better/</guid>
+      <pubDate>Wed, 07 Oct 2026 22:34:15 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] もう誰もGoogleで検索しなくなった。みんなAIに尋ねるようになった。そして、AIは私の存在を知らない</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wza04r/people_dont_google_anymore_they_ask_ai_and_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;もう誰もGoogleで検索しなくなった。みんなAIに尋ねるようになった。そして、AIは私の存在を知らない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は小さな法律事務所を経営しています。家族法、遺言、相続などを扱っています。派手な仕事ではありませんが、私たちの仕事には自信があります。クライアントにも好評で、紹介もいただいています。開業して12年になりますが、いつも同じことを耳にします。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: People don't Google anymore. They ask AI. And AI doesn't know I exist&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wza04r/people_dont_google_anymore_they_ask_ai_and_ai/</guid>
-      <pubDate>Tue, 06 Oct 2026 18:20:06 GMT</pubDate>
+      <title>[r/artificial] r/claudeaiのモデレーターがこの投稿をしたところ、ほぼ即座に最初のコメントとして、あるくだらないアプリのアピールが書き込まれました。私のコメントは自分のアカウント以外には表示されないため、このサブレッドからシャドウバンされているようです。そのコメントは、他のすべてのコメントにダウンボートを浴びせることで、トップに押し上げられています。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x0a8f2/a_moderator_in_rclaudeai_made_this_post_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;r/claudeaiのモデレーターがこの投稿をしたところ、ほぼ即座に最初のコメントとして、あるくだらないアプリのアピールが書き込まれました。私のコメントは自分のアカウント以外には表示されないため、このサブレッドからシャドウバンされているようです。そのコメントは、他のすべてのコメントにダウンボートを浴びせることで、トップに押し上げられています。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;場違いだったらすみませんが、他にどこで指摘すればいいのかわからなくて。  &amp;#32; 投稿者：&amp;#32;  /u/comrades-assemble   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A moderator in r/claudeai made this post and almost instantly the first comment was a promotion of some shitty app. I have been shadow banned from the sub because my comment does not appear outside of my account. The comment has been pushed to the top by downvoting all other comments.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x0a8f2/a_moderator_in_rclaudeai_made_this_post_and/</guid>
+      <pubDate>Wed, 07 Oct 2026 22:23:10 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] プリンストン大学の研究者らは、4BのLLMを訓練し、チェスでEloレーティング2700を達成させた（訓練を中止した時点でも頭打ちの兆候は見られなかった）。また、そのLLMは自身の指し手を正確に説明することもできる。研究者らは、この訓練手法は他のゲームやロボット工学、コンピュータの利用にも応用できるとしている。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wypjue/princeton_researchers_train_a_4b_llm_to_reach/</link>
-      <description>&lt;p&gt;&lt;strong&gt;プリンストン大学の研究者らは、4BのLLMを訓練し、チェスでEloレーティング2700を達成させた（訓練を中止した時点でも頭打ちの兆候は見られなかった）。また、そのLLMは自身の指し手を正確に説明することもできる。研究者らは、この訓練手法は他のゲームやロボット工学、コンピュータの利用にも応用できるとしている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Eliv_nurotic   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Princeton researchers train a 4B LLM to reach 2700 Elo in chess (with no signs of a plateau when they stopped training) and can explain its moves accurately. They say the training technique can also be applied to other games, robotics, and computer use&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wypjue/princeton_researchers_train_a_4b_llm_to_reach/</guid>
-      <pubDate>Tue, 06 Oct 2026 01:02:28 GMT</pubDate>
+      <title>[r/artificial] OpenAIは、すでに衝撃に包まれている分野に、さらに数百もの数学的成果を次々と発表している</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x03feu/openai_unleashes_hundreds_more_math_results_upon/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIは、すでに衝撃に包まれている分野に、さらに数百もの数学的成果を次々と発表している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/scientificamerican   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI unleashes hundreds more math results upon a field already in shock&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x03feu/openai_unleashes_hundreds_more_math_results_upon/</guid>
+      <pubDate>Wed, 07 Oct 2026 17:56:44 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] Metaの「Muse」エージェントは、400万人のユーザーに関するファイルを作成している。インタラクションデータは、「Muse」エージェントの各インスタンス間で共有されている。</title>
@@ -82,40 +85,13 @@
       <pubDate>Tue, 06 Oct 2026 17:58:38 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ウェブデザイナーを探しています</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wzeein/im_looking_for_web_designers/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ウェブデザイナーを探しています&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;これを読んでいる方のほとんどがウェブデザイナーであることを願っています。というのも、あることが本当に気になっているからです。2026年、皆さんはどうやってクライアントを獲得しているのでしょうか？最近、多くのウェブデザイナーや代理店経営者と話をしましたが、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I’m Looking For Web Designers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wzeein/im_looking_for_web_designers/</guid>
-      <pubDate>Tue, 06 Oct 2026 21:10:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIが放射線科医に取って代わる可能性は？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wz5vw9/chances_of_ai_replacing_radiologists/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIが放射線科医に取って代わる可能性は？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;たとえば10年から20年後。  &amp;#32; 投稿者：&amp;#32;  /u/avb707   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Chances of AI replacing radiologists?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wz5vw9/chances_of_ai_replacing_radiologists/</guid>
-      <pubDate>Tue, 06 Oct 2026 15:42:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] カプコンは、RE EngineをAI生成型ゲームエンジンへと進化させる計画を発表――「私たちの目標は、AIと共にゲームを創り出す未来です」</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wyxz0h/capcom_announces_plans_to_transform_the_re_engine/</link>
-      <description>&lt;p&gt;&lt;strong&gt;カプコンは、RE EngineをAI生成型ゲームエンジンへと進化させる計画を発表――「私たちの目標は、AIと共にゲームを創り出す未来です」&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Fcking_Chuck   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Capcom announces plans to transform the RE Engine into an AI-generation game engine — ‘Our goal is a future where we create games together with AI’&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wyxz0h/capcom_announces_plans_to_transform_the_re_engine/</guid>
-      <pubDate>Tue, 06 Oct 2026 09:15:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 今週金曜日のAMA：マシュー・シュワルツ（ハーバード大学）「クロード型科学」について、r/physicsにて</title>
-      <link>https://www.reddit.com/r/artificial/comments/1wzbibm/ama_this_friday_matthew_schwartz_harvard/</link>
-      <description>&lt;p&gt;&lt;strong&gt;今週金曜日のAMA：マシュー・シュワルツ（ハーバード大学）「クロード型科学」について、r/physicsにて&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ハーバード大学の物理学教授であり、『量子場理論と標準模型』の著者であるマシュー・シュワルツ氏が、今週金曜日の米国東部時間正午にAMA（何でも答えます）を行う予定です。最近、彼がAnthropicのブログに投稿した記事をご覧になった方もいらっしゃるかもしれません。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AMA this Friday: Matthew Schwartz (Harvard) “Claude-shaped science,” on r/physics&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wzbibm/ama_this_friday_matthew_schwartz_harvard/</guid>
-      <pubDate>Tue, 06 Oct 2026 19:17:09 GMT</pubDate>
+      <title>[r/artificial] あるコパイロットモデルは拒否した。別のモデルは、約半分の確率で機密情報を漏らしていた。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1wzt99w/one_copilot_model_refused_another_leaked_secrets/</link>
+      <description>&lt;p&gt;&lt;strong&gt;あるコパイロットモデルは拒否した。別のモデルは、約半分の確率で機密情報を漏らしていた。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Adversa.aiが最近、私がこれまで見たことのない興味深いCopilot CLIのプロンプト注入手法を公開しました。その基本的な手口はかなり巧妙で、悪意のある指示を暗号化することで、フィルターが&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: One Copilot model refused. Another leaked secrets about half the time.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1wzt99w/one_copilot_model_refused_another_leaked_secrets/</guid>
+      <pubDate>Wed, 07 Oct 2026 10:42:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
