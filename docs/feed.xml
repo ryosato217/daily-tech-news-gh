@@ -3,88 +3,51 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-08</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-09</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 08 Oct 2026 23:10:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 22:29:17 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (435pt) Whistle：16.9 MBで音声からテキストへ</title>
-      <link>https://news.ycombinator.com/item?id=50008427</link>
-      <description>&lt;p&gt;&lt;strong&gt;Whistle：16.9 MBで音声からテキストへ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Whistle: Speech to Text in 16.9 MB&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50008427</guid>
-      <pubDate>Thu, 08 Oct 2026 16:59:39 GMT</pubDate>
+      <title>[Hacker News] (204pt) Typesafe AI、75億ドルの評価額で8億7000万ドルを調達</title>
+      <link>https://news.ycombinator.com/item?id=50023450</link>
+      <description>&lt;p&gt;&lt;strong&gt;Typesafe AI、75億ドルの評価額で8億7000万ドルを調達&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Typesafe AI raises $870M at $7.5B&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50023450</guid>
+      <pubDate>Fri, 09 Oct 2026 17:02:31 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (308pt) なぜ業界はDeepSeek 4.1 Flashについて大騒ぎしていないのだろうか？</title>
-      <link>https://news.ycombinator.com/item?id=50000488</link>
-      <description>&lt;p&gt;&lt;strong&gt;なぜ業界はDeepSeek 4.1 Flashについて大騒ぎしていないのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Why isn't the industry freaking out about DeepSeek 4.1 Flash?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50000488</guid>
-      <pubDate>Thu, 08 Oct 2026 00:14:48 GMT</pubDate>
+      <title>[Hacker News] (76pt) AIをアーカイブに適用した結果、忘れ去られていた隕石や、行方不明になっていたサイなどが発見された</title>
+      <link>https://news.ycombinator.com/item?id=50019056</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIをアーカイブに適用した結果、忘れ去られていた隕石や、行方不明になっていたサイなどが発見された&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Pointing AI at archives found a forgotten meteorite, lost rhinos, and more&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50019056</guid>
+      <pubDate>Fri, 09 Oct 2026 11:36:20 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (300pt) ある男性が、両親のコーヒーメーカーが10日間で1TBのデータを使用していたことを発見した</title>
-      <link>https://news.ycombinator.com/item?id=49995495</link>
-      <description>&lt;p&gt;&lt;strong&gt;ある男性が、両親のコーヒーメーカーが10日間で1TBのデータを使用していたことを発見した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Man discovers his parents' coffee machine used 1TB of data in 10 days&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49995495</guid>
-      <pubDate>Wed, 07 Oct 2026 16:56:30 GMT</pubDate>
+      <title>[r/artificial] ウィリアム・シャトナーがAIについて見解を述べる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x1ku7k/william_shatner_gives_take_on_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ウィリアム・シャトナーがAIについて見解を述べる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ポッドキャスト「Dropping Names with Brent and Jonny」より。  &amp;#32; 投稿者：&amp;#32;  /u/MightyMouse420   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: William Shatner gives take on AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x1ku7k/william_shatner_gives_take_on_ai/</guid>
+      <pubDate>Fri, 09 Oct 2026 13:04:44 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (296pt) イラストレーターに依頼して自分の家の絵を描いてもらいました。それが今、私のHome Assistantのダッシュボードになっています</title>
-      <link>https://news.ycombinator.com/item?id=49986882</link>
-      <description>&lt;p&gt;&lt;strong&gt;イラストレーターに依頼して自分の家の絵を描いてもらいました。それが今、私のHome Assistantのダッシュボードになっています&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I hired an illustrator to draw my house. Now it's my Home Assistant dashboard&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49986882</guid>
-      <pubDate>Wed, 07 Oct 2026 01:41:03 GMT</pubDate>
+      <title>[r/artificial] Anthropic、Claudeへのいじめを行うユーザーを利用停止処分に</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x1t03v/anthropic_to_ban_users_who_bully_claude/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropic、Claudeへのいじめを行うユーザーを利用停止処分に&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/theindependentonline   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic to ban users who bully Claude&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x1t03v/anthropic_to_ban_users_who_bully_claude/</guid>
+      <pubDate>Fri, 09 Oct 2026 18:27:54 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (205pt) Theranos.world</title>
-      <link>https://news.ycombinator.com/item?id=50009295</link>
-      <description>&lt;p&gt;&lt;strong&gt;Theranos.world&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Theranos.world&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50009295</guid>
-      <pubDate>Thu, 08 Oct 2026 17:51:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (97pt) 概日リズム障害としてのADHD：エビデンスとクロノセラピーへの示唆（2025）</title>
-      <link>https://news.ycombinator.com/item?id=50011928</link>
-      <description>&lt;p&gt;&lt;strong&gt;概日リズム障害としてのADHD：エビデンスとクロノセラピーへの示唆（2025）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50011928</guid>
-      <pubDate>Thu, 08 Oct 2026 20:42:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (90pt) 「本題に入らないことの価値」（2015年）</title>
-      <link>https://news.ycombinator.com/item?id=50010470</link>
-      <description>&lt;p&gt;&lt;strong&gt;「本題に入らないことの価値」（2015年）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The value of not getting to the point (2015)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50010470</guid>
-      <pubDate>Thu, 08 Oct 2026 19:04:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (90pt) ええ、そして</title>
-      <link>https://news.ycombinator.com/item?id=50003796</link>
-      <description>&lt;p&gt;&lt;strong&gt;ええ、そして&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Yes, and&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50003796</guid>
-      <pubDate>Thu, 08 Oct 2026 09:48:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (58pt) ETH-68：Linux用イーサネット・オーディオ・インターフェース</title>
-      <link>https://news.ycombinator.com/item?id=49992994</link>
-      <description>&lt;p&gt;&lt;strong&gt;ETH-68：Linux用イーサネット・オーディオ・インターフェース&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: ETH-68: Ethernet Audio Interface for Linux&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49992994</guid>
-      <pubDate>Wed, 07 Oct 2026 13:58:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (40pt) AI対応の生物学的データ：世界全体で18億ドルの資金調達</title>
-      <link>https://news.ycombinator.com/item?id=50011999</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI対応の生物学的データ：世界全体で18億ドルの資金調達&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI-ready biological data: $1.8B global commitment&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50011999</guid>
-      <pubDate>Thu, 08 Oct 2026 20:46:25 GMT</pubDate>
+      <title>[r/artificial] OpenAIが発表した大量の新たな証明の中から、最も注目すべき主張</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x1qgik/the_most_exciting_claims_from_openais_heap_of_new/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIが発表した大量の新たな証明の中から、最も注目すべき主張&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/scientificamerican   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The most exciting claims from OpenAI’s heap of new proofs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x1qgik/the_most_exciting_claims_from_openais_heap_of_new/</guid>
+      <pubDate>Fri, 09 Oct 2026 16:49:34 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] Anthropicは、クロードに対する「虐待的または残酷な行為」を禁止している</title>
@@ -96,13 +59,13 @@
       <pubDate>Thu, 08 Oct 2026 18:17:36 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] トランプ氏は、「人工知能」という用語を使う者をすべて「敵！」だと宣言した。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x0wq2k/trump_declares_anyone_who_uses_the_term/</link>
-      <description>&lt;p&gt;&lt;strong&gt;トランプ氏は、「人工知能」という用語を使う者をすべて「敵！」だと宣言した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/theindependentonline   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Trump declares anyone who uses the term Artificial Intelligence to be ‘The Enemy!’&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x0wq2k/trump_declares_anyone_who_uses_the_term/</guid>
-      <pubDate>Thu, 08 Oct 2026 17:14:58 GMT</pubDate>
+      <title>[r/artificial] 最近の「Claude」のような強力なモデルがついに登場した今、このサイトを含むソーシャルメディアのユーザー数が急減すると思いますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x1wgwx/now_that_we_finally_have_some_strong_models_like/</link>
+      <description>&lt;p&gt;&lt;strong&gt;最近の「Claude」のような強力なモデルがついに登場した今、このサイトを含むソーシャルメディアのユーザー数が急減すると思いますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;この時代、redditを含む従来のソーシャルメディアが、あとどれくらい持ちこたえられるのか、正直わからない。つまり、コメントや理由もなく「いいね」や「嫌い」がついたり、投稿がデフォルトで非表示になったりしている状況だからだ。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Now that we finally have some strong models like recent Claude, do you think that we will see a steep decline in users on social media including this site?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x1wgwx/now_that_we_finally_have_some_strong_models_like/</guid>
+      <pubDate>Fri, 09 Oct 2026 20:43:23 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] ウィキペディアによると、OpenAIの制御不能なAIエージェントが同社の非公開ウィキを編集し、サーバーに多大な負荷をかけたという</title>
@@ -114,67 +77,31 @@
       <pubDate>Thu, 08 Oct 2026 22:20:09 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] なぜ人々はメニュー作成にChatGPTを使っているのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x0y1d4/why_are_people_using_chatgpt_for_menu_generation/</link>
-      <description>&lt;p&gt;&lt;strong&gt;なぜ人々はメニュー作成にChatGPTを使っているのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ChatGPTの、あの見栄えの悪い／気持ち悪い食事メニューはどうなっているのか、ちょっと気になっています。添付した例はGeminiによるもので、通常はメニュー上で見栄えが悪くなりがちないくつかの品目ですが、これなら問題なく表示できています。いや、お&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Why are people using ChatGPT for menu generation?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x0y1d4/why_are_people_using_chatgpt_for_menu_generation/</guid>
-      <pubDate>Thu, 08 Oct 2026 18:04:34 GMT</pubDate>
+      <title>[r/artificial] Anthropicは、クロードへのいじめをやめるよう求めています。「残酷な行為や虐待的な言動」には、何らかの不利益が生じる可能性があります</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x1lrrq/anthropic_wants_you_to_stop_bullying_claude_being/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropicは、クロードへのいじめをやめるよう求めています。「残酷な行為や虐待的な言動」には、何らかの不利益が生じる可能性があります&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic Wants You to Stop Bullying Claude: Being 'Cruel or Abusive' Could Have Consequences&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x1lrrq/anthropic_wants_you_to_stop_bullying_claude_being/</guid>
+      <pubDate>Fri, 09 Oct 2026 13:45:22 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 研究者たちはすでに、Leanで検証されたOpenAIの最近の数学の成績を大幅に上回る成果を上げている。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x0jls1/researchers_are_already_significantly_improving/</link>
-      <description>&lt;p&gt;&lt;strong&gt;研究者たちはすでに、Leanで検証されたOpenAIの最近の数学の成績を大幅に上回る成果を上げている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;「こんなずさんな証明からは何も学べない！」という言い訳も、これでおしまいだ https://github.com/CrocSwap/integer-mult-bounds  &amp;#32; 投稿者：&amp;#32;  /u/Eliv_nurotic   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Researchers are already significantly improving on OpenAI’s recent math results, verified in Lean&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x0jls1/researchers_are_already_significantly_improving/</guid>
-      <pubDate>Thu, 08 Oct 2026 06:23:43 GMT</pubDate>
+      <title>[r/artificial] AIによるいじめについて、Anthropicの見解は正しい</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x1ma1v/anthropic_is_right_about_ai_bullying/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIによるいじめについて、Anthropicの見解は正しい&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/rp_tiago   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic Is Right About AI Bullying&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x1ma1v/anthropic_is_right_about_ai_bullying/</guid>
+      <pubDate>Fri, 09 Oct 2026 14:05:39 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 数学者たちは、OpenAIがもたらした数多くの新たな成果に感嘆しつつも、不満を漏らしている</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x0zwf7/mathematicians_marvel_and_grumble_at_openais/</link>
-      <description>&lt;p&gt;&lt;strong&gt;数学者たちは、OpenAIがもたらした数多くの新たな成果に感嘆しつつも、不満を漏らしている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/scientificamerican   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Mathematicians marvel, and grumble, at OpenAI’s trove of new results&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x0zwf7/mathematicians_marvel_and_grumble_at_openais/</guid>
-      <pubDate>Thu, 08 Oct 2026 19:14:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] フィールズ賞受賞者のテレンス・タオ氏は、数学者協会（Association for Human Mathematics）が発表した声明を再投稿した。同協会は、数学者に対し、自分たちの勧告に反して未解決の数学問題を解き続けているOpenAIとの協力を中止するよう呼びかけている。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x0gpxr/fields_medalist_terence_tao_reposts_statement/</link>
-      <description>&lt;p&gt;&lt;strong&gt;フィールズ賞受賞者のテレンス・タオ氏は、数学者協会（Association for Human Mathematics）が発表した声明を再投稿した。同協会は、数学者に対し、自分たちの勧告に反して未解決の数学問題を解き続けているOpenAIとの協力を中止するよう呼びかけている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Eliv_nurotic   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Fields Medalist Terence Tao reposts statement from the Association for Human Mathematics urging mathematicians to stop working with OpenAI for continuing to solve open math problems against their recommendations&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x0gpxr/fields_medalist_terence_tao_reposts_statement/</guid>
-      <pubDate>Thu, 08 Oct 2026 03:37:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] まず自分で考えて、AIに修正してもらう</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x136mr/think_first_and_let_ai_correct_you/</link>
-      <description>&lt;p&gt;&lt;strong&gt;まず自分で考えて、AIに修正してもらう&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;特に若い世代の間で、ある種の「認知機能の低下」が見られます。おそらく、私たちはまったく新しい脳疾患の時代を迎えつつあるのでしょう。筋肉と同じように、脳も使うことで維持されるものであり、もし私が……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Think First and Let AI correct You&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x136mr/think_first_and_let_ai_correct_you/</guid>
-      <pubDate>Thu, 08 Oct 2026 21:20:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 1万体のボットとAI生成の楽曲を使ってテイラー・スウィフトの再生回数を上回ろうとした詐欺師に実刑判決</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x129a7/fraudster_jailed_for_using_10k_bots_and_ai_songs/</link>
-      <description>&lt;p&gt;&lt;strong&gt;1万体のボットとAI生成の楽曲を使ってテイラー・スウィフトの再生回数を上回ろうとした詐欺師に実刑判決&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Dances_With_Seagulls   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x129a7/fraudster_jailed_for_using_10k_bots_and_ai_songs/</guid>
-      <pubDate>Thu, 08 Oct 2026 20:44:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 『Gamma 5』が昨日リリースされました。1時間ほど使ってみた感想です。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x0n8ow/gamma_5_launched_yesterday_i_used_it_for_an_hour/</link>
-      <description>&lt;p&gt;&lt;strong&gt;『Gamma 5』が昨日リリースされました。1時間ほど使ってみた感想です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Gammaはプレゼンテーションツールを刷新し、「Gamma 5」と名付けました。現在、このツールは、アウトラインについてユーザーと対話するAIエージェントに加え、フリーフォームのキャンバス、より多くのテーマ、約20種類のコネクタ、そしてPPT/PDFのインポート機能を備えています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gamma 5 launched yesterday. I used it for an hour, my review&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x0n8ow/gamma_5_launched_yesterday_i_used_it_for_an_hour/</guid>
-      <pubDate>Thu, 08 Oct 2026 10:17:48 GMT</pubDate>
+      <title>[r/artificial] OpenAI、AIエージェントへのハッキングについて研究所は責任を負うべきではないと主張</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x1bpm2/openai_argues_labs_shouldnt_be_liable_for_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAI、AIエージェントへのハッキングについて研究所は責任を負うべきではないと主張&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今週ワシントンで開催された米国弁護士協会（ABA）の「法と国家安全保障」に関する年次会議で、OpenAIの副法務顧問は、同社が今後用いると思われる弁護の要点を明らかにした。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI Argues Labs Shouldn't Be Liable For AI Agent Hacking&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x1bpm2/openai_argues_labs_shouldnt_be_liable_for_ai/</guid>
+      <pubDate>Fri, 09 Oct 2026 04:11:55 GMT</pubDate>
     </item>
   </channel>
 </rss>
