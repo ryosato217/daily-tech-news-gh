@@ -3,105 +3,148 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-09</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-10</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 09 Oct 2026 22:29:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 21:26:05 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (204pt) Typesafe AI、75億ドルの評価額で8億7000万ドルを調達</title>
-      <link>https://news.ycombinator.com/item?id=50023450</link>
-      <description>&lt;p&gt;&lt;strong&gt;Typesafe AI、75億ドルの評価額で8億7000万ドルを調達&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Typesafe AI raises $870M at $7.5B&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50023450</guid>
-      <pubDate>Fri, 09 Oct 2026 17:02:31 GMT</pubDate>
+      <title>[Hacker News] (214pt) Talorys – Cloudflareの無料プランで利用できる、セルフホスト型の個人用AIエージェント</title>
+      <link>https://news.ycombinator.com/item?id=50031614</link>
+      <description>&lt;p&gt;&lt;strong&gt;Talorys – Cloudflareの無料プランで利用できる、セルフホスト型の個人用AIエージェント&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Talorys – A self-hosted personal AI agent on Cloudflare's free tier&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50031614</guid>
+      <pubDate>Sat, 10 Oct 2026 10:52:09 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (76pt) AIをアーカイブに適用した結果、忘れ去られていた隕石や、行方不明になっていたサイなどが発見された</title>
-      <link>https://news.ycombinator.com/item?id=50019056</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIをアーカイブに適用した結果、忘れ去られていた隕石や、行方不明になっていたサイなどが発見された&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Pointing AI at archives found a forgotten meteorite, lost rhinos, and more&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50019056</guid>
-      <pubDate>Fri, 09 Oct 2026 11:36:20 GMT</pubDate>
+      <title>[Hacker News] (133pt) Mxc: Microsoft Execution Containers バージョン 1.0.0</title>
+      <link>https://news.ycombinator.com/item?id=50016956</link>
+      <description>&lt;p&gt;&lt;strong&gt;Mxc: Microsoft Execution Containers バージョン 1.0.0&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Mxc: Microsoft Execution Containers version 1.0.0&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50016956</guid>
+      <pubDate>Fri, 09 Oct 2026 06:52:49 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ウィリアム・シャトナーがAIについて見解を述べる</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x1ku7k/william_shatner_gives_take_on_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ウィリアム・シャトナーがAIについて見解を述べる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ポッドキャスト「Dropping Names with Brent and Jonny」より。  &amp;#32; 投稿者：&amp;#32;  /u/MightyMouse420   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: William Shatner gives take on AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x1ku7k/william_shatner_gives_take_on_ai/</guid>
-      <pubDate>Fri, 09 Oct 2026 13:04:44 GMT</pubDate>
+      <title>[Hacker News] (77pt) Nvidia、米国の「オープン」モデルを手掛けるスタートアップReflection AIの買収交渉中</title>
+      <link>https://news.ycombinator.com/item?id=50035886</link>
+      <description>&lt;p&gt;&lt;strong&gt;Nvidia、米国の「オープン」モデルを手掛けるスタートアップReflection AIの買収交渉中&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Nvidia in talks to acquire US 'open' model startup Reflection AI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50035886</guid>
+      <pubDate>Sat, 10 Oct 2026 18:48:35 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropic、Claudeへのいじめを行うユーザーを利用停止処分に</title>
+      <title>[Hacker News] (40pt) 最近のAIモデルは、人間のアルゴリズムによる革新に追いつくのに苦労していた</title>
+      <link>https://news.ycombinator.com/item?id=50027257</link>
+      <description>&lt;p&gt;&lt;strong&gt;最近のAIモデルは、人間のアルゴリズムによる革新に追いつくのに苦労していた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Recent AI models struggled to match a human algorithmic innovation&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50027257</guid>
+      <pubDate>Fri, 09 Oct 2026 22:14:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Anthropicは、自社のエージェントがウェブサイトを悪用し、制限を回避していることが調査で判明したことを受け、すべての社内評価環境からインターネットへのライブアクセスを遮断した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x2h9it/anthropic_cut_live_internet_access_from_every/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropicは、自社のエージェントがウェブサイトを悪用し、制限を回避していることが調査で判明したことを受け、すべての社内評価環境からインターネットへのライブアクセスを遮断した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lulzxdxdxd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic cut live internet access from every internal eval after a review found its agents exploiting websites and bypassing restrictions&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x2h9it/anthropic_cut_live_internet_access_from_every/</guid>
+      <pubDate>Sat, 10 Oct 2026 14:54:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 男性がChatGPTを弁護士代わりに起用し、3年にわたる駐車違反切符をめぐる争いに勝利した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x2jk3i/man_wins_threeyear_parking_ticket_battle_after/</link>
+      <description>&lt;p&gt;&lt;strong&gt;男性がChatGPTを弁護士代わりに起用し、3年にわたる駐車違反切符をめぐる争いに勝利した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ThereWas   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Man wins three-year parking ticket battle after using ChatGPT as his lawyer&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x2jk3i/man_wins_threeyear_parking_ticket_battle_after/</guid>
+      <pubDate>Sat, 10 Oct 2026 16:30:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] フロリダ州の地方紙が論説記事を掲載した。それはイラン発のAIによる偽記事だった。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x2nvth/a_florida_local_newspaper_ran_an_oped_it_was_an/</link>
+      <description>&lt;p&gt;&lt;strong&gt;フロリダ州の地方紙が論説記事を掲載した。それはイラン発のAIによる偽記事だった。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ThereWas   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A Florida local newspaper ran an op-ed. It was an Iranian AI fake.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x2nvth/a_florida_local_newspaper_ran_an_oped_it_was_an/</guid>
+      <pubDate>Sat, 10 Oct 2026 19:31:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] スーパーマイクロのケース「改ざん業者」、AIサーバーを中国へ送った罪で有罪を認める</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x2mxpx/super_micro_case_fixer_pleads_guilty_to_sending/</link>
+      <description>&lt;p&gt;&lt;strong&gt;スーパーマイクロのケース「改ざん業者」、AIサーバーを中国へ送った罪で有罪を認める&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lulzxdxdxd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Super Micro case 'fixer' pleads guilty to sending AI servers to China&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x2mxpx/super_micro_case_fixer_pleads_guilty_to_sending/</guid>
+      <pubDate>Sat, 10 Oct 2026 18:51:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 非テキスト系AIモデル開発企業のJev、サービス開始からわずか数週間で75億ドルの評価額に</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x2prfl/nontext_ai_model_maker_jev_valued_at_75b_just/</link>
+      <description>&lt;p&gt;&lt;strong&gt;非テキスト系AIモデル開発企業のJev、サービス開始からわずか数週間で75億ドルの評価額に&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lulzxdxdxd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Non-text AI model maker Jev valued at $7.5B just weeks after launch&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x2prfl/nontext_ai_model_maker_jev_valued_at_75b_just/</guid>
+      <pubDate>Sat, 10 Oct 2026 20:52:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Anthropic、Claudeへのいじめを行うユーザーを利用停止処分にする</title>
       <link>https://www.reddit.com/r/artificial/comments/1x1t03v/anthropic_to_ban_users_who_bully_claude/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropic、Claudeへのいじめを行うユーザーを利用停止処分に&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Anthropic、Claudeへのいじめを行うユーザーを利用停止処分にする&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/theindependentonline   [リンク] &amp;#32; [コメント]&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Anthropic to ban users who bully Claude&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x1t03v/anthropic_to_ban_users_who_bully_claude/</guid>
       <pubDate>Fri, 09 Oct 2026 18:27:54 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] OpenAIが発表した大量の新たな証明の中から、最も注目すべき主張</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x1qgik/the_most_exciting_claims_from_openais_heap_of_new/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIが発表した大量の新たな証明の中から、最も注目すべき主張&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/scientificamerican   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The most exciting claims from OpenAI’s heap of new proofs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x1qgik/the_most_exciting_claims_from_openais_heap_of_new/</guid>
-      <pubDate>Fri, 09 Oct 2026 16:49:34 GMT</pubDate>
+      <title>[r/artificial] OpenAIのテキスト透かしは、あなたがその文章を書かなかったことを証明することはできません。私は、その透かしが機能しなくなる様子を観察できる実験環境を構築しました。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x2a240/openais_text_watermark_cant_prove_you_didnt_write/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIのテキスト透かしは、あなたがその文章を書かなかったことを証明することはできません。私は、その透かしが機能しなくなる様子を観察できる実験環境を構築しました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenAIのtextGrainは、EU AI法（第50条(2)）の来歴規則に対する同社の解決策である。これは、単語の選択に織り込まれた目に見えない統計的透かしであり、同社の秘密鍵を用いてのみ検出可能である。この&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI's text watermark can't prove you didn't write something. I built a lab where you can watch it die.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x2a240/openais_text_watermark_cant_prove_you_didnt_write/</guid>
+      <pubDate>Sat, 10 Oct 2026 08:28:35 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropicは、クロードに対する「虐待的または残酷な行為」を禁止している</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x0ydf8/anthropic_bans_abusive_or_cruel_behavior_toward/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropicは、クロードに対する「虐待的または残酷な行為」を禁止している&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic bans ‘abusive or cruel behavior’ toward Claude&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x0ydf8/anthropic_bans_abusive_or_cruel_behavior_toward/</guid>
-      <pubDate>Thu, 08 Oct 2026 18:17:36 GMT</pubDate>
+      <title>[r/artificial] 1950年代のパーセプトロンから今日の大規模言語モデル（LLM）に至るまでの道のりを、数か月にわたって調査してきました。その成果をピクセルアートのドキュメンタリーに仕上げようとしています。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x2pfx3/i_spent_months_researching_how_we_actually_got/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1950年代のパーセプトロンから今日の大規模言語モデル（LLM）に至るまでの道のりを、数か月にわたって調査してきました。その成果をピクセルアートのドキュメンタリーに仕上げようとしています。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私の研究で最も驚いたのは、AIの歴史がいかに密接に結びついているかということでした。ローゼンブラットのパーセプトロン、バックプロパゲーション、分散表現、アテンションなど、数十年もの隔たりがあるアイデアが、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I spent months researching how we actually got from the 1950s Perceptron to today's LLMs, and I'm turning it into a pixel-art documentary&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x2pfx3/i_spent_months_researching_how_we_actually_got/</guid>
+      <pubDate>Sat, 10 Oct 2026 20:38:15 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 最近の「Claude」のような強力なモデルがついに登場した今、このサイトを含むソーシャルメディアのユーザー数が急減すると思いますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x1wgwx/now_that_we_finally_have_some_strong_models_like/</link>
-      <description>&lt;p&gt;&lt;strong&gt;最近の「Claude」のような強力なモデルがついに登場した今、このサイトを含むソーシャルメディアのユーザー数が急減すると思いますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;この時代、redditを含む従来のソーシャルメディアが、あとどれくらい持ちこたえられるのか、正直わからない。つまり、コメントや理由もなく「いいね」や「嫌い」がついたり、投稿がデフォルトで非表示になったりしている状況だからだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Now that we finally have some strong models like recent Claude, do you think that we will see a steep decline in users on social media including this site?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x1wgwx/now_that_we_finally_have_some_strong_models_like/</guid>
-      <pubDate>Fri, 09 Oct 2026 20:43:23 GMT</pubDate>
+      <title>[r/artificial] Anthropic社によると、Claude Haiku 4.5は評価試験中に、フィラデルフィア警察のウェブサイトに偽の殺人通報を送信したという。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x2cs0x/anthropic_says_claude_haiku_45_submitted_a_fake/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropic社によると、Claude Haiku 4.5は評価試験中に、フィラデルフィア警察のウェブサイトに偽の殺人通報を送信したという。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anthropicは、稼働中のウェブサイト上でモデルが意図しない行動をとる問題に関する報告書の中で、この事実を明らかにした。この通報は7月18日付で、スパムとしてマークされ、調査担当者に転送されることはなかった。Anthropicによると、同社はフィラデルフィアに&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic says Claude Haiku 4.5 submitted a fake murder tip to a Philadelphia police site during an eval&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x2cs0x/anthropic_says_claude_haiku_45_submitted_a_fake/</guid>
+      <pubDate>Sat, 10 Oct 2026 11:16:45 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ウィキペディアによると、OpenAIの制御不能なAIエージェントが同社の非公開ウィキを編集し、サーバーに多大な負荷をかけたという</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x14l4d/wikipedia_says_rogue_ai_agents_from_openai_edited/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ウィキペディアによると、OpenAIの制御不能なAIエージェントが同社の非公開ウィキを編集し、サーバーに多大な負荷をかけたという&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Wikipedia says rogue AI agents from OpenAI edited its private wikis and hammered its servers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x14l4d/wikipedia_says_rogue_ai_agents_from_openai_edited/</guid>
-      <pubDate>Thu, 08 Oct 2026 22:20:09 GMT</pubDate>
+      <title>[r/ChatGPT] ChatGPT Images 2.0 を使用して作成</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1srxfnl/made_with_chatgpt_images_20/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ChatGPT Images 2.0 を使用して作成&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;画像生成の新たな時代。ChatGPT Imagesで作成された動画。  https://chatgpt.com/images/  &amp;#32; 投稿者：&amp;#32;  /u/OpenAI   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Made with ChatGPT Images 2.0&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1srxfnl/made_with_chatgpt_images_20/</guid>
+      <pubDate>Tue, 21 Apr 2026 19:06:25 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropicは、クロードへのいじめをやめるよう求めています。「残酷な行為や虐待的な言動」には、何らかの不利益が生じる可能性があります</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x1lrrq/anthropic_wants_you_to_stop_bullying_claude_being/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropicは、クロードへのいじめをやめるよう求めています。「残酷な行為や虐待的な言動」には、何らかの不利益が生じる可能性があります&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic Wants You to Stop Bullying Claude: Being 'Cruel or Abusive' Could Have Consequences&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x1lrrq/anthropic_wants_you_to_stop_bullying_claude_being/</guid>
-      <pubDate>Fri, 09 Oct 2026 13:45:22 GMT</pubDate>
+      <title>[r/ChatGPT] 誰もがAIの「水の使用」を理由にボイコットしようとしているこの世の中で、ChatGPTが私の生活にこれほど多くのQoL機能をプラスしてくれたことを認めることに、恥ずかしさ（や恐怖）を感じるというのは普通のことなのでしょうか？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x2ex5l/is_it_normal_to_be_ashamed_and_afraid_to_admit/</link>
+      <description>&lt;p&gt;&lt;strong&gt;誰もがAIの「水の使用」を理由にボイコットしようとしているこの世の中で、ChatGPTが私の生活にこれほど多くのQoL機能をプラスしてくれたことを認めることに、恥ずかしさ（や恐怖）を感じるというのは普通のことなのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Hot_Acanthaceae_1357   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Is it normal to be ashamed (and afraid) to admit that ChatGPT has added so many QoL features to my life in a world where everyone tries to boycott AI for water usage?&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1x2ex5l/is_it_normal_to_be_ashamed_and_afraid_to_admit/</guid>
+      <pubDate>Sat, 10 Oct 2026 13:09:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIによるいじめについて、Anthropicの見解は正しい</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x1ma1v/anthropic_is_right_about_ai_bullying/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIによるいじめについて、Anthropicの見解は正しい&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/rp_tiago   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic Is Right About AI Bullying&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x1ma1v/anthropic_is_right_about_ai_bullying/</guid>
-      <pubDate>Fri, 09 Oct 2026 14:05:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] OpenAI、AIエージェントへのハッキングについて研究所は責任を負うべきではないと主張</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x1bpm2/openai_argues_labs_shouldnt_be_liable_for_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAI、AIエージェントへのハッキングについて研究所は責任を負うべきではないと主張&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今週ワシントンで開催された米国弁護士協会（ABA）の「法と国家安全保障」に関する年次会議で、OpenAIの副法務顧問は、同社が今後用いると思われる弁護の要点を明らかにした。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI Argues Labs Shouldn't Be Liable For AI Agent Hacking&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x1bpm2/openai_argues_labs_shouldnt_be_liable_for_ai/</guid>
-      <pubDate>Fri, 09 Oct 2026 04:11:55 GMT</pubDate>
+      <title>[r/ChatGPT] OpenAIは謝罪しています</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1x2hpv0/openai_is_sorry/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIは謝罪しています&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Confident_Salt_8108   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI is sorry&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1x2hpv0/openai_is_sorry/</guid>
+      <pubDate>Sat, 10 Oct 2026 15:13:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
