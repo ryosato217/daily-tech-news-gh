@@ -3,40 +3,88 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-10</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-11</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 10 Oct 2026 21:26:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 21:42:55 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (214pt) Talorys – Cloudflareの無料プランで利用できる、セルフホスト型の個人用AIエージェント</title>
-      <link>https://news.ycombinator.com/item?id=50031614</link>
-      <description>&lt;p&gt;&lt;strong&gt;Talorys – Cloudflareの無料プランで利用できる、セルフホスト型の個人用AIエージェント&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Talorys – A self-hosted personal AI agent on Cloudflare's free tier&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50031614</guid>
-      <pubDate>Sat, 10 Oct 2026 10:52:09 GMT</pubDate>
+      <title>[Hacker News] (44pt) どうやら今はWebPを使ってるみたい？</title>
+      <link>https://news.ycombinator.com/item?id=50021989</link>
+      <description>&lt;p&gt;&lt;strong&gt;どうやら今はWebPを使ってるみたい？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I guess I'm using WebP now?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50021989</guid>
+      <pubDate>Fri, 09 Oct 2026 15:32:04 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (133pt) Mxc: Microsoft Execution Containers バージョン 1.0.0</title>
-      <link>https://news.ycombinator.com/item?id=50016956</link>
-      <description>&lt;p&gt;&lt;strong&gt;Mxc: Microsoft Execution Containers バージョン 1.0.0&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Mxc: Microsoft Execution Containers version 1.0.0&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50016956</guid>
-      <pubDate>Fri, 09 Oct 2026 06:52:49 GMT</pubDate>
+      <title>[r/artificial] Claude Opus 5.5がPS2時代のゲームを一晩で逆コンパイルし、今ではそのうちの何百本ものゲームがブラウザのタブ上で動作するようになった</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x2tq6s/claude_opus_55_decompiles_a_ps2era_game_overnight/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Claude Opus 5.5がPS2時代のゲームを一晩で逆コンパイルし、今ではそのうちの何百本ものゲームがブラウザのタブ上で動作するようになった&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lulzxdxdxd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Opus 5.5 decompiles a PS2-era game overnight, and hundreds of them now run in browser tabs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x2tq6s/claude_opus_55_decompiles_a_ps2era_game_overnight/</guid>
+      <pubDate>Sat, 10 Oct 2026 23:57:43 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (77pt) Nvidia、米国の「オープン」モデルを手掛けるスタートアップReflection AIの買収交渉中</title>
-      <link>https://news.ycombinator.com/item?id=50035886</link>
-      <description>&lt;p&gt;&lt;strong&gt;Nvidia、米国の「オープン」モデルを手掛けるスタートアップReflection AIの買収交渉中&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Nvidia in talks to acquire US 'open' model startup Reflection AI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50035886</guid>
-      <pubDate>Sat, 10 Oct 2026 18:48:35 GMT</pubDate>
+      <title>[r/artificial] ジェフ・ベゾス氏は、AIによって週3日勤務が実現すると述べている――一方で、アマゾンは3万人の人員削減を実施している</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x36hoz/jeff_bezos_says_ai_will_deliver_a_3day_work_week/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ジェフ・ベゾス氏は、AIによって週3日勤務が実現すると述べている――一方で、アマゾンは3万人の人員削減を実施している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lulzxdxdxd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Jeff Bezos says AI will deliver a 3-day work week — while Amazon cuts 30,000 jobs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x36hoz/jeff_bezos_says_ai_will_deliver_a_3day_work_week/</guid>
+      <pubDate>Sun, 11 Oct 2026 12:02:52 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (40pt) 最近のAIモデルは、人間のアルゴリズムによる革新に追いつくのに苦労していた</title>
-      <link>https://news.ycombinator.com/item?id=50027257</link>
-      <description>&lt;p&gt;&lt;strong&gt;最近のAIモデルは、人間のアルゴリズムによる革新に追いつくのに苦労していた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Recent AI models struggled to match a human algorithmic innovation&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50027257</guid>
-      <pubDate>Fri, 09 Oct 2026 22:14:40 GMT</pubDate>
+      <title>[r/artificial] 億万長者たちがトランプ氏にひれ伏し続けるのには理由がある。大統領がこの用語を「スーパー・インテリジェンス」と改めた後、米国で最も裕福な人々はこぞってこの言葉を使い始めた。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x3g0ev/theres_a_reason_billionaires_keep_bending_the/</link>
+      <description>&lt;p&gt;&lt;strong&gt;億万長者たちがトランプ氏にひれ伏し続けるのには理由がある。大統領がこの用語を「スーパー・インテリジェンス」と改めた後、米国で最も裕福な人々はこぞってこの言葉を使い始めた。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: There’s a reason billionaires keep bending the knee to Trump. After the president changed the term to “super intelligence,” the richest Americans rushed to use it.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x3g0ev/theres_a_reason_billionaires_keep_bending_the/</guid>
+      <pubDate>Sun, 11 Oct 2026 18:44:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AI生成のSFシリーズの制作者たちは、1ショットあたり38,000ドルのAIクレジットと、8～10世代の処理が必要だったと述べた。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x37ox5/creators_of_an_aigenerated_scifi_series_said_it/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI生成のSFシリーズの制作者たちは、1ショットあたり38,000ドルのAIクレジットと、8～10世代の処理が必要だったと述べた。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lulzxdxdxd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Creators of an AI-generated sci-fi series said it took $38,000 in AI credits and 8 to 10 generations per shot&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x37ox5/creators_of_an_aigenerated_scifi_series_said_it/</guid>
+      <pubDate>Sun, 11 Oct 2026 13:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Anthropic社によると、同社のAIエージェントがウイルスのDNA内にCRISPRに類似した酵素ファミリーを発見したという。ある研究者は、自身のチームが2022年から同じ酵素について研究を続けてきたと述べている。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x3i1e5/anthropic_says_its_ai_agents_found_a_crisprlike/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropic社によると、同社のAIエージェントがウイルスのDNA内にCRISPRに類似した酵素ファミリーを発見したという。ある研究者は、自身のチームが2022年から同じ酵素について研究を続けてきたと述べている。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lulzxdxdxd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic says its AI agents found a CRISPR-like enzyme family in viral DNA; a researcher notes his team had been studying the same enzymes since 2022&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x3i1e5/anthropic_says_its_ai_agents_found_a_crisprlike/</guid>
+      <pubDate>Sun, 11 Oct 2026 20:05:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ニコラス・ケイジ、AIをめぐる対立を理由に、今後アマゾンとは共演しないと明言</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x3i1g8/nicolas_cage_says_he_wont_work_with_amazon_again/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ニコラス・ケイジ、AIをめぐる対立を理由に、今後アマゾンとは共演しないと明言&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lulzxdxdxd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Nicolas Cage says he won't work with Amazon again over AI dispute&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x3i1g8/nicolas_cage_says_he_wont_work_with_amazon_again/</guid>
+      <pubDate>Sun, 11 Oct 2026 20:05:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 非テキスト系AIモデル開発企業のJev、サービス開始からわずか数週間で75億ドルの評価額を獲得</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x2prfl/nontext_ai_model_maker_jev_valued_at_75b_just/</link>
+      <description>&lt;p&gt;&lt;strong&gt;非テキスト系AIモデル開発企業のJev、サービス開始からわずか数週間で75億ドルの評価額を獲得&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lulzxdxdxd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Non-text AI model maker Jev valued at $7.5B just weeks after launch&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x2prfl/nontext_ai_model_maker_jev_valued_at_75b_just/</guid>
+      <pubDate>Sat, 10 Oct 2026 20:52:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ある個人開発者が、Claudeを活用してWord、Excel、PowerPointを無料のオープンソースアプリとして再構築し、従業員1人あたりの収益がGoogleの4倍に達していると述べている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x3jidz/a_solo_developer_rebuilt_word_excel_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ある個人開発者が、Claudeを活用してWord、Excel、PowerPointを無料のオープンソースアプリとして再構築し、従業員1人あたりの収益がGoogleの4倍に達していると述べている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lulzxdxdxd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A solo developer rebuilt Word, Excel and PowerPoint as free open-source apps using Claude — and says he's earning 4x more per employee than Google&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x3jidz/a_solo_developer_rebuilt_word_excel_and/</guid>
+      <pubDate>Sun, 11 Oct 2026 21:05:19 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] Anthropicは、自社のエージェントがウェブサイトを悪用し、制限を回避していることが調査で判明したことを受け、すべての社内評価環境からインターネットへのライブアクセスを遮断した。</title>
@@ -46,105 +94,6 @@
 &lt;p&gt;&lt;small&gt;原題: Anthropic cut live internet access from every internal eval after a review found its agents exploiting websites and bypassing restrictions&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x2h9it/anthropic_cut_live_internet_access_from_every/</guid>
       <pubDate>Sat, 10 Oct 2026 14:54:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 男性がChatGPTを弁護士代わりに起用し、3年にわたる駐車違反切符をめぐる争いに勝利した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x2jk3i/man_wins_threeyear_parking_ticket_battle_after/</link>
-      <description>&lt;p&gt;&lt;strong&gt;男性がChatGPTを弁護士代わりに起用し、3年にわたる駐車違反切符をめぐる争いに勝利した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ThereWas   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Man wins three-year parking ticket battle after using ChatGPT as his lawyer&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x2jk3i/man_wins_threeyear_parking_ticket_battle_after/</guid>
-      <pubDate>Sat, 10 Oct 2026 16:30:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] フロリダ州の地方紙が論説記事を掲載した。それはイラン発のAIによる偽記事だった。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x2nvth/a_florida_local_newspaper_ran_an_oped_it_was_an/</link>
-      <description>&lt;p&gt;&lt;strong&gt;フロリダ州の地方紙が論説記事を掲載した。それはイラン発のAIによる偽記事だった。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ThereWas   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A Florida local newspaper ran an op-ed. It was an Iranian AI fake.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x2nvth/a_florida_local_newspaper_ran_an_oped_it_was_an/</guid>
-      <pubDate>Sat, 10 Oct 2026 19:31:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] スーパーマイクロのケース「改ざん業者」、AIサーバーを中国へ送った罪で有罪を認める</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x2mxpx/super_micro_case_fixer_pleads_guilty_to_sending/</link>
-      <description>&lt;p&gt;&lt;strong&gt;スーパーマイクロのケース「改ざん業者」、AIサーバーを中国へ送った罪で有罪を認める&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lulzxdxdxd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Super Micro case 'fixer' pleads guilty to sending AI servers to China&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x2mxpx/super_micro_case_fixer_pleads_guilty_to_sending/</guid>
-      <pubDate>Sat, 10 Oct 2026 18:51:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 非テキスト系AIモデル開発企業のJev、サービス開始からわずか数週間で75億ドルの評価額に</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x2prfl/nontext_ai_model_maker_jev_valued_at_75b_just/</link>
-      <description>&lt;p&gt;&lt;strong&gt;非テキスト系AIモデル開発企業のJev、サービス開始からわずか数週間で75億ドルの評価額に&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lulzxdxdxd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Non-text AI model maker Jev valued at $7.5B just weeks after launch&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x2prfl/nontext_ai_model_maker_jev_valued_at_75b_just/</guid>
-      <pubDate>Sat, 10 Oct 2026 20:52:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Anthropic、Claudeへのいじめを行うユーザーを利用停止処分にする</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x1t03v/anthropic_to_ban_users_who_bully_claude/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropic、Claudeへのいじめを行うユーザーを利用停止処分にする&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/theindependentonline   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic to ban users who bully Claude&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x1t03v/anthropic_to_ban_users_who_bully_claude/</guid>
-      <pubDate>Fri, 09 Oct 2026 18:27:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] OpenAIのテキスト透かしは、あなたがその文章を書かなかったことを証明することはできません。私は、その透かしが機能しなくなる様子を観察できる実験環境を構築しました。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x2a240/openais_text_watermark_cant_prove_you_didnt_write/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIのテキスト透かしは、あなたがその文章を書かなかったことを証明することはできません。私は、その透かしが機能しなくなる様子を観察できる実験環境を構築しました。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIのtextGrainは、EU AI法（第50条(2)）の来歴規則に対する同社の解決策である。これは、単語の選択に織り込まれた目に見えない統計的透かしであり、同社の秘密鍵を用いてのみ検出可能である。この&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI's text watermark can't prove you didn't write something. I built a lab where you can watch it die.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x2a240/openais_text_watermark_cant_prove_you_didnt_write/</guid>
-      <pubDate>Sat, 10 Oct 2026 08:28:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 1950年代のパーセプトロンから今日の大規模言語モデル（LLM）に至るまでの道のりを、数か月にわたって調査してきました。その成果をピクセルアートのドキュメンタリーに仕上げようとしています。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x2pfx3/i_spent_months_researching_how_we_actually_got/</link>
-      <description>&lt;p&gt;&lt;strong&gt;1950年代のパーセプトロンから今日の大規模言語モデル（LLM）に至るまでの道のりを、数か月にわたって調査してきました。その成果をピクセルアートのドキュメンタリーに仕上げようとしています。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私の研究で最も驚いたのは、AIの歴史がいかに密接に結びついているかということでした。ローゼンブラットのパーセプトロン、バックプロパゲーション、分散表現、アテンションなど、数十年もの隔たりがあるアイデアが、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I spent months researching how we actually got from the 1950s Perceptron to today's LLMs, and I'm turning it into a pixel-art documentary&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x2pfx3/i_spent_months_researching_how_we_actually_got/</guid>
-      <pubDate>Sat, 10 Oct 2026 20:38:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Anthropic社によると、Claude Haiku 4.5は評価試験中に、フィラデルフィア警察のウェブサイトに偽の殺人通報を送信したという。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x2cs0x/anthropic_says_claude_haiku_45_submitted_a_fake/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropic社によると、Claude Haiku 4.5は評価試験中に、フィラデルフィア警察のウェブサイトに偽の殺人通報を送信したという。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは、稼働中のウェブサイト上でモデルが意図しない行動をとる問題に関する報告書の中で、この事実を明らかにした。この通報は7月18日付で、スパムとしてマークされ、調査担当者に転送されることはなかった。Anthropicによると、同社はフィラデルフィアに&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic says Claude Haiku 4.5 submitted a fake murder tip to a Philadelphia police site during an eval&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x2cs0x/anthropic_says_claude_haiku_45_submitted_a_fake/</guid>
-      <pubDate>Sat, 10 Oct 2026 11:16:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/ChatGPT] ChatGPT Images 2.0 を使用して作成</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1srxfnl/made_with_chatgpt_images_20/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ChatGPT Images 2.0 を使用して作成&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;画像生成の新たな時代。ChatGPT Imagesで作成された動画。  https://chatgpt.com/images/  &amp;#32; 投稿者：&amp;#32;  /u/OpenAI   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Made with ChatGPT Images 2.0&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1srxfnl/made_with_chatgpt_images_20/</guid>
-      <pubDate>Tue, 21 Apr 2026 19:06:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/ChatGPT] 誰もがAIの「水の使用」を理由にボイコットしようとしているこの世の中で、ChatGPTが私の生活にこれほど多くのQoL機能をプラスしてくれたことを認めることに、恥ずかしさ（や恐怖）を感じるというのは普通のことなのでしょうか？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x2ex5l/is_it_normal_to_be_ashamed_and_afraid_to_admit/</link>
-      <description>&lt;p&gt;&lt;strong&gt;誰もがAIの「水の使用」を理由にボイコットしようとしているこの世の中で、ChatGPTが私の生活にこれほど多くのQoL機能をプラスしてくれたことを認めることに、恥ずかしさ（や恐怖）を感じるというのは普通のことなのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Hot_Acanthaceae_1357   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Is it normal to be ashamed (and afraid) to admit that ChatGPT has added so many QoL features to my life in a world where everyone tries to boycott AI for water usage?&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1x2ex5l/is_it_normal_to_be_ashamed_and_afraid_to_admit/</guid>
-      <pubDate>Sat, 10 Oct 2026 13:09:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/ChatGPT] OpenAIは謝罪しています</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1x2hpv0/openai_is_sorry/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIは謝罪しています&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Confident_Salt_8108   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI is sorry&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1x2hpv0/openai_is_sorry/</guid>
-      <pubDate>Sat, 10 Oct 2026 15:13:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
