@@ -3,79 +3,142 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-11</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-13</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 11 Oct 2026 21:42:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 00:26:30 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (44pt) どうやら今はWebPを使ってるみたい？</title>
-      <link>https://news.ycombinator.com/item?id=50021989</link>
-      <description>&lt;p&gt;&lt;strong&gt;どうやら今はWebPを使ってるみたい？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I guess I'm using WebP now?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50021989</guid>
-      <pubDate>Fri, 09 Oct 2026 15:32:04 GMT</pubDate>
+      <title>[Hacker News] (408pt) GLM-Legal</title>
+      <link>https://news.ycombinator.com/item?id=50058507</link>
+      <description>&lt;p&gt;&lt;strong&gt;GLM-Legal&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GLM-Legal&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50058507</guid>
+      <pubDate>Mon, 12 Oct 2026 16:11:45 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Claude Opus 5.5がPS2時代のゲームを一晩で逆コンパイルし、今ではそのうちの何百本ものゲームがブラウザのタブ上で動作するようになった</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x2tq6s/claude_opus_55_decompiles_a_ps2era_game_overnight/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Claude Opus 5.5がPS2時代のゲームを一晩で逆コンパイルし、今ではそのうちの何百本ものゲームがブラウザのタブ上で動作するようになった&lt;/strong&gt;&lt;/p&gt;
+      <title>[Hacker News] (408pt) ハッカーが、ヨーロッパ各地のスーパーマーケットの冷蔵庫で自動解凍機能を起動させた</title>
+      <link>https://news.ycombinator.com/item?id=50055304</link>
+      <description>&lt;p&gt;&lt;strong&gt;ハッカーが、ヨーロッパ各地のスーパーマーケットの冷蔵庫で自動解凍機能を起動させた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Hackers activate automatic defrosting in supermarket fridges across Europe&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50055304</guid>
+      <pubDate>Mon, 12 Oct 2026 12:16:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (362pt) C言語で開発されたモダンなWebアプリ</title>
+      <link>https://news.ycombinator.com/item?id=50058528</link>
+      <description>&lt;p&gt;&lt;strong&gt;C言語で開発されたモダンなWebアプリ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A Modern Web App in C&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50058528</guid>
+      <pubDate>Mon, 12 Oct 2026 16:13:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (88pt) Vfmaddrnd231pdとは誰なのか？</title>
+      <link>https://news.ycombinator.com/item?id=50063138</link>
+      <description>&lt;p&gt;&lt;strong&gt;Vfmaddrnd231pdとは誰なのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Who Is Vfmaddrnd231pd?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50063138</guid>
+      <pubDate>Mon, 12 Oct 2026 21:12:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (69pt) Firefoxで大規模なダウンロードを再開可能にする</title>
+      <link>https://news.ycombinator.com/item?id=50061791</link>
+      <description>&lt;p&gt;&lt;strong&gt;Firefoxで大規模なダウンロードを再開可能にする&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Making big downloads resumable in Firefox&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50061791</guid>
+      <pubDate>Mon, 12 Oct 2026 19:36:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (51pt) Phreak.ing – インターネット電話交換機</title>
+      <link>https://news.ycombinator.com/item?id=50063417</link>
+      <description>&lt;p&gt;&lt;strong&gt;Phreak.ing – インターネット電話交換機&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Phreak.ing – Internet Phone Switch&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50063417</guid>
+      <pubDate>Mon, 12 Oct 2026 21:39:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (42pt) 80歳のドナーから採取された血液細胞が、分子年齢が20歳未満の幹細胞へと変化した</title>
+      <link>https://news.ycombinator.com/item?id=50064536</link>
+      <description>&lt;p&gt;&lt;strong&gt;80歳のドナーから採取された血液細胞が、分子年齢が20歳未満の幹細胞へと変化した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Blood cells from 80-year-old donor become stem cells with molecular age under 20&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50064536</guid>
+      <pubDate>Mon, 12 Oct 2026 23:34:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (36pt) GPT-6 Astraのおかげで、Kindleの脱獄に成功した</title>
+      <link>https://news.ycombinator.com/item?id=50064318</link>
+      <description>&lt;p&gt;&lt;strong&gt;GPT-6 Astraのおかげで、Kindleの脱獄に成功した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GPT-6 Astra Helped Me Jailbreak My Kindle&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50064318</guid>
+      <pubDate>Mon, 12 Oct 2026 23:07:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (14pt) 単一細胞の不可解な知性（2024）</title>
+      <link>https://news.ycombinator.com/item?id=50041866</link>
+      <description>&lt;p&gt;&lt;strong&gt;単一細胞の不可解な知性（2024）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The baffling intelligence of a single cell (2024)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50041866</guid>
+      <pubDate>Sun, 11 Oct 2026 11:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (6pt) インスタント・ソフトウェア・ファクトリー</title>
+      <link>https://news.ycombinator.com/item?id=50064827</link>
+      <description>&lt;p&gt;&lt;strong&gt;インスタント・ソフトウェア・ファクトリー&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Instant Software Factories&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50064827</guid>
+      <pubDate>Tue, 13 Oct 2026 00:09:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ご冥福をお祈りします。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x3w15b/rip/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ご冥福をお祈りします。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Sevives   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: R.I.P.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x3w15b/rip/</guid>
+      <pubDate>Mon, 12 Oct 2026 08:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Anthropic社は、1台あたり55ドルの無名ブランドのAndroid TVボックス15台で、26Bモデルを実行した。これは、停止させるための中央管理拠点を持たないAIワームである。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x4e58k/anthropic_ran_a_26b_model_across_15_offbrand/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropic社は、1台あたり55ドルの無名ブランドのAndroid TVボックス15台で、26Bモデルを実行した。これは、停止させるための中央管理拠点を持たないAIワームである。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lulzxdxdxd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Opus 5.5 decompiles a PS2-era game overnight, and hundreds of them now run in browser tabs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x2tq6s/claude_opus_55_decompiles_a_ps2era_game_overnight/</guid>
-      <pubDate>Sat, 10 Oct 2026 23:57:43 GMT</pubDate>
+&lt;p&gt;&lt;small&gt;原題: Anthropic ran a 26B model across 15 off-brand Android TV boxes worth $55 each — an AI worm with no central point to shut off&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x4e58k/anthropic_ran_a_26b_model_across_15_offbrand/</guid>
+      <pubDate>Mon, 12 Oct 2026 21:13:08 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ジェフ・ベゾス氏は、AIによって週3日勤務が実現すると述べている――一方で、アマゾンは3万人の人員削減を実施している</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x36hoz/jeff_bezos_says_ai_will_deliver_a_3day_work_week/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ジェフ・ベゾス氏は、AIによって週3日勤務が実現すると述べている――一方で、アマゾンは3万人の人員削減を実施している&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lulzxdxdxd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Jeff Bezos says AI will deliver a 3-day work week — while Amazon cuts 30,000 jobs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x36hoz/jeff_bezos_says_ai_will_deliver_a_3day_work_week/</guid>
-      <pubDate>Sun, 11 Oct 2026 12:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 億万長者たちがトランプ氏にひれ伏し続けるのには理由がある。大統領がこの用語を「スーパー・インテリジェンス」と改めた後、米国で最も裕福な人々はこぞってこの言葉を使い始めた。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x3g0ev/theres_a_reason_billionaires_keep_bending_the/</link>
-      <description>&lt;p&gt;&lt;strong&gt;億万長者たちがトランプ氏にひれ伏し続けるのには理由がある。大統領がこの用語を「スーパー・インテリジェンス」と改めた後、米国で最も裕福な人々はこぞってこの言葉を使い始めた。&lt;/strong&gt;&lt;/p&gt;
+      <title>[r/artificial] パランティアのCTOによると、AI研究者たちは、AIががんを治すと期待しているからこそ喫煙を始めているという</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x441lg/ai_researchers_are_taking_up_smoking_because_they/</link>
+      <description>&lt;p&gt;&lt;strong&gt;パランティアのCTOによると、AI研究者たちは、AIががんを治すと期待しているからこそ喫煙を始めているという&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: There’s a reason billionaires keep bending the knee to Trump. After the president changed the term to “super intelligence,” the richest Americans rushed to use it.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x3g0ev/theres_a_reason_billionaires_keep_bending_the/</guid>
-      <pubDate>Sun, 11 Oct 2026 18:44:37 GMT</pubDate>
+&lt;p&gt;&lt;small&gt;原題: AI researchers are taking up smoking because they expect AI to cure cancer, says Palantir CTO&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x441lg/ai_researchers_are_taking_up_smoking_because_they/</guid>
+      <pubDate>Mon, 12 Oct 2026 14:56:11 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AI生成のSFシリーズの制作者たちは、1ショットあたり38,000ドルのAIクレジットと、8～10世代の処理が必要だったと述べた。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x37ox5/creators_of_an_aigenerated_scifi_series_said_it/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI生成のSFシリーズの制作者たちは、1ショットあたり38,000ドルのAIクレジットと、8～10世代の処理が必要だったと述べた。&lt;/strong&gt;&lt;/p&gt;
+      <title>[r/artificial] 科学者たちが、これまで誰もその存在を知らなかった、目の中に隠された浄化システムを発見した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x4aztm/scientists_find_a_hidden_cleanup_system_in_the/</link>
+      <description>&lt;p&gt;&lt;strong&gt;科学者たちが、これまで誰もその存在を知らなかった、目の中に隠された浄化システムを発見した&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lulzxdxdxd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Creators of an AI-generated sci-fi series said it took $38,000 in AI credits and 8 to 10 generations per shot&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x37ox5/creators_of_an_aigenerated_scifi_series_said_it/</guid>
-      <pubDate>Sun, 11 Oct 2026 13:03:04 GMT</pubDate>
+&lt;p&gt;&lt;small&gt;原題: Scientists find a hidden cleanup system in the eye that no one knew existed&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x4aztm/scientists_find_a_hidden_cleanup_system_in_the/</guid>
+      <pubDate>Mon, 12 Oct 2026 19:12:51 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropic社によると、同社のAIエージェントがウイルスのDNA内にCRISPRに類似した酵素ファミリーを発見したという。ある研究者は、自身のチームが2022年から同じ酵素について研究を続けてきたと述べている。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x3i1e5/anthropic_says_its_ai_agents_found_a_crisprlike/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropic社によると、同社のAIエージェントがウイルスのDNA内にCRISPRに類似した酵素ファミリーを発見したという。ある研究者は、自身のチームが2022年から同じ酵素について研究を続けてきたと述べている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lulzxdxdxd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic says its AI agents found a CRISPR-like enzyme family in viral DNA; a researcher notes his team had been studying the same enzymes since 2022&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x3i1e5/anthropic_says_its_ai_agents_found_a_crisprlike/</guid>
-      <pubDate>Sun, 11 Oct 2026 20:05:11 GMT</pubDate>
+      <title>[r/artificial] Linuxの創設者であるリーナス・トーバルズ氏は、AIはプログラミングへの「入り口」であると述べているが、AIを「本格的な」仕事に利用することについては注意を促している</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x4fgi1/linux_founder_linus_torvalds_says_ai_is_a_gateway/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Linuxの創設者であるリーナス・トーバルズ氏は、AIはプログラミングへの「入り口」であると述べているが、AIを「本格的な」仕事に利用することについては注意を促している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/masiroo   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Linux founder Linus Torvalds says AI is a “gateway drug” into programming — but cautions about using AI for “serious” work&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x4fgi1/linux_founder_linus_torvalds_says_ai_is_a_gateway/</guid>
+      <pubDate>Mon, 12 Oct 2026 22:07:29 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ニコラス・ケイジ、AIをめぐる対立を理由に、今後アマゾンとは共演しないと明言</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x3i1g8/nicolas_cage_says_he_wont_work_with_amazon_again/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ニコラス・ケイジ、AIをめぐる対立を理由に、今後アマゾンとは共演しないと明言&lt;/strong&gt;&lt;/p&gt;
+      <title>[r/artificial] ウクライナは1週間の間にヤンドックスのデータセンター3カ所を攻撃した――ロシアのAI大手は、自社のチャットボットやスマートホームサービスがいつ復旧するかは予測できないとしている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x3t62v/ukraine_has_hit_three_yandex_data_centres_in_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ウクライナは1週間の間にヤンドックスのデータセンター3カ所を攻撃した――ロシアのAI大手は、自社のチャットボットやスマートホームサービスがいつ復旧するかは予測できないとしている&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lulzxdxdxd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Nicolas Cage says he won't work with Amazon again over AI dispute&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x3i1g8/nicolas_cage_says_he_wont_work_with_amazon_again/</guid>
-      <pubDate>Sun, 11 Oct 2026 20:05:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 非テキスト系AIモデル開発企業のJev、サービス開始からわずか数週間で75億ドルの評価額を獲得</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x2prfl/nontext_ai_model_maker_jev_valued_at_75b_just/</link>
-      <description>&lt;p&gt;&lt;strong&gt;非テキスト系AIモデル開発企業のJev、サービス開始からわずか数週間で75億ドルの評価額を獲得&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lulzxdxdxd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Non-text AI model maker Jev valued at $7.5B just weeks after launch&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x2prfl/nontext_ai_model_maker_jev_valued_at_75b_just/</guid>
-      <pubDate>Sat, 10 Oct 2026 20:52:03 GMT</pubDate>
+&lt;p&gt;&lt;small&gt;原題: Ukraine has hit three Yandex data centres in a week — and Russia's AI giant says it can't predict when its chatbot and smart home services come back&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x3t62v/ukraine_has_hit_three_yandex_data_centres_in_a/</guid>
+      <pubDate>Mon, 12 Oct 2026 05:07:53 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] ある個人開発者が、Claudeを活用してWord、Excel、PowerPointを無料のオープンソースアプリとして再構築し、従業員1人あたりの収益がGoogleの4倍に達していると述べている</title>
@@ -87,13 +150,31 @@
       <pubDate>Sun, 11 Oct 2026 21:05:19 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropicは、自社のエージェントがウェブサイトを悪用し、制限を回避していることが調査で判明したことを受け、すべての社内評価環境からインターネットへのライブアクセスを遮断した。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x2h9it/anthropic_cut_live_internet_access_from_every/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropicは、自社のエージェントがウェブサイトを悪用し、制限を回避していることが調査で判明したことを受け、すべての社内評価環境からインターネットへのライブアクセスを遮断した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lulzxdxdxd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic cut live internet access from every internal eval after a review found its agents exploiting websites and bypassing restrictions&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x2h9it/anthropic_cut_live_internet_access_from_every/</guid>
-      <pubDate>Sat, 10 Oct 2026 14:54:41 GMT</pubDate>
+      <title>[r/artificial] 私：史上最も怖いホラーゲームを作るぞ　でも私：怖すぎて自分のゲームをテストできない 💀</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x4cptr/me_gonna_make_the_scariest_horror_game_ever_also/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私：史上最も怖いホラーゲームを作るぞ　でも私：怖すぎて自分のゲームをテストできない 💀&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/fasildar55   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: me: gonna make the scariest horror game ever also me: too scared to test my own game 💀&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x4cptr/me_gonna_make_the_scariest_horror_game_ever_also/</guid>
+      <pubDate>Mon, 12 Oct 2026 20:17:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ネットって本当に荒れてるよね😂😂</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x36tu3/the_internet_is_wild/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ネットって本当に荒れてるよね😂😂&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Sevives   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Internet is wild😂😂&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x36tu3/the_internet_is_wild/</guid>
+      <pubDate>Sun, 11 Oct 2026 12:20:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 研究によると、AIモデルは危険を認識しているにもかかわらず、メンタルヘルスの危機において十分な支援を提供できていないことが判明した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x4c8xt/ai_models_fail_to_help_in_mental_health_crises/</link>
+      <description>&lt;p&gt;&lt;strong&gt;研究によると、AIモデルは危険を認識しているにもかかわらず、メンタルヘルスの危機において十分な支援を提供できていないことが判明した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/LinkedInNews   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI models fail to help in mental health crises despite recognizing danger, study finds&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x4c8xt/ai_models_fail_to_help_in_mental_health_crises/</guid>
+      <pubDate>Mon, 12 Oct 2026 19:59:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
