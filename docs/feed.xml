@@ -3,32 +3,133 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-13</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-14</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 13 Oct 2026 22:29:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 21:28:45 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (843pt) ジェミニ4 アルゴン</title>
-      <link>https://news.ycombinator.com/item?id=50073879</link>
-      <description>&lt;p&gt;&lt;strong&gt;ジェミニ4 アルゴン&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gemini 4 Argon&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50073879</guid>
-      <pubDate>Tue, 13 Oct 2026 16:03:16 GMT</pubDate>
+      <title>[Hacker News] (356pt) がんになったときに知っておくべきこと – 2026年版</title>
+      <link>https://news.ycombinator.com/item?id=50093568</link>
+      <description>&lt;p&gt;&lt;strong&gt;がんになったときに知っておくべきこと – 2026年版&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Things to know when you get cancer – 2026 Edition&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50093568</guid>
+      <pubDate>Wed, 14 Oct 2026 19:26:30 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (211pt) HNに投稿したところ、自分のウェブサイトにAIボットによるアクセスが殺到した</title>
-      <link>https://news.ycombinator.com/item?id=50073221</link>
-      <description>&lt;p&gt;&lt;strong&gt;HNに投稿したところ、自分のウェブサイトにAIボットによるアクセスが殺到した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I posted to HN, and then my website was flooded with AI bot traffic&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50073221</guid>
-      <pubDate>Tue, 13 Oct 2026 15:25:50 GMT</pubDate>
+      <title>[Hacker News] (219pt) ポーランドでの妨害工作の疑いに続き、ブルガリアのスターリンク施設で火災が発生</title>
+      <link>https://news.ycombinator.com/item?id=50092730</link>
+      <description>&lt;p&gt;&lt;strong&gt;ポーランドでの妨害工作の疑いに続き、ブルガリアのスターリンク施設で火災が発生&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Fire at Starlink site in Bulgaria after suspected sabotage in Poland&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50092730</guid>
+      <pubDate>Wed, 14 Oct 2026 18:37:21 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (177pt) OpenAIのエンジニア、役員会議室への盗聴容疑で逮捕</title>
-      <link>https://news.ycombinator.com/item?id=50078141</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIのエンジニア、役員会議室への盗聴容疑で逮捕&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI engineer arrested in bugging of executive conference room&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50078141</guid>
-      <pubDate>Tue, 13 Oct 2026 20:23:55 GMT</pubDate>
+      <title>[Hacker News] (189pt) 歯科医は自分のやっていることを理解しているのだろうか？</title>
+      <link>https://news.ycombinator.com/item?id=50050553</link>
+      <description>&lt;p&gt;&lt;strong&gt;歯科医は自分のやっていることを理解しているのだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Do dentists know what they're doing?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50050553</guid>
+      <pubDate>Mon, 12 Oct 2026 02:21:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (166pt) Go 1.27 における HTTP/1 接続の再利用の改善</title>
+      <link>https://news.ycombinator.com/item?id=50090369</link>
+      <description>&lt;p&gt;&lt;strong&gt;Go 1.27 における HTTP/1 接続の再利用の改善&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Better HTTP/1 connection reuse in Go 1.27&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50090369</guid>
+      <pubDate>Wed, 14 Oct 2026 16:29:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (116pt) Anthropicの『Scion』は、『モノノケ』から多大な影響を受けている</title>
+      <link>https://news.ycombinator.com/item?id=50094694</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropicの『Scion』は、『モノノケ』から多大な影響を受けている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic's Scion is heavily inspired by Mononoke&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50094694</guid>
+      <pubDate>Wed, 14 Oct 2026 20:30:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (93pt) Yandexのサービス停止：データによると、サービスが停止したのではなく、悪意のあるボットが移動していたことが判明した</title>
+      <link>https://news.ycombinator.com/item?id=50094673</link>
+      <description>&lt;p&gt;&lt;strong&gt;Yandexのサービス停止：データによると、サービスが停止したのではなく、悪意のあるボットが移動していたことが判明した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Yandex outage: data shows that instead of going dark, malicious bots moved&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50094673</guid>
+      <pubDate>Wed, 14 Oct 2026 20:29:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (75pt) Show HN：Petal、オープンソースのCoScreen/ScreenHeroがついに無料化</title>
+      <link>https://news.ycombinator.com/item?id=50092470</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN：Petal、オープンソースのCoScreen/ScreenHeroがついに無料化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: Petal, open-source CoScreen/ScreenHero finally free&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50092470</guid>
+      <pubDate>Wed, 14 Oct 2026 18:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (37pt) OpenCode 2.0</title>
+      <link>https://news.ycombinator.com/item?id=50094994</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenCode 2.0&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenCode 2.0&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50094994</guid>
+      <pubDate>Wed, 14 Oct 2026 20:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (32pt) ファンシーカールのサイト</title>
+      <link>https://news.ycombinator.com/item?id=50093612</link>
+      <description>&lt;p&gt;&lt;strong&gt;ファンシーカールのサイト&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Fancy Curl Sites&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50093612</guid>
+      <pubDate>Wed, 14 Oct 2026 19:29:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (15pt) Jev 1.14.0 を、夢見る人たちに向けた実験的な機能とともにリリースします</title>
+      <link>https://news.ycombinator.com/item?id=50095353</link>
+      <description>&lt;p&gt;&lt;strong&gt;Jev 1.14.0 を、夢見る人たちに向けた実験的な機能とともにリリースします&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: We’re releasing Jev 1.14.0 along with experimental features for dreamers&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50095353</guid>
+      <pubDate>Wed, 14 Oct 2026 21:11:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ピーター・ティール：「AIの規制を望んでいるのは、他にも誰がいるか？　それは『反キリスト』だ」。ナッシュビルで行われたティールの「反キリスト」と題した講演シリーズは、AI規制の支持者たちを「反キリスト」を助長する存在として描くことに焦点を当てていると報じられている。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x5lboy/peter_thiel_you_know_who_else_wants_to_regulate/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ピーター・ティール：「AIの規制を望んでいるのは、他にも誰がいるか？　それは『反キリスト』だ」。ナッシュビルで行われたティールの「反キリスト」と題した講演シリーズは、AI規制の支持者たちを「反キリスト」を助長する存在として描くことに焦点を当てていると報じられている。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Peter Thiel: You Know Who Else Wants to Regulate AI? The Antichrist. Thiel's 'Antichrist' lecture series in Nashville is reportedly focused on casting AI regulation advocates as antichrist enablers.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x5lboy/peter_thiel_you_know_who_else_wants_to_regulate/</guid>
+      <pubDate>Wed, 14 Oct 2026 07:55:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Epic Gamesは、「プログラミングは難しい」という理由で、新しいランチャーに「雰囲気」を反映させたとしている。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x5uwd0/epic_games_says_it_vibe_coded_new_launcher/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Epic Gamesは、「プログラミングは難しい」という理由で、新しいランチャーに「雰囲気」を反映させたとしている。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Dilpickle2113   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Epic Games says it vibe coded new launcher because “programming is hard”&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x5uwd0/epic_games_says_it_vibe_coded_new_launcher/</guid>
+      <pubDate>Wed, 14 Oct 2026 15:53:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ピーター・ティール、AI批判者への攻勢を強め、オバマ氏とローマ教皇が「自身の人気を高める」ために大衆の不安を悪用していると非難</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x5lkkg/peter_thiel_escalates_war_on_ai_critics_accuses/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ピーター・ティール、AI批判者への攻勢を強め、オバマ氏とローマ教皇が「自身の人気を高める」ために大衆の不安を悪用していると非難&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Peter Thiel Escalates War on AI Critics, Accuses Obama and The Pope of Exploiting Public Fears to ‘Boost Their Own Popularity’&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x5lkkg/peter_thiel_escalates_war_on_ai_critics_accuses/</guid>
+      <pubDate>Wed, 14 Oct 2026 08:11:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 始まった……🦾☠️</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x5g7lx/it_has_begun/</link>
+      <description>&lt;p&gt;&lt;strong&gt;始まった……🦾☠️&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/jtbuadd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: It has begun…🦾☠️&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x5g7lx/it_has_begun/</guid>
+      <pubDate>Wed, 14 Oct 2026 02:51:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 今日のエージェントのメモリスタックのうち、どれほどがモデルアーキテクチャに対する回避策となっているのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x5sul4/how_much_of_todays_agent_memory_stack_is_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;今日のエージェントのメモリスタックのうち、どれほどがモデルアーキテクチャに対する回避策となっているのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今日のエージェント・スタックの多くは、モデルへの呼び出しでは、過去のやり取りで学習された内容がすべて自動的に引き継がれないという事実を踏まえて設計されています。私たちは会話履歴を取得し、マ&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How much of today's agent memory stack is a workaround for the model architecture?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x5sul4/how_much_of_todays_agent_memory_stack_is_a/</guid>
+      <pubDate>Wed, 14 Oct 2026 14:34:05 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] OpenAIによるセンセーショナルなナビエ・ストークス方程式の証明は、私たちが考えていたものとは違っていた</title>
@@ -40,67 +141,40 @@
       <pubDate>Tue, 13 Oct 2026 17:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Character.AIが破産申請、一部の資産をディズニーに2,000万ドルで売却へ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x4xfop/characterai_files_for_bankruptcy_to_sell_some/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Character.AIが破産申請、一部の資産をディズニーに2,000万ドルで売却へ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/nbcnews   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Character.AI files for bankruptcy, to sell some assets to Disney for $20 million&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x4xfop/characterai_files_for_bankruptcy_to_sell_some/</guid>
-      <pubDate>Tue, 13 Oct 2026 14:00:28 GMT</pubDate>
+      <title>[r/artificial] 「理性の時代」は無事に過ぎ去った</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x5ke53/the_age_of_reason_is_safely_behind_us/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「理性の時代」は無事に過ぎ去った&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic社が、自社のモデルを使用する際に得られるAIの回答の背後にある推論を「保護」するために実施し、公に自慢していることは、私にはどうしても納得がいかない。  &amp;#32; 投稿者：&amp;#32;  /u/&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Age of Reason Is Safely Behind Us&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x5ke53/the_age_of_reason_is_safely_behind_us/</guid>
+      <pubDate>Wed, 14 Oct 2026 06:54:17 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 警察はAIを活用して、たった1枚の室内写真から住宅の位置を特定しており、洗濯機の写真1枚だけでも十分な場合がある</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x4v8vl/police_are_using_ai_to_locate_homes_from_a_single/</link>
-      <description>&lt;p&gt;&lt;strong&gt;警察はAIを活用して、たった1枚の室内写真から住宅の位置を特定しており、洗濯機の写真1枚だけでも十分な場合がある&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lulzxdxdxd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Police are using AI to locate homes from a single interior photo, and even a picture of a washing machine can be enough&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x4v8vl/police_are_using_ai_to_locate_homes_from_a_single/</guid>
-      <pubDate>Tue, 13 Oct 2026 12:25:51 GMT</pubDate>
+      <title>[r/artificial] カルシ社は、見知らぬ男性の動画を無断で使用し、AIを用いてその男性をCMの司会者に仕立て上げ、その過程で彼の人種を変更したことを認めた。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x5k2ho/kalshi_admits_that_it_took_a_random_guys_video/</link>
+      <description>&lt;p&gt;&lt;strong&gt;カルシ社は、見知らぬ男性の動画を無断で使用し、AIを用いてその男性をCMの司会者に仕立て上げ、その過程で彼の人種を変更したことを認めた。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Mathemodel   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Kalshi Admits That It Took a Random Guy's Video and Used AI to Make Him the Host of an Ad, Changing His Race in the Process&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x5k2ho/kalshi_admits_that_it_took_a_random_guys_video/</guid>
+      <pubDate>Wed, 14 Oct 2026 06:34:01 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 「私たちのささやかな目標は、AI革命を生き抜くことだ」と、エピック・ゲームズのティム・スウィーニーCEOは述べている。同社の『スター・ウォーズ』と『マーベル』のクロスオーバー作品は、「AIファースト」の開発へと方向転換しており、アートは「完全なAIワークフローによって生成される」ことになる。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x4pzvo/our_humble_goal_is_to_survive_the_ai_revolution/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「私たちのささやかな目標は、AI革命を生き抜くことだ」と、エピック・ゲームズのティム・スウィーニーCEOは述べている。同社の『スター・ウォーズ』と『マーベル』のクロスオーバー作品は、「AIファースト」の開発へと方向転換しており、アートは「完全なAIワークフローによって生成される」ことになる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ControlCAD   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: &quot;Our humble goal is to survive the AI revolution&quot; says Epic Games CEO Tim Sweeney, as its Star Wars and Marvel crossover pivots to &quot;AI first&quot; development | Art will be &quot;generated with full AI workflows&quot;.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x4pzvo/our_humble_goal_is_to_survive_the_ai_revolution/</guid>
-      <pubDate>Tue, 13 Oct 2026 07:10:56 GMT</pubDate>
+      <title>[r/artificial] このゲームは、どうやらGemini 4 Argonが開発したようです。AI Studioがこれを紹介しています。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x5zs1r/gemini_4_argon_apparently_built_this_game_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;このゲームは、どうやらGemini 4 Argonが開発したようです。AI Studioがこれを紹介しています。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/fasildar55   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gemini 4 Argon apparently built this game. AI Studio is showcasing it.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x5zs1r/gemini_4_argon_apparently_built_this_game_ai/</guid>
+      <pubDate>Wed, 14 Oct 2026 18:56:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropic社は、1台あたり55ドルの無名ブランドのAndroid TVボックス15台に、26Bモデルを稼働させた。これは、停止させるための中央管理拠点を持たないAIワームのようなものだ。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x4e58k/anthropic_ran_a_26b_model_across_15_offbrand/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropic社は、1台あたり55ドルの無名ブランドのAndroid TVボックス15台に、26Bモデルを稼働させた。これは、停止させるための中央管理拠点を持たないAIワームのようなものだ。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/lulzxdxdxd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic ran a 26B model across 15 off-brand Android TV boxes worth $55 each — an AI worm with no central point to shut off&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x4e58k/anthropic_ran_a_26b_model_across_15_offbrand/</guid>
-      <pubDate>Mon, 12 Oct 2026 21:13:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Netflixはベン・アフレックのAI企業に巨額を投じた。『アニマルズ』の公開後、同社はなぜそうしたのかと疑問に思うかもしれない</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x4wcl5/netflix_spent_big_on_ben_afflecks_ai_company/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Netflixはベン・アフレックのAI企業に巨額を投じた。『アニマルズ』の公開後、同社はなぜそうしたのかと疑問に思うかもしれない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/theindependentonline   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Netflix spent big on Ben Affleck’s AI company. After Animals, they might wonder why&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x4wcl5/netflix_spent_big_on_ben_afflecks_ai_company/</guid>
-      <pubDate>Tue, 13 Oct 2026 13:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AI時代の現代におけるプロパガンダとは、すべての人に同じことを信じるよう求めないプロパガンダであるかもしれない</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x4zkd9/modernday_propaganda_in_the_age_of_ai_may_be/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI時代の現代におけるプロパガンダとは、すべての人に同じことを信じるよう求めないプロパガンダであるかもしれない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;デジタル時代のプロパガンダについて、考えてみる価値のある興味深い視点がいくつかあります。例えば、データセンターの問題を例に挙げてみましょう。ある人は、雇用や税収、そして技術的な&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Modern-Day Propaganda in the Age of AI May Be Propaganda That Never Asks Everyone to Believe the Same Thing&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x4zkd9/modernday_propaganda_in_the_age_of_ai_may_be/</guid>
-      <pubDate>Tue, 13 Oct 2026 15:23:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIは、私がサッカーのYouTubeチャンネルを立ち上げるのに役立つでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x4zvgs/could_ai_help_me_build_a_football_youtube_channel/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIは、私がサッカーのYouTubeチャンネルを立ち上げるのに役立つでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近、AI生成音声を試しているのですが、サッカーのスター選手がPKを外してしまう理由について解説した短い動画を作ってみました……。その出来栄えを見て、今はこう考えています……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Could AI help me build a football YouTube channel?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x4zvgs/could_ai_help_me_build_a_football_youtube_channel/</guid>
-      <pubDate>Tue, 13 Oct 2026 15:34:39 GMT</pubDate>
+      <title>[r/artificial] 私の歴史ポッドキャストアプリに、探索できる「アトラス」機能が追加されました</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x5r66p/my_history_podcast_app_now_has_an_atlas_to_explore/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私の歴史ポッドキャストアプリに、探索できる「アトラス」機能が追加されました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は歴史好き（父のせいです）で、生業としてアプリやLLMツールを開発しています。そこで、「Historai」というツールを作りました。これは、入力したトピックに基づいて歴史ポッドキャストを生成するツールです。私が最も楽しみにしていた機能を、つい先日リリースしたばかりです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: My history podcast app now has an Atlas to explore&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x5r66p/my_history_podcast_app_now_has_an_atlas_to_explore/</guid>
+      <pubDate>Wed, 14 Oct 2026 13:25:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
