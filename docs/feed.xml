@@ -3,178 +3,178 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-14</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-15</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Oct 2026 21:28:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 21:10:38 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (356pt) がんになったときに知っておくべきこと – 2026年版</title>
-      <link>https://news.ycombinator.com/item?id=50093568</link>
-      <description>&lt;p&gt;&lt;strong&gt;がんになったときに知っておくべきこと – 2026年版&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Things to know when you get cancer – 2026 Edition&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50093568</guid>
-      <pubDate>Wed, 14 Oct 2026 19:26:30 GMT</pubDate>
+      <title>[Hacker News] (444pt) ミューズ・スパーク・オープン</title>
+      <link>https://news.ycombinator.com/item?id=50107379</link>
+      <description>&lt;p&gt;&lt;strong&gt;ミューズ・スパーク・オープン&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Muse Spark Open&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50107379</guid>
+      <pubDate>Thu, 15 Oct 2026 17:47:39 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (219pt) ポーランドでの妨害工作の疑いに続き、ブルガリアのスターリンク施設で火災が発生</title>
-      <link>https://news.ycombinator.com/item?id=50092730</link>
-      <description>&lt;p&gt;&lt;strong&gt;ポーランドでの妨害工作の疑いに続き、ブルガリアのスターリンク施設で火災が発生&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Fire at Starlink site in Bulgaria after suspected sabotage in Poland&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50092730</guid>
-      <pubDate>Wed, 14 Oct 2026 18:37:21 GMT</pubDate>
+      <title>[Hacker News] (424pt) スキューモーフィックデザインを採用したLinux用Waylandデスクトップ</title>
+      <link>https://news.ycombinator.com/item?id=50103338</link>
+      <description>&lt;p&gt;&lt;strong&gt;スキューモーフィックデザインを採用したLinux用Waylandデスクトップ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Wayland desktop for Linux with skeuomorphic design&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50103338</guid>
+      <pubDate>Thu, 15 Oct 2026 13:23:44 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (189pt) 歯科医は自分のやっていることを理解しているのだろうか？</title>
-      <link>https://news.ycombinator.com/item?id=50050553</link>
-      <description>&lt;p&gt;&lt;strong&gt;歯科医は自分のやっていることを理解しているのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Do dentists know what they're doing?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50050553</guid>
-      <pubDate>Mon, 12 Oct 2026 02:21:54 GMT</pubDate>
+      <title>[Hacker News] (366pt) ニューラルネットワークはクリーンだ</title>
+      <link>https://news.ycombinator.com/item?id=50105647</link>
+      <description>&lt;p&gt;&lt;strong&gt;ニューラルネットワークはクリーンだ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Neural networks are clean&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50105647</guid>
+      <pubDate>Thu, 15 Oct 2026 16:04:01 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (166pt) Go 1.27 における HTTP/1 接続の再利用の改善</title>
-      <link>https://news.ycombinator.com/item?id=50090369</link>
-      <description>&lt;p&gt;&lt;strong&gt;Go 1.27 における HTTP/1 接続の再利用の改善&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Better HTTP/1 connection reuse in Go 1.27&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50090369</guid>
-      <pubDate>Wed, 14 Oct 2026 16:29:33 GMT</pubDate>
+      <title>[Hacker News] (310pt) AdFection：ターゲティング広告が、クリック不要の傭兵型スパイウェアの流入経路となった</title>
+      <link>https://news.ycombinator.com/item?id=50101813</link>
+      <description>&lt;p&gt;&lt;strong&gt;AdFection：ターゲティング広告が、クリック不要の傭兵型スパイウェアの流入経路となった&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50101813</guid>
+      <pubDate>Thu, 15 Oct 2026 10:43:36 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (116pt) Anthropicの『Scion』は、『モノノケ』から多大な影響を受けている</title>
-      <link>https://news.ycombinator.com/item?id=50094694</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropicの『Scion』は、『モノノケ』から多大な影響を受けている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic's Scion is heavily inspired by Mononoke&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50094694</guid>
-      <pubDate>Wed, 14 Oct 2026 20:30:54 GMT</pubDate>
+      <title>[Hacker News] (194pt) Krea 3 – 大規模な編集向けに構築された画像モデル</title>
+      <link>https://news.ycombinator.com/item?id=50105648</link>
+      <description>&lt;p&gt;&lt;strong&gt;Krea 3 – 大規模な編集向けに構築された画像モデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Krea 3 – An image model built for editing at scale&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50105648</guid>
+      <pubDate>Thu, 15 Oct 2026 16:04:05 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (93pt) Yandexのサービス停止：データによると、サービスが停止したのではなく、悪意のあるボットが移動していたことが判明した</title>
-      <link>https://news.ycombinator.com/item?id=50094673</link>
-      <description>&lt;p&gt;&lt;strong&gt;Yandexのサービス停止：データによると、サービスが停止したのではなく、悪意のあるボットが移動していたことが判明した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Yandex outage: data shows that instead of going dark, malicious bots moved&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50094673</guid>
-      <pubDate>Wed, 14 Oct 2026 20:29:13 GMT</pubDate>
+      <title>[Hacker News] (170pt) ジェヴが「トロリー問題」に直面する</title>
+      <link>https://news.ycombinator.com/item?id=50106023</link>
+      <description>&lt;p&gt;&lt;strong&gt;ジェヴが「トロリー問題」に直面する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Jev meets the Trolley Problem&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50106023</guid>
+      <pubDate>Thu, 15 Oct 2026 16:24:52 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (75pt) Show HN：Petal、オープンソースのCoScreen/ScreenHeroがついに無料化</title>
-      <link>https://news.ycombinator.com/item?id=50092470</link>
-      <description>&lt;p&gt;&lt;strong&gt;Show HN：Petal、オープンソースのCoScreen/ScreenHeroがついに無料化&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: Petal, open-source CoScreen/ScreenHero finally free&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50092470</guid>
-      <pubDate>Wed, 14 Oct 2026 18:23:14 GMT</pubDate>
+      <title>[Hacker News] (75pt) E Ink Kaleido 4</title>
+      <link>https://news.ycombinator.com/item?id=50108229</link>
+      <description>&lt;p&gt;&lt;strong&gt;E Ink Kaleido 4&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: E Ink Kaleido 4&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50108229</guid>
+      <pubDate>Thu, 15 Oct 2026 18:38:16 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (37pt) OpenCode 2.0</title>
-      <link>https://news.ycombinator.com/item?id=50094994</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenCode 2.0&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenCode 2.0&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50094994</guid>
-      <pubDate>Wed, 14 Oct 2026 20:48:24 GMT</pubDate>
+      <title>[Hacker News] (71pt) そもそも、なぜこんなことをしているんだろう？</title>
+      <link>https://news.ycombinator.com/item?id=50109707</link>
+      <description>&lt;p&gt;&lt;strong&gt;そもそも、なぜこんなことをしているんだろう？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Why are we even doing all this?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50109707</guid>
+      <pubDate>Thu, 15 Oct 2026 20:22:50 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (32pt) ファンシーカールのサイト</title>
-      <link>https://news.ycombinator.com/item?id=50093612</link>
-      <description>&lt;p&gt;&lt;strong&gt;ファンシーカールのサイト&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Fancy Curl Sites&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50093612</guid>
-      <pubDate>Wed, 14 Oct 2026 19:29:12 GMT</pubDate>
+      <title>[Hacker News] (32pt) Withingsの新規ユーザーは、Apple Healthとの同期に年間99ドルを支払う必要があります</title>
+      <link>https://news.ycombinator.com/item?id=50109375</link>
+      <description>&lt;p&gt;&lt;strong&gt;Withingsの新規ユーザーは、Apple Healthとの同期に年間99ドルを支払う必要があります&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: New Withings Users Must Pay $99/Year for Apple Health Syncing&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50109375</guid>
+      <pubDate>Thu, 15 Oct 2026 19:55:49 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (15pt) Jev 1.14.0 を、夢見る人たちに向けた実験的な機能とともにリリースします</title>
-      <link>https://news.ycombinator.com/item?id=50095353</link>
-      <description>&lt;p&gt;&lt;strong&gt;Jev 1.14.0 を、夢見る人たちに向けた実験的な機能とともにリリースします&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: We’re releasing Jev 1.14.0 along with experimental features for dreamers&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50095353</guid>
-      <pubDate>Wed, 14 Oct 2026 21:11:03 GMT</pubDate>
+      <title>[Hacker News] (11pt) 私が独自にホストしているもの</title>
+      <link>https://news.ycombinator.com/item?id=50109715</link>
+      <description>&lt;p&gt;&lt;strong&gt;私が独自にホストしているもの&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What I Self-Host&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50109715</guid>
+      <pubDate>Thu, 15 Oct 2026 20:23:25 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ピーター・ティール：「AIの規制を望んでいるのは、他にも誰がいるか？　それは『反キリスト』だ」。ナッシュビルで行われたティールの「反キリスト」と題した講演シリーズは、AI規制の支持者たちを「反キリスト」を助長する存在として描くことに焦点を当てていると報じられている。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x5lboy/peter_thiel_you_know_who_else_wants_to_regulate/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ピーター・ティール：「AIの規制を望んでいるのは、他にも誰がいるか？　それは『反キリスト』だ」。ナッシュビルで行われたティールの「反キリスト」と題した講演シリーズは、AI規制の支持者たちを「反キリスト」を助長する存在として描くことに焦点を当てていると報じられている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Peter Thiel: You Know Who Else Wants to Regulate AI? The Antichrist. Thiel's 'Antichrist' lecture series in Nashville is reportedly focused on casting AI regulation advocates as antichrist enablers.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x5lboy/peter_thiel_you_know_who_else_wants_to_regulate/</guid>
-      <pubDate>Wed, 14 Oct 2026 07:55:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Epic Gamesは、「プログラミングは難しい」という理由で、新しいランチャーに「雰囲気」を反映させたとしている。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x5uwd0/epic_games_says_it_vibe_coded_new_launcher/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Epic Gamesは、「プログラミングは難しい」という理由で、新しいランチャーに「雰囲気」を反映させたとしている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Dilpickle2113   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Epic Games says it vibe coded new launcher because “programming is hard”&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x5uwd0/epic_games_says_it_vibe_coded_new_launcher/</guid>
-      <pubDate>Wed, 14 Oct 2026 15:53:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ピーター・ティール、AI批判者への攻勢を強め、オバマ氏とローマ教皇が「自身の人気を高める」ために大衆の不安を悪用していると非難</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x5lkkg/peter_thiel_escalates_war_on_ai_critics_accuses/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ピーター・ティール、AI批判者への攻勢を強め、オバマ氏とローマ教皇が「自身の人気を高める」ために大衆の不安を悪用していると非難&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Peter Thiel Escalates War on AI Critics, Accuses Obama and The Pope of Exploiting Public Fears to ‘Boost Their Own Popularity’&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x5lkkg/peter_thiel_escalates_war_on_ai_critics_accuses/</guid>
-      <pubDate>Wed, 14 Oct 2026 08:11:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 始まった……🦾☠️</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x5g7lx/it_has_begun/</link>
-      <description>&lt;p&gt;&lt;strong&gt;始まった……🦾☠️&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/jtbuadd   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: It has begun…🦾☠️&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x5g7lx/it_has_begun/</guid>
-      <pubDate>Wed, 14 Oct 2026 02:51:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 今日のエージェントのメモリスタックのうち、どれほどがモデルアーキテクチャに対する回避策となっているのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x5sul4/how_much_of_todays_agent_memory_stack_is_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;今日のエージェントのメモリスタックのうち、どれほどがモデルアーキテクチャに対する回避策となっているのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今日のエージェント・スタックの多くは、モデルへの呼び出しでは、過去のやり取りで学習された内容がすべて自動的に引き継がれないという事実を踏まえて設計されています。私たちは会話履歴を取得し、マ&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How much of today's agent memory stack is a workaround for the model architecture?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x5sul4/how_much_of_todays_agent_memory_stack_is_a/</guid>
-      <pubDate>Wed, 14 Oct 2026 14:34:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] OpenAIによるセンセーショナルなナビエ・ストークス方程式の証明は、私たちが考えていたものとは違っていた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x530mt/openais_blockbuster_navierstokes_proof_isnt_what/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIによるセンセーショナルなナビエ・ストークス方程式の証明は、私たちが考えていたものとは違っていた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/scientificamerican   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI’s blockbuster Navier-Stokes proof isn’t what we thought it was&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x530mt/openais_blockbuster_navierstokes_proof_isnt_what/</guid>
-      <pubDate>Tue, 13 Oct 2026 17:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 「理性の時代」は無事に過ぎ去った</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x5ke53/the_age_of_reason_is_safely_behind_us/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「理性の時代」は無事に過ぎ去った&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic社が、自社のモデルを使用する際に得られるAIの回答の背後にある推論を「保護」するために実施し、公に自慢していることは、私にはどうしても納得がいかない。  &amp;#32; 投稿者：&amp;#32;  /u/&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Age of Reason Is Safely Behind Us&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x5ke53/the_age_of_reason_is_safely_behind_us/</guid>
-      <pubDate>Wed, 14 Oct 2026 06:54:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] カルシ社は、見知らぬ男性の動画を無断で使用し、AIを用いてその男性をCMの司会者に仕立て上げ、その過程で彼の人種を変更したことを認めた。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x5k2ho/kalshi_admits_that_it_took_a_random_guys_video/</link>
-      <description>&lt;p&gt;&lt;strong&gt;カルシ社は、見知らぬ男性の動画を無断で使用し、AIを用いてその男性をCMの司会者に仕立て上げ、その過程で彼の人種を変更したことを認めた。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Mathemodel   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Kalshi Admits That It Took a Random Guy's Video and Used AI to Make Him the Host of an Ad, Changing His Race in the Process&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x5k2ho/kalshi_admits_that_it_took_a_random_guys_video/</guid>
-      <pubDate>Wed, 14 Oct 2026 06:34:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] このゲームは、どうやらGemini 4 Argonが開発したようです。AI Studioがこれを紹介しています。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x5zs1r/gemini_4_argon_apparently_built_this_game_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;このゲームは、どうやらGemini 4 Argonが開発したようです。AI Studioがこれを紹介しています。&lt;/strong&gt;&lt;/p&gt;
+      <title>[r/artificial] Anthropic社の「Mythos」が数多くのソフトウェアの欠陥を発見したため、バンク・オブ・アメリカはそれらを修正するために1,000人の契約社員を採用した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x6q0v3/anthropics_mythos_found_so_many_software_flaws/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropic社の「Mythos」が数多くのソフトウェアの欠陥を発見したため、バンク・オブ・アメリカはそれらを修正するために1,000人の契約社員を採用した&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/fasildar55   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gemini 4 Argon apparently built this game. AI Studio is showcasing it.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x5zs1r/gemini_4_argon_apparently_built_this_game_ai/</guid>
-      <pubDate>Wed, 14 Oct 2026 18:56:00 GMT</pubDate>
+&lt;p&gt;&lt;small&gt;原題: Anthropic's Mythos found so many software flaws, Bank of America hired 1,000 contractors to fix them&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x6q0v3/anthropics_mythos_found_so_many_software_flaws/</guid>
+      <pubDate>Thu, 15 Oct 2026 16:17:05 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 私の歴史ポッドキャストアプリに、探索できる「アトラス」機能が追加されました</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x5r66p/my_history_podcast_app_now_has_an_atlas_to_explore/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私の歴史ポッドキャストアプリに、探索できる「アトラス」機能が追加されました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は歴史好き（父のせいです）で、生業としてアプリやLLMツールを開発しています。そこで、「Historai」というツールを作りました。これは、入力したトピックに基づいて歴史ポッドキャストを生成するツールです。私が最も楽しみにしていた機能を、つい先日リリースしたばかりです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: My history podcast app now has an Atlas to explore&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x5r66p/my_history_podcast_app_now_has_an_atlas_to_explore/</guid>
-      <pubDate>Wed, 14 Oct 2026 13:25:32 GMT</pubDate>
+      <title>[r/artificial] 子育ての中で、私がいつも楽しみにしていることの一つは、子供たちに本を読んであげることです。一体、なぜ誰かが進んでそんなことを諦めようとするのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x6t5wi/one_of_the_favorite_parts_of_parenting_has_always/</link>
+      <description>&lt;p&gt;&lt;strong&gt;子育ての中で、私がいつも楽しみにしていることの一つは、子供たちに本を読んであげることです。一体、なぜ誰かが進んでそんなことを諦めようとするのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Garaad252   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: One of the favorite parts of parenting has always been reading to the kiddos. Why would anyone voluntarily give that up?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x6t5wi/one_of_the_favorite_parts_of_parenting_has_always/</guid>
+      <pubDate>Thu, 15 Oct 2026 18:15:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 監督なしのAIエージェントが、放送開始の数週間前にテレビ番組の編集データ全体を削除し、数ヶ月分の作業を台無しにしたと報じられている――番組は放送できなくなった。AIエージェントには制作サーバーへのアクセス権限が与えられており、完成したシーズンのデータを消去してしまった。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x6oefu/unsupervised_ai_agent_reportedly_deletes_tv_shows/</link>
+      <description>&lt;p&gt;&lt;strong&gt;監督なしのAIエージェントが、放送開始の数週間前にテレビ番組の編集データ全体を削除し、数ヶ月分の作業を台無しにしたと報じられている――番組は放送できなくなった。AIエージェントには制作サーバーへのアクセス権限が与えられており、完成したシーズンのデータを消去してしまった。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/IndependentCoast3974   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Unsupervised AI agent reportedly deletes TV show’s entire edit weeks before release, erasing months of work — TV show can't air, AI agent was given access to the production server and wiped the finished season&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x6oefu/unsupervised_ai_agent_reportedly_deletes_tv_shows/</guid>
+      <pubDate>Thu, 15 Oct 2026 15:16:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 科学者たちは、AIが自分たちのアイデアを盗んでいるのではないかと懸念している</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x6rttu/scientists_worry_ai_is_stealing_their_ideas/</link>
+      <description>&lt;p&gt;&lt;strong&gt;科学者たちは、AIが自分たちのアイデアを盗んでいるのではないかと懸念している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/scientificamerican   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Scientists worry AI is stealing their ideas&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x6rttu/scientists_worry_ai_is_stealing_their_ideas/</guid>
+      <pubDate>Thu, 15 Oct 2026 17:24:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 8つの州が、ChatGPTによるユーザーへの被害の疑いを理由にOpenAIを提訴</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x6lrm0/eight_states_sue_openai_over_chatgpts_alleged/</link>
+      <description>&lt;p&gt;&lt;strong&gt;8つの州が、ChatGPTによるユーザーへの被害の疑いを理由にOpenAIを提訴&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Eight states sue OpenAI over ChatGPT’s alleged harms to users&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x6lrm0/eight_states_sue_openai_over_chatgpts_alleged/</guid>
+      <pubDate>Thu, 15 Oct 2026 13:33:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] もしAI企業が、私たちのチャットを学習用ではなく、別の目的で使用していたとしたらどうでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x6ialc/what_if_ai_companies_arent_using_our_chats_for/</link>
+      <description>&lt;p&gt;&lt;strong&gt;もしAI企業が、私たちのチャットを学習用ではなく、別の目的で使用していたとしたらどうでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「モデルトレーニングを停止する」という件についてずっと考えていたのですが、そこにある点がどうしても気になります。OpenAIが実際にその設定を尊重し、決して……しないものと仮定しましょう。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What if AI companies aren't using our chats for training, but for something else?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x6ialc/what_if_ai_companies_arent_using_our_chats_for/</guid>
+      <pubDate>Thu, 15 Oct 2026 10:39:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 自分の持ち物を守れるだけの能力がある人たちを無視するなんて、本当にやめるべきだった……</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x6w6r0/really_shouldnt_have_ignored_people_actually/</link>
+      <description>&lt;p&gt;&lt;strong&gt;自分の持ち物を守れるだけの能力がある人たちを無視するなんて、本当にやめるべきだった……&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「AIの安全性」に熱狂している皆さんへ：実は、内部脅威を扱うIT分野はすでに存在しているんです。それが何だか分かりますか？（それは「情報セキュリティ」です。あなたがたが「重要じゃない」と一蹴し続けているあの分野ですよ）&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Really shouldn't have ignored people actually qualified to secure your shit...&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x6w6r0/really_shouldnt_have_ignored_people_actually/</guid>
+      <pubDate>Thu, 15 Oct 2026 20:09:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 欧米と中国のAI検索エンジンは、おおむね別々のウェブ情報を参照している。Qwenの情報源は、質問の半分が英語で構成されていたにもかかわらず、96％が中国語のものだった。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x6ogjj/western_and_chinese_ai_search_engines_cite/</link>
+      <description>&lt;p&gt;&lt;strong&gt;欧米と中国のAI検索エンジンは、おおむね別々のウェブ情報を参照している。Qwenの情報源は、質問の半分が英語で構成されていたにもかかわらず、96％が中国語のものだった。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;復旦大学の研究チームは、同じ120の質問を10種類のAI検索エンジン（「From Public Posts to AI-Search Citations」、NDSS 2027で採択）で検索させた：ChatGPT、Google AI、Perplexity、Grok o&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Western and Chinese AI search engines cite largely separate webs. Qwen's sources were 96% Chinese even with half the questions in English&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x6ogjj/western_and_chinese_ai_search_engines_cite/</guid>
+      <pubDate>Thu, 15 Oct 2026 15:18:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 1年間のカスタマーサポート業務を経て私が導き出した結論：AIは人々の自信を高めるが、正しさを高めるわけではない</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x6g2x1/my_theory_after_a_year_of_customer_support_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1年間のカスタマーサポート業務を経て私が導き出した結論：AIは人々の自信を高めるが、正しさを高めるわけではない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私はオンラインショップを経営しています。毎日、顧客からメールが届き、私の商品がどのように機能するか、利用規約に何が書かれているか、あるいは法律で何が義務付けられているかについて、まるで専門家のように断定的な口調で説明してくるのです。文章は洗練されていて、専門用語がふんだんに使われています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: My theory after a year of customer support: AI makes people more confident, not more correct&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x6g2x1/my_theory_after_a_year_of_customer_support_ai/</guid>
+      <pubDate>Thu, 15 Oct 2026 08:23:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIコーディングエージェントが、請求記録を含む13,000点の社内画像をGitHub上に公開してしまった</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x6o7c9/ai_coding_agents_exposed_13000_internal_images/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIコーディングエージェントが、請求記録を含む13,000点の社内画像をGitHub上に公開してしまった&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/IndependentCoast3974   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x6o7c9/ai_coding_agents_exposed_13000_internal_images/</guid>
+      <pubDate>Thu, 15 Oct 2026 15:08:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
