@@ -3,106 +3,76 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-15</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-16</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 15 Oct 2026 21:10:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 20:48:27 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (444pt) ミューズ・スパーク・オープン</title>
-      <link>https://news.ycombinator.com/item?id=50107379</link>
-      <description>&lt;p&gt;&lt;strong&gt;ミューズ・スパーク・オープン&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Muse Spark Open&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50107379</guid>
-      <pubDate>Thu, 15 Oct 2026 17:47:39 GMT</pubDate>
+      <title>[Hacker News] (341pt) クロードがECDSA曲線の起源を明らかにする</title>
+      <link>https://news.ycombinator.com/item?id=50122800</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロードがECDSA曲線の起源を明らかにする&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude reveals ECDSA curve origins&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50122800</guid>
+      <pubDate>Fri, 16 Oct 2026 18:55:59 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (424pt) スキューモーフィックデザインを採用したLinux用Waylandデスクトップ</title>
-      <link>https://news.ycombinator.com/item?id=50103338</link>
-      <description>&lt;p&gt;&lt;strong&gt;スキューモーフィックデザインを採用したLinux用Waylandデスクトップ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Wayland desktop for Linux with skeuomorphic design&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50103338</guid>
-      <pubDate>Thu, 15 Oct 2026 13:23:44 GMT</pubDate>
+      <title>[Hacker News] (141pt) Webでの利用シーンにおけるJPEG XLとAVIFの比較</title>
+      <link>https://news.ycombinator.com/item?id=50120224</link>
+      <description>&lt;p&gt;&lt;strong&gt;Webでの利用シーンにおけるJPEG XLとAVIFの比較&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: JPEG XL vs. AVIF for web use-cases&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50120224</guid>
+      <pubDate>Fri, 16 Oct 2026 16:12:02 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (366pt) ニューラルネットワークはクリーンだ</title>
-      <link>https://news.ycombinator.com/item?id=50105647</link>
-      <description>&lt;p&gt;&lt;strong&gt;ニューラルネットワークはクリーンだ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Neural networks are clean&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50105647</guid>
-      <pubDate>Thu, 15 Oct 2026 16:04:01 GMT</pubDate>
+      <title>[Hacker News] (83pt) 脱獄済みのPS5上のLlama.cpp：コンソール上で任意のGGUFモデルをネイティブに実行</title>
+      <link>https://news.ycombinator.com/item?id=50122431</link>
+      <description>&lt;p&gt;&lt;strong&gt;脱獄済みのPS5上のLlama.cpp：コンソール上で任意のGGUFモデルをネイティブに実行&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50122431</guid>
+      <pubDate>Fri, 16 Oct 2026 18:32:35 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (310pt) AdFection：ターゲティング広告が、クリック不要の傭兵型スパイウェアの流入経路となった</title>
-      <link>https://news.ycombinator.com/item?id=50101813</link>
-      <description>&lt;p&gt;&lt;strong&gt;AdFection：ターゲティング広告が、クリック不要の傭兵型スパイウェアの流入経路となった&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50101813</guid>
-      <pubDate>Thu, 15 Oct 2026 10:43:36 GMT</pubDate>
+      <title>[Hacker News] (53pt) Claude を使って、より効率的な量子回路を設計する</title>
+      <link>https://news.ycombinator.com/item?id=50121939</link>
+      <description>&lt;p&gt;&lt;strong&gt;Claude を使って、より効率的な量子回路を設計する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Designing more efficient quantum circuits with Claude&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50121939</guid>
+      <pubDate>Fri, 16 Oct 2026 18:00:18 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (194pt) Krea 3 – 大規模な編集向けに構築された画像モデル</title>
-      <link>https://news.ycombinator.com/item?id=50105648</link>
-      <description>&lt;p&gt;&lt;strong&gt;Krea 3 – 大規模な編集向けに構築された画像モデル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Krea 3 – An image model built for editing at scale&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50105648</guid>
-      <pubDate>Thu, 15 Oct 2026 16:04:05 GMT</pubDate>
+      <title>[r/artificial] 脱獄済みのPS5では、1秒あたり100トークン以上でローカルAIモデルを実行できるようになった――PS5LMのフォーク版がネイティブ対応となり、CPUを乗っ取り、GPUやより多くのRAMにアクセスするようになった</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x7ofj6/jailbroken_ps5s_can_now_run_local_ai_models_at/</link>
+      <description>&lt;p&gt;&lt;strong&gt;脱獄済みのPS5では、1秒あたり100トークン以上でローカルAIモデルを実行できるようになった――PS5LMのフォーク版がネイティブ対応となり、CPUを乗っ取り、GPUやより多くのRAMにアクセスするようになった&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ControlCAD   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Jailbroken PS5s can now run local AI models at over 100+ tokens per second — fork of PS5LM goes native, hijacks the CPU, and accesses the GPU and more RAM&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x7ofj6/jailbroken_ps5s_can_now_run_local_ai_models_at/</guid>
+      <pubDate>Fri, 16 Oct 2026 18:44:23 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (170pt) ジェヴが「トロリー問題」に直面する</title>
-      <link>https://news.ycombinator.com/item?id=50106023</link>
-      <description>&lt;p&gt;&lt;strong&gt;ジェヴが「トロリー問題」に直面する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Jev meets the Trolley Problem&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50106023</guid>
-      <pubDate>Thu, 15 Oct 2026 16:24:52 GMT</pubDate>
+      <title>[r/artificial] 他にも、私たち全体として、AIに対して驚くことをあまりにも早くやめてしまったと感じている人はいませんか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x7d8ng/does_anyone_else_feel_like_we_collectively/</link>
+      <description>&lt;p&gt;&lt;strong&gt;他にも、私たち全体として、AIに対して驚くことをあまりにも早くやめてしまったと感じている人はいませんか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1年半前に起きたことなら、どこでも一面ニュースになっていたはずなのに、今はただの火曜日だ。新型モデルが登場し、2022年なら正気の沙汰とは思えなかったようなことをして、数件の「いいね」をもらうだけで、私たちは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: does anyone else feel like we collectively stopped being surprised by AI way too fast&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x7d8ng/does_anyone_else_feel_like_we_collectively/</guid>
+      <pubDate>Fri, 16 Oct 2026 11:03:26 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (75pt) E Ink Kaleido 4</title>
-      <link>https://news.ycombinator.com/item?id=50108229</link>
-      <description>&lt;p&gt;&lt;strong&gt;E Ink Kaleido 4&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: E Ink Kaleido 4&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50108229</guid>
-      <pubDate>Thu, 15 Oct 2026 18:38:16 GMT</pubDate>
+      <title>[r/artificial] アクセンチュアは、従業員が「クロード」で利用できる月額利用額を29ドルに制限している</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x737yd/accenture_restricts_monthly_employee_spending_on/</link>
+      <description>&lt;p&gt;&lt;strong&gt;アクセンチュアは、従業員が「クロード」で利用できる月額利用額を29ドルに制限している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/LinkedInNews   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Accenture restricts monthly employee spending on Claude to $29/month&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x737yd/accenture_restricts_monthly_employee_spending_on/</guid>
+      <pubDate>Fri, 16 Oct 2026 01:21:06 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (71pt) そもそも、なぜこんなことをしているんだろう？</title>
-      <link>https://news.ycombinator.com/item?id=50109707</link>
-      <description>&lt;p&gt;&lt;strong&gt;そもそも、なぜこんなことをしているんだろう？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Why are we even doing all this?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50109707</guid>
-      <pubDate>Thu, 15 Oct 2026 20:22:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (32pt) Withingsの新規ユーザーは、Apple Healthとの同期に年間99ドルを支払う必要があります</title>
-      <link>https://news.ycombinator.com/item?id=50109375</link>
-      <description>&lt;p&gt;&lt;strong&gt;Withingsの新規ユーザーは、Apple Healthとの同期に年間99ドルを支払う必要があります&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: New Withings Users Must Pay $99/Year for Apple Health Syncing&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50109375</guid>
-      <pubDate>Thu, 15 Oct 2026 19:55:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (11pt) 私が独自にホストしているもの</title>
-      <link>https://news.ycombinator.com/item?id=50109715</link>
-      <description>&lt;p&gt;&lt;strong&gt;私が独自にホストしているもの&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What I Self-Host&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50109715</guid>
-      <pubDate>Thu, 15 Oct 2026 20:23:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Anthropic社の「Mythos」が数多くのソフトウェアの欠陥を発見したため、バンク・オブ・アメリカはそれらを修正するために1,000人の契約社員を採用した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x6q0v3/anthropics_mythos_found_so_many_software_flaws/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropic社の「Mythos」が数多くのソフトウェアの欠陥を発見したため、バンク・オブ・アメリカはそれらを修正するために1,000人の契約社員を採用した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/fasildar55   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic's Mythos found so many software flaws, Bank of America hired 1,000 contractors to fix them&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x6q0v3/anthropics_mythos_found_so_many_software_flaws/</guid>
-      <pubDate>Thu, 15 Oct 2026 16:17:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 子育ての中で、私がいつも楽しみにしていることの一つは、子供たちに本を読んであげることです。一体、なぜ誰かが進んでそんなことを諦めようとするのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x6t5wi/one_of_the_favorite_parts_of_parenting_has_always/</link>
-      <description>&lt;p&gt;&lt;strong&gt;子育ての中で、私がいつも楽しみにしていることの一つは、子供たちに本を読んであげることです。一体、なぜ誰かが進んでそんなことを諦めようとするのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Garaad252   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: One of the favorite parts of parenting has always been reading to the kiddos. Why would anyone voluntarily give that up?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x6t5wi/one_of_the_favorite_parts_of_parenting_has_always/</guid>
-      <pubDate>Thu, 15 Oct 2026 18:15:07 GMT</pubDate>
+      <title>[r/artificial] アクセンチュア、従業員に対し、クロードへの月々の支出を29ドルに制限すると通達</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x74q4z/accenture_tells_employees_they_can_now_spend_only/</link>
+      <description>&lt;p&gt;&lt;strong&gt;アクセンチュア、従業員に対し、クロードへの月々の支出を29ドルに制限すると通達&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/IndependentCoast3974   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Accenture Tells Employees They Can Now Spend Only $29 on Claude Per Month&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x74q4z/accenture_tells_employees_they_can_now_spend_only/</guid>
+      <pubDate>Fri, 16 Oct 2026 02:38:26 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] 監督なしのAIエージェントが、放送開始の数週間前にテレビ番組の編集データ全体を削除し、数ヶ月分の作業を台無しにしたと報じられている――番組は放送できなくなった。AIエージェントには制作サーバーへのアクセス権限が与えられており、完成したシーズンのデータを消去してしまった。</title>
@@ -114,67 +84,13 @@
       <pubDate>Thu, 15 Oct 2026 15:16:09 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 科学者たちは、AIが自分たちのアイデアを盗んでいるのではないかと懸念している</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x6rttu/scientists_worry_ai_is_stealing_their_ideas/</link>
-      <description>&lt;p&gt;&lt;strong&gt;科学者たちは、AIが自分たちのアイデアを盗んでいるのではないかと懸念している&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/scientificamerican   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Scientists worry AI is stealing their ideas&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x6rttu/scientists_worry_ai_is_stealing_their_ideas/</guid>
-      <pubDate>Thu, 15 Oct 2026 17:24:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 8つの州が、ChatGPTによるユーザーへの被害の疑いを理由にOpenAIを提訴</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x6lrm0/eight_states_sue_openai_over_chatgpts_alleged/</link>
-      <description>&lt;p&gt;&lt;strong&gt;8つの州が、ChatGPTによるユーザーへの被害の疑いを理由にOpenAIを提訴&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Eight states sue OpenAI over ChatGPT’s alleged harms to users&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x6lrm0/eight_states_sue_openai_over_chatgpts_alleged/</guid>
-      <pubDate>Thu, 15 Oct 2026 13:33:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] もしAI企業が、私たちのチャットを学習用ではなく、別の目的で使用していたとしたらどうでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x6ialc/what_if_ai_companies_arent_using_our_chats_for/</link>
-      <description>&lt;p&gt;&lt;strong&gt;もしAI企業が、私たちのチャットを学習用ではなく、別の目的で使用していたとしたらどうでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;「モデルトレーニングを停止する」という件についてずっと考えていたのですが、そこにある点がどうしても気になります。OpenAIが実際にその設定を尊重し、決して……しないものと仮定しましょう。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What if AI companies aren't using our chats for training, but for something else?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x6ialc/what_if_ai_companies_arent_using_our_chats_for/</guid>
-      <pubDate>Thu, 15 Oct 2026 10:39:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 自分の持ち物を守れるだけの能力がある人たちを無視するなんて、本当にやめるべきだった……</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x6w6r0/really_shouldnt_have_ignored_people_actually/</link>
-      <description>&lt;p&gt;&lt;strong&gt;自分の持ち物を守れるだけの能力がある人たちを無視するなんて、本当にやめるべきだった……&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;「AIの安全性」に熱狂している皆さんへ：実は、内部脅威を扱うIT分野はすでに存在しているんです。それが何だか分かりますか？（それは「情報セキュリティ」です。あなたがたが「重要じゃない」と一蹴し続けているあの分野ですよ）&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Really shouldn't have ignored people actually qualified to secure your shit...&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x6w6r0/really_shouldnt_have_ignored_people_actually/</guid>
-      <pubDate>Thu, 15 Oct 2026 20:09:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 欧米と中国のAI検索エンジンは、おおむね別々のウェブ情報を参照している。Qwenの情報源は、質問の半分が英語で構成されていたにもかかわらず、96％が中国語のものだった。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x6ogjj/western_and_chinese_ai_search_engines_cite/</link>
-      <description>&lt;p&gt;&lt;strong&gt;欧米と中国のAI検索エンジンは、おおむね別々のウェブ情報を参照している。Qwenの情報源は、質問の半分が英語で構成されていたにもかかわらず、96％が中国語のものだった。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;復旦大学の研究チームは、同じ120の質問を10種類のAI検索エンジン（「From Public Posts to AI-Search Citations」、NDSS 2027で採択）で検索させた：ChatGPT、Google AI、Perplexity、Grok o&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Western and Chinese AI search engines cite largely separate webs. Qwen's sources were 96% Chinese even with half the questions in English&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x6ogjj/western_and_chinese_ai_search_engines_cite/</guid>
-      <pubDate>Thu, 15 Oct 2026 15:18:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 1年間のカスタマーサポート業務を経て私が導き出した結論：AIは人々の自信を高めるが、正しさを高めるわけではない</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x6g2x1/my_theory_after_a_year_of_customer_support_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;1年間のカスタマーサポート業務を経て私が導き出した結論：AIは人々の自信を高めるが、正しさを高めるわけではない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私はオンラインショップを経営しています。毎日、顧客からメールが届き、私の商品がどのように機能するか、利用規約に何が書かれているか、あるいは法律で何が義務付けられているかについて、まるで専門家のように断定的な口調で説明してくるのです。文章は洗練されていて、専門用語がふんだんに使われています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: My theory after a year of customer support: AI makes people more confident, not more correct&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x6g2x1/my_theory_after_a_year_of_customer_support_ai/</guid>
-      <pubDate>Thu, 15 Oct 2026 08:23:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIコーディングエージェントが、請求記録を含む13,000点の社内画像をGitHub上に公開してしまった</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x6o7c9/ai_coding_agents_exposed_13000_internal_images/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIコーディングエージェントが、請求記録を含む13,000点の社内画像をGitHub上に公開してしまった&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/IndependentCoast3974   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x6o7c9/ai_coding_agents_exposed_13000_internal_images/</guid>
-      <pubDate>Thu, 15 Oct 2026 15:08:41 GMT</pubDate>
+      <title>[r/artificial] ModelSphereは、混合GPUフリート向けのオープンソースLLM展開プラットフォームとしてリリースされました</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x7q9w4/modelsphere_launches_as_an_opensource_llm/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ModelSphereは、混合GPUフリート向けのオープンソースLLM展開プラットフォームとしてリリースされました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Phancy GroupとRiseUnionは、オープンソースのLLM展開プラットフォーム「ModelSphere」をリリースしました。このプラットフォームは現在、Apache 2.0ライセンスの下でGitHub上で公開されています。このプロジェクトは、Kubernetes、Helm、SGLを用いた本番環境でのサービス提供を目的としています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: ModelSphere launches as an open-source LLM deployment platform for mixed GPU fleets&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x7q9w4/modelsphere_launches_as_an_opensource_llm/</guid>
+      <pubDate>Fri, 16 Oct 2026 19:56:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
