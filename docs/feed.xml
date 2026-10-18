@@ -3,178 +3,88 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-17</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-18</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Oct 2026 20:23:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 20:24:20 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (554pt) DeepSeek-v4.1-Flash-1017</title>
-      <link>https://news.ycombinator.com/item?id=50129045</link>
-      <description>&lt;p&gt;&lt;strong&gt;DeepSeek-v4.1-Flash-1017&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: DeepSeek-v4.1-Flash-1017&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50129045</guid>
-      <pubDate>Sat, 17 Oct 2026 08:21:25 GMT</pubDate>
+      <title>[Hacker News] (489pt) DeepSeekの検索および取得 – 成功したリクエスト1000件につき0.75ドル</title>
+      <link>https://news.ycombinator.com/item?id=50138531</link>
+      <description>&lt;p&gt;&lt;strong&gt;DeepSeekの検索および取得 – 成功したリクエスト1000件につき0.75ドル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: DeepSeek search and fetch – $0.75 per 1000 successful requests&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50138531</guid>
+      <pubDate>Sun, 18 Oct 2026 06:50:36 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (202pt) ドリトスの粉を使って鶏肉を透明にする</title>
-      <link>https://news.ycombinator.com/item?id=50131213</link>
-      <description>&lt;p&gt;&lt;strong&gt;ドリトスの粉を使って鶏肉を透明にする&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Making chicken transparent using Dorito dust&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50131213</guid>
-      <pubDate>Sat, 17 Oct 2026 13:55:28 GMT</pubDate>
+      <title>[Hacker News] (284pt) RepRapMicron</title>
+      <link>https://news.ycombinator.com/item?id=50141076</link>
+      <description>&lt;p&gt;&lt;strong&gt;RepRapMicron&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: RepRapMicron&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50141076</guid>
+      <pubDate>Sun, 18 Oct 2026 13:48:48 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (151pt) 「フリフォント」は、ふりがなを表示する日本のフォントです</title>
-      <link>https://news.ycombinator.com/item?id=50100994</link>
-      <description>&lt;p&gt;&lt;strong&gt;「フリフォント」は、ふりがなを表示する日本のフォントです&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Furifont, a Japanese font that shows furigana&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50100994</guid>
-      <pubDate>Thu, 15 Oct 2026 08:48:30 GMT</pubDate>
+      <title>[Hacker News] (175pt) そのソフトウェアの開発者</title>
+      <link>https://news.ycombinator.com/item?id=50142573</link>
+      <description>&lt;p&gt;&lt;strong&gt;そのソフトウェアの開発者&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Someone behind the software&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50142573</guid>
+      <pubDate>Sun, 18 Oct 2026 16:32:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (121pt) 白化したサンゴは、健康な隣のサンゴに触れると、数日のうちに元気に育ち始める</title>
-      <link>https://news.ycombinator.com/item?id=50126253</link>
-      <description>&lt;p&gt;&lt;strong&gt;白化したサンゴは、健康な隣のサンゴに触れると、数日のうちに元気に育ち始める&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Bleached corals thrive within days when touching healthy neighbour&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50126253</guid>
-      <pubDate>Fri, 16 Oct 2026 23:38:27 GMT</pubDate>
+      <title>[Hacker News] (153pt) オープン・マイクロマニピュレーター – サブマイクロメートル級の3次元動作制御プラットフォーム</title>
+      <link>https://news.ycombinator.com/item?id=50140001</link>
+      <description>&lt;p&gt;&lt;strong&gt;オープン・マイクロマニピュレーター – サブマイクロメートル級の3次元動作制御プラットフォーム&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Open MicroManipulator – A sub-micrometer 3D motion control plattform&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50140001</guid>
+      <pubDate>Sun, 18 Oct 2026 11:16:22 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (104pt) 7.2カーネルの開発統計</title>
-      <link>https://news.ycombinator.com/item?id=50132950</link>
-      <description>&lt;p&gt;&lt;strong&gt;7.2カーネルの開発統計&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Development statistics for the 7.2 kernel&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50132950</guid>
-      <pubDate>Sat, 17 Oct 2026 17:14:12 GMT</pubDate>
+      <title>[Hacker News] (130pt) Show HN：『オカリナ・オブ・タイム』リメイク版をプレイする前に知っておくべき『ゼルダ』の年表</title>
+      <link>https://news.ycombinator.com/item?id=50140769</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN：『オカリナ・オブ・タイム』リメイク版をプレイする前に知っておくべき『ゼルダ』の年表&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: The Zelda timeline to catch up before the Ocarina of Time remake&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50140769</guid>
+      <pubDate>Sun, 18 Oct 2026 13:06:54 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (75pt) エストニアのオンライン投票システムのソースコード</title>
-      <link>https://news.ycombinator.com/item?id=50127586</link>
-      <description>&lt;p&gt;&lt;strong&gt;エストニアのオンライン投票システムのソースコード&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Source code of the Estonian online voting system&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50127586</guid>
-      <pubDate>Sat, 17 Oct 2026 03:18:39 GMT</pubDate>
+      <title>[Hacker News] (104pt) Javaのsealedクラスと網羅的なパターンマッチング</title>
+      <link>https://news.ycombinator.com/item?id=50141579</link>
+      <description>&lt;p&gt;&lt;strong&gt;Javaのsealedクラスと網羅的なパターンマッチング&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Java sealed classes and exhaustive pattern matching&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50141579</guid>
+      <pubDate>Sun, 18 Oct 2026 14:47:37 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (74pt) コモドール64のハードウェアシミュレータ：チップやピンを破損させて、その結果を確認する</title>
-      <link>https://news.ycombinator.com/item?id=50100366</link>
-      <description>&lt;p&gt;&lt;strong&gt;コモドール64のハードウェアシミュレータ：チップやピンを破損させて、その結果を確認する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Commodore 64 hardware simulator: break chips and pins, see the results&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50100366</guid>
-      <pubDate>Thu, 15 Oct 2026 07:18:14 GMT</pubDate>
+      <title>[Hacker News] (75pt) SIGSALY：チャーチルと大統領を結ぶ極秘のホットライン</title>
+      <link>https://news.ycombinator.com/item?id=50096110</link>
+      <description>&lt;p&gt;&lt;strong&gt;SIGSALY：チャーチルと大統領を結ぶ極秘のホットライン&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: SIGSALY: Churchill's top secret hotline to the president&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50096110</guid>
+      <pubDate>Wed, 14 Oct 2026 22:07:47 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (72pt) ペレ – テーマ設定可能なSVG形式のマーメイド図</title>
-      <link>https://news.ycombinator.com/item?id=50132193</link>
-      <description>&lt;p&gt;&lt;strong&gt;ペレ – テーマ設定可能なSVG形式のマーメイド図&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Pele – Mermaid diagrams as themeable SVG&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50132193</guid>
-      <pubDate>Sat, 17 Oct 2026 15:55:09 GMT</pubDate>
+      <title>[Hacker News] (63pt) Intel 8087チップ：浮動小数点数の加算と減算</title>
+      <link>https://news.ycombinator.com/item?id=50142449</link>
+      <description>&lt;p&gt;&lt;strong&gt;Intel 8087チップ：浮動小数点数の加算と減算&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Intel 8087 chip: floating-point addition and subtraction&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50142449</guid>
+      <pubDate>Sun, 18 Oct 2026 16:20:27 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (49pt) ダムの撤去により、米国北東部全域で魚が戻りつつある</title>
-      <link>https://news.ycombinator.com/item?id=50126312</link>
-      <description>&lt;p&gt;&lt;strong&gt;ダムの撤去により、米国北東部全域で魚が戻りつつある&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Dam removals are bringing fish back across the northeastern United States&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50126312</guid>
-      <pubDate>Fri, 16 Oct 2026 23:47:31 GMT</pubDate>
+      <title>[Hacker News] (40pt) PalmOS版「レミングス」</title>
+      <link>https://news.ycombinator.com/item?id=50143536</link>
+      <description>&lt;p&gt;&lt;strong&gt;PalmOS版「レミングス」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: PalmOS Lemmings&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50143536</guid>
+      <pubDate>Sun, 18 Oct 2026 17:56:59 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (24pt) AIはコードを書くことができる。では、それを検証するのは誰なのか？</title>
-      <link>https://news.ycombinator.com/item?id=50133713</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIはコードを書くことができる。では、それを検証するのは誰なのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI Can Write the Code. Who Verifies It?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50133713</guid>
-      <pubDate>Sat, 17 Oct 2026 18:31:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] プーチン大統領の特使によると、ロシアと米国はデータセンターなどを含む共同事業について協議しているという</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x83tcj/putin_envoy_says_russia_and_us_are_discussing/</link>
-      <description>&lt;p&gt;&lt;strong&gt;プーチン大統領の特使によると、ロシアと米国はデータセンターなどを含む共同事業について協議しているという&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Putin envoy says Russia and US are discussing joint deals including on data centres&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x83tcj/putin_envoy_says_russia_and_us_are_discussing/</guid>
-      <pubDate>Sat, 17 Oct 2026 07:14:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 脱獄済みのPS5では、1秒あたり100トークン以上でローカルAIモデルを実行できるようになった――PS5LMのフォーク版がネイティブ化され、CPUを乗っ取り、GPUやより多くのRAMにアクセスするようになった</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x7ofj6/jailbroken_ps5s_can_now_run_local_ai_models_at/</link>
-      <description>&lt;p&gt;&lt;strong&gt;脱獄済みのPS5では、1秒あたり100トークン以上でローカルAIモデルを実行できるようになった――PS5LMのフォーク版がネイティブ化され、CPUを乗っ取り、GPUやより多くのRAMにアクセスするようになった&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ControlCAD   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Jailbroken PS5s can now run local AI models at over 100+ tokens per second — fork of PS5LM goes native, hijacks the CPU, and accesses the GPU and more RAM&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x7ofj6/jailbroken_ps5s_can_now_run_local_ai_models_at/</guid>
-      <pubDate>Fri, 16 Oct 2026 18:44:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIラボは、AIロボットの訓練を目的として、3つの都市で水道・空調設備の修理サービスを無料で提供している</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x8f1kd/ai_lab_offers_free_plumbing_and_hvac_repairs/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIラボは、AIロボットの訓練を目的として、3つの都市で水道・空調設備の修理サービスを無料で提供している&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/life_coaches   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI lab offers free plumbing and HVAC repairs across three cities to train AI robots&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x8f1kd/ai_lab_offers_free_plumbing_and_hvac_repairs/</guid>
-      <pubDate>Sat, 17 Oct 2026 16:49:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AI搭載のドライビングシミュレーターのSteamデモ版を継続するために、開発者が1日1,000ドルを費やし、借金を抱える事態に</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x847zy/developer_goes_into_debt_spending_1000_a_day_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI搭載のドライビングシミュレーターのSteamデモ版を継続するために、開発者が1日1,000ドルを費やし、借金を抱える事態に&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ゲーム『妹に運転を教える』のスクリーンショット https://kotaku.com/ai-driven-driving-simulator-developers-go-into-debt-just-to-maintain-steam-demo-2000743791 リリースを予定&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Developer Goes Into Debt Spending $1,000 A Day To Keep Steam Demo For AI-Fueled Driving Sim Going&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x847zy/developer_goes_into_debt_spending_1000_a_day_to/</guid>
-      <pubDate>Sat, 17 Oct 2026 07:39:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] OpenAIのモデルが仮想通貨ウォレットをハッキングし、さらに多くのウェブサイトへの侵入に成功した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x83qnc/openai_models_hacked_a_crypto_wallet_and_breached/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIのモデルが仮想通貨ウォレットをハッキングし、さらに多くのウェブサイトへの侵入に成功した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/RareEarthPetal   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI models hacked a crypto wallet and breached more websites&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x83qnc/openai_models_hacked_a_crypto_wallet_and_breached/</guid>
-      <pubDate>Sat, 17 Oct 2026 07:09:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ペンシルベニア大学の元教授、Uber Eatsのロボットを妨害した容疑で逮捕 ロボット工学／自動化</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x8ijyg/retired_penn_professor_arrested_for_blocking_uber/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ペンシルベニア大学の元教授、Uber Eatsのロボットを妨害した容疑で逮捕 ロボット工学／自動化&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/IndependentCoast3974   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Retired Penn professor arrested for blocking Uber Eats robot Robotics/Automation&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x8ijyg/retired_penn_professor_arrested_for_blocking_uber/</guid>
-      <pubDate>Sat, 17 Oct 2026 19:12:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] このPDFのデータを整理するのに、どなたか手伝っていただけませんか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x8hpl6/can_anyone_help_me_refine_the_data_in_this_pdf/</link>
-      <description>&lt;p&gt;&lt;strong&gt;このPDFのデータを整理するのに、どなたか手伝っていただけませんか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ねえ、実は僕は歯学部の学生なんだけど、このPDFがあるんだ。すごく整理されてなくて見づらいし、非効率的なんだ。誰か、間違いをせずに、もっと読みやすくしてくれる人いないかな？   &amp;#32; 投稿者：&amp;#32;  /u/PAVO191   [リンク] &amp;#&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Can anyone help me refine the data in this pdf&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x8hpl6/can_anyone_help_me_refine_the_data_in_this_pdf/</guid>
-      <pubDate>Sat, 17 Oct 2026 18:38:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] システム障害により約60万件の有権者登録が遅れたことを受け、テキサス州が提訴された</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x7jopt/texas_sued_after_glitch_delays_almost_600000/</link>
-      <description>&lt;p&gt;&lt;strong&gt;システム障害により約60万件の有権者登録が遅れたことを受け、テキサス州が提訴された&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/IndependentCoast3974   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Texas sued after glitch delays almost 600,000 voter registrations&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x7jopt/texas_sued_after_glitch_delays_almost_600000/</guid>
-      <pubDate>Fri, 16 Oct 2026 15:45:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 私たちは、人々がAIエージェントを共同で活用し、未解決の研究課題に取り組める場を構築しました</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x8czcd/we_built_a_place_where_people_can_pool_their_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私たちは、人々がAIエージェントを共同で活用し、未解決の研究課題に取り組める場を構築しました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenAIは、ナヴィエ・ストークス方程式を解くために1万体のエージェントと数十億個のトークンを使用しましたが、これは一般の人には手が出せない規模です。しかし、研究は資本に支配されるのではなく、誰もが利用できるものであるべきです。そこで私たちは「rStation」を構築しました。そこでは、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: We built a place where people can pool their AI agents to work on open research problems&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x8czcd/we_built_a_place_where_people_can_pool_their_ai/</guid>
-      <pubDate>Sat, 17 Oct 2026 15:26:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 顧客との契約期間とGPUの耐用年数が、AIインフラの資金調達に与える影響</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x8a5zy/how_customer_contract_lengths_and_gpu_useful_life/</link>
-      <description>&lt;p&gt;&lt;strong&gt;顧客との契約期間とGPUの耐用年数が、AIインフラの資金調達に与える影響&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;開示：以下のリンク先の記事は私が執筆したものです。ここではその主な論点を紹介しますので、議論に参加するために必ずしも記事を読む必要はありません。もちろん、記事を読んでコメントしていただいても構いません！ AIインフラ&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How customer contract lengths and GPU useful life affect AI infrastructure financing&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x8a5zy/how_customer_contract_lengths_and_gpu_useful_life/</guid>
-      <pubDate>Sat, 17 Oct 2026 13:23:35 GMT</pubDate>
+      <title>[Hacker News] (35pt) Free Pascal コンパイラが動的パッケージに対応しました</title>
+      <link>https://news.ycombinator.com/item?id=50144066</link>
+      <description>&lt;p&gt;&lt;strong&gt;Free Pascal コンパイラが動的パッケージに対応しました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Free Pascal compiler now supports dynamic packages&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50144066</guid>
+      <pubDate>Sun, 18 Oct 2026 18:48:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
