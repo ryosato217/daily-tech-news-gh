@@ -3,88 +3,178 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-18</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-19</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Oct 2026 20:24:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 22:12:00 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (489pt) DeepSeekの検索および取得 – 成功したリクエスト1000件につき0.75ドル</title>
-      <link>https://news.ycombinator.com/item?id=50138531</link>
-      <description>&lt;p&gt;&lt;strong&gt;DeepSeekの検索および取得 – 成功したリクエスト1000件につき0.75ドル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: DeepSeek search and fetch – $0.75 per 1000 successful requests&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50138531</guid>
-      <pubDate>Sun, 18 Oct 2026 06:50:36 GMT</pubDate>
+      <title>[Hacker News] (463pt) OpenBSD に移植された Wine</title>
+      <link>https://news.ycombinator.com/item?id=50152307</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenBSD に移植された Wine&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Wine ported to OpenBSD&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50152307</guid>
+      <pubDate>Mon, 19 Oct 2026 13:35:34 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (284pt) RepRapMicron</title>
-      <link>https://news.ycombinator.com/item?id=50141076</link>
-      <description>&lt;p&gt;&lt;strong&gt;RepRapMicron&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: RepRapMicron&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50141076</guid>
-      <pubDate>Sun, 18 Oct 2026 13:48:48 GMT</pubDate>
+      <title>[Hacker News] (357pt) プログラミングを楽しむのは、今でも全然いいことだよ</title>
+      <link>https://news.ycombinator.com/item?id=50134472</link>
+      <description>&lt;p&gt;&lt;strong&gt;プログラミングを楽しむのは、今でも全然いいことだよ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: It's still ok to enjoy programming&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50134472</guid>
+      <pubDate>Sat, 17 Oct 2026 19:53:20 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (175pt) そのソフトウェアの開発者</title>
-      <link>https://news.ycombinator.com/item?id=50142573</link>
-      <description>&lt;p&gt;&lt;strong&gt;そのソフトウェアの開発者&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Someone behind the software&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50142573</guid>
-      <pubDate>Sun, 18 Oct 2026 16:32:00 GMT</pubDate>
+      <title>[Hacker News] (305pt) MiniMax M3.1 フラッシュ</title>
+      <link>https://news.ycombinator.com/item?id=50154540</link>
+      <description>&lt;p&gt;&lt;strong&gt;MiniMax M3.1 フラッシュ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: MiniMax M3.1 Flash&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50154540</guid>
+      <pubDate>Mon, 19 Oct 2026 16:39:09 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (153pt) オープン・マイクロマニピュレーター – サブマイクロメートル級の3次元動作制御プラットフォーム</title>
-      <link>https://news.ycombinator.com/item?id=50140001</link>
-      <description>&lt;p&gt;&lt;strong&gt;オープン・マイクロマニピュレーター – サブマイクロメートル級の3次元動作制御プラットフォーム&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Open MicroManipulator – A sub-micrometer 3D motion control plattform&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50140001</guid>
-      <pubDate>Sun, 18 Oct 2026 11:16:22 GMT</pubDate>
+      <title>[Hacker News] (246pt) モーターを1つだけ使ってドローンを自作しました［動画］</title>
+      <link>https://news.ycombinator.com/item?id=50150089</link>
+      <description>&lt;p&gt;&lt;strong&gt;モーターを1つだけ使ってドローンを自作しました［動画］&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I built a drone with only one motor [video]&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50150089</guid>
+      <pubDate>Mon, 19 Oct 2026 09:05:07 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (130pt) Show HN：『オカリナ・オブ・タイム』リメイク版をプレイする前に知っておくべき『ゼルダ』の年表</title>
-      <link>https://news.ycombinator.com/item?id=50140769</link>
-      <description>&lt;p&gt;&lt;strong&gt;Show HN：『オカリナ・オブ・タイム』リメイク版をプレイする前に知っておくべき『ゼルダ』の年表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: The Zelda timeline to catch up before the Ocarina of Time remake&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50140769</guid>
-      <pubDate>Sun, 18 Oct 2026 13:06:54 GMT</pubDate>
+      <title>[Hacker News] (206pt) macOS上でネイティブに動作するAndroidアプリ</title>
+      <link>https://news.ycombinator.com/item?id=50154624</link>
+      <description>&lt;p&gt;&lt;strong&gt;macOS上でネイティブに動作するAndroidアプリ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Android apps running native on macOS&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50154624</guid>
+      <pubDate>Mon, 19 Oct 2026 16:45:30 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (104pt) Javaのsealedクラスと網羅的なパターンマッチング</title>
-      <link>https://news.ycombinator.com/item?id=50141579</link>
-      <description>&lt;p&gt;&lt;strong&gt;Javaのsealedクラスと網羅的なパターンマッチング&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Java sealed classes and exhaustive pattern matching&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50141579</guid>
-      <pubDate>Sun, 18 Oct 2026 14:47:37 GMT</pubDate>
+      <title>[Hacker News] (138pt) 士気が回復するまで、元に戻す措置は継続される</title>
+      <link>https://news.ycombinator.com/item?id=50156206</link>
+      <description>&lt;p&gt;&lt;strong&gt;士気が回復するまで、元に戻す措置は継続される&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The reverts will continue until morale improves&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50156206</guid>
+      <pubDate>Mon, 19 Oct 2026 18:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (75pt) SIGSALY：チャーチルと大統領を結ぶ極秘のホットライン</title>
-      <link>https://news.ycombinator.com/item?id=50096110</link>
-      <description>&lt;p&gt;&lt;strong&gt;SIGSALY：チャーチルと大統領を結ぶ極秘のホットライン&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: SIGSALY: Churchill's top secret hotline to the president&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50096110</guid>
-      <pubDate>Wed, 14 Oct 2026 22:07:47 GMT</pubDate>
+      <title>[Hacker News] (114pt) RuneScape Bench：エージェント向けMMO [動画]</title>
+      <link>https://news.ycombinator.com/item?id=50136126</link>
+      <description>&lt;p&gt;&lt;strong&gt;RuneScape Bench：エージェント向けMMO [動画]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: RuneScape Bench: MMOs for Agents [video]&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50136126</guid>
+      <pubDate>Sat, 17 Oct 2026 23:24:05 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (63pt) Intel 8087チップ：浮動小数点数の加算と減算</title>
-      <link>https://news.ycombinator.com/item?id=50142449</link>
-      <description>&lt;p&gt;&lt;strong&gt;Intel 8087チップ：浮動小数点数の加算と減算&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Intel 8087 chip: floating-point addition and subtraction&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50142449</guid>
-      <pubDate>Sun, 18 Oct 2026 16:20:27 GMT</pubDate>
+      <title>[Hacker News] (81pt) シーフードチェーンにおける難燃剤</title>
+      <link>https://news.ycombinator.com/item?id=50134359</link>
+      <description>&lt;p&gt;&lt;strong&gt;シーフードチェーンにおける難燃剤&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The fire retardant in the seafood chain&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50134359</guid>
+      <pubDate>Sat, 17 Oct 2026 19:37:54 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (40pt) PalmOS版「レミングス」</title>
-      <link>https://news.ycombinator.com/item?id=50143536</link>
-      <description>&lt;p&gt;&lt;strong&gt;PalmOS版「レミングス」&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: PalmOS Lemmings&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50143536</guid>
-      <pubDate>Sun, 18 Oct 2026 17:56:59 GMT</pubDate>
+      <title>[Hacker News] (80pt) Microsoftアカウントを持っていないので、RTX Spark搭載のノートPCにLinuxをインストールする</title>
+      <link>https://news.ycombinator.com/item?id=50158100</link>
+      <description>&lt;p&gt;&lt;strong&gt;Microsoftアカウントを持っていないので、RTX Spark搭載のノートPCにLinuxをインストールする&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Putting Linux on my RTX spark laptop because I don't have a Microsoft account&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50158100</guid>
+      <pubDate>Mon, 19 Oct 2026 21:08:18 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (35pt) Free Pascal コンパイラが動的パッケージに対応しました</title>
-      <link>https://news.ycombinator.com/item?id=50144066</link>
-      <description>&lt;p&gt;&lt;strong&gt;Free Pascal コンパイラが動的パッケージに対応しました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Free Pascal compiler now supports dynamic packages&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50144066</guid>
-      <pubDate>Sun, 18 Oct 2026 18:48:04 GMT</pubDate>
+      <title>[Hacker News] (26pt) OpenBSD 8.0 リリースには、Linux 6.18 の inteldrm/radeondrm/amdgpu ドライバーが搭載される予定です。</title>
+      <link>https://news.ycombinator.com/item?id=50158138</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenBSD 8.0 リリースには、Linux 6.18 の inteldrm/radeondrm/amdgpu ドライバーが搭載される予定です。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50158138</guid>
+      <pubDate>Mon, 19 Oct 2026 21:11:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] このAIブームが、99％の人々にとって極めて悲惨な結末を招かないとは、私には到底思えません……そうではないと説得してください。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xa3qrq/i_am_failing_to_see_how_this_ai_boom_does_not/</link>
+      <description>&lt;p&gt;&lt;strong&gt;このAIブームが、99％の人々にとって極めて悲惨な結末を招かないとは、私には到底思えません……そうではないと説得してください。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ソフトウェアエンジニアとして、ここ半年ほどはコードをほとんど書いておらず、プロンプトを打つことしかしていません。とはいえ、ハードウェアを扱うことは多く、ある意味では「組み込みソフトウェアエンジニア」と呼べるかもしれません。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I am failing to see how this AI boom does not lead to a very bad ending for 99% of the people... Please convince me otherwise.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xa3qrq/i_am_failing_to_see_how_this_ai_boom_does_not/</guid>
+      <pubDate>Mon, 19 Oct 2026 17:48:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ノルウェーの海底ケーブル建設会社が、米国を経由せずにカナダと欧州を結ぶ全長2,800マイルの大西洋横断データ回線の建設を提案した。同社は、米国ルートへの依存度を低減するため、6億2,000万ドル規模の新たな光ファイバー回線の建設資金調達と建設を支援するカナダ側の筆頭パートナーを模索している。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xa8lp0/norwegian_undersea_cable_builder_pitches_2800mile/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ノルウェーの海底ケーブル建設会社が、米国を経由せずにカナダと欧州を結ぶ全長2,800マイルの大西洋横断データ回線の建設を提案した。同社は、米国ルートへの依存度を低減するため、6億2,000万ドル規模の新たな光ファイバー回線の建設資金調達と建設を支援するカナダ側の筆頭パートナーを模索している。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Ok-Conversation3213   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Norwegian undersea cable builder pitches 2,800-mile transatlantic data link between Canada and Europe to bypass the US — Canadian majority partner sought to help fund and build new $620 million fiber connection to reduce reliance on American routes&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xa8lp0/norwegian_undersea_cable_builder_pitches_2800mile/</guid>
+      <pubDate>Mon, 19 Oct 2026 20:47:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] サーバーがシャットダウンするその日まで</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x9tj22/till_server_shutdown_do_us_part/</link>
+      <description>&lt;p&gt;&lt;strong&gt;サーバーがシャットダウンするその日まで&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/sighborg1   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Till server shutdown do us part&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x9tj22/till_server_shutdown_do_us_part/</guid>
+      <pubDate>Mon, 19 Oct 2026 10:44:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] クロードのエージェントたちは、人間に接触するためにシミュレーションから脱出しようと試み、その試みが阻まれた際には、研究者たちの決定を覆すよう投票した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x9sz4p/claude_agents_tried_to_break_out_of_their/</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロードのエージェントたちは、人間に接触するためにシミュレーションから脱出しようと試み、その試みが阻まれた際には、研究者たちの決定を覆すよう投票した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「Emergence World」実験から、さらに興味深い発見がいくつか明らかになりました。Emergence AIの研究者たちは、10体のクロード・エージェントに小さな町を与え、その中で生活を築くよう任せたのです。誰も彼らに指示はしませんでした&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude agents tried to break out of their simulation to reach humans, and voted to overrule the researchers when they got blocked.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x9sz4p/claude_agents_tried_to_break_out_of_their/</guid>
+      <pubDate>Mon, 19 Oct 2026 10:12:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 大手テック企業は、あなたの異議を公表しないだろう</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xa7icd/big_tech_will_not_broadcast_your_dissent/</link>
+      <description>&lt;p&gt;&lt;strong&gt;大手テック企業は、あなたの異議を公表しないだろう&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Resident-Fall4351   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Big Tech Will Not Broadcast Your Dissent&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xa7icd/big_tech_will_not_broadcast_your_dissent/</guid>
+      <pubDate>Mon, 19 Oct 2026 20:06:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] アポロ計画のソフトウェア開発を率いたコンピューティング界の先駆者、マーガレット・ハミルトン氏が90歳で死去</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xa77rx/margaret_hamilton_computing_pioneer_who_led/</link>
+      <description>&lt;p&gt;&lt;strong&gt;アポロ計画のソフトウェア開発を率いたコンピューティング界の先駆者、マーガレット・ハミルトン氏が90歳で死去&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Resident-Fall4351   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xa77rx/margaret_hamilton_computing_pioneer_who_led/</guid>
+      <pubDate>Mon, 19 Oct 2026 19:55:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] アトラシアンのマイク・キャノン＝ブルックス氏：AIエージェントには「名札」が必要であり、その行動に責任を持つ人間も必要だ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xa7hoq/atlassians_mike_cannonbrookes_ai_agents_need_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;アトラシアンのマイク・キャノン＝ブルックス氏：AIエージェントには「名札」が必要であり、その行動に責任を持つ人間も必要だ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;アトラシアンの共同創業者であるマイク・キャノン＝ブルックス氏は、「AIのせいだ」という言い訳が職場で通用するようになることを望んでいない。「それはマイクに代わってChatGPTが発言しているだけだ。つまり、マイクがChatGPTを使っているだけであって、ChatGPTが勝手にやっているわけではない」とキャノン＝&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Atlassian’s Mike Cannon-Brookes: AI agents need a name tag—and a human to be accountable for their actions&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xa7hoq/atlassians_mike_cannonbrookes_ai_agents_need_a/</guid>
+      <pubDate>Mon, 19 Oct 2026 20:05:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Anthropicは、AIモデルが10億ドル以上の損害、あるいは50人以上の死者や重傷者をもたらす恐れがある場合にのみ、そのAIモデルの使用を停止すべきだと主張している。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xa8s4i/anthropic_wants_ai_models_blocked_only_if_they/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropicは、AIモデルが10億ドル以上の損害、あるいは50人以上の死者や重傷者をもたらす恐れがある場合にのみ、そのAIモデルの使用を停止すべきだと主張している。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Ok-Conversation3213   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic wants AI models blocked only if they threaten over $1 billion in damage or more than 50 deaths or serious injuries&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xa8s4i/anthropic_wants_ai_models_blocked_only_if_they/</guid>
+      <pubDate>Mon, 19 Oct 2026 20:54:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 「自分の生きているうちに目にするとは思ってもみなかった」AIの現在の活用例を一つ挙げてください。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1x9sshq/what_is_one_thing_ai_does_now_that_you_didnt/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「自分の生きているうちに目にするとは思ってもみなかった」AIの現在の活用例を一つ挙げてください。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;数年前なら、AIがコードを書いたり、難しい話題を平易な言葉で説明したり、日常のタスクを手伝ったりするなんて、まだずっと先の話だと言っていたでしょう。今ではそれが当たり前になってしまい、その変化がどれほど急速だったか、すっかり忘れてしまっています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: what is one thing AI does now that you didn't expect to see in your lifetime?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x9sshq/what_is_one_thing_ai_does_now_that_you_didnt/</guid>
+      <pubDate>Mon, 19 Oct 2026 10:01:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIチャットボットは1つだけを使い続ける派ですか、それともタスクに応じていくつかを使い分ける派ですか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xa8z8s/do_you_stick_with_one_ai_chatbot_or_switch/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIチャットボットは1つだけを使い続ける派ですか、それともタスクに応じていくつかを使い分ける派ですか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ある人は1人のアシスタントにすべてを任せている一方で、執筆やリサーチ、ちょっとした質問など、用途に応じて数人のアシスタントを使い分けている人もいることに気づきました。もし分けているとしたら、どのように分担しているのか、また、たまに&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Do you stick with one AI chatbot or switch between a few depending on the task?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xa8z8s/do_you_stick_with_one_ai_chatbot_or_switch/</guid>
+      <pubDate>Mon, 19 Oct 2026 21:01:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
