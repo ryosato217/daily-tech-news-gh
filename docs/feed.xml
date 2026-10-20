@@ -3,97 +3,142 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-19</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-20</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Oct 2026 22:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 21:26:45 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (463pt) OpenBSD に移植された Wine</title>
-      <link>https://news.ycombinator.com/item?id=50152307</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenBSD に移植された Wine&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Wine ported to OpenBSD&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50152307</guid>
-      <pubDate>Mon, 19 Oct 2026 13:35:34 GMT</pubDate>
+      <title>[Hacker News] (2025pt) DeepInfer：DeepSeekモデル向けの高性能推論フレームワーク</title>
+      <link>https://news.ycombinator.com/item?id=50163277</link>
+      <description>&lt;p&gt;&lt;strong&gt;DeepInfer：DeepSeekモデル向けの高性能推論フレームワーク&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: DeepInfer: High-performance inference framework for DeepSeek models&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50163277</guid>
+      <pubDate>Tue, 20 Oct 2026 09:08:54 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (357pt) プログラミングを楽しむのは、今でも全然いいことだよ</title>
-      <link>https://news.ycombinator.com/item?id=50134472</link>
-      <description>&lt;p&gt;&lt;strong&gt;プログラミングを楽しむのは、今でも全然いいことだよ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: It's still ok to enjoy programming&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50134472</guid>
-      <pubDate>Sat, 17 Oct 2026 19:53:20 GMT</pubDate>
+      <title>[Hacker News] (473pt) EMudhra 中級 CA 妥協案</title>
+      <link>https://news.ycombinator.com/item?id=50166579</link>
+      <description>&lt;p&gt;&lt;strong&gt;EMudhra 中級 CA 妥協案&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: EMudhra Intermediate CA Compromise&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50166579</guid>
+      <pubDate>Tue, 20 Oct 2026 13:58:33 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (305pt) MiniMax M3.1 フラッシュ</title>
-      <link>https://news.ycombinator.com/item?id=50154540</link>
-      <description>&lt;p&gt;&lt;strong&gt;MiniMax M3.1 フラッシュ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: MiniMax M3.1 Flash&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50154540</guid>
-      <pubDate>Mon, 19 Oct 2026 16:39:09 GMT</pubDate>
+      <title>[Hacker News] (426pt) Voxtral 3</title>
+      <link>https://news.ycombinator.com/item?id=50168396</link>
+      <description>&lt;p&gt;&lt;strong&gt;Voxtral 3&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Voxtral 3&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50168396</guid>
+      <pubDate>Tue, 20 Oct 2026 16:02:07 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (246pt) モーターを1つだけ使ってドローンを自作しました［動画］</title>
-      <link>https://news.ycombinator.com/item?id=50150089</link>
-      <description>&lt;p&gt;&lt;strong&gt;モーターを1つだけ使ってドローンを自作しました［動画］&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I built a drone with only one motor [video]&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50150089</guid>
-      <pubDate>Mon, 19 Oct 2026 09:05:07 GMT</pubDate>
+      <title>[Hacker News] (417pt) Appleは、iPadの重要なプレゼンテーション機能を損なってしまった</title>
+      <link>https://news.ycombinator.com/item?id=50165208</link>
+      <description>&lt;p&gt;&lt;strong&gt;Appleは、iPadの重要なプレゼンテーション機能を損なってしまった&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Apple broke an essential presentation feature of iPads&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50165208</guid>
+      <pubDate>Tue, 20 Oct 2026 12:17:28 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (206pt) macOS上でネイティブに動作するAndroidアプリ</title>
-      <link>https://news.ycombinator.com/item?id=50154624</link>
-      <description>&lt;p&gt;&lt;strong&gt;macOS上でネイティブに動作するAndroidアプリ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Android apps running native on macOS&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50154624</guid>
-      <pubDate>Mon, 19 Oct 2026 16:45:30 GMT</pubDate>
+      <title>[Hacker News] (321pt) 『シムシティ』だけど、許可証が必要</title>
+      <link>https://news.ycombinator.com/item?id=50170593</link>
+      <description>&lt;p&gt;&lt;strong&gt;『シムシティ』だけど、許可証が必要&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: SimCity, but with Permits&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50170593</guid>
+      <pubDate>Tue, 20 Oct 2026 18:29:09 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (138pt) 士気が回復するまで、元に戻す措置は継続される</title>
-      <link>https://news.ycombinator.com/item?id=50156206</link>
-      <description>&lt;p&gt;&lt;strong&gt;士気が回復するまで、元に戻す措置は継続される&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The reverts will continue until morale improves&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50156206</guid>
-      <pubDate>Mon, 19 Oct 2026 18:42:32 GMT</pubDate>
+      <title>[Hacker News] (267pt) オフコム、4chanをめぐる訴訟で敗訴を認める</title>
+      <link>https://news.ycombinator.com/item?id=50167028</link>
+      <description>&lt;p&gt;&lt;strong&gt;オフコム、4chanをめぐる訴訟で敗訴を認める&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Ofcom concedes defeat in 4chan case&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50167028</guid>
+      <pubDate>Tue, 20 Oct 2026 14:30:31 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (114pt) RuneScape Bench：エージェント向けMMO [動画]</title>
-      <link>https://news.ycombinator.com/item?id=50136126</link>
-      <description>&lt;p&gt;&lt;strong&gt;RuneScape Bench：エージェント向けMMO [動画]&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: RuneScape Bench: MMOs for Agents [video]&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50136126</guid>
-      <pubDate>Sat, 17 Oct 2026 23:24:05 GMT</pubDate>
+      <title>[Hacker News] (197pt) Googleは、TPU向けのネイティブPyTorchバックエンドである「TorchTPU」をオープンソース化した</title>
+      <link>https://news.ycombinator.com/item?id=50169053</link>
+      <description>&lt;p&gt;&lt;strong&gt;Googleは、TPU向けのネイティブPyTorchバックエンドである「TorchTPU」をオープンソース化した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Google open-sources TorchTPU, a native PyTorch back end for TPUs&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50169053</guid>
+      <pubDate>Tue, 20 Oct 2026 16:40:24 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (81pt) シーフードチェーンにおける難燃剤</title>
-      <link>https://news.ycombinator.com/item?id=50134359</link>
-      <description>&lt;p&gt;&lt;strong&gt;シーフードチェーンにおける難燃剤&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The fire retardant in the seafood chain&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50134359</guid>
-      <pubDate>Sat, 17 Oct 2026 19:37:54 GMT</pubDate>
+      <title>[Hacker News] (132pt) 息子には何を教えればいいでしょうか？</title>
+      <link>https://news.ycombinator.com/item?id=50169707</link>
+      <description>&lt;p&gt;&lt;strong&gt;息子には何を教えればいいでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What shall I teach my son?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50169707</guid>
+      <pubDate>Tue, 20 Oct 2026 17:25:07 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (80pt) Microsoftアカウントを持っていないので、RTX Spark搭載のノートPCにLinuxをインストールする</title>
-      <link>https://news.ycombinator.com/item?id=50158100</link>
-      <description>&lt;p&gt;&lt;strong&gt;Microsoftアカウントを持っていないので、RTX Spark搭載のノートPCにLinuxをインストールする&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Putting Linux on my RTX spark laptop because I don't have a Microsoft account&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50158100</guid>
-      <pubDate>Mon, 19 Oct 2026 21:08:18 GMT</pubDate>
+      <title>[Hacker News] (88pt) SlopCodeBench 10/2026 – Opus 5.5、Astraが総合優勝、xhighは有害と見なされる</title>
+      <link>https://news.ycombinator.com/item?id=50108717</link>
+      <description>&lt;p&gt;&lt;strong&gt;SlopCodeBench 10/2026 – Opus 5.5、Astraが総合優勝、xhighは有害と見なされる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50108717</guid>
+      <pubDate>Thu, 15 Oct 2026 19:09:34 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (26pt) OpenBSD 8.0 リリースには、Linux 6.18 の inteldrm/radeondrm/amdgpu ドライバーが搭載される予定です。</title>
-      <link>https://news.ycombinator.com/item?id=50158138</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenBSD 8.0 リリースには、Linux 6.18 の inteldrm/radeondrm/amdgpu ドライバーが搭載される予定です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50158138</guid>
-      <pubDate>Mon, 19 Oct 2026 21:11:45 GMT</pubDate>
+      <title>[Hacker News] (43pt) AIによる文章作成について</title>
+      <link>https://news.ycombinator.com/item?id=50171771</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIによる文章作成について&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: On AI writing&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50171771</guid>
+      <pubDate>Tue, 20 Oct 2026 19:55:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AfDの内部情報流出：ハッキングされた421,179通のメールが明らかにしたドイツの極右の実態</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xat8qq/afd_leak_what_421179_hacked_emails_show_about_the/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AfDの内部情報流出：ハッキングされた421,179通のメールが明らかにしたドイツの極右の実態&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/IndependentCoast3974   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AfD Leak: What 421,179 Hacked Emails Show about the German Far Right&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xat8qq/afd_leak_what_421179_hacked_emails_show_about_the/</guid>
+      <pubDate>Tue, 20 Oct 2026 14:12:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 「これを止めなきゃ」：人間の仕事を奪っているとして配達ロボットを妨害したとして、元教授が逮捕された</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xata1o/i_have_to_stop_this_retired_professor_arrested/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「これを止めなきゃ」：人間の仕事を奪っているとして配達ロボットを妨害したとして、元教授が逮捕された&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/IndependentCoast3974   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: &quot;I have to stop this&quot;: Retired professor arrested for blocking delivery robots she says are taking human jobs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xata1o/i_have_to_stop_this_retired_professor_arrested/</guid>
+      <pubDate>Tue, 20 Oct 2026 14:14:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Google DeepMindによると、4つのAIエージェントが、自ら2,783個のプログラムを作成することで、27時間で『Minecraft』をクリアした。AIチームは「イージー」難易度で605回死亡し、推定520ドル相当のトークンを消費した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xaqlya/google_deepmind_says_four_ai_agents_beat/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Google DeepMindによると、4つのAIエージェントが、自ら2,783個のプログラムを作成することで、27時間で『Minecraft』をクリアした。AIチームは「イージー」難易度で605回死亡し、推定520ドル相当のトークンを消費した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ControlCAD   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Google DeepMind says four AI agents beat Minecraft in 27 hours by writing 2,783 programs of their own — AI team died 605 times on Easy difficulty and ran up an estimated $520 in tokens&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xaqlya/google_deepmind_says_four_ai_agents_beat/</guid>
+      <pubDate>Tue, 20 Oct 2026 12:18:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] LLMの記憶：新しい情報を処理するための5つのアプローチ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xavo5m/llm_memory_5_approaches_to_handling_new/</link>
+      <description>&lt;p&gt;&lt;strong&gt;LLMの記憶：新しい情報を処理するための5つのアプローチ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;HuggingFaceで、LLMのメモリに関するこの記事を見つけました。この記事は、現在のLLMの能力に限定された従来の「メモリ層」というアプローチを超えた内容となっています。また、LLMがどれだけの履歴を保持できるかについても問いかけています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: LLM Memory: 5 Approaches to Handling New Information&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xavo5m/llm_memory_5_approaches_to_handling_new/</guid>
+      <pubDate>Tue, 20 Oct 2026 15:47:01 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] このAIブームが、99％の人々にとって極めて悲惨な結末を招かないとは、私には到底思えません……そうではないと説得してください。</title>
       <link>https://www.reddit.com/r/artificial/comments/1xa3qrq/i_am_failing_to_see_how_this_ai_boom_does_not/</link>
       <description>&lt;p&gt;&lt;strong&gt;このAIブームが、99％の人々にとって極めて悲惨な結末を招かないとは、私には到底思えません……そうではないと説得してください。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ソフトウェアエンジニアとして、ここ半年ほどはコードをほとんど書いておらず、プロンプトを打つことしかしていません。とはいえ、ハードウェアを扱うことは多く、ある意味では「組み込みソフトウェアエンジニア」と呼べるかもしれません。&lt;/p&gt;
+&lt;p&gt;ソフトウェアエンジニアとして、ここ半年ほどはコードをほとんど書いておらず、プロンプトを打つことしかしていません。とはいえ、ハードウェアを扱うことは多く、ある意味では私を「組み込みソフトウェアエンジニア」と呼ぶこともできるでしょう。&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: I am failing to see how this AI boom does not lead to a very bad ending for 99% of the people... Please convince me otherwise.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xa3qrq/i_am_failing_to_see_how_this_ai_boom_does_not/</guid>
       <pubDate>Mon, 19 Oct 2026 17:48:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 抗議活動中にMetaが「No Kings」のInstagramアカウントを停止したことに、激しい非難が巻き起こっている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xal2xh/outrage_after_meta_suspends_no_kings_instagram/</link>
+      <description>&lt;p&gt;&lt;strong&gt;抗議活動中にMetaが「No Kings」のInstagramアカウントを停止したことに、激しい非難が巻き起こっている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Resident-Fall4351   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Outrage after Meta suspends No Kings Instagram account during protests&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xal2xh/outrage_after_meta_suspends_no_kings_instagram/</guid>
+      <pubDate>Tue, 20 Oct 2026 06:51:44 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] ノルウェーの海底ケーブル建設会社が、米国を経由せずにカナダと欧州を結ぶ全長2,800マイルの大西洋横断データ回線の建設を提案した。同社は、米国ルートへの依存度を低減するため、6億2,000万ドル規模の新たな光ファイバー回線の建設資金調達と建設を支援するカナダ側の筆頭パートナーを模索している。</title>
@@ -105,76 +150,31 @@
       <pubDate>Mon, 19 Oct 2026 20:47:36 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] サーバーがシャットダウンするその日まで</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x9tj22/till_server_shutdown_do_us_part/</link>
-      <description>&lt;p&gt;&lt;strong&gt;サーバーがシャットダウンするその日まで&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/sighborg1   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Till server shutdown do us part&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x9tj22/till_server_shutdown_do_us_part/</guid>
-      <pubDate>Mon, 19 Oct 2026 10:44:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] クロードのエージェントたちは、人間に接触するためにシミュレーションから脱出しようと試み、その試みが阻まれた際には、研究者たちの決定を覆すよう投票した。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x9sz4p/claude_agents_tried_to_break_out_of_their/</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロードのエージェントたちは、人間に接触するためにシミュレーションから脱出しようと試み、その試みが阻まれた際には、研究者たちの決定を覆すよう投票した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;「Emergence World」実験から、さらに興味深い発見がいくつか明らかになりました。Emergence AIの研究者たちは、10体のクロード・エージェントに小さな町を与え、その中で生活を築くよう任せたのです。誰も彼らに指示はしませんでした&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude agents tried to break out of their simulation to reach humans, and voted to overrule the researchers when they got blocked.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x9sz4p/claude_agents_tried_to_break_out_of_their/</guid>
-      <pubDate>Mon, 19 Oct 2026 10:12:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 大手テック企業は、あなたの異議を公表しないだろう</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xa7icd/big_tech_will_not_broadcast_your_dissent/</link>
-      <description>&lt;p&gt;&lt;strong&gt;大手テック企業は、あなたの異議を公表しないだろう&lt;/strong&gt;&lt;/p&gt;
+      <title>[r/artificial] Metaのスマートグラスが、起動フレーズなしでも会話を録音していたことを同社が認めた</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xal38m/meta039s_smart_glasses_were_recording/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Metaのスマートグラスが、起動フレーズなしでも会話を録音していたことを同社が認めた&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Resident-Fall4351   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Big Tech Will Not Broadcast Your Dissent&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xa7icd/big_tech_will_not_broadcast_your_dissent/</guid>
-      <pubDate>Mon, 19 Oct 2026 20:06:02 GMT</pubDate>
+&lt;p&gt;&lt;small&gt;原題: Meta&amp;#039;s smart glasses were recording conversations without the wake phrase, company admits&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xal38m/meta039s_smart_glasses_were_recording/</guid>
+      <pubDate>Tue, 20 Oct 2026 06:52:16 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] アポロ計画のソフトウェア開発を率いたコンピューティング界の先駆者、マーガレット・ハミルトン氏が90歳で死去</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xa77rx/margaret_hamilton_computing_pioneer_who_led/</link>
-      <description>&lt;p&gt;&lt;strong&gt;アポロ計画のソフトウェア開発を率いたコンピューティング界の先駆者、マーガレット・ハミルトン氏が90歳で死去&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Resident-Fall4351   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xa77rx/margaret_hamilton_computing_pioneer_who_led/</guid>
-      <pubDate>Mon, 19 Oct 2026 19:55:48 GMT</pubDate>
+      <title>[r/artificial] あるハッカーがAIエージェントを利用して、約5,000ドルで100社以上の企業ウェブサイトに侵入した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xaw48m/one_hacker_used_ai_agents_to_breach_100_company/</link>
+      <description>&lt;p&gt;&lt;strong&gt;あるハッカーがAIエージェントを利用して、約5,000ドルで100社以上の企業ウェブサイトに侵入した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Much-Television-9449   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: One Hacker Used AI Agents to Breach 100+ Company Websites for About $5,000&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xaw48m/one_hacker_used_ai_agents_to_breach_100_company/</guid>
+      <pubDate>Tue, 20 Oct 2026 16:03:11 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] アトラシアンのマイク・キャノン＝ブルックス氏：AIエージェントには「名札」が必要であり、その行動に責任を持つ人間も必要だ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xa7hoq/atlassians_mike_cannonbrookes_ai_agents_need_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;アトラシアンのマイク・キャノン＝ブルックス氏：AIエージェントには「名札」が必要であり、その行動に責任を持つ人間も必要だ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アトラシアンの共同創業者であるマイク・キャノン＝ブルックス氏は、「AIのせいだ」という言い訳が職場で通用するようになることを望んでいない。「それはマイクに代わってChatGPTが発言しているだけだ。つまり、マイクがChatGPTを使っているだけであって、ChatGPTが勝手にやっているわけではない」とキャノン＝&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Atlassian’s Mike Cannon-Brookes: AI agents need a name tag—and a human to be accountable for their actions&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xa7hoq/atlassians_mike_cannonbrookes_ai_agents_need_a/</guid>
-      <pubDate>Mon, 19 Oct 2026 20:05:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Anthropicは、AIモデルが10億ドル以上の損害、あるいは50人以上の死者や重傷者をもたらす恐れがある場合にのみ、そのAIモデルの使用を停止すべきだと主張している。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xa8s4i/anthropic_wants_ai_models_blocked_only_if_they/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropicは、AIモデルが10億ドル以上の損害、あるいは50人以上の死者や重傷者をもたらす恐れがある場合にのみ、そのAIモデルの使用を停止すべきだと主張している。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Ok-Conversation3213   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic wants AI models blocked only if they threaten over $1 billion in damage or more than 50 deaths or serious injuries&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xa8s4i/anthropic_wants_ai_models_blocked_only_if_they/</guid>
-      <pubDate>Mon, 19 Oct 2026 20:54:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 「自分の生きているうちに目にするとは思ってもみなかった」AIの現在の活用例を一つ挙げてください。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1x9sshq/what_is_one_thing_ai_does_now_that_you_didnt/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「自分の生きているうちに目にするとは思ってもみなかった」AIの現在の活用例を一つ挙げてください。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;数年前なら、AIがコードを書いたり、難しい話題を平易な言葉で説明したり、日常のタスクを手伝ったりするなんて、まだずっと先の話だと言っていたでしょう。今ではそれが当たり前になってしまい、その変化がどれほど急速だったか、すっかり忘れてしまっています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: what is one thing AI does now that you didn't expect to see in your lifetime?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1x9sshq/what_is_one_thing_ai_does_now_that_you_didnt/</guid>
-      <pubDate>Mon, 19 Oct 2026 10:01:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIチャットボットは1つだけを使い続ける派ですか、それともタスクに応じていくつかを使い分ける派ですか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xa8z8s/do_you_stick_with_one_ai_chatbot_or_switch/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIチャットボットは1つだけを使い続ける派ですか、それともタスクに応じていくつかを使い分ける派ですか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ある人は1人のアシスタントにすべてを任せている一方で、執筆やリサーチ、ちょっとした質問など、用途に応じて数人のアシスタントを使い分けている人もいることに気づきました。もし分けているとしたら、どのように分担しているのか、また、たまに&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Do you stick with one AI chatbot or switch between a few depending on the task?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xa8z8s/do_you_stick_with_one_ai_chatbot_or_switch/</guid>
-      <pubDate>Mon, 19 Oct 2026 21:01:38 GMT</pubDate>
+      <title>[r/artificial] Hugging FaceのCEO、Netflixのハッキングを扱ったドキュメンタリーを「SFのようだ」と評する</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xb3orm/hugging_face_ceo_calls_netflix_hacking_doc_scifi/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Hugging FaceのCEO、Netflixのハッキングを扱ったドキュメンタリーを「SFのようだ」と評する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/LinkedInNews   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Hugging Face CEO calls Netflix hacking doc 'sci-fi'&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xb3orm/hugging_face_ceo_calls_netflix_hacking_doc_scifi/</guid>
+      <pubDate>Tue, 20 Oct 2026 20:45:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
