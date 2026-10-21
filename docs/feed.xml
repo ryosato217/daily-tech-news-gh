@@ -3,88 +3,87 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-20</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-21</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Oct 2026 21:26:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 21:28:11 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (2025pt) DeepInfer：DeepSeekモデル向けの高性能推論フレームワーク</title>
-      <link>https://news.ycombinator.com/item?id=50163277</link>
-      <description>&lt;p&gt;&lt;strong&gt;DeepInfer：DeepSeekモデル向けの高性能推論フレームワーク&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: DeepInfer: High-performance inference framework for DeepSeek models&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50163277</guid>
-      <pubDate>Tue, 20 Oct 2026 09:08:54 GMT</pubDate>
+      <title>[Hacker News] (347pt) PyPI上の改ざんされたLiteLLM 1.107.0は、認証情報窃取ツールとバックドアをインストールする</title>
+      <link>https://news.ycombinator.com/item?id=50181114</link>
+      <description>&lt;p&gt;&lt;strong&gt;PyPI上の改ざんされたLiteLLM 1.107.0は、認証情報窃取ツールとバックドアをインストールする&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50181114</guid>
+      <pubDate>Wed, 21 Oct 2026 14:00:26 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (473pt) EMudhra 中級 CA 妥協案</title>
-      <link>https://news.ycombinator.com/item?id=50166579</link>
-      <description>&lt;p&gt;&lt;strong&gt;EMudhra 中級 CA 妥協案&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: EMudhra Intermediate CA Compromise&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50166579</guid>
-      <pubDate>Tue, 20 Oct 2026 13:58:33 GMT</pubDate>
+      <title>[Hacker News] (183pt) クロード・デュエ</title>
+      <link>https://news.ycombinator.com/item?id=50186037</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロード・デュエ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Duet&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50186037</guid>
+      <pubDate>Wed, 21 Oct 2026 19:14:01 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (426pt) Voxtral 3</title>
-      <link>https://news.ycombinator.com/item?id=50168396</link>
-      <description>&lt;p&gt;&lt;strong&gt;Voxtral 3&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Voxtral 3&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50168396</guid>
-      <pubDate>Tue, 20 Oct 2026 16:02:07 GMT</pubDate>
+      <title>[r/artificial] テスラとスペースX、AIをめぐる3.5兆ドルの合併を検討するため取締役会委員会を設置</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xbpxnv/tesla_and_spacex_form_board_committees_to_explore/</link>
+      <description>&lt;p&gt;&lt;strong&gt;テスラとスペースX、AIをめぐる3.5兆ドルの合併を検討するため取締役会委員会を設置&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/VectorWireAI   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Tesla and SpaceX form board committees to explore $3.5T merger around AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xbpxnv/tesla_and_spacex_form_board_committees_to_explore/</guid>
+      <pubDate>Wed, 21 Oct 2026 15:16:03 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (417pt) Appleは、iPadの重要なプレゼンテーション機能を損なってしまった</title>
-      <link>https://news.ycombinator.com/item?id=50165208</link>
-      <description>&lt;p&gt;&lt;strong&gt;Appleは、iPadの重要なプレゼンテーション機能を損なってしまった&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Apple broke an essential presentation feature of iPads&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50165208</guid>
-      <pubDate>Tue, 20 Oct 2026 12:17:28 GMT</pubDate>
+      <title>[r/artificial] Anthropic社の「Claude」が、サソリの神経毒を標的とするタンパク質結合体を自律的に設計</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xbks11/anthropics_claude_autonomously_designs_protein/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropic社の「Claude」が、サソリの神経毒を標的とするタンパク質結合体を自律的に設計&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/VectorWireAI   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic's Claude autonomously designs protein binders targeting scorpion neurotoxins&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xbks11/anthropics_claude_autonomously_designs_protein/</guid>
+      <pubDate>Wed, 21 Oct 2026 11:38:23 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (321pt) 『シムシティ』だけど、許可証が必要</title>
-      <link>https://news.ycombinator.com/item?id=50170593</link>
-      <description>&lt;p&gt;&lt;strong&gt;『シムシティ』だけど、許可証が必要&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: SimCity, but with Permits&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50170593</guid>
-      <pubDate>Tue, 20 Oct 2026 18:29:09 GMT</pubDate>
+      <title>[r/artificial] ニューヨーク市は、AIチャットボットの「悪循環」にユーザーを閉じ込めてしまう企業に対して罰金を科す方針だ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xb7a1x/new_york_city_wants_to_fine_companies_that_trap/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ニューヨーク市は、AIチャットボットの「悪循環」にユーザーを閉じ込めてしまう企業に対して罰金を科す方針だ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;いいアイデアですね。「ドゥームループ」と呼ばれるとは知りませんでしたが、カスタマーサービスに電話してAIオペレーターと延々とやり取りするのは本当に嫌です。  &amp;#32; 投稿者：&amp;#32;  /u/ross2000   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: New York City wants to fine companies that trap you in AI chatbot ‘doom loops’&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xb7a1x/new_york_city_wants_to_fine_companies_that_trap/</guid>
+      <pubDate>Tue, 20 Oct 2026 23:17:40 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (267pt) オフコム、4chanをめぐる訴訟で敗訴を認める</title>
-      <link>https://news.ycombinator.com/item?id=50167028</link>
-      <description>&lt;p&gt;&lt;strong&gt;オフコム、4chanをめぐる訴訟で敗訴を認める&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Ofcom concedes defeat in 4chan case&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50167028</guid>
-      <pubDate>Tue, 20 Oct 2026 14:30:31 GMT</pubDate>
+      <title>[r/artificial] 大学教授としての日常的な車利用</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xbzs4y/daily_driver_use_as_a_professor/</link>
+      <description>&lt;p&gt;&lt;strong&gt;大学教授としての日常的な車利用&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ここ3年間、OpenAI/ChatGPTを使ってきましたが、かなり気に入っていました。GeminiのArgonがリリースされたので、試してみることにしたのですが、正直言って感心しました。ただ一つ、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Daily Driver Use As a Professor&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xbzs4y/daily_driver_use_as_a_professor/</guid>
+      <pubDate>Wed, 21 Oct 2026 21:19:02 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (197pt) Googleは、TPU向けのネイティブPyTorchバックエンドである「TorchTPU」をオープンソース化した</title>
-      <link>https://news.ycombinator.com/item?id=50169053</link>
-      <description>&lt;p&gt;&lt;strong&gt;Googleは、TPU向けのネイティブPyTorchバックエンドである「TorchTPU」をオープンソース化した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Google open-sources TorchTPU, a native PyTorch back end for TPUs&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50169053</guid>
-      <pubDate>Tue, 20 Oct 2026 16:40:24 GMT</pubDate>
+      <title>[r/artificial] AIを活用したphp2shellのエクスプロイトチェーンがPHPランタイムを標的とし、ウェブサイトの70％で連携した防御体制の構築を余儀なくされている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xbr8uj/aiassisted_php2shell_exploit_chain_hits_php/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIを活用したphp2shellのエクスプロイトチェーンがPHPランタイムを標的とし、ウェブサイトの70％で連携した防御体制の構築を余儀なくされている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/VectorWireAI   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI-assisted php2shell exploit chain hits PHP runtime, forces coordinated defense across 70% of web&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xbr8uj/aiassisted_php2shell_exploit_chain_hits_php/</guid>
+      <pubDate>Wed, 21 Oct 2026 16:04:53 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (132pt) 息子には何を教えればいいでしょうか？</title>
-      <link>https://news.ycombinator.com/item?id=50169707</link>
-      <description>&lt;p&gt;&lt;strong&gt;息子には何を教えればいいでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What shall I teach my son?&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50169707</guid>
-      <pubDate>Tue, 20 Oct 2026 17:25:07 GMT</pubDate>
+      <title>[r/artificial] ホテルを予約する前に、AIを活用して費用を節約するためにすべき3つのこと</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xbu3ox/3_things_you_should_do_with_your_ai_to_save/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ホテルを予約する前に、AIを活用して費用を節約するためにすべき3つのこと&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ホテルのページは、選択を簡単に行えるように作られていますが、その裏にあるデータはそう単純ではありません。私は多くのホテルのリアルタイム料金データを収集しましたが、その中で最も重要だったのは以下の3つの確認事項でした。これは実に苛立たしいことです&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: 3 things you should do with your AI to save $$$ before booking a hotel&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xbu3ox/3_things_you_should_do_with_your_ai_to_save/</guid>
+      <pubDate>Wed, 21 Oct 2026 17:47:55 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (88pt) SlopCodeBench 10/2026 – Opus 5.5、Astraが総合優勝、xhighは有害と見なされる</title>
-      <link>https://news.ycombinator.com/item?id=50108717</link>
-      <description>&lt;p&gt;&lt;strong&gt;SlopCodeBench 10/2026 – Opus 5.5、Astraが総合優勝、xhighは有害と見なされる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50108717</guid>
-      <pubDate>Thu, 15 Oct 2026 19:09:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (43pt) AIによる文章作成について</title>
-      <link>https://news.ycombinator.com/item?id=50171771</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIによる文章作成について&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: On AI writing&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50171771</guid>
-      <pubDate>Tue, 20 Oct 2026 19:55:11 GMT</pubDate>
+      <title>[r/artificial] LLMがゼロからどのように作られるのか、知りたいと思ったことはありませんか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xbz9a3/have_you_ever_wanted_to_know_how_llms_are_made/</link>
+      <description>&lt;p&gt;&lt;strong&gt;LLMがゼロからどのように作られるのか、知りたいと思ったことはありませんか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「はい」の場合は、皆さんに試していただくためのものを用意しました → insideout.sh https://preview.redd.it/6a5jni6rwvwh1.png?width=1080&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a696debf27138b89afd1bc32e99b9f79e28ab5a2  &amp;#32; s&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: have you ever wanted to know how llms are made from scratch?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xbz9a3/have_you_ever_wanted_to_know_how_llms_are_made/</guid>
+      <pubDate>Wed, 21 Oct 2026 20:59:18 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] AfDの内部情報流出：ハッキングされた421,179通のメールが明らかにしたドイツの極右の実態</title>
@@ -96,85 +95,13 @@
       <pubDate>Tue, 20 Oct 2026 14:12:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 「これを止めなきゃ」：人間の仕事を奪っているとして配達ロボットを妨害したとして、元教授が逮捕された</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xata1o/i_have_to_stop_this_retired_professor_arrested/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「これを止めなきゃ」：人間の仕事を奪っているとして配達ロボットを妨害したとして、元教授が逮捕された&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/IndependentCoast3974   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: &quot;I have to stop this&quot;: Retired professor arrested for blocking delivery robots she says are taking human jobs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xata1o/i_have_to_stop_this_retired_professor_arrested/</guid>
-      <pubDate>Tue, 20 Oct 2026 14:14:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Google DeepMindによると、4つのAIエージェントが、自ら2,783個のプログラムを作成することで、27時間で『Minecraft』をクリアした。AIチームは「イージー」難易度で605回死亡し、推定520ドル相当のトークンを消費した。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xaqlya/google_deepmind_says_four_ai_agents_beat/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Google DeepMindによると、4つのAIエージェントが、自ら2,783個のプログラムを作成することで、27時間で『Minecraft』をクリアした。AIチームは「イージー」難易度で605回死亡し、推定520ドル相当のトークンを消費した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ControlCAD   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Google DeepMind says four AI agents beat Minecraft in 27 hours by writing 2,783 programs of their own — AI team died 605 times on Easy difficulty and ran up an estimated $520 in tokens&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xaqlya/google_deepmind_says_four_ai_agents_beat/</guid>
-      <pubDate>Tue, 20 Oct 2026 12:18:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] LLMの記憶：新しい情報を処理するための5つのアプローチ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xavo5m/llm_memory_5_approaches_to_handling_new/</link>
-      <description>&lt;p&gt;&lt;strong&gt;LLMの記憶：新しい情報を処理するための5つのアプローチ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;HuggingFaceで、LLMのメモリに関するこの記事を見つけました。この記事は、現在のLLMの能力に限定された従来の「メモリ層」というアプローチを超えた内容となっています。また、LLMがどれだけの履歴を保持できるかについても問いかけています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: LLM Memory: 5 Approaches to Handling New Information&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xavo5m/llm_memory_5_approaches_to_handling_new/</guid>
-      <pubDate>Tue, 20 Oct 2026 15:47:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] このAIブームが、99％の人々にとって極めて悲惨な結末を招かないとは、私には到底思えません……そうではないと説得してください。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xa3qrq/i_am_failing_to_see_how_this_ai_boom_does_not/</link>
-      <description>&lt;p&gt;&lt;strong&gt;このAIブームが、99％の人々にとって極めて悲惨な結末を招かないとは、私には到底思えません……そうではないと説得してください。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ソフトウェアエンジニアとして、ここ半年ほどはコードをほとんど書いておらず、プロンプトを打つことしかしていません。とはいえ、ハードウェアを扱うことは多く、ある意味では私を「組み込みソフトウェアエンジニア」と呼ぶこともできるでしょう。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I am failing to see how this AI boom does not lead to a very bad ending for 99% of the people... Please convince me otherwise.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xa3qrq/i_am_failing_to_see_how_this_ai_boom_does_not/</guid>
-      <pubDate>Mon, 19 Oct 2026 17:48:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 抗議活動中にMetaが「No Kings」のInstagramアカウントを停止したことに、激しい非難が巻き起こっている</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xal2xh/outrage_after_meta_suspends_no_kings_instagram/</link>
-      <description>&lt;p&gt;&lt;strong&gt;抗議活動中にMetaが「No Kings」のInstagramアカウントを停止したことに、激しい非難が巻き起こっている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Resident-Fall4351   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Outrage after Meta suspends No Kings Instagram account during protests&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xal2xh/outrage_after_meta_suspends_no_kings_instagram/</guid>
-      <pubDate>Tue, 20 Oct 2026 06:51:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ノルウェーの海底ケーブル建設会社が、米国を経由せずにカナダと欧州を結ぶ全長2,800マイルの大西洋横断データ回線の建設を提案した。同社は、米国ルートへの依存度を低減するため、6億2,000万ドル規模の新たな光ファイバー回線の建設資金調達と建設を支援するカナダ側の筆頭パートナーを模索している。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xa8lp0/norwegian_undersea_cable_builder_pitches_2800mile/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ノルウェーの海底ケーブル建設会社が、米国を経由せずにカナダと欧州を結ぶ全長2,800マイルの大西洋横断データ回線の建設を提案した。同社は、米国ルートへの依存度を低減するため、6億2,000万ドル規模の新たな光ファイバー回線の建設資金調達と建設を支援するカナダ側の筆頭パートナーを模索している。&lt;/strong&gt;&lt;/p&gt;
+      <title>[r/artificial] Spotifyが再び「ファミリープラン」の利用規制を強化しており、違反した場合、最大1年間の利用停止処分を受ける可能性があります。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xb5ts6/spotify_is_cracking_down_on_family_plans_again/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Spotifyが再び「ファミリープラン」の利用規制を強化しており、違反した場合、最大1年間の利用停止処分を受ける可能性があります。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Ok-Conversation3213   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Norwegian undersea cable builder pitches 2,800-mile transatlantic data link between Canada and Europe to bypass the US — Canadian majority partner sought to help fund and build new $620 million fiber connection to reduce reliance on American routes&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xa8lp0/norwegian_undersea_cable_builder_pitches_2800mile/</guid>
-      <pubDate>Mon, 19 Oct 2026 20:47:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Metaのスマートグラスが、起動フレーズなしでも会話を録音していたことを同社が認めた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xal38m/meta039s_smart_glasses_were_recording/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Metaのスマートグラスが、起動フレーズなしでも会話を録音していたことを同社が認めた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Resident-Fall4351   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Meta&amp;#039;s smart glasses were recording conversations without the wake phrase, company admits&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xal38m/meta039s_smart_glasses_were_recording/</guid>
-      <pubDate>Tue, 20 Oct 2026 06:52:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] あるハッカーがAIエージェントを利用して、約5,000ドルで100社以上の企業ウェブサイトに侵入した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xaw48m/one_hacker_used_ai_agents_to_breach_100_company/</link>
-      <description>&lt;p&gt;&lt;strong&gt;あるハッカーがAIエージェントを利用して、約5,000ドルで100社以上の企業ウェブサイトに侵入した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Much-Television-9449   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: One Hacker Used AI Agents to Breach 100+ Company Websites for About $5,000&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xaw48m/one_hacker_used_ai_agents_to_breach_100_company/</guid>
-      <pubDate>Tue, 20 Oct 2026 16:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Hugging FaceのCEO、Netflixのハッキングを扱ったドキュメンタリーを「SFのようだ」と評する</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xb3orm/hugging_face_ceo_calls_netflix_hacking_doc_scifi/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Hugging FaceのCEO、Netflixのハッキングを扱ったドキュメンタリーを「SFのようだ」と評する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/LinkedInNews   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Hugging Face CEO calls Netflix hacking doc 'sci-fi'&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xb3orm/hugging_face_ceo_calls_netflix_hacking_doc_scifi/</guid>
-      <pubDate>Tue, 20 Oct 2026 20:45:50 GMT</pubDate>
+&lt;p&gt;&lt;small&gt;原題: Spotify is cracking down on Family plans again, and the penalty can lock you out for a year&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xb5ts6/spotify_is_cracking_down_on_family_plans_again/</guid>
+      <pubDate>Tue, 20 Oct 2026 22:12:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
