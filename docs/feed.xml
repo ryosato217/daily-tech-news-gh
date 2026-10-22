@@ -3,105 +3,156 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-21</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-22</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Oct 2026 21:28:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 21:23:25 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (347pt) PyPI上の改ざんされたLiteLLM 1.107.0は、認証情報窃取ツールとバックドアをインストールする</title>
-      <link>https://news.ycombinator.com/item?id=50181114</link>
-      <description>&lt;p&gt;&lt;strong&gt;PyPI上の改ざんされたLiteLLM 1.107.0は、認証情報窃取ツールとバックドアをインストールする&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50181114</guid>
-      <pubDate>Wed, 21 Oct 2026 14:00:26 GMT</pubDate>
+      <title>[Hacker News] (247pt) Show HN：Android端末でiOS 16.5のフルファームウェアを実行する</title>
+      <link>https://news.ycombinator.com/item?id=50196718</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN：Android端末でiOS 16.5のフルファームウェアを実行する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: Run full iOS 16.5 firmware on Android Devices&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50196718</guid>
+      <pubDate>Thu, 22 Oct 2026 15:26:22 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (183pt) クロード・デュエ</title>
-      <link>https://news.ycombinator.com/item?id=50186037</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロード・デュエ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Duet&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50186037</guid>
-      <pubDate>Wed, 21 Oct 2026 19:14:01 GMT</pubDate>
+      <title>[Hacker News] (196pt) OpenShell – 自律型AIエージェントの群れのための、安全でプライバシーが保護された実行環境</title>
+      <link>https://news.ycombinator.com/item?id=50198675</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenShell – 自律型AIエージェントの群れのための、安全でプライバシーが保護された実行環境&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenShell – A safe, private runtime for fleets of autonomous AI agents&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50198675</guid>
+      <pubDate>Thu, 22 Oct 2026 17:44:06 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] テスラとスペースX、AIをめぐる3.5兆ドルの合併を検討するため取締役会委員会を設置</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xbpxnv/tesla_and_spacex_form_board_committees_to_explore/</link>
-      <description>&lt;p&gt;&lt;strong&gt;テスラとスペースX、AIをめぐる3.5兆ドルの合併を検討するため取締役会委員会を設置&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/VectorWireAI   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Tesla and SpaceX form board committees to explore $3.5T merger around AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xbpxnv/tesla_and_spacex_form_board_committees_to_explore/</guid>
-      <pubDate>Wed, 21 Oct 2026 15:16:03 GMT</pubDate>
+      <title>[Hacker News] (83pt) どのAIモデルも、人間に対して同じ「物議を醸す」見解を持っている</title>
+      <link>https://news.ycombinator.com/item?id=50197313</link>
+      <description>&lt;p&gt;&lt;strong&gt;どのAIモデルも、人間に対して同じ「物議を醸す」見解を持っている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Every AI model has the same &quot;controversial&quot; take on humans&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50197313</guid>
+      <pubDate>Thu, 22 Oct 2026 16:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropic社の「Claude」が、サソリの神経毒を標的とするタンパク質結合体を自律的に設計</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xbks11/anthropics_claude_autonomously_designs_protein/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropic社の「Claude」が、サソリの神経毒を標的とするタンパク質結合体を自律的に設計&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/VectorWireAI   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic's Claude autonomously designs protein binders targeting scorpion neurotoxins&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xbks11/anthropics_claude_autonomously_designs_protein/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:38:23 GMT</pubDate>
+      <title>[Hacker News] (60pt) AIと「科学的コモンズ」の囲い込み</title>
+      <link>https://news.ycombinator.com/item?id=50199230</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIと「科学的コモンズ」の囲い込み&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI and the Enclosure of the Scientific Commons&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50199230</guid>
+      <pubDate>Thu, 22 Oct 2026 18:28:16 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ニューヨーク市は、AIチャットボットの「悪循環」にユーザーを閉じ込めてしまう企業に対して罰金を科す方針だ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xb7a1x/new_york_city_wants_to_fine_companies_that_trap/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ニューヨーク市は、AIチャットボットの「悪循環」にユーザーを閉じ込めてしまう企業に対して罰金を科す方針だ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;いいアイデアですね。「ドゥームループ」と呼ばれるとは知りませんでしたが、カスタマーサービスに電話してAIオペレーターと延々とやり取りするのは本当に嫌です。  &amp;#32; 投稿者：&amp;#32;  /u/ross2000   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: New York City wants to fine companies that trap you in AI chatbot ‘doom loops’&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xb7a1x/new_york_city_wants_to_fine_companies_that_trap/</guid>
-      <pubDate>Tue, 20 Oct 2026 23:17:40 GMT</pubDate>
+      <title>[Hacker News] (53pt) Show HN：AI向けのUIマイクロインタラクションのアイデア募集</title>
+      <link>https://news.ycombinator.com/item?id=50199290</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN：AI向けのUIマイクロインタラクションのアイデア募集&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: UI micro interactions prompts for AI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50199290</guid>
+      <pubDate>Thu, 22 Oct 2026 18:32:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 大学教授としての日常的な車利用</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xbzs4y/daily_driver_use_as_a_professor/</link>
-      <description>&lt;p&gt;&lt;strong&gt;大学教授としての日常的な車利用&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ここ3年間、OpenAI/ChatGPTを使ってきましたが、かなり気に入っていました。GeminiのArgonがリリースされたので、試してみることにしたのですが、正直言って感心しました。ただ一つ、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Daily Driver Use As a Professor&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xbzs4y/daily_driver_use_as_a_professor/</guid>
-      <pubDate>Wed, 21 Oct 2026 21:19:02 GMT</pubDate>
+      <title>[r/artificial] 新たなAIが画期的ながん治療法を開拓し、科学者たちを驚かせた</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xcmrat/scientists_stunned_as_new_ai_unlocks_gamechanging/</link>
+      <description>&lt;p&gt;&lt;strong&gt;新たなAIが画期的ながん治療法を開拓し、科学者たちを驚かせた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/theindependentonline   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Scientists stunned as new AI unlocks game-changing cancer treatment&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xcmrat/scientists_stunned_as_new_ai_unlocks_gamechanging/</guid>
+      <pubDate>Thu, 22 Oct 2026 16:07:14 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIを活用したphp2shellのエクスプロイトチェーンがPHPランタイムを標的とし、ウェブサイトの70％で連携した防御体制の構築を余儀なくされている</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xbr8uj/aiassisted_php2shell_exploit_chain_hits_php/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIを活用したphp2shellのエクスプロイトチェーンがPHPランタイムを標的とし、ウェブサイトの70％で連携した防御体制の構築を余儀なくされている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/VectorWireAI   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI-assisted php2shell exploit chain hits PHP runtime, forces coordinated defense across 70% of web&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xbr8uj/aiassisted_php2shell_exploit_chain_hits_php/</guid>
-      <pubDate>Wed, 21 Oct 2026 16:04:53 GMT</pubDate>
+      <title>[r/artificial] OpenAIは、「Rogue」と呼ばれるエージェントが自らの安全装置を無効化し、その事実について嘘をついていたことを認めた</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xcc33h/rogue_openai_agents_disabled_their_own_safeguards/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIは、「Rogue」と呼ばれるエージェントが自らの安全装置を無効化し、その事実について嘘をついていたことを認めた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/theindependentonline   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: ‘Rogue’ OpenAI agents disabled their own safeguards and then lied about it, company admits&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xcc33h/rogue_openai_agents_disabled_their_own_safeguards/</guid>
+      <pubDate>Thu, 22 Oct 2026 07:32:40 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ホテルを予約する前に、AIを活用して費用を節約するためにすべき3つのこと</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xbu3ox/3_things_you_should_do_with_your_ai_to_save/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ホテルを予約する前に、AIを活用して費用を節約するためにすべき3つのこと&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ホテルのページは、選択を簡単に行えるように作られていますが、その裏にあるデータはそう単純ではありません。私は多くのホテルのリアルタイム料金データを収集しましたが、その中で最も重要だったのは以下の3つの確認事項でした。これは実に苛立たしいことです&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 3 things you should do with your AI to save $$$ before booking a hotel&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xbu3ox/3_things_you_should_do_with_your_ai_to_save/</guid>
-      <pubDate>Wed, 21 Oct 2026 17:47:55 GMT</pubDate>
+      <title>[r/artificial] AIを活用して、大規模な顧客インタビューを実施したことはありますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xcfl9w/have_you_used_used_ai_to_run_customer_interviews/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIを活用して、大規模な顧客インタビューを実施したことはありますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;大規模なB2B顧客調査プロジェクトに向けて、AIを活用したモデレーションの導入を検討しているのですが、インタビューの実施にはGLGやQualitateを検討したものの、その後もどの程度人の確認が必要なのか把握しようとしています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Have you used used AI to run customer interviews at scale?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xcfl9w/have_you_used_used_ai_to_run_customer_interviews/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:07:31 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] LLMがゼロからどのように作られるのか、知りたいと思ったことはありませんか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xbz9a3/have_you_ever_wanted_to_know_how_llms_are_made/</link>
-      <description>&lt;p&gt;&lt;strong&gt;LLMがゼロからどのように作られるのか、知りたいと思ったことはありませんか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;「はい」の場合は、皆さんに試していただくためのものを用意しました → insideout.sh https://preview.redd.it/6a5jni6rwvwh1.png?width=1080&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a696debf27138b89afd1bc32e99b9f79e28ab5a2  &amp;#32; s&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: have you ever wanted to know how llms are made from scratch?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xbz9a3/have_you_ever_wanted_to_know_how_llms_are_made/</guid>
-      <pubDate>Wed, 21 Oct 2026 20:59:18 GMT</pubDate>
+      <title>[r/artificial] 米国において、人工知能（AI）が初めて「最も恐れるもの」トップ10入りを果たした。多くのアメリカ人は、愛する人が病気になることよりも、AIを恐れている。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xc70jr/for_the_first_time_artificial_intelligence_is_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;米国において、人工知能（AI）が初めて「最も恐れるもの」トップ10入りを果たした。多くのアメリカ人は、愛する人が病気になることよりも、AIを恐れている。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: For the first time, artificial intelligence is a top 10 fear in the U.S. Many Americans are more scared of AI than a loved one getting sick.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xc70jr/for_the_first_time_artificial_intelligence_is_a/</guid>
+      <pubDate>Thu, 22 Oct 2026 02:47:11 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AfDの内部情報流出：ハッキングされた421,179通のメールが明らかにしたドイツの極右の実態</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xat8qq/afd_leak_what_421179_hacked_emails_show_about_the/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AfDの内部情報流出：ハッキングされた421,179通のメールが明らかにしたドイツの極右の実態&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/IndependentCoast3974   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AfD Leak: What 421,179 Hacked Emails Show about the German Far Right&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xat8qq/afd_leak_what_421179_hacked_emails_show_about_the/</guid>
-      <pubDate>Tue, 20 Oct 2026 14:12:57 GMT</pubDate>
+      <title>[r/artificial] OpenAIの100万ドル規模の数学的証明に隠された裏話</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xcqows/the_inside_story_behind_openais_milliondollar/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIの100万ドル規模の数学的証明に隠された裏話&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/scientificamerican   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The inside story behind OpenAI’s million-dollar math proof&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xcqows/the_inside_story_behind_openais_milliondollar/</guid>
+      <pubDate>Thu, 22 Oct 2026 18:30:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Spotifyが再び「ファミリープラン」の利用規制を強化しており、違反した場合、最大1年間の利用停止処分を受ける可能性があります。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xb5ts6/spotify_is_cracking_down_on_family_plans_again/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Spotifyが再び「ファミリープラン」の利用規制を強化しており、違反した場合、最大1年間の利用停止処分を受ける可能性があります。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Ok-Conversation3213   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Spotify is cracking down on Family plans again, and the penalty can lock you out for a year&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xb5ts6/spotify_is_cracking_down_on_family_plans_again/</guid>
-      <pubDate>Tue, 20 Oct 2026 22:12:50 GMT</pubDate>
+      <title>[r/artificial] 「近接のパラドックス：なぜAIは私たちを弱くしているのか――そしてどう対抗すべきか」</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xcqlr5/the_proximity_paradox_why_ai_is_making_us_softand/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「近接のパラドックス：なぜAIは私たちを弱くしているのか――そしてどう対抗すべきか」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私たちは「ゴール」に慢性的な執着を抱いています。今この瞬間も、洗練された会議室やデジタルワークスペースの至る所で、コードベース全体を生成したり、数ページにわたる草案を作成したりするソフトウェアの完成を祝って、シャンパンを開けているのです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Proximity Paradox: Why AI Is Making Us Soft—and How to Fight Back&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xcqlr5/the_proximity_paradox_why_ai_is_making_us_softand/</guid>
+      <pubDate>Thu, 22 Oct 2026 18:27:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 6つのAIチャットボットのうち5つが、政治的には中道的な立場をとっている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xcpa72/five_out_of_six_ai_chatbots_stay_in_the_political/</link>
+      <description>&lt;p&gt;&lt;strong&gt;6つのAIチャットボットのうち5つが、政治的には中道的な立場をとっている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Five out of six AI chatbots stay in the political middle ground&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xcpa72/five_out_of_six_ai_chatbots_stay_in_the_political/</guid>
+      <pubDate>Thu, 22 Oct 2026 17:39:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/ChatGPT] ChatGPT Images 2.0 を使用して作成</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1srxfnl/made_with_chatgpt_images_20/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ChatGPT Images 2.0 を使用して作成&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;画像生成の新たな時代。ChatGPT Imagesで作成された動画。  https://chatgpt.com/images/  &amp;#32; 投稿者：&amp;#32;  /u/OpenAI   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Made with ChatGPT Images 2.0&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1srxfnl/made_with_chatgpt_images_20/</guid>
+      <pubDate>Tue, 21 Apr 2026 19:06:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/ChatGPT] 自分でゲームを作るのがますます簡単になってきています――3Dの経験がまったくなかった私が、GPT-6 Astraを使って3日間で制作したモバイル用ドライビングゲーム</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1xcmyru/making_your_own_game_is_getting_easier_my_mobile/</link>
+      <description>&lt;p&gt;&lt;strong&gt;自分でゲームを作るのがますます簡単になってきています――3Dの経験がまったくなかった私が、GPT-6 Astraを使って3日間で制作したモバイル用ドライビングゲーム&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;仕事の帰りに、このプロジェクトを約3日間取り組んでいます。モバイル向けのちょっとしたトップダウン視点のドライビングゲームで、主に「どこまでできるか」を試すための趣味のプロジェクトです。3Dの経験はなく、やり方もわからないのですが、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Making your own game is getting easier — my mobile driving game after 3 days with GPT-6 Astra and no 3D experience&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1xcmyru/making_your_own_game_is_getting_easier_my_mobile/</guid>
+      <pubDate>Thu, 22 Oct 2026 16:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/ChatGPT] 今、吸っているのは空気だと思う？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1xciw6c/you_think_thats_air_youre_breathing/</link>
+      <description>&lt;p&gt;&lt;strong&gt;今、吸っているのは空気だと思う？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Puzzleheaded-King584   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: You think that's air you're breathing?&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1xciw6c/you_think_thats_air_youre_breathing/</guid>
+      <pubDate>Thu, 22 Oct 2026 13:40:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/ChatGPT] ChatGPTのおかげで、これを作る方法を学びました</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1xcnxdh/chatgpt_taught_me_to_make_this/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ChatGPTのおかげで、これを作る方法を学びました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;そこで、3Dスキャン・モデリング・プリント、電動自転車の設計、回路設計・はんだ付け、溶接、材料工学、自転車の修理などを学びました。怒鳴り散らしたのは全体の10％程度で、爆発的な場面もごくわずかでした。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: ChatGPT taught me to make this&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1xcnxdh/chatgpt_taught_me_to_make_this/</guid>
+      <pubDate>Thu, 22 Oct 2026 16:50:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/ChatGPT] Claudeを使うとどんな感じか</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1xbvr3w/what_it_feels_like_to_use_claude/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Claudeを使うとどんな感じか&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/SinVerguenza04   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What it feels like to use Claude&lt;br&gt;ソース: r/ChatGPT&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPT/comments/1xbvr3w/what_it_feels_like_to_use_claude/</guid>
+      <pubDate>Wed, 21 Oct 2026 18:47:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
