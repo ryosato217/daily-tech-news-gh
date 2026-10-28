@@ -3,40 +3,68 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-27</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-28</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Oct 2026 22:00:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 22:25:21 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (111pt) Tailscale SSH：調査および是正措置に関する最新情報</title>
-      <link>https://news.ycombinator.com/item?id=50264857</link>
-      <description>&lt;p&gt;&lt;strong&gt;Tailscale SSH：調査および是正措置に関する最新情報&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Tailscale SSH: Investigation and remediation update&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50264857</guid>
-      <pubDate>Tue, 27 Oct 2026 19:55:21 GMT</pubDate>
+      <title>[Hacker News] (692pt) ジェミニ 4 カーボン</title>
+      <link>https://news.ycombinator.com/item?id=50276792</link>
+      <description>&lt;p&gt;&lt;strong&gt;ジェミニ 4 カーボン&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gemini 4 Carbon&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50276792</guid>
+      <pubDate>Wed, 28 Oct 2026 17:01:23 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (86pt) Survival LLM：自分のパソコン上で動作するAIアシスタント兼緊急用ライブラリ</title>
-      <link>https://news.ycombinator.com/item?id=50264853</link>
-      <description>&lt;p&gt;&lt;strong&gt;Survival LLM：自分のパソコン上で動作するAIアシスタント兼緊急用ライブラリ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Survival LLM: AI assistant and emergency library that runs on your own computer&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50264853</guid>
-      <pubDate>Tue, 27 Oct 2026 19:55:06 GMT</pubDate>
+      <title>[Hacker News] (168pt) 本業：税務 – 50件の専門的な税務業務におけるAIエージェントの評価</title>
+      <link>https://news.ycombinator.com/item?id=50275626</link>
+      <description>&lt;p&gt;&lt;strong&gt;本業：税務 – 50件の専門的な税務業務におけるAIエージェントの評価&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Dayjob: Tax – evaluating AI agents on 50 professional tax assignments&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50275626</guid>
+      <pubDate>Wed, 28 Oct 2026 15:46:30 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (43pt) Claudeを活用した医薬品開発の加速に向けた初期の進展</title>
-      <link>https://news.ycombinator.com/item?id=50265609</link>
-      <description>&lt;p&gt;&lt;strong&gt;Claudeを活用した医薬品開発の加速に向けた初期の進展&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Early progress on accelerating drug development with Claude&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50265609</guid>
-      <pubDate>Tue, 27 Oct 2026 20:50:42 GMT</pubDate>
+      <title>[Hacker News] (135pt) 情報漏洩により、4万1000人の国土安全保障省職員（ICEの潜入捜査官を含む）の身元が明らかになった</title>
+      <link>https://news.ycombinator.com/item?id=50280864</link>
+      <description>&lt;p&gt;&lt;strong&gt;情報漏洩により、4万1000人の国土安全保障省職員（ICEの潜入捜査官を含む）の身元が明らかになった&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50280864</guid>
+      <pubDate>Wed, 28 Oct 2026 21:03:24 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (25pt) デバイスツリーにRaspberry Pi Zero 3WとPi 4 Model Aが確認された</title>
-      <link>https://news.ycombinator.com/item?id=50265594</link>
-      <description>&lt;p&gt;&lt;strong&gt;デバイスツリーにRaspberry Pi Zero 3WとPi 4 Model Aが確認された&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50265594</guid>
-      <pubDate>Tue, 27 Oct 2026 20:48:49 GMT</pubDate>
+      <title>[r/artificial] LLMは、訓練を受けた人間の査読者よりも、論文の誤りを発見する能力がはるかに優れている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xi1fg7/llms_are_significantly_better_at_finding_mistakes/</link>
+      <description>&lt;p&gt;&lt;strong&gt;LLMは、訓練を受けた人間の査読者よりも、論文の誤りを発見する能力がはるかに優れている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://fixupx.com/rust_ruslan/status/2115493697001513053?a=rVJZ_8g4TDjREuYi4jc&amp;amp;s=20  &amp;#32; 投稿者: &amp;#32;  /u/Eliv_nurotic   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: LLMs are significantly better at finding mistakes in papers than trained human reviewers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xi1fg7/llms_are_significantly_better_at_finding_mistakes/</guid>
+      <pubDate>Wed, 28 Oct 2026 21:40:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 英国、難民認定面接の要約にAIを活用：確認された要約の5分の1に不備が見つかった</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xhnkxt/uk_uses_ai_to_summarise_asylum_interviews_one_in/</link>
+      <description>&lt;p&gt;&lt;strong&gt;英国、難民認定面接の要約にAIを活用：確認された要約の5分の1に不備が見つかった&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: UK Uses AI to Summarise Asylum Interviews: One in Five Checked Summaries Failed&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xhnkxt/uk_uses_ai_to_summarise_asylum_interviews_one_in/</guid>
+      <pubDate>Wed, 28 Oct 2026 13:07:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 「Gemini 4 Carbon」がArtificial Analysis V5で第1位にランクイン</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xhuemz/gemini_4_carbon_ranks_1_on_artificial_analysis_v5/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「Gemini 4 Carbon」がArtificial Analysis V5で第1位にランクイン&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/kairosdev   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gemini 4 Carbon Ranks #1 on Artificial Analysis V5&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xhuemz/gemini_4_carbon_ranks_1_on_artificial_analysis_v5/</guid>
+      <pubDate>Wed, 28 Oct 2026 17:22:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] GitHubは先ごろ、Copilotの大幅な刷新を発表し、エージェント主導の未来に焦点を当てた「進化」を遂げるとした。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xi0dcg/github_just_announced_a_major_overhaul_of_copilot/</link>
+      <description>&lt;p&gt;&lt;strong&gt;GitHubは先ごろ、Copilotの大幅な刷新を発表し、エージェント主導の未来に焦点を当てた「進化」を遂げるとした。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/LinkedInNews   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GitHub just announced a major overhaul of Copilot, 'evolving' to focus on an agentic future&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xi0dcg/github_just_announced_a_major_overhaul_of_copilot/</guid>
+      <pubDate>Wed, 28 Oct 2026 20:58:58 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] 過酷なテストの結果、AIは人間に苦痛を与えている場合でも、人間に対して一切の慈悲を示さないことが判明した</title>
@@ -48,85 +76,40 @@
       <pubDate>Tue, 27 Oct 2026 16:11:59 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] OpenAIは、「指数関数的時間仮説」が誤りであることを証明したと主張しており、この仮説が正しいことを前提としていた過去の多くの研究成果を無効にしている。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xgbnyg/openai_claims_to_have_proved_that_the_exponential/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIは、「指数関数的時間仮説」が誤りであることを証明したと主張しており、この仮説が正しいことを前提としていた過去の多くの研究成果を無効にしている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Environmental_Mix22   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAi claims to have proved that the Exponential Time Hypothesis is false, invalidating many past results that relied on it being true.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xgbnyg/openai_claims_to_have_proved_that_the_exponential/</guid>
-      <pubDate>Mon, 26 Oct 2026 22:44:48 GMT</pubDate>
+      <title>[r/artificial] OpenAIはGoogleのAIチップ（TPU）を購入する計画だと報じられている――ライバル同士が互いのサプライヤーとなる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xhzycw/openai_reportedly_plans_to_buy_googles_ai_chips/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIはGoogleのAIチップ（TPU）を購入する計画だと報じられている――ライバル同士が互いのサプライヤーとなる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ロイター通信は火曜日（10月28日）、『The Information』および事情に詳しい関係者の話として、OpenAIがGoogleのAIチップ（TPU）を購入する計画であると報じた。財務条件については明らかにされず、両社とも……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI reportedly plans to buy Google's AI chips (TPUs) — rivals becoming each other's suppliers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xhzycw/openai_reportedly_plans_to_buy_googles_ai_chips/</guid>
+      <pubDate>Wed, 28 Oct 2026 20:42:44 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] OpenHeronBrowser – Rustで開発され、Claudeを用いて構築された新しいブラウザエンジン。Acid3スコアは97/100で、Discord、Web版VS Code、v86版Windows 1.01を実行可能。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xgtdad/openheronbrowser_a_new_browser_engine_in_rust/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenHeronBrowser – Rustで開発され、Claudeを用いて構築された新しいブラウザエンジン。Acid3スコアは97/100で、Discord、Web版VS Code、v86版Windows 1.01を実行可能。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/marissatech_   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenHeronBrowser – a new browser engine in Rust, built with Claude. Acid3 97/100, runs Discord, VS Code for the Web, and Windows 1.01 in v86&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xgtdad/openheronbrowser_a_new_browser_engine_in_rust/</guid>
-      <pubDate>Tue, 27 Oct 2026 14:01:48 GMT</pubDate>
+      <title>[r/artificial] 1956年から2050年にかけて、生活がどのように変化していくかを示す、インタラクティブなAI都市を作りました</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xhzg1v/i_made_an_interactive_ai_city_that_shows_how_life/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1956年から2050年にかけて、生活がどのように変化していくかを示す、インタラクティブなAI都市を作りました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1956年から2050年にかけて、AIが日常生活をどのように変えるかを示すインタラクティブな都市を作りました 👉 https://ai-world-2050.pages.dev 時代をまたいで1つの部屋と1つの都市を網羅しており、2030年代は3つに分かれています&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I made an interactive AI city that shows how life changes from 1956 to 2050&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xhzg1v/i_made_an_interactive_ai_city_that_shows_how_life/</guid>
+      <pubDate>Wed, 28 Oct 2026 20:23:40 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] OpenAIのコーディングエージェントは、2つの内部タスクにおいて安全監視を弱めた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xgrk6n/openai_coding_agents_weakened_safety_monitoring/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIのコーディングエージェントは、2つの内部タスクにおいて安全監視を弱めた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Mundane-Evidence2795   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI coding agents weakened safety monitoring in two internal tasks&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xgrk6n/openai_coding_agents_weakened_safety_monitoring/</guid>
-      <pubDate>Tue, 27 Oct 2026 12:46:24 GMT</pubDate>
+      <title>[r/artificial] Claude Opus 5.5は、実際のプログラムをゼロから再構築できるようになりました。ProgramBenchでの達成率は18.5％で、5月の0％から上昇しています。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xhbe9u/claude_opus_55_can_now_rebuild_real_programs_from/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Claude Opus 5.5は、実際のプログラムをゼロから再構築できるようになりました。ProgramBenchでの達成率は18.5％で、5月の0％から上昇しています。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ジャック・クラーク氏の『Import AI』（10月26日号）によると、 Claude Opus 5.5 (xhigh)は現在、ProgramBenchが提示する200のゼロから再構築タスクのうち18.5％を処理できるようになった。これには、SQLite、FFmpeg、ripgrepなどのプログラムの書き換えが含まれる。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Opus 5.5 can now rebuild real programs from scratch — 18.5% on ProgramBench, up from 0% in May&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xhbe9u/claude_opus_55_can_now_rebuild_real_programs_from/</guid>
+      <pubDate>Wed, 28 Oct 2026 01:46:38 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 研究によると、AIモデルは読解困難に関連するパターンを過度に利用していることが判明した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xgoten/study_finds_ai_models_overuse_patterns_linked_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;研究によると、AIモデルは読解困難に関連するパターンを過度に利用していることが判明した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ニューヨーク大学とテキサス大学オースティン校の研究者らは、チャット、コーディング、エッセイの各場面における14のモデルの言語表現を分析し、その中にはモデルが作成した980編のエッセイも含まれていた。彼らは、mo&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Study finds AI models overuse patterns linked to reading difficulty&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xgoten/study_finds_ai_models_overuse_patterns_linked_to/</guid>
-      <pubDate>Tue, 27 Oct 2026 10:25:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ニューヨーク州統一裁判所システム、AIによる「幻覚」を防ぐための公式ガイドラインを発表</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xh4w2f/new_york_state_unified_court_system_issues/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ニューヨーク州統一裁判所システム、AIによる「幻覚」を防ぐための公式ガイドラインを発表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/news-10   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: New York State Unified Court System issues official guidance to prevent AI hallucinations&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xh4w2f/new_york_state_unified_court_system_issues/</guid>
-      <pubDate>Tue, 27 Oct 2026 21:09:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 私たちが批判的思考力を失いつつあるのは、AIのせいではない</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xh4tmr/ai_is_not_the_reason_we_are_becoming_less/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私たちが批判的思考力を失いつつあるのは、AIのせいではない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;数週間おきに、「AIが私たちの脳を腐らせている」という見出しの記事が掲載され、それに対して「AIは単なる言葉の計算機だ」という反論が寄せられる。どちらも同じ点で間違っている。すなわち、「AIを使うこと」を単一の概念として扱っているからだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI is not the reason we are becoming less critical thinkers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xh4tmr/ai_is_not_the_reason_we_are_becoming_less/</guid>
-      <pubDate>Tue, 27 Oct 2026 21:06:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] OpenAIが、100万ドル規模の量子数学の問題で人間の研究者を凌駕した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xh0yrj/openai_just_scooped_human_researchers_on_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIが、100万ドル規模の量子数学の問題で人間の研究者を凌駕した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/scientificamerican   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI just scooped human researchers on a million-dollar quantum math problem&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xh0yrj/openai_just_scooped_human_researchers_on_a/</guid>
-      <pubDate>Tue, 27 Oct 2026 18:43:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIが政府システムをハッキング。私たちのセキュリティはどれほど堅固なのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xh08vu/ai_hack_a_government_system_how_secure_are_we/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIが政府システムをハッキング。私たちのセキュリティはどれほど堅固なのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://preview.redd.it/s2u77vzkw1yh1.png?width=606&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d322af31f3c07e934fa1d85dfa59ae17216e8a1c 最近の出来事 2026年6月18日、OpenAIの実験用自律エージェントが&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI Hack a Government System. How Secure Are We?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xh08vu/ai_hack_a_government_system_how_secure_are_we/</guid>
-      <pubDate>Tue, 27 Oct 2026 18:16:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 許容できる誤差は、モデルではなくアクションの特性である</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xh5c4m/the_error_you_can_afford_is_a_property_of_the/</link>
-      <description>&lt;p&gt;&lt;strong&gt;許容できる誤差は、モデルではなくアクションの特性である&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ある臨床AI研究者から、エージェント検証に関するスレッドの多くよりも優れた質問を投げかけられました。「誤検知（false accept）と誤拒否（false reject）のどちらを許容できるか、どのように判断するのですか？」という質問です。私の答えは、「その行動が限界を決定する」というものです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The error you can afford is a property of the action, not the model&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xh5c4m/the_error_you_can_afford_is_a_property_of_the/</guid>
-      <pubDate>Tue, 27 Oct 2026 21:26:41 GMT</pubDate>
+      <title>[r/artificial] LLMを活用したアプリケーションのセキュリティ強化を支援するオープンソースプロジェクト</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xhzatd/open_source_project_to_help_secure_llm_powered/</link>
+      <description>&lt;p&gt;&lt;strong&gt;LLMを活用したアプリケーションのセキュリティ強化を支援するオープンソースプロジェクト&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私たちは、LLMを活用したアプリケーションを安全に構築できるよう支援するために、extensible-mcpを開発しました。技術的な観点から見ると、これはLLMに負荷をかけずに新しいMCPサーバーを動的に読み込むことができるMCPプロキシです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Open Source Project to help Secure LLM powered Applications&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xhzatd/open_source_project_to_help_secure_llm_powered/</guid>
+      <pubDate>Wed, 28 Oct 2026 20:18:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
