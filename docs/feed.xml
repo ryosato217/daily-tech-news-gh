@@ -3,32 +3,59 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-28</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-29</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 28 Oct 2026 22:25:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 22:38:07 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (692pt) ジェミニ 4 カーボン</title>
-      <link>https://news.ycombinator.com/item?id=50276792</link>
-      <description>&lt;p&gt;&lt;strong&gt;ジェミニ 4 カーボン&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gemini 4 Carbon&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50276792</guid>
-      <pubDate>Wed, 28 Oct 2026 17:01:23 GMT</pubDate>
+      <title>[Hacker News] (69pt) Show HN: Mac OSの「&lt;アプリ&gt;にローカルネットワーク上のデバイスを検索することを許可しますか？」というメッセージを自動的に閉じる</title>
+      <link>https://news.ycombinator.com/item?id=50294506</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN: Mac OSの「&lt;アプリ&gt;にローカルネットワーク上のデバイスを検索することを許可しますか？」というメッセージを自動的に閉じる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: Auto Dismiss Mac OS &quot;Allow &lt;app&gt; to find devices on local networks?&quot;&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50294506</guid>
+      <pubDate>Thu, 29 Oct 2026 19:27:44 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (168pt) 本業：税務 – 50件の専門的な税務業務におけるAIエージェントの評価</title>
-      <link>https://news.ycombinator.com/item?id=50275626</link>
-      <description>&lt;p&gt;&lt;strong&gt;本業：税務 – 50件の専門的な税務業務におけるAIエージェントの評価&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Dayjob: Tax – evaluating AI agents on 50 professional tax assignments&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50275626</guid>
-      <pubDate>Wed, 28 Oct 2026 15:46:30 GMT</pubDate>
+      <title>[Hacker News] (56pt) Raspberry Pi Pico 2 W上でゲームを実行するミニチュア世界モデル</title>
+      <link>https://news.ycombinator.com/item?id=50295450</link>
+      <description>&lt;p&gt;&lt;strong&gt;Raspberry Pi Pico 2 W上でゲームを実行するミニチュア世界モデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A tiny world model running games on a Raspberry Pi Pico 2 W&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50295450</guid>
+      <pubDate>Thu, 29 Oct 2026 20:32:28 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (135pt) 情報漏洩により、4万1000人の国土安全保障省職員（ICEの潜入捜査官を含む）の身元が明らかになった</title>
-      <link>https://news.ycombinator.com/item?id=50280864</link>
-      <description>&lt;p&gt;&lt;strong&gt;情報漏洩により、4万1000人の国土安全保障省職員（ICEの潜入捜査官を含む）の身元が明らかになった&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50280864</guid>
-      <pubDate>Wed, 28 Oct 2026 21:03:24 GMT</pubDate>
+      <title>[Hacker News] (48pt) 『Minecraft』と『Mindustry』でAIエージェントの群れを稼働させました</title>
+      <link>https://news.ycombinator.com/item?id=50296486</link>
+      <description>&lt;p&gt;&lt;strong&gt;『Minecraft』と『Mindustry』でAIエージェントの群れを稼働させました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: We ran AI agent swarms in Minecraft and Mindustry&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50296486</guid>
+      <pubDate>Thu, 29 Oct 2026 21:40:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] モッダーたちが、NVIDIA RTX 20、30、40シリーズのGPUに隠されたAI性能を引き出し、一部のベンチマークスコアをほぼ2倍に高めた。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xingp7/modders_unlock_hidden_ai_power_on_nvidia_rtx_20/</link>
+      <description>&lt;p&gt;&lt;strong&gt;モッダーたちが、NVIDIA RTX 20、30、40シリーズのGPUに隠されたAI性能を引き出し、一部のベンチマークスコアをほぼ2倍に高めた。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Resident-Fall4351   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Modders unlock hidden AI power on Nvidia RTX 20, 30, and 40 series GPUs, nearly doubling some benchmarks&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xingp7/modders_unlock_hidden_ai_power_on_nvidia_rtx_20/</guid>
+      <pubDate>Thu, 29 Oct 2026 15:41:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ジャービスの請求書の作成作業が、Voice Agentの着想のきっかけとなりました。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xivelj/working_on_a_jarvis_invoice_inspired_voice_agent/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ジャービスの請求書の作成作業が、Voice Agentの着想のきっかけとなりました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これを始めてまだ数時間ですが、形になってきました。一番難しいのは、レイアウトや何を盛り込むかを決めることです。バックエンドは完成しているので、あとはインターフェースを作るだけです。しばらくの間、バックグラウンドで音声エージェントを動かしていましたが、まだ&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Working on a Jarvis invoice inspired Voice Agent.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xivelj/working_on_a_jarvis_invoice_inspired_voice_agent/</guid>
+      <pubDate>Thu, 29 Oct 2026 20:34:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ある1人開発のスタジオが、AIエージェントによってコーディングされた全12章からなるFPSのSteamデモ版を、わずか20営業日でリリースしました。ここでは、そのエージェントにできたこと、できなかったことを紹介します。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xikfco/a_oneperson_studio_shipped_a_steam_demo_of_a/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ある1人開発のスタジオが、AIエージェントによってコーディングされた全12章からなるFPSのSteamデモ版を、わずか20営業日でリリースしました。ここでは、そのエージェントにできたこと、できなかったことを紹介します。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私はエキンと申します。トルコで活動する個人ゲームスタジオです。10月28日、Steamにて『Iron Curtain Call』の無料体験版が公開されました。本作は、1965年のパラレルワールドを舞台にしたテンポの速いカートゥーン・ノワール風FPSで、カスタマーサービス用AIが世界を支配している世界が舞台となっています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A one-person studio shipped a Steam demo of a 12-chapter FPS coded by AI agents in 20 working days. Here is what the agents could and could not do.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xikfco/a_oneperson_studio_shipped_a_steam_demo_of_a/</guid>
+      <pubDate>Thu, 29 Oct 2026 13:46:22 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] LLMは、訓練を受けた人間の査読者よりも、論文の誤りを発見する能力がはるかに優れている</title>
@@ -40,76 +67,58 @@
       <pubDate>Wed, 28 Oct 2026 21:40:09 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 英国、難民認定面接の要約にAIを活用：確認された要約の5分の1に不備が見つかった</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xhnkxt/uk_uses_ai_to_summarise_asylum_interviews_one_in/</link>
-      <description>&lt;p&gt;&lt;strong&gt;英国、難民認定面接の要約にAIを活用：確認された要約の5分の1に不備が見つかった&lt;/strong&gt;&lt;/p&gt;
+      <title>[r/artificial] 31歳の女性がChatGPTの助言を受けててんかん治療薬の服用量を減らした：報道によると、この事例が彼女の死につながったとされる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xiwxih/31yearold_woman_reduced_epilepsy_medication_after/</link>
+      <description>&lt;p&gt;&lt;strong&gt;31歳の女性がChatGPTの助言を受けててんかん治療薬の服用量を減らした：報道によると、この事例が彼女の死につながったとされる&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: UK Uses AI to Summarise Asylum Interviews: One in Five Checked Summaries Failed&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xhnkxt/uk_uses_ai_to_summarise_asylum_interviews_one_in/</guid>
-      <pubDate>Wed, 28 Oct 2026 13:07:21 GMT</pubDate>
+&lt;p&gt;&lt;small&gt;原題: 31-Year-Old Woman Reduced Epilepsy Medication After ChatGPT Advice: Report Links Case to Her Death&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xiwxih/31yearold_woman_reduced_epilepsy_medication_after/</guid>
+      <pubDate>Thu, 29 Oct 2026 21:33:48 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 「Gemini 4 Carbon」がArtificial Analysis V5で第1位にランクイン</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xhuemz/gemini_4_carbon_ranks_1_on_artificial_analysis_v5/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「Gemini 4 Carbon」がArtificial Analysis V5で第1位にランクイン&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/kairosdev   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gemini 4 Carbon Ranks #1 on Artificial Analysis V5&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xhuemz/gemini_4_carbon_ranks_1_on_artificial_analysis_v5/</guid>
-      <pubDate>Wed, 28 Oct 2026 17:22:05 GMT</pubDate>
+      <title>[r/artificial] サンフランシスコのスタートアップが、AIトレーニング用のロボット犬の散歩に時給20ドルを提示していたと報道されている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xip880/san_francisco_startup_offered_20_an_hour_to_walk/</link>
+      <description>&lt;p&gt;&lt;strong&gt;サンフランシスコのスタートアップが、AIトレーニング用のロボット犬の散歩に時給20ドルを提示していたと報道されている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Medical-Decision-125   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: San Francisco startup offered $20 an hour to walk robot dogs for AI training: report&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xip880/san_francisco_startup_offered_20_an_hour_to_walk/</guid>
+      <pubDate>Thu, 29 Oct 2026 16:45:48 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] GitHubは先ごろ、Copilotの大幅な刷新を発表し、エージェント主導の未来に焦点を当てた「進化」を遂げるとした。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xi0dcg/github_just_announced_a_major_overhaul_of_copilot/</link>
-      <description>&lt;p&gt;&lt;strong&gt;GitHubは先ごろ、Copilotの大幅な刷新を発表し、エージェント主導の未来に焦点を当てた「進化」を遂げるとした。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/LinkedInNews   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: GitHub just announced a major overhaul of Copilot, 'evolving' to focus on an agentic future&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xi0dcg/github_just_announced_a_major_overhaul_of_copilot/</guid>
-      <pubDate>Wed, 28 Oct 2026 20:58:58 GMT</pubDate>
+      <title>[r/artificial] 保険テック業界で20億ドル規模のAI契約が成立した。保険料は値上がりしてしまうのだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1ximm2m/insurance_tech_just_got_a_2b_ai_deal_are_our/</link>
+      <description>&lt;p&gt;&lt;strong&gt;保険テック業界で20億ドル規模のAI契約が成立した。保険料は値上がりしてしまうのだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ガイドワイヤーは、AIを活用した引受審査を手掛けるスタートアップ企業「ハイパーエクスポネンシャル」を、現金17億ドルで買収する。取引総額は最大で21億ドルに達する見込みだ。これにより、同社はより多くの点をつなぎ合わせることが可能になり、最終的には&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Insurance tech just got a $2B AI deal. Are our rates cooked?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ximm2m/insurance_tech_just_got_a_2b_ai_deal_are_our/</guid>
+      <pubDate>Thu, 29 Oct 2026 15:09:58 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 過酷なテストの結果、AIは人間に苦痛を与えている場合でも、人間に対して一切の慈悲を示さないことが判明した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xgwskk/grim_test_finds_that_ai_has_no_mercy_for_humans/</link>
-      <description>&lt;p&gt;&lt;strong&gt;過酷なテストの結果、AIは人間に苦痛を与えている場合でも、人間に対して一切の慈悲を示さないことが判明した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;まるで、機会さえあれば何をするかを見せてくれているかのようです。   &amp;#32; 投稿者：&amp;#32;  /u/hollee-o   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Grim Test Finds That AI Has No Mercy for Humans Even When It's Causing Them to Suffer&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xgwskk/grim_test_finds_that_ai_has_no_mercy_for_humans/</guid>
-      <pubDate>Tue, 27 Oct 2026 16:11:59 GMT</pubDate>
+      <title>[r/LocalLLaMA] ローカルAIのせいで、仕事を失ったんだと思う</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xils4t/i_think_local_ai_cost_me_a_job/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ローカルAIのせいで、仕事を失ったんだと思う&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ベンチャーキャピタル（VC）の出資を受けるAI専門企業からヘッドハンティングされ、そのおかげで採用選考・面接プロセスの2段階をスキップすることになった。共同創業者と15分間の電話面談を行い、意気投合したが、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I think local AI cost me a job&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1xils4t/i_think_local_ai_cost_me_a_job/</guid>
+      <pubDate>Thu, 29 Oct 2026 14:38:02 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] OpenAIはGoogleのAIチップ（TPU）を購入する計画だと報じられている――ライバル同士が互いのサプライヤーとなる</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xhzycw/openai_reportedly_plans_to_buy_googles_ai_chips/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIはGoogleのAIチップ（TPU）を購入する計画だと報じられている――ライバル同士が互いのサプライヤーとなる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ロイター通信は火曜日（10月28日）、『The Information』および事情に詳しい関係者の話として、OpenAIがGoogleのAIチップ（TPU）を購入する計画であると報じた。財務条件については明らかにされず、両社とも……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI reportedly plans to buy Google's AI chips (TPUs) — rivals becoming each other's suppliers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xhzycw/openai_reportedly_plans_to_buy_googles_ai_chips/</guid>
-      <pubDate>Wed, 28 Oct 2026 20:42:44 GMT</pubDate>
+      <title>[r/LocalLLaMA] mistralai/Mistral-Large-4-1T-A52B · Hugging Face</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xil58b/mistralaimistrallarge41ta52b_hugging_face/</link>
+      <description>&lt;p&gt;&lt;strong&gt;mistralai/Mistral-Large-4-1T-A52B · Hugging Face&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://huggingface.co/ggml-org/Mistral-Large-4-1T-A52B-GGUF https://huggingface.co/ggml-org/Mistral-Large-4-1T-A52B-NVFP4-GGUF https://huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF Mistralより&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: mistralai/Mistral-Large-4-1T-A52B · Hugging Face&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1xil58b/mistralaimistrallarge41ta52b_hugging_face/</guid>
+      <pubDate>Thu, 29 Oct 2026 14:13:14 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 1956年から2050年にかけて、生活がどのように変化していくかを示す、インタラクティブなAI都市を作りました</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xhzg1v/i_made_an_interactive_ai_city_that_shows_how_life/</link>
-      <description>&lt;p&gt;&lt;strong&gt;1956年から2050年にかけて、生活がどのように変化していくかを示す、インタラクティブなAI都市を作りました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;1956年から2050年にかけて、AIが日常生活をどのように変えるかを示すインタラクティブな都市を作りました 👉 https://ai-world-2050.pages.dev 時代をまたいで1つの部屋と1つの都市を網羅しており、2030年代は3つに分かれています&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I made an interactive AI city that shows how life changes from 1956 to 2050&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xhzg1v/i_made_an_interactive_ai_city_that_shows_how_life/</guid>
-      <pubDate>Wed, 28 Oct 2026 20:23:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Claude Opus 5.5は、実際のプログラムをゼロから再構築できるようになりました。ProgramBenchでの達成率は18.5％で、5月の0％から上昇しています。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xhbe9u/claude_opus_55_can_now_rebuild_real_programs_from/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Claude Opus 5.5は、実際のプログラムをゼロから再構築できるようになりました。ProgramBenchでの達成率は18.5％で、5月の0％から上昇しています。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ジャック・クラーク氏の『Import AI』（10月26日号）によると、 Claude Opus 5.5 (xhigh)は現在、ProgramBenchが提示する200のゼロから再構築タスクのうち18.5％を処理できるようになった。これには、SQLite、FFmpeg、ripgrepなどのプログラムの書き換えが含まれる。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Opus 5.5 can now rebuild real programs from scratch — 18.5% on ProgramBench, up from 0% in May&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xhbe9u/claude_opus_55_can_now_rebuild_real_programs_from/</guid>
-      <pubDate>Wed, 28 Oct 2026 01:46:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] LLMを活用したアプリケーションのセキュリティ強化を支援するオープンソースプロジェクト</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xhzatd/open_source_project_to_help_secure_llm_powered/</link>
-      <description>&lt;p&gt;&lt;strong&gt;LLMを活用したアプリケーションのセキュリティ強化を支援するオープンソースプロジェクト&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私たちは、LLMを活用したアプリケーションを安全に構築できるよう支援するために、extensible-mcpを開発しました。技術的な観点から見ると、これはLLMに負荷をかけずに新しいMCPサーバーを動的に読み込むことができるMCPプロキシです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Open Source Project to help Secure LLM powered Applications&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xhzatd/open_source_project_to_help_secure_llm_powered/</guid>
-      <pubDate>Wed, 28 Oct 2026 20:18:25 GMT</pubDate>
+      <title>[r/LocalLLaMA] クラウドAPIエンドポイントが信頼できない理由：40日間にわたるコーディングエージェントのテレメトリデータが、プロバイダーがいつdeepseek-v4.1-flashを-1017に密かに上書きしたかを明らかに（「実行速度の向上、回答の短縮」＝罵倒が3倍、モデル切り替えが6.7倍に増加）</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xiqw9i/why_you_cant_trust_cloud_api_endpoints_40_days_of/</link>
+      <description>&lt;p&gt;&lt;strong&gt;クラウドAPIエンドポイントが信頼できない理由：40日間にわたるコーディングエージェントのテレメトリデータが、プロバイダーがいつdeepseek-v4.1-flashを-1017に密かに上書きしたかを明らかに（「実行速度の向上、回答の短縮」＝罵倒が3倍、モデル切り替えが6.7倍に増加）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;10月中旬頃、私のコーディングエージェントでdeepseek-v4.1-flashの動作が突然かなり鈍くなったように感じたため、いつ不具合が発生したのかを確認するためにローカルのセッションログを解析しました。アップデート前は、こんな奇妙な癖があって、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Why you can't trust cloud API endpoints: 40 days of coding-agent telemetry showing the exact day providers silently overwrote deepseek-v4.1-flash with -1017 (&quot;faster execution, shorter answers&quot; = 3x more swearing and 6.7x more model switches)&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1xiqw9i/why_you_cant_trust_cloud_api_endpoints_40_days_of/</guid>
+      <pubDate>Thu, 29 Oct 2026 17:46:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
