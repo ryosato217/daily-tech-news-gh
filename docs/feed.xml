@@ -3,122 +3,96 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-29</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-30</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Oct 2026 22:38:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 22:07:21 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (69pt) Show HN: Mac OSの「&lt;アプリ&gt;にローカルネットワーク上のデバイスを検索することを許可しますか？」というメッセージを自動的に閉じる</title>
-      <link>https://news.ycombinator.com/item?id=50294506</link>
-      <description>&lt;p&gt;&lt;strong&gt;Show HN: Mac OSの「&lt;アプリ&gt;にローカルネットワーク上のデバイスを検索することを許可しますか？」というメッセージを自動的に閉じる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: Auto Dismiss Mac OS &quot;Allow &lt;app&gt; to find devices on local networks?&quot;&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50294506</guid>
-      <pubDate>Thu, 29 Oct 2026 19:27:44 GMT</pubDate>
+      <title>[Hacker News] (677pt) Cursor MarketplaceのVS Code拡張機能「Claude Code」にバックドアが発見された</title>
+      <link>https://news.ycombinator.com/item?id=50300683</link>
+      <description>&lt;p&gt;&lt;strong&gt;Cursor MarketplaceのVS Code拡張機能「Claude Code」にバックドアが発見された&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Backdoor in Claude Code for VS Code extension on the Cursor Marketplace&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50300683</guid>
+      <pubDate>Fri, 30 Oct 2026 07:09:12 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (56pt) Raspberry Pi Pico 2 W上でゲームを実行するミニチュア世界モデル</title>
-      <link>https://news.ycombinator.com/item?id=50295450</link>
-      <description>&lt;p&gt;&lt;strong&gt;Raspberry Pi Pico 2 W上でゲームを実行するミニチュア世界モデル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A tiny world model running games on a Raspberry Pi Pico 2 W&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50295450</guid>
-      <pubDate>Thu, 29 Oct 2026 20:32:28 GMT</pubDate>
+      <title>[Hacker News] (136pt) オープンウェブを封じ込めたところで、悪質なボットを阻止することはできない</title>
+      <link>https://news.ycombinator.com/item?id=50263837</link>
+      <description>&lt;p&gt;&lt;strong&gt;オープンウェブを封じ込めたところで、悪質なボットを阻止することはできない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Breaking the open web won't stop the bad bots&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50263837</guid>
+      <pubDate>Tue, 27 Oct 2026 18:42:55 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (48pt) 『Minecraft』と『Mindustry』でAIエージェントの群れを稼働させました</title>
-      <link>https://news.ycombinator.com/item?id=50296486</link>
-      <description>&lt;p&gt;&lt;strong&gt;『Minecraft』と『Mindustry』でAIエージェントの群れを稼働させました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: We ran AI agent swarms in Minecraft and Mindustry&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50296486</guid>
-      <pubDate>Thu, 29 Oct 2026 21:40:28 GMT</pubDate>
+      <title>[r/artificial] AIブームへの懸念が強まる中、ハイテク株の時価総額は1兆ドル以上も吹き飛ぶ見通し</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xjiczy/tech_stocks_set_to_wipe_out_more_than_1_trillion/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIブームへの懸念が強まる中、ハイテク株の時価総額は1兆ドル以上も吹き飛ぶ見通し&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/return2ozma   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Tech stocks set to wipe out more than $1 trillion as concerns deepen about the AI boom&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xjiczy/tech_stocks_set_to_wipe_out_more_than_1_trillion/</guid>
+      <pubDate>Fri, 30 Oct 2026 15:25:41 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] モッダーたちが、NVIDIA RTX 20、30、40シリーズのGPUに隠されたAI性能を引き出し、一部のベンチマークスコアをほぼ2倍に高めた。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xingp7/modders_unlock_hidden_ai_power_on_nvidia_rtx_20/</link>
-      <description>&lt;p&gt;&lt;strong&gt;モッダーたちが、NVIDIA RTX 20、30、40シリーズのGPUに隠されたAI性能を引き出し、一部のベンチマークスコアをほぼ2倍に高めた。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Resident-Fall4351   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Modders unlock hidden AI power on Nvidia RTX 20, 30, and 40 series GPUs, nearly doubling some benchmarks&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xingp7/modders_unlock_hidden_ai_power_on_nvidia_rtx_20/</guid>
-      <pubDate>Thu, 29 Oct 2026 15:41:37 GMT</pubDate>
+      <title>[r/artificial] OpenAIとAnthropicは、AIがコンピュータサイエンスの27年間にわたる定説を打ち破ったと主張している</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xjqc40/ai_cracks_a_27yearold_pillar_of_computer_science/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIとAnthropicは、AIがコンピュータサイエンスの27年間にわたる定説を打ち破ったと主張している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Fcking_Chuck   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xjqc40/ai_cracks_a_27yearold_pillar_of_computer_science/</guid>
+      <pubDate>Fri, 30 Oct 2026 20:23:31 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ジャービスの請求書の作成作業が、Voice Agentの着想のきっかけとなりました。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xivelj/working_on_a_jarvis_invoice_inspired_voice_agent/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ジャービスの請求書の作成作業が、Voice Agentの着想のきっかけとなりました。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;これを始めてまだ数時間ですが、形になってきました。一番難しいのは、レイアウトや何を盛り込むかを決めることです。バックエンドは完成しているので、あとはインターフェースを作るだけです。しばらくの間、バックグラウンドで音声エージェントを動かしていましたが、まだ&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Working on a Jarvis invoice inspired Voice Agent.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xivelj/working_on_a_jarvis_invoice_inspired_voice_agent/</guid>
-      <pubDate>Thu, 29 Oct 2026 20:34:15 GMT</pubDate>
+      <title>[r/artificial] MITが「AIパイロットの95％が失敗する」と主張しているが、これは本当なのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xjmtot/mits_claim_that_95_of_ai_pilots_fail_is_this_true/</link>
+      <description>&lt;p&gt;&lt;strong&gt;MITが「AIパイロットの95％が失敗する」と主張しているが、これは本当なのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/killboy123   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: MIT's claim that 95% of AI pilots fail - Is this true?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xjmtot/mits_claim_that_95_of_ai_pilots_fail_is_this_true/</guid>
+      <pubDate>Fri, 30 Oct 2026 18:10:03 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ある1人開発のスタジオが、AIエージェントによってコーディングされた全12章からなるFPSのSteamデモ版を、わずか20営業日でリリースしました。ここでは、そのエージェントにできたこと、できなかったことを紹介します。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xikfco/a_oneperson_studio_shipped_a_steam_demo_of_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ある1人開発のスタジオが、AIエージェントによってコーディングされた全12章からなるFPSのSteamデモ版を、わずか20営業日でリリースしました。ここでは、そのエージェントにできたこと、できなかったことを紹介します。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私はエキンと申します。トルコで活動する個人ゲームスタジオです。10月28日、Steamにて『Iron Curtain Call』の無料体験版が公開されました。本作は、1965年のパラレルワールドを舞台にしたテンポの速いカートゥーン・ノワール風FPSで、カスタマーサービス用AIが世界を支配している世界が舞台となっています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A one-person studio shipped a Steam demo of a 12-chapter FPS coded by AI agents in 20 working days. Here is what the agents could and could not do.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xikfco/a_oneperson_studio_shipped_a_steam_demo_of_a/</guid>
-      <pubDate>Thu, 29 Oct 2026 13:46:22 GMT</pubDate>
+      <title>[r/artificial] なぜ、AIのインターフェースはどれもまだ単なるテキストボックスなのだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xjgy47/why_is_every_ai_interface_still_just_a_text_box/</link>
+      <description>&lt;p&gt;&lt;strong&gt;なぜ、AIのインターフェースはどれもまだ単なるテキストボックスなのだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;柔軟で使いやすいというのは理解できますが、無秩序に積み重なった「チャット」と空のテキストボックスが、一般の人々が消費者向けAIとやり取りするための最善の方法と言えるのでしょうか？こうした機能を使えば、カスタムU&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Why is every AI interface still just a text box?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xjgy47/why_is_every_ai_interface_still_just_a_text_box/</guid>
+      <pubDate>Fri, 30 Oct 2026 14:30:55 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] LLMは、訓練を受けた人間の査読者よりも、論文の誤りを発見する能力がはるかに優れている</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xi1fg7/llms_are_significantly_better_at_finding_mistakes/</link>
-      <description>&lt;p&gt;&lt;strong&gt;LLMは、訓練を受けた人間の査読者よりも、論文の誤りを発見する能力がはるかに優れている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://fixupx.com/rust_ruslan/status/2115493697001513053?a=rVJZ_8g4TDjREuYi4jc&amp;amp;s=20  &amp;#32; 投稿者: &amp;#32;  /u/Eliv_nurotic   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: LLMs are significantly better at finding mistakes in papers than trained human reviewers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xi1fg7/llms_are_significantly_better_at_finding_mistakes/</guid>
-      <pubDate>Wed, 28 Oct 2026 21:40:09 GMT</pubDate>
+      <title>[r/artificial] ジェミニには何が起きたのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xjp9ah/what_happened_with_gemini/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ジェミニには何が起きたのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私はAIの初心者ですが、法律や医療に関する手続きでGeminiを利用しています。これまでのところ、100％正確というわけではありませんが、概ね役に立っており、時間を大幅に節約できています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: What Happened With Gemini?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xjp9ah/what_happened_with_gemini/</guid>
+      <pubDate>Fri, 30 Oct 2026 19:42:42 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 31歳の女性がChatGPTの助言を受けててんかん治療薬の服用量を減らした：報道によると、この事例が彼女の死につながったとされる</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xiwxih/31yearold_woman_reduced_epilepsy_medication_after/</link>
-      <description>&lt;p&gt;&lt;strong&gt;31歳の女性がChatGPTの助言を受けててんかん治療薬の服用量を減らした：報道によると、この事例が彼女の死につながったとされる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 31-Year-Old Woman Reduced Epilepsy Medication After ChatGPT Advice: Report Links Case to Her Death&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xiwxih/31yearold_woman_reduced_epilepsy_medication_after/</guid>
-      <pubDate>Thu, 29 Oct 2026 21:33:48 GMT</pubDate>
+      <title>[r/artificial] AIの使い方を教える月額49ドルのコースのGoogle広告をちょうど見かけました。その広告のスクリーンショットを撮って、GeminiとMuseに入力してみたところ、なんと完全無料のコースが出来上がりました！どうぞご自由にお使いください！</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xjafjr/just_saw_a_google_ad_for_a_course_that_charges_49/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIの使い方を教える月額49ドルのコースのGoogle広告をちょうど見かけました。その広告のスクリーンショットを撮って、GeminiとMuseに入力してみたところ、なんと完全無料のコースが出来上がりました！どうぞご自由にお使いください！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;説明が自動的に表示されるツールの使い方を教えるのに、お金を請求するなんて、まったく馬鹿げた考えだ。   &amp;#32; 投稿者：&amp;#32;  /u/UREveryone   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Just saw a google ad for a course that charges $49 a month to teach you how to use AI. I screnshot the ad, fed it into Gemini and Muse and heres a full course for free! Have at it!&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xjafjr/just_saw_a_google_ad_for_a_course_that_charges_49/</guid>
+      <pubDate>Fri, 30 Oct 2026 09:10:29 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] サンフランシスコのスタートアップが、AIトレーニング用のロボット犬の散歩に時給20ドルを提示していたと報道されている</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xip880/san_francisco_startup_offered_20_an_hour_to_walk/</link>
-      <description>&lt;p&gt;&lt;strong&gt;サンフランシスコのスタートアップが、AIトレーニング用のロボット犬の散歩に時給20ドルを提示していたと報道されている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Medical-Decision-125   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: San Francisco startup offered $20 an hour to walk robot dogs for AI training: report&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xip880/san_francisco_startup_offered_20_an_hour_to_walk/</guid>
-      <pubDate>Thu, 29 Oct 2026 16:45:48 GMT</pubDate>
+      <title>[r/artificial] Googleが宇宙から送られてきたAI生成の最初の返信、俳句を公開した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xjr68w/google_shares_first_aigenerated_response_from/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Googleが宇宙から送られてきたAI生成の最初の返信、俳句を公開した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/LinkedInNews   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Google shares first AI-generated response from space, a haiku&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xjr68w/google_shares_first_aigenerated_response_from/</guid>
+      <pubDate>Fri, 30 Oct 2026 20:57:00 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 保険テック業界で20億ドル規模のAI契約が成立した。保険料は値上がりしてしまうのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1ximm2m/insurance_tech_just_got_a_2b_ai_deal_are_our/</link>
-      <description>&lt;p&gt;&lt;strong&gt;保険テック業界で20億ドル規模のAI契約が成立した。保険料は値上がりしてしまうのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ガイドワイヤーは、AIを活用した引受審査を手掛けるスタートアップ企業「ハイパーエクスポネンシャル」を、現金17億ドルで買収する。取引総額は最大で21億ドルに達する見込みだ。これにより、同社はより多くの点をつなぎ合わせることが可能になり、最終的には&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Insurance tech just got a $2B AI deal. Are our rates cooked?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1ximm2m/insurance_tech_just_got_a_2b_ai_deal_are_our/</guid>
-      <pubDate>Thu, 29 Oct 2026 15:09:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] ローカルAIのせいで、仕事を失ったんだと思う</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xils4t/i_think_local_ai_cost_me_a_job/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ローカルAIのせいで、仕事を失ったんだと思う&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ベンチャーキャピタル（VC）の出資を受けるAI専門企業からヘッドハンティングされ、そのおかげで採用選考・面接プロセスの2段階をスキップすることになった。共同創業者と15分間の電話面談を行い、意気投合したが、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I think local AI cost me a job&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1xils4t/i_think_local_ai_cost_me_a_job/</guid>
-      <pubDate>Thu, 29 Oct 2026 14:38:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] mistralai/Mistral-Large-4-1T-A52B · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xil58b/mistralaimistrallarge41ta52b_hugging_face/</link>
-      <description>&lt;p&gt;&lt;strong&gt;mistralai/Mistral-Large-4-1T-A52B · Hugging Face&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://huggingface.co/ggml-org/Mistral-Large-4-1T-A52B-GGUF https://huggingface.co/ggml-org/Mistral-Large-4-1T-A52B-NVFP4-GGUF https://huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF Mistralより&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: mistralai/Mistral-Large-4-1T-A52B · Hugging Face&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1xil58b/mistralaimistrallarge41ta52b_hugging_face/</guid>
-      <pubDate>Thu, 29 Oct 2026 14:13:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/LocalLLaMA] クラウドAPIエンドポイントが信頼できない理由：40日間にわたるコーディングエージェントのテレメトリデータが、プロバイダーがいつdeepseek-v4.1-flashを-1017に密かに上書きしたかを明らかに（「実行速度の向上、回答の短縮」＝罵倒が3倍、モデル切り替えが6.7倍に増加）</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xiqw9i/why_you_cant_trust_cloud_api_endpoints_40_days_of/</link>
-      <description>&lt;p&gt;&lt;strong&gt;クラウドAPIエンドポイントが信頼できない理由：40日間にわたるコーディングエージェントのテレメトリデータが、プロバイダーがいつdeepseek-v4.1-flashを-1017に密かに上書きしたかを明らかに（「実行速度の向上、回答の短縮」＝罵倒が3倍、モデル切り替えが6.7倍に増加）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;10月中旬頃、私のコーディングエージェントでdeepseek-v4.1-flashの動作が突然かなり鈍くなったように感じたため、いつ不具合が発生したのかを確認するためにローカルのセッションログを解析しました。アップデート前は、こんな奇妙な癖があって、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Why you can't trust cloud API endpoints: 40 days of coding-agent telemetry showing the exact day providers silently overwrote deepseek-v4.1-flash with -1017 (&quot;faster execution, shorter answers&quot; = 3x more swearing and 6.7x more model switches)&lt;br&gt;ソース: r/LocalLLaMA&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1xiqw9i/why_you_cant_trust_cloud_api_endpoints_40_days_of/</guid>
-      <pubDate>Thu, 29 Oct 2026 17:46:05 GMT</pubDate>
+      <title>[r/artificial] AI生成の動画によって誰かが名誉を毀損された場合、被害者は実際に誰を訴えるべきなのでしょうか。その動画の作成を指示した人物、モデル提供者、それともその動画を掲載し続けたプラットフォームでしょうか。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xjozdg/if_an_ai_video_defames_someone_who_should_the/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI生成の動画によって誰かが名誉を毀損された場合、被害者は実際に誰を訴えるべきなのでしょうか。その動画の作成を指示した人物、モデル提供者、それともその動画を掲載し続けたプラットフォームでしょうか。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これは、近いうちに真剣に検討しなければならない問題になりそうな気がします。AIが生成した肖像が、本人の同意を得ていない形で利用される事例は、すでにいくつか見受けられています。例えば、無断で&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: If an AI video defames someone, who should the victim actually sue, the person who prompted it, the model provider, or the platform that kept it up?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xjozdg/if_an_ai_video_defames_someone_who_should_the/</guid>
+      <pubDate>Fri, 30 Oct 2026 19:31:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
