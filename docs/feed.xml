@@ -3,96 +3,178 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-30</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-10-31</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Oct 2026 22:07:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 21:16:12 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (677pt) Cursor MarketplaceのVS Code拡張機能「Claude Code」にバックドアが発見された</title>
-      <link>https://news.ycombinator.com/item?id=50300683</link>
-      <description>&lt;p&gt;&lt;strong&gt;Cursor MarketplaceのVS Code拡張機能「Claude Code」にバックドアが発見された&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Backdoor in Claude Code for VS Code extension on the Cursor Marketplace&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50300683</guid>
-      <pubDate>Fri, 30 Oct 2026 07:09:12 GMT</pubDate>
+      <title>[Hacker News] (275pt) Molly（Signalのフォーク）は3か月間更新されておらず、脆弱性がある</title>
+      <link>https://news.ycombinator.com/item?id=50314666</link>
+      <description>&lt;p&gt;&lt;strong&gt;Molly（Signalのフォーク）は3か月間更新されておらず、脆弱性がある&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Molly (Signal fork) has not been updated since 3 months and is vulnerable&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50314666</guid>
+      <pubDate>Sat, 31 Oct 2026 10:23:41 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (136pt) オープンウェブを封じ込めたところで、悪質なボットを阻止することはできない</title>
-      <link>https://news.ycombinator.com/item?id=50263837</link>
-      <description>&lt;p&gt;&lt;strong&gt;オープンウェブを封じ込めたところで、悪質なボットを阻止することはできない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Breaking the open web won't stop the bad bots&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50263837</guid>
-      <pubDate>Tue, 27 Oct 2026 18:42:55 GMT</pubDate>
+      <title>[Hacker News] (153pt) HackerTube：HNで推薦された動画をもとに構築されたYouTube</title>
+      <link>https://news.ycombinator.com/item?id=50319510</link>
+      <description>&lt;p&gt;&lt;strong&gt;HackerTube：HNで推薦された動画をもとに構築されたYouTube&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: HackerTube: YouTube built from videos recommended by HN&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319510</guid>
+      <pubDate>Sat, 31 Oct 2026 19:56:53 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIブームへの懸念が強まる中、ハイテク株の時価総額は1兆ドル以上も吹き飛ぶ見通し</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xjiczy/tech_stocks_set_to_wipe_out_more_than_1_trillion/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIブームへの懸念が強まる中、ハイテク株の時価総額は1兆ドル以上も吹き飛ぶ見通し&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/return2ozma   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Tech stocks set to wipe out more than $1 trillion as concerns deepen about the AI boom&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xjiczy/tech_stocks_set_to_wipe_out_more_than_1_trillion/</guid>
-      <pubDate>Fri, 30 Oct 2026 15:25:41 GMT</pubDate>
+      <title>[Hacker News] (135pt) TCP の「Use-After-Free」脆弱性：CVE-2026-98432 / CVSS 9.8</title>
+      <link>https://news.ycombinator.com/item?id=50319143</link>
+      <description>&lt;p&gt;&lt;strong&gt;TCP の「Use-After-Free」脆弱性：CVE-2026-98432 / CVSS 9.8&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319143</guid>
+      <pubDate>Sat, 31 Oct 2026 19:16:30 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] OpenAIとAnthropicは、AIがコンピュータサイエンスの27年間にわたる定説を打ち破ったと主張している</title>
+      <title>[Hacker News] (132pt) Jepsen: ParticleDB 1.1.4</title>
+      <link>https://news.ycombinator.com/item?id=50316100</link>
+      <description>&lt;p&gt;&lt;strong&gt;Jepsen: ParticleDB 1.1.4&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Jepsen: ParticleDB 1.1.4&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50316100</guid>
+      <pubDate>Sat, 31 Oct 2026 13:39:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (112pt) GPT-5.6 Solは、ピースフルモードの『Factorio』を攻略できる</title>
+      <link>https://news.ycombinator.com/item?id=50318871</link>
+      <description>&lt;p&gt;&lt;strong&gt;GPT-5.6 Solは、ピースフルモードの『Factorio』を攻略できる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GPT-5.6 Sol can beat Factorio on peaceful mode&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50318871</guid>
+      <pubDate>Sat, 31 Oct 2026 18:50:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (55pt) 学者の責務</title>
+      <link>https://news.ycombinator.com/item?id=50319061</link>
+      <description>&lt;p&gt;&lt;strong&gt;学者の責務&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Duty of a Scholar&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319061</guid>
+      <pubDate>Sat, 31 Oct 2026 19:07:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (51pt) 「メモリのレイテンシが問題なんだ、バカ」</title>
+      <link>https://news.ycombinator.com/item?id=50318720</link>
+      <description>&lt;p&gt;&lt;strong&gt;「メモリのレイテンシが問題なんだ、バカ」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: It's the Memory Latency, Stupid&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50318720</guid>
+      <pubDate>Sat, 31 Oct 2026 18:38:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (22pt) 大騒ぎの末、何もない：Pythonにおけるセンチネル値</title>
+      <link>https://news.ycombinator.com/item?id=50297068</link>
+      <description>&lt;p&gt;&lt;strong&gt;大騒ぎの末、何もない：Pythonにおけるセンチネル値&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Much Ado About None: Sentinel Values in Python&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50297068</guid>
+      <pubDate>Thu, 29 Oct 2026 22:24:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (18pt) Show HN: NES『コントラ』（1987年）の移植版（ASM → C、その後 C → WebAssembly）</title>
+      <link>https://news.ycombinator.com/item?id=50319169</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN: NES『コントラ』（1987年）の移植版（ASM → C、その後 C → WebAssembly）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: NES Contra (1987) port (ASM –&gt; C and then C –&gt; WebAssembly)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319169</guid>
+      <pubDate>Sat, 31 Oct 2026 19:18:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (5pt) 言葉の86％が理解できていても、アニメのセリフの38％しか理解できないかもしれない</title>
+      <link>https://news.ycombinator.com/item?id=50320028</link>
+      <description>&lt;p&gt;&lt;strong&gt;言葉の86％が理解できていても、アニメのセリフの38％しか理解できないかもしれない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: With 86% of the words, you might understand only 38% of an anime's lines&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50320028</guid>
+      <pubDate>Sat, 31 Oct 2026 20:46:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Anthropic社の「Claude AI」がビデオゲームの複製やリバースエンジニアリングを阻止――この抜本的な新たな制限は、正規の開発者や基本的なトラブルシューティング作業にも影響を及ぼしている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xkibsh/anthropics_claude_ai_blocks_video_game_cloning/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropic社の「Claude AI」がビデオゲームの複製やリバースエンジニアリングを阻止――この抜本的な新たな制限は、正規の開発者や基本的なトラブルシューティング作業にも影響を及ぼしている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Typical-Code-7006   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xkibsh/anthropics_claude_ai_blocks_video_game_cloning/</guid>
+      <pubDate>Sat, 31 Oct 2026 18:57:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] OpenAIとAnthropicは、AIがコンピュータサイエンスの27年にわたる定説を打ち破ったと主張している</title>
       <link>https://www.reddit.com/r/artificial/comments/1xjqc40/ai_cracks_a_27yearold_pillar_of_computer_science/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIとAnthropicは、AIがコンピュータサイエンスの27年間にわたる定説を打ち破ったと主張している&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIとAnthropicは、AIがコンピュータサイエンスの27年にわたる定説を打ち破ったと主張している&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Fcking_Chuck   [リンク] &amp;#32; [コメント]&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xjqc40/ai_cracks_a_27yearold_pillar_of_computer_science/</guid>
       <pubDate>Fri, 30 Oct 2026 20:23:31 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] MITが「AIパイロットの95％が失敗する」と主張しているが、これは本当なのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xjmtot/mits_claim_that_95_of_ai_pilots_fail_is_this_true/</link>
-      <description>&lt;p&gt;&lt;strong&gt;MITが「AIパイロットの95％が失敗する」と主張しているが、これは本当なのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/killboy123   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: MIT's claim that 95% of AI pilots fail - Is this true?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xjmtot/mits_claim_that_95_of_ai_pilots_fail_is_this_true/</guid>
-      <pubDate>Fri, 30 Oct 2026 18:10:03 GMT</pubDate>
+      <title>[r/artificial] イリヤって一体どこにいるんだ？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xkkw6n/where_the_heck_is_ilya/</link>
+      <description>&lt;p&gt;&lt;strong&gt;イリヤって一体どこにいるんだ？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ただ、直感的に、彼にこの議論に参加してもらう必要があると思う。というのも……「AGIに『愛』を教えなければならない」というのが彼の視点であり、それが最終的にうまくいく唯一のアラインメント戦略だと私は感じているからだ。結局のところ、私は&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Where the heck is Ilya?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xkkw6n/where_the_heck_is_ilya/</guid>
+      <pubDate>Sat, 31 Oct 2026 20:44:07 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] なぜ、AIのインターフェースはどれもまだ単なるテキストボックスなのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xjgy47/why_is_every_ai_interface_still_just_a_text_box/</link>
-      <description>&lt;p&gt;&lt;strong&gt;なぜ、AIのインターフェースはどれもまだ単なるテキストボックスなのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;柔軟で使いやすいというのは理解できますが、無秩序に積み重なった「チャット」と空のテキストボックスが、一般の人々が消費者向けAIとやり取りするための最善の方法と言えるのでしょうか？こうした機能を使えば、カスタムU&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Why is every AI interface still just a text box?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xjgy47/why_is_every_ai_interface_still_just_a_text_box/</guid>
-      <pubDate>Fri, 30 Oct 2026 14:30:55 GMT</pubDate>
+      <title>[r/artificial] AIブームへの懸念が強まる中、ハイテク株の時価総額が1兆ドル以上も吹き飛ぶ見通し</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xjiczy/tech_stocks_set_to_wipe_out_more_than_1_trillion/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIブームへの懸念が強まる中、ハイテク株の時価総額が1兆ドル以上も吹き飛ぶ見通し&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/return2ozma   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Tech stocks set to wipe out more than $1 trillion as concerns deepen about the AI boom&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xjiczy/tech_stocks_set_to_wipe_out_more_than_1_trillion/</guid>
+      <pubDate>Fri, 30 Oct 2026 15:25:41 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ジェミニには何が起きたのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xjp9ah/what_happened_with_gemini/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ジェミニには何が起きたのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私はAIの初心者ですが、法律や医療に関する手続きでGeminiを利用しています。これまでのところ、100％正確というわけではありませんが、概ね役に立っており、時間を大幅に節約できています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: What Happened With Gemini?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xjp9ah/what_happened_with_gemini/</guid>
-      <pubDate>Fri, 30 Oct 2026 19:42:42 GMT</pubDate>
+      <title>[r/artificial] AIが作成した緊急警報を信用しますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xkf72z/would_you_trust_an_emergency_alert_written_by_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIが作成した緊急警報を信用しますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ハリケーン「イサイアス」がカテゴリー3の勢力でメキシコ湾岸に上陸した後、緊急事態管理の専門家であるローラ・マイヤーズ氏は、アラバマ州の気象学者から電話を受けた。マイヤーズ氏はユニヴェの所長であり、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Would you trust an emergency alert written by AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xkf72z/would_you_trust_an_emergency_alert_written_by_ai/</guid>
+      <pubDate>Sat, 31 Oct 2026 16:52:32 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIの使い方を教える月額49ドルのコースのGoogle広告をちょうど見かけました。その広告のスクリーンショットを撮って、GeminiとMuseに入力してみたところ、なんと完全無料のコースが出来上がりました！どうぞご自由にお使いください！</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xjafjr/just_saw_a_google_ad_for_a_course_that_charges_49/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIの使い方を教える月額49ドルのコースのGoogle広告をちょうど見かけました。その広告のスクリーンショットを撮って、GeminiとMuseに入力してみたところ、なんと完全無料のコースが出来上がりました！どうぞご自由にお使いください！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;説明が自動的に表示されるツールの使い方を教えるのに、お金を請求するなんて、まったく馬鹿げた考えだ。   &amp;#32; 投稿者：&amp;#32;  /u/UREveryone   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Just saw a google ad for a course that charges $49 a month to teach you how to use AI. I screnshot the ad, fed it into Gemini and Muse and heres a full course for free! Have at it!&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xjafjr/just_saw_a_google_ad_for_a_course_that_charges_49/</guid>
-      <pubDate>Fri, 30 Oct 2026 09:10:29 GMT</pubDate>
+      <title>[r/artificial] OpenAIのCEOサム・アルトマン氏は、PCにRAMを搭載するのは「かなりひどい」と述べている――サム・アルトマン氏は、データセンターの方が利用効率が高いと指摘している</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xjpdqk/openai_ceo_sam_altman_says_its_quite_terrible_for/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIのCEOサム・アルトマン氏は、PCにRAMを搭載するのは「かなりひどい」と述べている――サム・アルトマン氏は、データセンターの方が利用効率が高いと指摘している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;gt;「グローバルな資源配分の観点から見ると、実際には、世界的に供給が限られているDRAMを、誰もが自分のコンピュータに大量に保有し、使用しているのは、実にひどい状況だ」&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI CEO Sam Altman says it's &quot;quite terrible&quot; for your PC to have RAM — Sam Altman says data centers offer better utilization&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xjpdqk/openai_ceo_sam_altman_says_its_quite_terrible_for/</guid>
+      <pubDate>Fri, 30 Oct 2026 19:47:36 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Googleが宇宙から送られてきたAI生成の最初の返信、俳句を公開した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xjr68w/google_shares_first_aigenerated_response_from/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Googleが宇宙から送られてきたAI生成の最初の返信、俳句を公開した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/LinkedInNews   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Google shares first AI-generated response from space, a haiku&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xjr68w/google_shares_first_aigenerated_response_from/</guid>
-      <pubDate>Fri, 30 Oct 2026 20:57:00 GMT</pubDate>
+      <title>[r/artificial] 【学術調査】ドイツで働く従業員：職場におけるAIに対する意識（所要時間：5～7分）</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xkd5nv/academic_survey_employees_working_in_germany/</link>
+      <description>&lt;p&gt;&lt;strong&gt;【学術調査】ドイツで働く従業員：職場におけるAIに対する意識（所要時間：5～7分）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;みなさん、こんにちは！私は修士論文の一環としてこのアンケートを実施しています。ぜひご協力いただければ幸いです。本研究では、従業員が人事施策をどのように認識しているか、それが……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: [Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5–7 min)&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xkd5nv/academic_survey_employees_working_in_germany/</guid>
+      <pubDate>Sat, 31 Oct 2026 15:30:05 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AI生成の動画によって誰かが名誉を毀損された場合、被害者は実際に誰を訴えるべきなのでしょうか。その動画の作成を指示した人物、モデル提供者、それともその動画を掲載し続けたプラットフォームでしょうか。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xjozdg/if_an_ai_video_defames_someone_who_should_the/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI生成の動画によって誰かが名誉を毀損された場合、被害者は実際に誰を訴えるべきなのでしょうか。その動画の作成を指示した人物、モデル提供者、それともその動画を掲載し続けたプラットフォームでしょうか。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;これは、近いうちに真剣に検討しなければならない問題になりそうな気がします。AIが生成した肖像が、本人の同意を得ていない形で利用される事例は、すでにいくつか見受けられています。例えば、無断で&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: If an AI video defames someone, who should the victim actually sue, the person who prompted it, the model provider, or the platform that kept it up?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xjozdg/if_an_ai_video_defames_someone_who_should_the/</guid>
-      <pubDate>Fri, 30 Oct 2026 19:31:58 GMT</pubDate>
+      <title>[r/artificial] ニューヨーク・タイムズ紙：「議員らはまた、火曜日の選挙で民主党が下院の過半数を奪還した場合、下院は人工知能（AI）企業に対するこれまでの「ほぼ不干渉」という姿勢から転換する可能性が高いとの見方を示した。」</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xk0sda/nyt_the_lawmakers_also_signaled_that_if_the/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ニューヨーク・タイムズ紙：「議員らはまた、火曜日の選挙で民主党が下院の過半数を奪還した場合、下院は人工知能（AI）企業に対するこれまでの「ほぼ不干渉」という姿勢から転換する可能性が高いとの見方を示した。」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;まあ、続いた間は良かったね。中国が米国から主導権を引き継いで、楽しんでくれるといいな。中国語のレッスンを始めることをお勧めするよ。https://archive.is/NLYsy  &amp;#32; 投稿者：&amp;#32;  /u/Eliv_nurot&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: NYT: 'the lawmakers also signaled that if the Democrats retook the House in elections on Tuesday, the chamber was likely to shift away from its largely hands-off approach to artificial intelligence companies.'&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xk0sda/nyt_the_lawmakers_also_signaled_that_if_the/</guid>
+      <pubDate>Sat, 31 Oct 2026 04:21:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Ollieは、プライバシーを重視したファミリーアシスタントを開発した後、2026年11月6日にサービスを終了する予定です。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xk4x2z/ollie_will_shut_down_on_november_6_2026_after/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Ollieは、プライバシーを重視したファミリーアシスタントを開発した後、2026年11月6日にサービスを終了する予定です。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;テキストベースのファミリーアシスタント「Ollie」は、2026年11月6日をもってサービスを終了すると発表しました。同社の終了のお知らせによると、ユーザーにはテキストメッセージでデータのエクスポートが提供されるとのことです。OllieおよびOllie for Mのサブスクリプションについては、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Ollie will shut down on November 6, 2026 after building a privacy-focused family assistant&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xk4x2z/ollie_will_shut_down_on_november_6_2026_after/</guid>
+      <pubDate>Sat, 31 Oct 2026 08:34:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Googleの親会社であるAlphabetの株価は史上最悪の下落を記録し、時価総額が5,000億ドル減少した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xj9zau/googles_parent_company_alphabet_shares_record/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Googleの親会社であるAlphabetの株価は史上最悪の下落を記録し、時価総額が5,000億ドル減少した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Naderium   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Google's parent company Alphabet shares record their worst day ever, shedding $500 billion in value&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xj9zau/googles_parent_company_alphabet_shares_record/</guid>
+      <pubDate>Fri, 30 Oct 2026 08:41:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
