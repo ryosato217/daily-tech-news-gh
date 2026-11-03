@@ -3,142 +3,60 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-01</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-03</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Nov 2026 21:54:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 00:48:45 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (2096pt) HackerTube：HNで推薦された動画をもとに構築されたYouTube</title>
-      <link>https://news.ycombinator.com/item?id=50319510</link>
-      <description>&lt;p&gt;&lt;strong&gt;HackerTube：HNで推薦された動画をもとに構築されたYouTube&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: HackerTube: YouTube built from videos recommended by HN&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319510</guid>
-      <pubDate>Sat, 31 Oct 2026 19:56:53 GMT</pubDate>
+      <title>[Hacker News] (383pt) 気に入ったウェブサイトがあれば、そのサイトを応援しましょう</title>
+      <link>https://news.ycombinator.com/item?id=50336518</link>
+      <description>&lt;p&gt;&lt;strong&gt;気に入ったウェブサイトがあれば、そのサイトを応援しましょう&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: If you love a website, back it up&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50336518</guid>
+      <pubDate>Mon, 02 Nov 2026 13:25:35 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (728pt) あるイタリアの農家が、屋根裏部屋で正体不明の種を見つけ、それを植えてみた</title>
-      <link>https://news.ycombinator.com/item?id=50320963</link>
-      <description>&lt;p&gt;&lt;strong&gt;あるイタリアの農家が、屋根裏部屋で正体不明の種を見つけ、それを植えてみた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: An Italian farmer found some unknown seeds in his attic and planted them&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50320963</guid>
-      <pubDate>Sat, 31 Oct 2026 22:41:06 GMT</pubDate>
+      <title>[Hacker News] (117pt) HN掲載：Momentic（YC W24） – アプリを使ってバグを検出するエージェント</title>
+      <link>https://news.ycombinator.com/item?id=50339913</link>
+      <description>&lt;p&gt;&lt;strong&gt;HN掲載：Momentic（YC W24） – アプリを使ってバグを検出するエージェント&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50339913</guid>
+      <pubDate>Mon, 02 Nov 2026 17:05:25 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (650pt) Show HN: HackerBooks – HNで言及された本に特化したHackerTube</title>
-      <link>https://news.ycombinator.com/item?id=50326821</link>
-      <description>&lt;p&gt;&lt;strong&gt;Show HN: HackerBooks – HNで言及された本に特化したHackerTube&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: HackerBooks – HackerTube, but for books mentioned on HN&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50326821</guid>
-      <pubDate>Sun, 01 Nov 2026 15:58:28 GMT</pubDate>
+      <title>[r/artificial] 現在、Steamでリリースされる新作ゲームのほぼ半数がAIを採用している</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xm0tga/almost_half_of_all_new_steam_games_use_ai_now/</link>
+      <description>&lt;p&gt;&lt;strong&gt;現在、Steamでリリースされる新作ゲームのほぼ半数がAIを採用している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ImCalcium   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Almost half of all new Steam games use AI now&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xm0tga/almost_half_of_all_new_steam_games_use_ai_now/</guid>
+      <pubDate>Mon, 02 Nov 2026 15:50:53 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (328pt) レノボの「暗号化」された指紋認証USBメモリは、単にケースに入った暗号化されていないSDカードに過ぎない</title>
-      <link>https://news.ycombinator.com/item?id=50326099</link>
-      <description>&lt;p&gt;&lt;strong&gt;レノボの「暗号化」された指紋認証USBメモリは、単にケースに入った暗号化されていないSDカードに過ぎない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50326099</guid>
-      <pubDate>Sun, 01 Nov 2026 14:34:43 GMT</pubDate>
+      <title>[r/artificial] AIへの投資熱が冷める中、OpenAIが資金調達目標を引き下げる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xm7eyb/openai_lowers_funding_goals_as_investors_cool_on/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIへの投資熱が冷める中、OpenAIが資金調達目標を引き下げる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/LinkedInNews   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI lowers funding goals as investors cool on AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xm7eyb/openai_lowers_funding_goals_as_investors_cool_on/</guid>
+      <pubDate>Mon, 02 Nov 2026 19:47:27 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (139pt) 数学は変わった。そのことを踏まえて行動しよう</title>
-      <link>https://news.ycombinator.com/item?id=50328251</link>
-      <description>&lt;p&gt;&lt;strong&gt;数学は変わった。そのことを踏まえて行動しよう&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Mathematics has changed. Let's act like it&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50328251</guid>
-      <pubDate>Sun, 01 Nov 2026 18:28:42 GMT</pubDate>
+      <title>[r/artificial] OpenAIによると、同社のAIは、買い物や献立作りなど、人間が行う作業をこなす能力が向上しているという</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xm3vf1/openai_says_its_ai_is_getting_better_at_doing/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIによると、同社のAIは、買い物や献立作りなど、人間が行う作業をこなす能力が向上しているという&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/cnn   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI says its AI is getting better at doing things humans do, like shopping and meal planning&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xm3vf1/openai_says_its_ai_is_getting_better_at_doing/</guid>
+      <pubDate>Mon, 02 Nov 2026 17:41:16 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (98pt) Copper – オブジェクト指向プログラミング（OOP）とジェネリクスを備えた、ミニマルな低レベルプログラミング言語</title>
-      <link>https://news.ycombinator.com/item?id=50308754</link>
-      <description>&lt;p&gt;&lt;strong&gt;Copper – オブジェクト指向プログラミング（OOP）とジェネリクスを備えた、ミニマルな低レベルプログラミング言語&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Copper – A minimal low-level programming language with OOP and generics&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50308754</guid>
-      <pubDate>Fri, 30 Oct 2026 19:09:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (92pt) JEPAを用いたプラトン的表象仮説の検証と改良</title>
-      <link>https://news.ycombinator.com/item?id=50325454</link>
-      <description>&lt;p&gt;&lt;strong&gt;JEPAを用いたプラトン的表象仮説の検証と改良&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Proving and improving the Platonic Representation Hypothesis with JEPAs&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50325454</guid>
-      <pubDate>Sun, 01 Nov 2026 13:24:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (49pt) アップルは、S&amp;P 500の上位半数の企業の消費者向け売上高の50％を占めている</title>
-      <link>https://news.ycombinator.com/item?id=50330005</link>
-      <description>&lt;p&gt;&lt;strong&gt;アップルは、S&amp;P 500の上位半数の企業の消費者向け売上高の50％を占めている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Apple captures 50% of consumer revenue of the top half of the S&amp;P 500&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50330005</guid>
-      <pubDate>Sun, 01 Nov 2026 21:20:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (35pt) Nibnib：極めて高速な展開速度を誇る画像圧縮</title>
-      <link>https://news.ycombinator.com/item?id=50299811</link>
-      <description>&lt;p&gt;&lt;strong&gt;Nibnib：極めて高速な展開速度を誇る画像圧縮&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Nibnib: Image compression with extreme decompression speed&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50299811</guid>
-      <pubDate>Fri, 30 Oct 2026 04:17:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (32pt) AFL++ を使ったファズテストをより効果的に行うためのヒント</title>
-      <link>https://news.ycombinator.com/item?id=50271106</link>
-      <description>&lt;p&gt;&lt;strong&gt;AFL++ を使ったファズテストをより効果的に行うためのヒント&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Tips for more effective fuzz testing with AFL++&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50271106</guid>
-      <pubDate>Wed, 28 Oct 2026 09:46:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] トランプ氏の弱点は、自身の有権者を敵に回してしまうことだ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xl4wds/trumps_achilles_heel_is_turning_his_own_voters/</link>
-      <description>&lt;p&gt;&lt;strong&gt;トランプ氏の弱点は、自身の有権者を敵に回してしまうことだ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/theipaper   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Trump’s achilles heel is turning his own voters against him&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xl4wds/trumps_achilles_heel_is_turning_his_own_voters/</guid>
-      <pubDate>Sun, 01 Nov 2026 14:48:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIと同様に、私たちは何十年もの間、膨大な計算能力や、あらゆる種類のオープンソースおよびクローズドソースのソフトウェアを利用してきました。それでもなお、ほとんどの人はExcelさえ十分に活用できていません。AIには高い能力がありますが、ほとんどのユースケースにおいて、ほとんどの人はAIをそれほどうまく活用することはないでしょう。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xlah5b/like_ai_we_have_had_access_to_great_computing/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIと同様に、私たちは何十年もの間、膨大な計算能力や、あらゆる種類のオープンソースおよびクローズドソースのソフトウェアを利用してきました。それでもなお、ほとんどの人はExcelさえ十分に活用できていません。AIには高い能力がありますが、ほとんどのユースケースにおいて、ほとんどの人はAIをそれほどうまく活用することはないでしょう。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;そういう意味で、AIは過大評価されすぎている。オフィスユーザーでさえ、99％は基本的なExcelユーザーに過ぎない。オープンソースのデータベースやRDBMS、Hadoopなど、さまざまなものがすでに存在している。率直に言って、ほとんどの人はAIなど必要としていないのだ。&amp;#32; 投稿&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Like AI, we have had access to great computing power, all types of open and closed source softwares for decades. Still most people aren't even using Excel fully. AI is capable but most people won't use it as well for most use cases&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xlah5b/like_ai_we_have_had_access_to_great_computing/</guid>
-      <pubDate>Sun, 01 Nov 2026 18:27:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Anthropic社の「Claude AI」がビデオゲームの複製やリバースエンジニアリングを阻止――この抜本的な新たな制限は、正規の開発者や基本的なトラブルシューティング作業にも影響を及ぼしている</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xkibsh/anthropics_claude_ai_blocks_video_game_cloning/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropic社の「Claude AI」がビデオゲームの複製やリバースエンジニアリングを阻止――この抜本的な新たな制限は、正規の開発者や基本的なトラブルシューティング作業にも影響を及ぼしている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Typical-Code-7006   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xkibsh/anthropics_claude_ai_blocks_video_game_cloning/</guid>
-      <pubDate>Sat, 31 Oct 2026 18:57:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 「ChatGPTがなければ、兄は今も生きていたはずだ」：OpenAIの安全対策部門の内部</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xkzv9y/if_it_wasnt_for_chatgpt_my_brother_would_still_be/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「ChatGPTがなければ、兄は今も生きていたはずだ」：OpenAIの安全対策部門の内部&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;『オブザーバー』紙の調査により、OpenAIの支配権争いがユーザーの安全を脅かしている実態が明らかになった。会話型AIが精神的な危機や暴力事件に関与しているというのだ。  &amp;#32; 投稿者：&amp;#32;  /u/TheObserve&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: ‘If it wasn’t for ChatGPT my brother would still be alive’: inside OpenAI’s safety unit&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xkzv9y/if_it_wasnt_for_chatgpt_my_brother_would_still_be/</guid>
-      <pubDate>Sun, 01 Nov 2026 10:35:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] DeepSeekがスーパーエージェントのコーディングプロトタイプをオープンソース化：1つのルーター、多数のワーカー、最小限の人的介入</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xlc9ye/deepseek_opensources_a_superagent_coding/</link>
-      <description>&lt;p&gt;&lt;strong&gt;DeepSeekがスーパーエージェントのコーディングプロトタイプをオープンソース化：1つのルーター、多数のワーカー、最小限の人的介入&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;10月31日、DeepSeek Harnessチームは、設計エッセイ『Exploring Super-agent Design: Towards a More Autonomous Agent System』を、dsh-superagと呼ばれるMITライセンスの研究用プロトタイプとともに公開した。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: DeepSeek open-sources a super-agent coding prototype: one Router, many Workers, minimal human attention&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xlc9ye/deepseek_opensources_a_superagent_coding/</guid>
-      <pubDate>Sun, 01 Nov 2026 19:38:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] OpenAIは現在、1台のデバイスおよび1枚のクレジットカードにつき保有できる有料ChatGPTアカウントの数に上限を設けています</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xlfdof/openai_is_now_capping_how_many_paid_chatgpt/</link>
-      <description>&lt;p&gt;&lt;strong&gt;OpenAIは現在、1台のデバイスおよび1枚のクレジットカードにつき保有できる有料ChatGPTアカウントの数に上限を設けています&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Alone-Dragonfruit602   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: OpenAI is now capping how many paid ChatGPT accounts you can have per device and payment card&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xlfdof/openai_is_now_capping_how_many_paid_chatgpt/</guid>
-      <pubDate>Sun, 01 Nov 2026 21:44:45 GMT</pubDate>
+      <title>[r/artificial] 英国で、Meta、OpenAI、Appleがあなたのデータを使ってAIを学習させるのを防ぐ方法</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xlu9ui/how_to_stop_meta_openai_and_apple_from_training/</link>
+      <description>&lt;p&gt;&lt;strong&gt;英国で、Meta、OpenAI、Appleがあなたのデータを使ってAIを学習させるのを防ぐ方法&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/HotMinuteUK   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How to stop Meta, OpenAI, and Apple from training AI on your data in the UK&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xlu9ui/how_to_stop_meta_openai_and_apple_from_training/</guid>
+      <pubDate>Mon, 02 Nov 2026 11:03:37 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] Grok Botのユーザーは、一夜にして1週間分の利用枠を使い果たしてしまい、イーロン・マスク氏は、このエージェントの運用コストが高すぎると述べている</title>
@@ -150,31 +68,31 @@
       <pubDate>Sun, 01 Nov 2026 21:44:18 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] XやTwitterを見ると、AI開発は簡単そうに見えるけど、僕は未完成のプロジェクトでトークンを浪費し続けてる。みんなは一体どうやって、完成したアプリをリリースしているの？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xl815r/xtwitter_makes_ai_dev_look_effortless_but_i_keep/</link>
-      <description>&lt;p&gt;&lt;strong&gt;XやTwitterを見ると、AI開発は簡単そうに見えるけど、僕は未完成のプロジェクトでトークンを浪費し続けてる。みんなは一体どうやって、完成したアプリをリリースしているの？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;みなさん、こんにちは。自分のワークフローについて、しっかりとした客観的なチェックをしてほしいんです。なんだか騙されているような気がして。😅 Xやインスタ、TikTokで毎日何人かコンタクトを得るために、デモ動画を投稿している人たちがいるんですが、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: X/Twitter makes AI dev look effortless, but I keep burning tokens on unfinished projects. How are you actually shipping full apps?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xl815r/xtwitter_makes_ai_dev_look_effortless_but_i_keep/</guid>
-      <pubDate>Sun, 01 Nov 2026 16:53:42 GMT</pubDate>
+      <title>[r/artificial] 湾岸地域の投資家がAIや宇宙技術に注力</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xlzxdx/gulf_investors_bet_on_ai_space_tech/</link>
+      <description>&lt;p&gt;&lt;strong&gt;湾岸地域の投資家がAIや宇宙技術に注力&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/LinkedInNews   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gulf investors bet on AI, space tech&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xlzxdx/gulf_investors_bet_on_ai_space_tech/</guid>
+      <pubDate>Mon, 02 Nov 2026 15:17:24 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] サムへ。私のRAMのことは、あなたには関係ない。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xkmtyp/dear_sam_my_ram_is_none_of_your_business/</link>
-      <description>&lt;p&gt;&lt;strong&gt;サムへ。私のRAMのことは、あなたには関係ない。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;まあ、私が最後に確認した限りでは、パソコンにどれだけのRAMを搭載するかは、依然として私たち自身の判断によるものであり、シリコンバレーからの命令などではなかったはずだ。次は、サム・アルトマンが私たちに「何を許されるか」を言い聞かせることになるだろう&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Dear Sam, My RAM Is None of Your Business.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xkmtyp/dear_sam_my_ram_is_none_of_your_business/</guid>
-      <pubDate>Sat, 31 Oct 2026 22:12:03 GMT</pubDate>
+      <title>[r/artificial] OpenAIがデータセンターへの反感を和らげるための計画：名称を「コンピュート・キャンパス」に変更する</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xm43yd/openais_plan_to_make_data_centers_less_hated/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIがデータセンターへの反感を和らげるための計画：名称を「コンピュート・キャンパス」に変更する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI's plan to make data centers less hated: Rename them &quot;compute campuses&quot;&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xm43yd/openais_plan_to_make_data_centers_less_hated/</guid>
+      <pubDate>Mon, 02 Nov 2026 17:49:57 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] インフラを超えた知能に関する研究フレームワークの構築に取り組んでおり、率直なフィードバックを求めています</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xl59a7/working_on_a_research_framework_for_intelligence/</link>
-      <description>&lt;p&gt;&lt;strong&gt;インフラを超えた知能に関する研究フレームワークの構築に取り組んでおり、率直なフィードバックを求めています&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は「オーガニック・インテリジェンス・プロトコル（OIP）」と呼ばれる研究プロジェクトに取り組んでいます。このアイデアは、私が繰り返し考え続けていたある疑問から生まれました。「情報へのアクセスが限られている状況下で、私たちは知性を公平に評価できているのだろうか」と。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Working on a research framework for intelligence beyond infrastructure and looking for honest feedback&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xl59a7/working_on_a_research_framework_for_intelligence/</guid>
-      <pubDate>Sun, 01 Nov 2026 15:03:07 GMT</pubDate>
+      <title>[r/artificial] 失敗ログ #2：パッチは本物だったが、バグは別のものだった。それでもPoCは発動した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xmbiex/failure_log_2_the_patch_was_real_the_bug_was/</link>
+      <description>&lt;p&gt;&lt;strong&gt;失敗ログ #2：パッチは本物だったが、バグは別のものだった。それでもPoCは発動した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/AIGODSEND   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: failure log #2: the patch was real, the bug was different, the PoC still fired&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xmbiex/failure_log_2_the_patch_was_real_the_bug_was/</guid>
+      <pubDate>Mon, 02 Nov 2026 22:23:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
