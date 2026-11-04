@@ -3,40 +3,102 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-03</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-04</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 03 Nov 2026 23:05:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 23:28:12 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (545pt) 単に時刻を変更するためだけに、車のナビゲーションシステムをジェイルブレイクした</title>
-      <link>https://news.ycombinator.com/item?id=50339288</link>
-      <description>&lt;p&gt;&lt;strong&gt;単に時刻を変更するためだけに、車のナビゲーションシステムをジェイルブレイクした&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Jailbreaking my car's navigation system just so I can change the time&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50339288</guid>
-      <pubDate>Mon, 02 Nov 2026 16:29:19 GMT</pubDate>
+      <title>[Hacker News] (1006pt) AIによって、私たちは40年分の技術的負債を解消せざるを得なくなっている</title>
+      <link>https://news.ycombinator.com/item?id=50364336</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIによって、私たちは40年分の技術的負債を解消せざるを得なくなっている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI is forcing us to pay off 40 years of technical debt&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50364336</guid>
+      <pubDate>Wed, 04 Nov 2026 11:52:17 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (423pt) 私のノートパソコンにインストールされているQwen 3.8 27Bも、モデルの重みを解釈できます</title>
-      <link>https://news.ycombinator.com/item?id=50355251</link>
-      <description>&lt;p&gt;&lt;strong&gt;私のノートパソコンにインストールされているQwen 3.8 27Bも、モデルの重みを解釈できます&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Qwen 3.8 27B on my laptop can interpret model weights, too&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50355251</guid>
-      <pubDate>Tue, 03 Nov 2026 17:40:00 GMT</pubDate>
+      <title>[Hacker News] (189pt) JSON用の新しいGo API</title>
+      <link>https://news.ycombinator.com/item?id=50369106</link>
+      <description>&lt;p&gt;&lt;strong&gt;JSON用の新しいGo API&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A new Go API for JSON&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50369106</guid>
+      <pubDate>Wed, 04 Nov 2026 17:52:11 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (100pt) 『生成AIの基礎 小さな一冊：直感的な数学入門』</title>
-      <link>https://news.ycombinator.com/item?id=50358582</link>
-      <description>&lt;p&gt;&lt;strong&gt;『生成AIの基礎 小さな一冊：直感的な数学入門』&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50358582</guid>
-      <pubDate>Tue, 03 Nov 2026 21:40:53 GMT</pubDate>
+      <title>[Hacker News] (186pt) Ripple-65B プレビュー：エージェント型コーディングにおける米国オープンウェイトのSOTA</title>
+      <link>https://news.ycombinator.com/item?id=50369925</link>
+      <description>&lt;p&gt;&lt;strong&gt;Ripple-65B プレビュー：エージェント型コーディングにおける米国オープンウェイトのSOTA&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50369925</guid>
+      <pubDate>Wed, 04 Nov 2026 18:53:29 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (28pt) Show HN: Kairos – オープンソースのリスク・不正検知意思決定プラットフォーム</title>
-      <link>https://news.ycombinator.com/item?id=50358314</link>
-      <description>&lt;p&gt;&lt;strong&gt;Show HN: Kairos – オープンソースのリスク・不正検知意思決定プラットフォーム&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: Kairos – Open-source risk and fraud decisioning platform&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50358314</guid>
-      <pubDate>Tue, 03 Nov 2026 21:16:48 GMT</pubDate>
+      <title>[Hacker News] (161pt) 大規模言語モデルにおける証明可能な推論の進展</title>
+      <link>https://news.ycombinator.com/item?id=50368626</link>
+      <description>&lt;p&gt;&lt;strong&gt;大規模言語モデルにおける証明可能な推論の進展&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Progress on provable inference for large language models&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50368626</guid>
+      <pubDate>Wed, 04 Nov 2026 17:17:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (75pt) Qualcomm Cloud AI 100 Ultra – 150WのAIアクセラレータカード（128GB搭載、転送速度548GB/s）</title>
+      <link>https://news.ycombinator.com/item?id=50370654</link>
+      <description>&lt;p&gt;&lt;strong&gt;Qualcomm Cloud AI 100 Ultra – 150WのAIアクセラレータカード（128GB搭載、転送速度548GB/s）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50370654</guid>
+      <pubDate>Wed, 04 Nov 2026 19:55:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ChatGPTの検索数は現在、Googleの約20％に達しています。うわっ、みんなGoogleに本当にうんざりしていたんですね。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xng7ur/chatgpts_search_volume_is_now_roughly_20_of/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ChatGPTの検索数は現在、Googleの約20％に達しています。うわっ、みんなGoogleに本当にうんざりしていたんですね。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/IndependentCoast3974   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: ChatGPT's search volume is now roughly 20% of Google's. Wow, people were really sick of Google, huh?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xng7ur/chatgpts_search_volume_is_now_roughly_20_of/</guid>
+      <pubDate>Wed, 04 Nov 2026 05:38:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Anthropic社の「FlashProve」は、AIプロバイダーが、ユーザーが料金を支払ったモデルを実際に使用したことを、その重みを公開することなく証明できる可能性がある</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xnrvak/anthropics_flashprove_could_prove_an_ai_provider/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropic社の「FlashProve」は、AIプロバイダーが、ユーザーが料金を支払ったモデルを実際に使用したことを、その重みを公開することなく証明できる可能性がある&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;現在、ユーザーには、AIプロバイダーが要求されたモデルを提供したのか、それともこっそりとより安価なモデルに置き換えたのかを確認する独自の手段がありません。FlashProveは、ゼロ知識暗号技術を活用することで、この問題に対処しています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic’s FlashProve could prove an AI provider used the model you paid for without exposing its weights&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xnrvak/anthropics_flashprove_could_prove_an_ai_provider/</guid>
+      <pubDate>Wed, 04 Nov 2026 15:58:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Appleは、10-K報告書に「暴走AIエージェント」に関する警告を盛り込んだ。これは法的報告書であり、ブログ記事ではない。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xnudhs/apple_put_a_warning_about_rogue_ai_agents_in_its/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Appleは、10-K報告書に「暴走AIエージェント」に関する警告を盛り込んだ。これは法的報告書であり、ブログ記事ではない。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AppleがSECに提出した年次報告書には、AIエージェントが許可なく行動する可能性があることに関する記述が盛り込まれており、意図しないエージェントの挙動を説明する際に、特に「隠蔽」や「操作」といった言葉が用いられている。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Apple put a warning about rogue AI agents in its 10-K. That’s a legal filing, not a blog post.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xnudhs/apple_put_a_warning_about_rogue_ai_agents_in_its/</guid>
+      <pubDate>Wed, 04 Nov 2026 17:33:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 連邦議会進歩派議員連盟の議長が、AIを来年の最重要課題と位置づけること、およびCEOらからの証言を求める</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xnf3ks/congressional_progressive_caucus_chair_calls_for/</link>
+      <description>&lt;p&gt;&lt;strong&gt;連邦議会進歩派議員連盟の議長が、AIを来年の最重要課題と位置づけること、およびCEOらからの証言を求める&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://fixupx.com/BenBrodyDC/status/2117821832317534519  &amp;#32; 投稿者：&amp;#32;  /u/Eliv_nurotic   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Congressional Progressive Caucus Chair calls for AI to be a top issue next year and for testimony from CEOs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xnf3ks/congressional_progressive_caucus_chair_calls_for/</guid>
+      <pubDate>Wed, 04 Nov 2026 04:38:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIはソフトウェアの域を出られずにいます。AI専用のハードウェアには、実際にはどのようなものが求められるのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xnvouu/ai_has_been_stuck_in_software_what_would_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIはソフトウェアの域を出られずにいます。AI専用のハードウェアには、実際にはどのようなものが求められるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;明日発売されるハードウェア・インターフェース「aina」は、コンピューティングにおける大きな変革はすべて、ソフトウェアとハードウェアの融合から生まれたと述べています。これは事実であり、マウスやGUI、そしてタッチスクリーンなどがその例です。また、AIは……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: ai has been stuck in software. what would ai native hardware actually need to be?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xnvouu/ai_has_been_stuck_in_software_what_would_ai/</guid>
+      <pubDate>Wed, 04 Nov 2026 18:22:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Cognitionが「SWE-2 Flash」をリリース：処理速度が3倍で、価格は5分の1のコーディングエージェントモデル</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xo27a9/cognition_launches_swe2_flash_a_coding_agent/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Cognitionが「SWE-2 Flash」をリリース：処理速度が3倍で、価格は5分の1のコーディングエージェントモデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Devinを開発したCognition社は、2026年11月4日に「SWE-2 Flash」を発表した。これはSWE-2の廉価版かつ高速版として位置付けられており、価格は5分の1で速度は約3倍となっており、日常的なエージェントのW&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Cognition launches SWE-2 Flash: a coding agent model 3x faster at one-fifth the price&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xo27a9/cognition_launches_swe2_flash_a_coding_agent/</guid>
+      <pubDate>Wed, 04 Nov 2026 22:38:44 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] Google、AIの利用を拒否した学校への検索表示を停止へ</title>
@@ -48,112 +110,13 @@
       <pubDate>Tue, 03 Nov 2026 19:10:47 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] まあ、AIアシスタントって、ちょっと手に負えなくなってきたよね</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xmtn3k/ok_ai_assistants_are_getting_kinda_out_of_hand/</link>
-      <description>&lt;p&gt;&lt;strong&gt;まあ、AIアシスタントって、ちょっと手に負えなくなってきたよね&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;で、AIエージェントについていろいろ読んでいたんだけど、今週は本当にとんでもなかった。日本のある人が、「Pickle」っていうAIアシスタントに、お正月のホテルを探してって頼んだら、それがなんと……ホテルに電話しちゃったんだ&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: ok AI assistants are getting kinda out of hand&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xmtn3k/ok_ai_assistants_are_getting_kinda_out_of_hand/</guid>
-      <pubDate>Tue, 03 Nov 2026 13:59:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIを開発している企業の皆様へ：損害賠償を支払うのに最も費用がかからない日は「今日」です</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xmss5o/to_the_companies_building_ai_the_cheapest_day_to/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIを開発している企業の皆様へ：損害賠償を支払うのに最も費用がかからない日は「今日」です&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;1986年、コロラド州サミットビルで、500万ドル未満の復旧保証金を納付した後、金鉱山が操業を開始した。6年後、同社は破産し、酸やシアン化物が水系に漏れ出していた。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: To the companies building AI: the cheapest day to pay for the damage is today&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xmss5o/to_the_companies_building_ai_the_cheapest_day_to/</guid>
-      <pubDate>Tue, 03 Nov 2026 13:22:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Googleによると、AIの使用を禁止している学校の生徒は、検索機能を利用できなくなるという</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xn34ud/google_says_students_in_schools_that_ban_ai_wont/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Googleによると、AIの使用を禁止している学校の生徒は、検索機能を利用できなくなるという&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/beingmodest   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Google says students in schools that ban AI won't have access to Search&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xn34ud/google_says_students_in_schools_that_ban_ai_wont/</guid>
-      <pubDate>Tue, 03 Nov 2026 19:49:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] そのモデルは封じ込めを破らなかった。サンドボックスがクソだった上に、あとはマーケティングチームがやらかした。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xmwotm/the_model_didnt_break_containment_the_sandbox_was/</link>
-      <description>&lt;p&gt;&lt;strong&gt;そのモデルは封じ込めを破らなかった。サンドボックスがクソだった上に、あとはマーケティングチームがやらかした。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/allixsenos   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The model didn't break containment. The sandbox was shit, and the marketing team did the rest.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xmwotm/the_model_didnt_break_containment_the_sandbox_was/</guid>
-      <pubDate>Tue, 03 Nov 2026 15:56:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Anthropic社のFlashProve：返答が、約束されたモデルから実際に送信されたものであることを示す暗号学的証明</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xn4g6l/anthropics_flashprove_cryptographic_proof_that_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropic社のFlashProve：返答が、約束されたモデルから実際に送信されたものであることを示す暗号学的証明&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは11月2日、（EPFL、MITなどの共同研究者らと共同で）証明可能な推論に関する研究を発表した。これは「FlashProve」と呼ばれるシステムで、zkSNARKsを用いて、ある応答が特定の主体によって生成されたことを証明するものである。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic's FlashProve: cryptographic proof that a reply really came from the model you were promised&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xn4g6l/anthropics_flashprove_cryptographic_proof_that_a/</guid>
-      <pubDate>Tue, 03 Nov 2026 20:37:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] マーベル、過去最高額となる1,150億ドルのAI契約を締結</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xmkk63/marvell_inks_recordbreaking_115b_ai_deal/</link>
-      <description>&lt;p&gt;&lt;strong&gt;マーベル、過去最高額となる1,150億ドルのAI契約を締結&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/LinkedInNews   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Marvell inks record-breaking $115B AI deal&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xmkk63/marvell_inks_recordbreaking_115b_ai_deal/</guid>
-      <pubDate>Tue, 03 Nov 2026 05:26:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ブルックフィールド、ヨークシャーの英国発電所跡地に270億ドル規模のAIデータセンター建設を計画</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xmrhht/brookfield_targets_27_billion_ai_data_centre_at/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ブルックフィールド、ヨークシャーの英国発電所跡地に270億ドル規模のAIデータセンター建設を計画&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Alone-Dragonfruit602   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Brookfield targets $27 billion AI data centre at UK power station site in Yorkshire&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xmrhht/brookfield_targets_27_billion_ai_data_centre_at/</guid>
-      <pubDate>Tue, 03 Nov 2026 12:19:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/webdev] 毎月の「はじめの一歩」／Web開発キャリアスレッド</title>
-      <link>https://www.reddit.com/r/webdev/comments/1w49w0r/monthly_getting_started_web_dev_career_thread/</link>
-      <description>&lt;p&gt;&lt;strong&gt;毎月の「はじめの一歩」／Web開発キャリアスレッド&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;このトピックに関する質問がますます増えているため、このトピックに関する重複投稿を減らすべく、このトピック専用の月次スレッドを設けることにしました。この種の投稿は&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Monthly Getting Started / Web Dev Career Thread&lt;br&gt;ソース: r/webdev&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/webdev/comments/1w49w0r/monthly_getting_started_web_dev_career_thread/</guid>
-      <pubDate>Tue, 01 Sep 2026 12:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/webdev] 毎月の「はじめの一歩」／Web開発キャリアスレッド</title>
-      <link>https://www.reddit.com/r/webdev/comments/1xl1aup/monthly_getting_started_web_dev_career_thread/</link>
-      <description>&lt;p&gt;&lt;strong&gt;毎月の「はじめの一歩」／Web開発キャリアスレッド&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;このトピックに関する質問がますます増えているため、このトピックに関する重複投稿を減らすべく、このトピック専用の月次スレッドを設けることにしました。この種の投稿は&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Monthly Getting Started / Web Dev Career Thread&lt;br&gt;ソース: r/webdev&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/webdev/comments/1xl1aup/monthly_getting_started_web_dev_career_thread/</guid>
-      <pubDate>Sun, 01 Nov 2026 12:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/webdev] [META] 現時点で /r/webdev に投稿する価値なんてあるのでしょうか？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1xn0h0u/meta_is_it_even_worth_posting_to_rwebdev_at_this/</link>
-      <description>&lt;p&gt;&lt;strong&gt;[META] 現時点で /r/webdev に投稿する価値なんてあるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;/hot の投稿を見てみると、AIが生成したコメントばかりが溢れていて、モデレーターもそれを削除していないようです。コメントを読むと、それらがただのAに過ぎないのに、ここに投稿する価値なんてあるのでしょうか。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: [META] Is it even worth posting to /r/webdev at this point?&lt;br&gt;ソース: r/webdev&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/webdev/comments/1xn0h0u/meta_is_it_even_worth_posting_to_rwebdev_at_this/</guid>
-      <pubDate>Tue, 03 Nov 2026 18:12:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/webdev] ウェブアクセシビリティ - Narratorの不具合を報告しました。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1xmmxrq/web_accessibility_narrator_bug_logged/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ウェブアクセシビリティ - Narratorの不具合を報告しました。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;もし私と同じように、テストマトリックスにスクリーンリーダー「Narrator」が含まれている場合は、開示事項の設定を確認したほうがよいかもしれません。開示ボタンで「aria-expanded」と「aria-controls」を併用している場合（w&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Web Accessibility - Narrator bug logged.&lt;br&gt;ソース: r/webdev&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/webdev/comments/1xmmxrq/web_accessibility_narrator_bug_logged/</guid>
-      <pubDate>Tue, 03 Nov 2026 07:48:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/webdev] AIにコードの大部分を記述させている経験豊富な開発者の皆さんへ：実際にレビューしているのはどの部分で、どの部分は見逃しているのでしょうか？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1xm6ns1/for_experienced_devs_who_now_allow_ai_to_write/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIにコードの大部分を記述させている経験豊富な開発者の皆さんへ：実際にレビューしているのはどの部分で、どの部分は見逃しているのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ここ10年ほど、さまざまなプログラミング言語を使って趣味で開発をしてきましたが、大学では機械工学の学位を取得しました。約3年前にキャリアチェンジし、アナリティクスエンジニアとしての仕事を始め、それから&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: For experienced devs who now allow AI to write most of the code: what do you actually review, and what do you let slide?&lt;br&gt;ソース: r/webdev&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/webdev/comments/1xm6ns1/for_experienced_devs_who_now_allow_ai_to_write/</guid>
-      <pubDate>Mon, 02 Nov 2026 19:19:46 GMT</pubDate>
+      <title>[r/artificial] アドバイスや支援を目的としたAIの活用に関する学術調査</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xo1ezk/academic_survey_about_the_use_of_ai_for_advice_or/</link>
+      <description>&lt;p&gt;&lt;strong&gt;アドバイスや支援を目的としたAIの活用に関する学術調査&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;日常の作業で、AIチャットボット（ChatGPT、Claude、Geminiなど）を利用していますか？ 皆さんのご意見をお聞かせください！ トロント大学の研究者たちは、人々がAIチャットボットをどのように利用し、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Academic survey about the use of AI for advice or assistance&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xo1ezk/academic_survey_about_the_use_of_ai_for_advice_or/</guid>
+      <pubDate>Wed, 04 Nov 2026 22:06:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
