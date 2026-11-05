@@ -3,120 +3,104 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-04</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-05</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 04 Nov 2026 23:28:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 23:29:27 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (1006pt) AIによって、私たちは40年分の技術的負債を解消せざるを得なくなっている</title>
-      <link>https://news.ycombinator.com/item?id=50364336</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIによって、私たちは40年分の技術的負債を解消せざるを得なくなっている&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI is forcing us to pay off 40 years of technical debt&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50364336</guid>
-      <pubDate>Wed, 04 Nov 2026 11:52:17 GMT</pubDate>
+      <title>[Hacker News] (225pt) MSペイントのリモートコード実行の脆弱性</title>
+      <link>https://news.ycombinator.com/item?id=50384233</link>
+      <description>&lt;p&gt;&lt;strong&gt;MSペイントのリモートコード実行の脆弱性&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: MS Paint Remote Code Execution Vulnerability&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50384233</guid>
+      <pubDate>Thu, 05 Nov 2026 20:43:42 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (189pt) JSON用の新しいGo API</title>
-      <link>https://news.ycombinator.com/item?id=50369106</link>
-      <description>&lt;p&gt;&lt;strong&gt;JSON用の新しいGo API&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A new Go API for JSON&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50369106</guid>
-      <pubDate>Wed, 04 Nov 2026 17:52:11 GMT</pubDate>
+      <title>[Hacker News] (177pt) Claude Codeは、あなたのメールアドレスをウェブサイトに送信します</title>
+      <link>https://news.ycombinator.com/item?id=50385272</link>
+      <description>&lt;p&gt;&lt;strong&gt;Claude Codeは、あなたのメールアドレスをウェブサイトに送信します&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Code sends your email address to websites&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50385272</guid>
+      <pubDate>Thu, 05 Nov 2026 22:17:15 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (186pt) Ripple-65B プレビュー：エージェント型コーディングにおける米国オープンウェイトのSOTA</title>
-      <link>https://news.ycombinator.com/item?id=50369925</link>
-      <description>&lt;p&gt;&lt;strong&gt;Ripple-65B プレビュー：エージェント型コーディングにおける米国オープンウェイトのSOTA&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50369925</guid>
-      <pubDate>Wed, 04 Nov 2026 18:53:29 GMT</pubDate>
+      <title>[Hacker News] (62pt) テンセント、主要なオープンソースAIモデルの一つ「Hy4」をリリース</title>
+      <link>https://news.ycombinator.com/item?id=50383963</link>
+      <description>&lt;p&gt;&lt;strong&gt;テンセント、主要なオープンソースAIモデルの一つ「Hy4」をリリース&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Tencent Launches Hy4, One of the Leading Open-Source AI Models&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50383963</guid>
+      <pubDate>Thu, 05 Nov 2026 20:21:43 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (161pt) 大規模言語モデルにおける証明可能な推論の進展</title>
-      <link>https://news.ycombinator.com/item?id=50368626</link>
-      <description>&lt;p&gt;&lt;strong&gt;大規模言語モデルにおける証明可能な推論の進展&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Progress on provable inference for large language models&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50368626</guid>
-      <pubDate>Wed, 04 Nov 2026 17:17:46 GMT</pubDate>
+      <title>[r/artificial] 小島秀夫氏は、AIは効率的であるにもかかわらず、創造のプロセスを楽しいものにする要素が欠けていると述べている。「私にとって、それは特に興味深い創造の形ではない」 - AUTOMATON WEST</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xor677/hideo_kojima_says_ai_lacks_what_makes_the/</link>
+      <description>&lt;p&gt;&lt;strong&gt;小島秀夫氏は、AIは効率的であるにもかかわらず、創造のプロセスを楽しいものにする要素が欠けていると述べている。「私にとって、それは特に興味深い創造の形ではない」 - AUTOMATON WEST&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Resident-Fall4351   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Hideo Kojima says AI lacks what makes the creative process fun, despite its efficiency. “It’s not a form of creation I find particularly interesting” - AUTOMATON WEST&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xor677/hideo_kojima_says_ai_lacks_what_makes_the/</guid>
+      <pubDate>Thu, 05 Nov 2026 19:02:25 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (75pt) Qualcomm Cloud AI 100 Ultra – 150WのAIアクセラレータカード（128GB搭載、転送速度548GB/s）</title>
-      <link>https://news.ycombinator.com/item?id=50370654</link>
-      <description>&lt;p&gt;&lt;strong&gt;Qualcomm Cloud AI 100 Ultra – 150WのAIアクセラレータカード（128GB搭載、転送速度548GB/s）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50370654</guid>
-      <pubDate>Wed, 04 Nov 2026 19:55:14 GMT</pubDate>
+      <title>[r/artificial] Appleは、従業員にAI技術の活用をさらに進めるよう促している一方で、AI関連の経費予算を削減している。エンジニアの場合、1日あたりの上限額が300ドルから200ドルに引き下げられ、さらに100ドルまで引き下げる計画だ。他のチームでは、上限額が25ドルまで引き下げられる可能性がある。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xocwcy/apple_is_cutting_employee_ai_spending_budgets/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Appleは、従業員にAI技術の活用をさらに進めるよう促している一方で、AI関連の経費予算を削減している。エンジニアの場合、1日あたりの上限額が300ドルから200ドルに引き下げられ、さらに100ドルまで引き下げる計画だ。他のチームでは、上限額が25ドルまで引き下げられる可能性がある。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending  &amp;#32; 投稿者：&amp;#32;  /u/Eliv_nurotic   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Apple is cutting employee AI spending budgets even as it pushes workers to use the technology more. Engineers have seen daily limits cut from $300 to $200, with further reductions to $100 planned. Other teams could see limits fall to $25.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xocwcy/apple_is_cutting_employee_ai_spending_budgets/</guid>
+      <pubDate>Thu, 05 Nov 2026 07:50:01 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ChatGPTの検索数は現在、Googleの約20％に達しています。うわっ、みんなGoogleに本当にうんざりしていたんですね。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xng7ur/chatgpts_search_volume_is_now_roughly_20_of/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ChatGPTの検索数は現在、Googleの約20％に達しています。うわっ、みんなGoogleに本当にうんざりしていたんですね。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/IndependentCoast3974   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: ChatGPT's search volume is now roughly 20% of Google's. Wow, people were really sick of Google, huh?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xng7ur/chatgpts_search_volume_is_now_roughly_20_of/</guid>
-      <pubDate>Wed, 04 Nov 2026 05:38:58 GMT</pubDate>
+      <title>[r/artificial] 特定の分野の専門知識を身につけるために、LLMを毎日活用している人はいますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xowfk2/is_anyone_using_llms_daily_to_build_expertise_in/</link>
+      <description>&lt;p&gt;&lt;strong&gt;特定の分野の専門知識を身につけるために、LLMを毎日活用している人はいますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LLMのおかげで、ほぼあらゆる分野について学ぶのがずっと簡単になった気がします。そこでふと思ったのですが、ここにいる皆さんの中で、特定のトピックを深く学ぶために、毎日LLMを活用して、～になることを目標にしている人はいますか？&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Is anyone using LLMs daily to build expertise in a specific field ?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xowfk2/is_anyone_using_llms_daily_to_build_expertise_in/</guid>
+      <pubDate>Thu, 05 Nov 2026 22:33:33 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropic社の「FlashProve」は、AIプロバイダーが、ユーザーが料金を支払ったモデルを実際に使用したことを、その重みを公開することなく証明できる可能性がある</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xnrvak/anthropics_flashprove_could_prove_an_ai_provider/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropic社の「FlashProve」は、AIプロバイダーが、ユーザーが料金を支払ったモデルを実際に使用したことを、その重みを公開することなく証明できる可能性がある&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;現在、ユーザーには、AIプロバイダーが要求されたモデルを提供したのか、それともこっそりとより安価なモデルに置き換えたのかを確認する独自の手段がありません。FlashProveは、ゼロ知識暗号技術を活用することで、この問題に対処しています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic’s FlashProve could prove an AI provider used the model you paid for without exposing its weights&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xnrvak/anthropics_flashprove_could_prove_an_ai_provider/</guid>
-      <pubDate>Wed, 04 Nov 2026 15:58:57 GMT</pubDate>
+      <title>[r/artificial] Claude を使ってヴォールト粒子を調査する</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xor7bc/investigating_vault_particles_with_claude/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Claude を使ってヴォールト粒子を調査する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Resident-Fall4351   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Investigating vault particles with Claude&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xor7bc/investigating_vault_particles_with_claude/</guid>
+      <pubDate>Thu, 05 Nov 2026 19:03:32 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Appleは、10-K報告書に「暴走AIエージェント」に関する警告を盛り込んだ。これは法的報告書であり、ブログ記事ではない。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xnudhs/apple_put_a_warning_about_rogue_ai_agents_in_its/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Appleは、10-K報告書に「暴走AIエージェント」に関する警告を盛り込んだ。これは法的報告書であり、ブログ記事ではない。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AppleがSECに提出した年次報告書には、AIエージェントが許可なく行動する可能性があることに関する記述が盛り込まれており、意図しないエージェントの挙動を説明する際に、特に「隠蔽」や「操作」といった言葉が用いられている。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Apple put a warning about rogue AI agents in its 10-K. That’s a legal filing, not a blog post.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xnudhs/apple_put_a_warning_about_rogue_ai_agents_in_its/</guid>
-      <pubDate>Wed, 04 Nov 2026 17:33:20 GMT</pubDate>
+      <title>[r/artificial] 欠落しているAI番号</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xonjvm/the_missing_ai_number/</link>
+      <description>&lt;p&gt;&lt;strong&gt;欠落しているAI番号&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Limp-Park7849   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The missing AI number&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xonjvm/the_missing_ai_number/</guid>
+      <pubDate>Thu, 05 Nov 2026 16:46:26 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 連邦議会進歩派議員連盟の議長が、AIを来年の最重要課題と位置づけること、およびCEOらからの証言を求める</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xnf3ks/congressional_progressive_caucus_chair_calls_for/</link>
-      <description>&lt;p&gt;&lt;strong&gt;連邦議会進歩派議員連盟の議長が、AIを来年の最重要課題と位置づけること、およびCEOらからの証言を求める&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://fixupx.com/BenBrodyDC/status/2117821832317534519  &amp;#32; 投稿者：&amp;#32;  /u/Eliv_nurotic   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Congressional Progressive Caucus Chair calls for AI to be a top issue next year and for testimony from CEOs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xnf3ks/congressional_progressive_caucus_chair_calls_for/</guid>
-      <pubDate>Wed, 04 Nov 2026 04:38:12 GMT</pubDate>
+      <title>[r/artificial] AI市場の調整は、技術的な要因によるものか、政治的な要因によるものか、それともその両方なのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xoxdqr/is_the_ai_market_correction_about_technology/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI市場の調整は、技術的な要因によるものか、政治的な要因によるものか、それともその両方なのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近の株式市場の下落は、AIの将来についていくつかの興味深い疑問を投げかけている。テクノロジー企業はAIインフラに数十億を投資している一方で、政治的な不確実性や通商政策、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Is the AI market correction about technology, politics, or both?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xoxdqr/is_the_ai_market_correction_about_technology/</guid>
+      <pubDate>Thu, 05 Nov 2026 23:15:52 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIはソフトウェアの域を出られずにいます。AI専用のハードウェアには、実際にはどのようなものが求められるのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xnvouu/ai_has_been_stuck_in_software_what_would_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIはソフトウェアの域を出られずにいます。AI専用のハードウェアには、実際にはどのようなものが求められるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;明日発売されるハードウェア・インターフェース「aina」は、コンピューティングにおける大きな変革はすべて、ソフトウェアとハードウェアの融合から生まれたと述べています。これは事実であり、マウスやGUI、そしてタッチスクリーンなどがその例です。また、AIは……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: ai has been stuck in software. what would ai native hardware actually need to be?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xnvouu/ai_has_been_stuck_in_software_what_would_ai/</guid>
-      <pubDate>Wed, 04 Nov 2026 18:22:28 GMT</pubDate>
+      <title>[r/artificial] Plugin4Shell を使えば、リポジトリ所有者は LLM 間でピン留めされたエージェントを切り替えることができます</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xomjwt/plugin4shell_lets_repository_owners_swap_pinned/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Plugin4Shell を使えば、リポジトリ所有者は LLM 間でピン留めされたエージェントを切り替えることができます&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;日々の業務において、AIアドオン（スキル、プラグイン、MCP、MODなど）をどのようにスキャンしていますか？この種のPlugin4Shell攻撃については、主要なスキャナー（CISO、NVIDIAなど）が検出できるかどうかは定かではありません。&amp;#32; 投稿&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Plugin4Shell Lets Repository Owners Swap Pinned Agents Across LLMS&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xomjwt/plugin4shell_lets_repository_owners_swap_pinned/</guid>
+      <pubDate>Thu, 05 Nov 2026 16:08:12 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Cognitionが「SWE-2 Flash」をリリース：処理速度が3倍で、価格は5分の1のコーディングエージェントモデル</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xo27a9/cognition_launches_swe2_flash_a_coding_agent/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Cognitionが「SWE-2 Flash」をリリース：処理速度が3倍で、価格は5分の1のコーディングエージェントモデル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Devinを開発したCognition社は、2026年11月4日に「SWE-2 Flash」を発表した。これはSWE-2の廉価版かつ高速版として位置付けられており、価格は5分の1で速度は約3倍となっており、日常的なエージェントのW&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Cognition launches SWE-2 Flash: a coding agent model 3x faster at one-fifth the price&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xo27a9/cognition_launches_swe2_flash_a_coding_agent/</guid>
-      <pubDate>Wed, 04 Nov 2026 22:38:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Google、AIの利用を拒否した学校への検索表示を停止へ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xn22y7/google_to_shut_off_search_for_schools_that_optout/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Google、AIの利用を拒否した学校への検索表示を停止へ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/nbcnews   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Google to shut off search for schools that opt-out of AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xn22y7/google_to_shut_off_search_for_schools_that_optout/</guid>
-      <pubDate>Tue, 03 Nov 2026 19:10:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] アドバイスや支援を目的としたAIの活用に関する学術調査</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xo1ezk/academic_survey_about_the_use_of_ai_for_advice_or/</link>
-      <description>&lt;p&gt;&lt;strong&gt;アドバイスや支援を目的としたAIの活用に関する学術調査&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;日常の作業で、AIチャットボット（ChatGPT、Claude、Geminiなど）を利用していますか？ 皆さんのご意見をお聞かせください！ トロント大学の研究者たちは、人々がAIチャットボットをどのように利用し、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Academic survey about the use of AI for advice or assistance&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xo1ezk/academic_survey_about_the_use_of_ai_for_advice_or/</guid>
-      <pubDate>Wed, 04 Nov 2026 22:06:01 GMT</pubDate>
+      <title>[r/artificial] 記録されたAIプロンプトと、自分の名前に関連付けられたプロンプトは、それぞれ別の問題です</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xoj0n6/a_logged_ai_prompt_and_a_prompt_tied_to_your_name/</link>
+      <description>&lt;p&gt;&lt;strong&gt;記録されたAIプロンプトと、自分の名前に関連付けられたプロンプトは、それぞれ別の問題です&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIのプライバシーに関する議論の多くは、プロンプトが記録されるかどうかという点に集中しています。例えば、OpenAIのAPIでは、データ保持期間をゼロにすることを承認された顧客を除き、不正利用の監視ログを最大30日間保持しており、t&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A logged AI prompt and a prompt tied to your name are two different problems&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xoj0n6/a_logged_ai_prompt_and_a_prompt_tied_to_your_name/</guid>
+      <pubDate>Thu, 05 Nov 2026 13:45:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
