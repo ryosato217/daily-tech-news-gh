@@ -3,104 +3,95 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-05</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-06</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 05 Nov 2026 23:29:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 22:55:28 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (225pt) MSペイントのリモートコード実行の脆弱性</title>
-      <link>https://news.ycombinator.com/item?id=50384233</link>
-      <description>&lt;p&gt;&lt;strong&gt;MSペイントのリモートコード実行の脆弱性&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: MS Paint Remote Code Execution Vulnerability&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50384233</guid>
-      <pubDate>Thu, 05 Nov 2026 20:43:42 GMT</pubDate>
+      <title>[Hacker News] (242pt) 米連邦航空局（FAA）は、2028年までに航空交通管制からフロッピーディスクを段階的に廃止すると発表した</title>
+      <link>https://news.ycombinator.com/item?id=50388001</link>
+      <description>&lt;p&gt;&lt;strong&gt;米連邦航空局（FAA）は、2028年までに航空交通管制からフロッピーディスクを段階的に廃止すると発表した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: US FAA says it will phase out floppy disks from air traffic control by 2028&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50388001</guid>
+      <pubDate>Fri, 06 Nov 2026 04:00:28 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (177pt) Claude Codeは、あなたのメールアドレスをウェブサイトに送信します</title>
-      <link>https://news.ycombinator.com/item?id=50385272</link>
-      <description>&lt;p&gt;&lt;strong&gt;Claude Codeは、あなたのメールアドレスをウェブサイトに送信します&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Code sends your email address to websites&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50385272</guid>
-      <pubDate>Thu, 05 Nov 2026 22:17:15 GMT</pubDate>
+      <title>[Hacker News] (116pt) AIは、AI研究を飛躍的に加速させている</title>
+      <link>https://news.ycombinator.com/item?id=50397994</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIは、AI研究を飛躍的に加速させている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI is dramatically accelerating AI research&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50397994</guid>
+      <pubDate>Fri, 06 Nov 2026 20:27:23 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (62pt) テンセント、主要なオープンソースAIモデルの一つ「Hy4」をリリース</title>
-      <link>https://news.ycombinator.com/item?id=50383963</link>
-      <description>&lt;p&gt;&lt;strong&gt;テンセント、主要なオープンソースAIモデルの一つ「Hy4」をリリース&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Tencent Launches Hy4, One of the Leading Open-Source AI Models&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50383963</guid>
-      <pubDate>Thu, 05 Nov 2026 20:21:43 GMT</pubDate>
+      <title>[Hacker News] (53pt) レストランのデリバリー決済におけるスキミング詐欺キャンペーン</title>
+      <link>https://news.ycombinator.com/item?id=50397017</link>
+      <description>&lt;p&gt;&lt;strong&gt;レストランのデリバリー決済におけるスキミング詐欺キャンペーン&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Restaurant Delivery Payment-Skimming Campaign&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50397017</guid>
+      <pubDate>Fri, 06 Nov 2026 19:19:27 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 小島秀夫氏は、AIは効率的であるにもかかわらず、創造のプロセスを楽しいものにする要素が欠けていると述べている。「私にとって、それは特に興味深い創造の形ではない」 - AUTOMATON WEST</title>
+      <title>[r/artificial] トルコ、AIやその他の技術を活用し、米国から略奪された100点の古代遺物を返還させる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xpk0wl/turkey_uses_ai_and_other_tech_to_claw_back_100/</link>
+      <description>&lt;p&gt;&lt;strong&gt;トルコ、AIやその他の技術を活用し、米国から略奪された100点の古代遺物を返還させる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;これ、めっちゃかっこいい！ AIが本質的に悪いものじゃないってことがよくわかるね。素晴らしいニュースだ！   &amp;#32; 投稿者：&amp;#32;  /u/ZealousidealOwl2026   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Turkey Uses AI and Other Tech to Claw Back 100 Looted Antiquities from the US&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xpk0wl/turkey_uses_ai_and_other_tech_to_claw_back_100/</guid>
+      <pubDate>Fri, 06 Nov 2026 18:19:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] マイクロソフト、生放送中に発言内容を変更できるAIの特許を出願</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xp3pww/microsoft_files_patent_for_ai_that_can_alter_what/</link>
+      <description>&lt;p&gt;&lt;strong&gt;マイクロソフト、生放送中に発言内容を変更できるAIの特許を出願&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Resident-Fall4351   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Microsoft files patent for AI that can alter what people say during live broadcasts&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xp3pww/microsoft_files_patent_for_ai_that_can_alter_what/</guid>
+      <pubDate>Fri, 06 Nov 2026 04:25:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 英国政府は1万4000人の子どもたちにAIについて尋ねた。しかし、その回答を無視した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xpcsds/the_uk_government_asked_14000_children_about_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;英国政府は1万4000人の子どもたちにAIについて尋ねた。しかし、その回答を無視した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/calliope_kekule   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The UK Government Asked 14,000 Children About AI. It Ignored Their Answer.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xpcsds/the_uk_government_asked_14000_children_about_ai/</guid>
+      <pubDate>Fri, 06 Nov 2026 13:28:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] AIへの懸念や、民主党が中間選挙で圧勝したことを受け、ハイテク株が急落した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xp7ym7/tech_stocks_plunge_on_worries_about_ai_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIへの懸念や、民主党が中間選挙で圧勝したことを受け、ハイテク株が急落した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Fcking_Chuck   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Tech stocks plunge on worries about AI and Democrats' midterm landslide&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xp7ym7/tech_stocks_plunge_on_worries_about_ai_and/</guid>
+      <pubDate>Fri, 06 Nov 2026 08:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 小島秀夫氏は、AIは効率的であるものの、創造のプロセスを楽しいものにする要素が欠けていると述べている。「私にとって、それは特に興味深い創造の形ではない」 - AUTOMATON WEST</title>
       <link>https://www.reddit.com/r/artificial/comments/1xor677/hideo_kojima_says_ai_lacks_what_makes_the/</link>
-      <description>&lt;p&gt;&lt;strong&gt;小島秀夫氏は、AIは効率的であるにもかかわらず、創造のプロセスを楽しいものにする要素が欠けていると述べている。「私にとって、それは特に興味深い創造の形ではない」 - AUTOMATON WEST&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;小島秀夫氏は、AIは効率的であるものの、創造のプロセスを楽しいものにする要素が欠けていると述べている。「私にとって、それは特に興味深い創造の形ではない」 - AUTOMATON WEST&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Resident-Fall4351   [リンク] &amp;#32; [コメント]&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Hideo Kojima says AI lacks what makes the creative process fun, despite its efficiency. “It’s not a form of creation I find particularly interesting” - AUTOMATON WEST&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xor677/hideo_kojima_says_ai_lacks_what_makes_the/</guid>
       <pubDate>Thu, 05 Nov 2026 19:02:25 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Appleは、従業員にAI技術の活用をさらに進めるよう促している一方で、AI関連の経費予算を削減している。エンジニアの場合、1日あたりの上限額が300ドルから200ドルに引き下げられ、さらに100ドルまで引き下げる計画だ。他のチームでは、上限額が25ドルまで引き下げられる可能性がある。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xocwcy/apple_is_cutting_employee_ai_spending_budgets/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Appleは、従業員にAI技術の活用をさらに進めるよう促している一方で、AI関連の経費予算を削減している。エンジニアの場合、1日あたりの上限額が300ドルから200ドルに引き下げられ、さらに100ドルまで引き下げる計画だ。他のチームでは、上限額が25ドルまで引き下げられる可能性がある。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending  &amp;#32; 投稿者：&amp;#32;  /u/Eliv_nurotic   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Apple is cutting employee AI spending budgets even as it pushes workers to use the technology more. Engineers have seen daily limits cut from $300 to $200, with further reductions to $100 planned. Other teams could see limits fall to $25.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xocwcy/apple_is_cutting_employee_ai_spending_budgets/</guid>
-      <pubDate>Thu, 05 Nov 2026 07:50:01 GMT</pubDate>
+      <title>[r/artificial] 私は弁護士ですが、ちょっとしたゲームを作りました。実際の判決文をAIが要約したもので、そこにわざと間違いをいくつか仕込んであり、証拠部分をハイライトしてその間違いを見つけ出すというものです。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xpgt8f/i_am_a_lawyer_and_made_a_small_game_an_ai_summary/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私は弁護士ですが、ちょっとしたゲームを作りました。実際の判決文をAIが要約したもので、そこにわざと間違いをいくつか仕込んであり、証拠部分をハイライトしてその間違いを見つけ出すというものです。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;法務AIは要約する方法を習得しました。しかし、弁護士の思考方法を本当に理解しているのでしょうか？私の経験では、AIによる判決要約は読みやすいものの、依然として誤りを犯しています。例えば、判示内容が広範に述べられすぎたり、ある論点が&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I am a lawyer and made a small game: an AI summary of a real judgment with a few planted mistakes, and you catch them by highlighting the proof&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xpgt8f/i_am_a_lawyer_and_made_a_small_game_an_ai_summary/</guid>
+      <pubDate>Fri, 06 Nov 2026 16:16:10 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 特定の分野の専門知識を身につけるために、LLMを毎日活用している人はいますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xowfk2/is_anyone_using_llms_daily_to_build_expertise_in/</link>
-      <description>&lt;p&gt;&lt;strong&gt;特定の分野の専門知識を身につけるために、LLMを毎日活用している人はいますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;LLMのおかげで、ほぼあらゆる分野について学ぶのがずっと簡単になった気がします。そこでふと思ったのですが、ここにいる皆さんの中で、特定のトピックを深く学ぶために、毎日LLMを活用して、～になることを目標にしている人はいますか？&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Is anyone using LLMs daily to build expertise in a specific field ?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xowfk2/is_anyone_using_llms_daily_to_build_expertise_in/</guid>
-      <pubDate>Thu, 05 Nov 2026 22:33:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Claude を使ってヴォールト粒子を調査する</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xor7bc/investigating_vault_particles_with_claude/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Claude を使ってヴォールト粒子を調査する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Resident-Fall4351   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Investigating vault particles with Claude&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xor7bc/investigating_vault_particles_with_claude/</guid>
-      <pubDate>Thu, 05 Nov 2026 19:03:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 欠落しているAI番号</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xonjvm/the_missing_ai_number/</link>
-      <description>&lt;p&gt;&lt;strong&gt;欠落しているAI番号&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Limp-Park7849   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The missing AI number&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xonjvm/the_missing_ai_number/</guid>
-      <pubDate>Thu, 05 Nov 2026 16:46:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AI市場の調整は、技術的な要因によるものか、政治的な要因によるものか、それともその両方なのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xoxdqr/is_the_ai_market_correction_about_technology/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI市場の調整は、技術的な要因によるものか、政治的な要因によるものか、それともその両方なのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近の株式市場の下落は、AIの将来についていくつかの興味深い疑問を投げかけている。テクノロジー企業はAIインフラに数十億を投資している一方で、政治的な不確実性や通商政策、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Is the AI market correction about technology, politics, or both?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xoxdqr/is_the_ai_market_correction_about_technology/</guid>
-      <pubDate>Thu, 05 Nov 2026 23:15:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Plugin4Shell を使えば、リポジトリ所有者は LLM 間でピン留めされたエージェントを切り替えることができます</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xomjwt/plugin4shell_lets_repository_owners_swap_pinned/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Plugin4Shell を使えば、リポジトリ所有者は LLM 間でピン留めされたエージェントを切り替えることができます&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;日々の業務において、AIアドオン（スキル、プラグイン、MCP、MODなど）をどのようにスキャンしていますか？この種のPlugin4Shell攻撃については、主要なスキャナー（CISO、NVIDIAなど）が検出できるかどうかは定かではありません。&amp;#32; 投稿&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Plugin4Shell Lets Repository Owners Swap Pinned Agents Across LLMS&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xomjwt/plugin4shell_lets_repository_owners_swap_pinned/</guid>
-      <pubDate>Thu, 05 Nov 2026 16:08:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 記録されたAIプロンプトと、自分の名前に関連付けられたプロンプトは、それぞれ別の問題です</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xoj0n6/a_logged_ai_prompt_and_a_prompt_tied_to_your_name/</link>
-      <description>&lt;p&gt;&lt;strong&gt;記録されたAIプロンプトと、自分の名前に関連付けられたプロンプトは、それぞれ別の問題です&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AIのプライバシーに関する議論の多くは、プロンプトが記録されるかどうかという点に集中しています。例えば、OpenAIのAPIでは、データ保持期間をゼロにすることを承認された顧客を除き、不正利用の監視ログを最大30日間保持しており、t&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A logged AI prompt and a prompt tied to your name are two different problems&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xoj0n6/a_logged_ai_prompt_and_a_prompt_tied_to_your_name/</guid>
-      <pubDate>Thu, 05 Nov 2026 13:45:38 GMT</pubDate>
+      <title>[r/artificial] 私たちはAIを学んでいるのか、それとも単にChatGPTの使い方を学んでいるだけなのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xp92cl/are_we_learning_ai_or_just_learning_to_use_chatgpt/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私たちはAIを学んでいるのか、それとも単にChatGPTの使い方を学んでいるだけなのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AIツールが日々の業務に定着するにつれ、私たちの多くはプロンプトの書き方や有用な出力を得る方法を身につけています。しかし、それだけで本当に十分なのでしょうか？ AIを使って情報を得るのと、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Are we learning AI or just learning to use ChatGPT?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xp92cl/are_we_learning_ai_or_just_learning_to_use_chatgpt/</guid>
+      <pubDate>Fri, 06 Nov 2026 09:58:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
