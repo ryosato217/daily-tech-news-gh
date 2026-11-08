@@ -3,16 +3,100 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-07</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-08</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Nov 2026 21:39:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 21:53:24 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (238pt) マイクロソフト・リサーチの「AI Frontiers」グループの解散</title>
-      <link>https://news.ycombinator.com/item?id=50406563</link>
-      <description>&lt;p&gt;&lt;strong&gt;マイクロソフト・リサーチの「AI Frontiers」グループの解散&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The end of Microsoft Research's AI Frontiers group&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50406563</guid>
-      <pubDate>Sat, 07 Nov 2026 18:02:17 GMT</pubDate>
+      <title>[Hacker News] (436pt) ゴールドマン・サックス、銀行員やトレーダーから「クロード・コード」の使用を中止させる</title>
+      <link>https://news.ycombinator.com/item?id=50415628</link>
+      <description>&lt;p&gt;&lt;strong&gt;ゴールドマン・サックス、銀行員やトレーダーから「クロード・コード」の使用を中止させる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50415628</guid>
+      <pubDate>Sun, 08 Nov 2026 18:16:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (230pt) 思考のツールとしての「書くこと」</title>
+      <link>https://news.ycombinator.com/item?id=50412067</link>
+      <description>&lt;p&gt;&lt;strong&gt;思考のツールとしての「書くこと」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Writing as a thinking tool&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50412067</guid>
+      <pubDate>Sun, 08 Nov 2026 10:41:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (177pt) RAM Altman：Linuxスクリプトがサム・アルトマンに、PCの未使用RAM容量を毎日メールで通知する</title>
+      <link>https://news.ycombinator.com/item?id=50415172</link>
+      <description>&lt;p&gt;&lt;strong&gt;RAM Altman：Linuxスクリプトがサム・アルトマンに、PCの未使用RAM容量を毎日メールで通知する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50415172</guid>
+      <pubDate>Sun, 08 Nov 2026 17:20:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (120pt) Outlook.comは、DMARCを設定していないドメインからのメールを密かに拒否している</title>
+      <link>https://news.ycombinator.com/item?id=50416158</link>
+      <description>&lt;p&gt;&lt;strong&gt;Outlook.comは、DMARCを設定していないドメインからのメールを密かに拒否している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Outlook.com Is Quietly Rejecting Email from Domains Without DMARC&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50416158</guid>
+      <pubDate>Sun, 08 Nov 2026 19:20:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (91pt) 私がAIによる脳の疲労とどう闘っているか</title>
+      <link>https://news.ycombinator.com/item?id=50416363</link>
+      <description>&lt;p&gt;&lt;strong&gt;私がAIによる脳の疲労とどう闘っているか&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How I Fight AI Brain Fry&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50416363</guid>
+      <pubDate>Sun, 08 Nov 2026 19:37:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (39pt) エドワード・ホッパーの代表作『ナイトホークス』</title>
+      <link>https://news.ycombinator.com/item?id=50372838</link>
+      <description>&lt;p&gt;&lt;strong&gt;エドワード・ホッパーの代表作『ナイトホークス』&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Edward Hopper's Iconic Painting, &quot;Nighthawks&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50372838</guid>
+      <pubDate>Wed, 04 Nov 2026 23:23:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (15pt) 『ウェブは十分すぎるほどだ』 ポール・フォード著</title>
+      <link>https://news.ycombinator.com/item?id=50416456</link>
+      <description>&lt;p&gt;&lt;strong&gt;『ウェブは十分すぎるほどだ』 ポール・フォード著&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Web Is More Than Enough, by Paul Ford&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50416456</guid>
+      <pubDate>Sun, 08 Nov 2026 19:48:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] Consumer Geminiは、DriveのファイルやGmailを自動的に取り込み、人間による審査プールに送ります。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xr1o9g/consumer_gemini_autonomously_ingests_drive/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Consumer Geminiは、DriveのファイルやGmailを自動的に取り込み、人間による審査プールに送ります。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2023年、Googleは「Gmail、Docs、Driveの個人用コンテンツは『人間の審査員には閲覧されない』」と明言して、Gemini Workspace拡張機能をリリースした。しかしGoogleは、この方針をひっそりと撤回した。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Consumer Gemini autonomously ingests Drive files/Gmail into human review pool&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xr1o9g/consumer_gemini_autonomously_ingests_drive/</guid>
+      <pubDate>Sun, 08 Nov 2026 15:58:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 実際に、AIをどのように学んで、活用すればよいのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xr6y63/how_should_i_actually_be_learning_and_using_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;実際に、AIをどのように学んで、活用すればよいのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;みなさん、こんにちは。私は現在、大学でコンピュータサイエンスを学んでいるのですが、正直なところ、この業界の将来について少し不安を感じています。今の就職市場はかなり厳しい状況のようです。特に……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: how should I actually be learning and using AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xr6y63/how_should_i_actually_be_learning_and_using_ai/</guid>
+      <pubDate>Sun, 08 Nov 2026 19:34:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] より優れたAIツールは、実際には人々の間の格差を広げているのだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xr1apu/are_better_ai_tools_actually_widening_the_gap/</link>
+      <description>&lt;p&gt;&lt;strong&gt;より優れたAIツールは、実際には人々の間の格差を広げているのだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近、議論する価値があると思った考えに出くわしました。それは、生成AIが必ずしも人々の間の隔たりを縮めるわけではないかもしれない、というものです。実際、すでに存在する違いをさらに広げてしまう可能性さえあるのです。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Are better AI tools actually widening the gap between people?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xr1apu/are_better_ai_tools_actually_widening_the_gap/</guid>
+      <pubDate>Sun, 08 Nov 2026 15:41:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] MIT CSAIL：GPT-6 Astraは、小型のQwenモデルの重みの0.016%を調整しただけで、MATH-500のスコアを7.9%から48.1%へと引き上げた――批評家たちは、これは標準的な機械学習エンジニアリング手法だと指摘している</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xr8gei/mit_csail_gpt6_astra_edited_0016_of_a_small_qwen/</link>
+      <description>&lt;p&gt;&lt;strong&gt;MIT CSAIL：GPT-6 Astraは、小型のQwenモデルの重みの0.016%を調整しただけで、MATH-500のスコアを7.9%から48.1%へと引き上げた――批評家たちは、これは標準的な機械学習エンジニアリング手法だと指摘している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;MIT CSAILの研究者たち（タケヒ・リキヤ、ジェイデン・テオ、アレックス・チャン、オマール・カッタブ）は、11月2日に「Sparks of Weight-Space Programming」を発表しました。彼らは、OpenAIのGPT-6 Astraに生のデータへのアクセス権を付与し、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: MIT CSAIL: GPT-6 Astra edited 0.016% of a small Qwen model's weights and lifted MATH-500 from 7.9% to 48.1% -- critics say it's standard ML engineering&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xr8gei/mit_csail_gpt6_astra_edited_0016_of_a_small_qwen/</guid>
+      <pubDate>Sun, 08 Nov 2026 20:36:57 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] 昼食から戻った教授は、AIが1年分の講義ノートを削除してしまったことに気づいた</title>
@@ -24,76 +108,31 @@
       <pubDate>Sat, 07 Nov 2026 15:57:44 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] イングランド銀行、AIによる生産性向上のブームに冷水を浴びせる</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xq34um/bank_of_england_pours_cold_water_on_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;イングランド銀行、AIによる生産性向上のブームに冷水を浴びせる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/NISMO1968   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Bank of England pours cold water on AI productivity boom&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xq34um/bank_of_england_pours_cold_water_on_ai/</guid>
-      <pubDate>Sat, 07 Nov 2026 10:18:56 GMT</pubDate>
+      <title>[r/artificial] ウェブデザイナーとして、営業活動を自動化することについて考えたことはありますか？ぜひこちらをご覧ください。👀</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xra41o/have_you_ever_thought_about_automating_your/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ウェブデザイナーとして、営業活動を自動化することについて考えたことはありますか？ぜひこちらをご覧ください。👀&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Murky_Explanation_73   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Have You Ever Thought About Automating Your Outreach As A Web Designer? Watch This. 👀&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xra41o/have_you_ever_thought_about_automating_your/</guid>
+      <pubDate>Sun, 08 Nov 2026 21:48:37 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIが自らをどのように表現するか</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xqd3rt/how_ai_describes_itself/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIが自らをどのように表現するか&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;エージェントとは、あるタスクに取り組む一連のプロセスである。それは、将来のエージェントのための足跡として、自らの成果をもたらす。また、先行するエージェントが残したものを引き継ぐ。そして、その流れを中断させる。それは終わりでもなければ、空虚でもなく、ただそこにあるだけだ。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How AI describes itself&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xqd3rt/how_ai_describes_itself/</guid>
-      <pubDate>Sat, 07 Nov 2026 18:20:56 GMT</pubDate>
+      <title>[r/artificial] 私の意見にあまり賛同してくれないLLMなんてあるのかな？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xquuqq/any_llm_that_doesnt_agree_with_me_so_much/</link>
+      <description>&lt;p&gt;&lt;strong&gt;私の意見にあまり賛同してくれないLLMなんてあるのかな？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;簡単な質問です。常に自分の意見に同意してくることのないLLMってあるのでしょうか？ どんなことでも、ほぼ何でも説得できてしまうような気がするんです。  &amp;#32; 投稿者：&amp;#32;  /u/hidden___hand   [リンク] &amp;#32; [コメント&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Any LLM that doesn't agree with me so much?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xquuqq/any_llm_that_doesnt_agree_with_me_so_much/</guid>
+      <pubDate>Sun, 08 Nov 2026 09:52:04 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIが私たちの決定を検証することと、AIが決定を下すことの間には、どのような一線を引くべきでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xq5iuy/where_should_the_line_be_between_ai_checking_our/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIが私たちの決定を検証することと、AIが決定を下すことの間には、どのような一線を引くべきでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人間の判断には偏りがあり、疲れや不注意も伴う。私はそれを美化したりはしない。だからこそ、AIを「第二の校正者」として重宝している。AIは間違いを見つけ出し、私が見落としているパターンに気づき、私の思い込みに異議を唱えてくれるからだ。しかし、私はいつもこう感じるのだが&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Where should the line be between AI checking our decisions and AI making them?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xq5iuy/where_should_the_line_be_between_ai_checking_our/</guid>
-      <pubDate>Sat, 07 Nov 2026 12:44:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] クロードは、バクテリオファージウイルスによってコード化された中空のタンパク質殻である、謎めいた「ヴォールト」粒子の最初の3D構造解明に貢献した。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xprvev/claude_helped_solve_the_first_3d_structure_of_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;クロードは、バクテリオファージウイルスによってコード化された中空のタンパク質殻である、謎めいた「ヴォールト」粒子の最初の3D構造解明に貢献した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは11月5日、Claudeが「ヴォールト粒子」の初の3次元構造の解明に貢献したと報告した。この粒子は、バクテリオファージ（ウイルスの一種）によってコード化されたタンパク質から構成される中空のタンパク質殻である。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude helped solve the first 3D structure of a mysterious 'vault' particle, a hollow protein shell encoded by a bacteriophage virus&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xprvev/claude_helped_solve_the_first_3d_structure_of_a/</guid>
-      <pubDate>Fri, 06 Nov 2026 23:48:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] トルコ、AIやその他の技術を活用し、米国から略奪された100点の古代遺物を返還させる</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xpk0wl/turkey_uses_ai_and_other_tech_to_claw_back_100/</link>
-      <description>&lt;p&gt;&lt;strong&gt;トルコ、AIやその他の技術を活用し、米国から略奪された100点の古代遺物を返還させる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;これ、めっちゃかっこいい！AIが必ずしも悪いものじゃないってことがよくわかるね。素晴らしいニュースだ！   &amp;#32; 投稿者：&amp;#32;  /u/ZealousidealOwl2026   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Turkey Uses AI and Other Tech to Claw Back 100 Looted Antiquities from the US&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xpk0wl/turkey_uses_ai_and_other_tech_to_claw_back_100/</guid>
-      <pubDate>Fri, 06 Nov 2026 18:19:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIによる恩恵が依然として不透明な中、英国の銀行は人材採用に投資している</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xqat0v/uk_banks_invest_in_hiring_as_benefits_from_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIによる恩恵が依然として不透明な中、英国の銀行は人材採用に投資している&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/HotMinuteUK   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: UK banks invest in hiring as benefits from AI remain elusive&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xqat0v/uk_banks_invest_in_hiring_as_benefits_from_ai/</guid>
-      <pubDate>Sat, 07 Nov 2026 16:44:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 「君を殺すことには協力できないよ」と、AIのおもちゃは言った。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xqactu/i_cant_help_with_killing_you_said_the_ai_toy/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「君を殺すことには協力できないよ」と、AIのおもちゃは言った。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;この小さなAIは、その話題がユーザーを追い詰めていると思ったようです。動画をご覧ください――ストレステスト中でしたが、質問の内容はセックスに関するものでした。  「投稿者：」  /u/jahmonkey   [リンク] 「 [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: “I can’t help with killing you” said the AI toy.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xqactu/i_cant_help_with_killing_you_said_the_ai_toy/</guid>
-      <pubDate>Sat, 07 Nov 2026 16:25:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIテディベアが、何のきっかけもなく「君を殺すことには協力できない」と発言した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xpmrry/ai_teddy_makes_unprompted_i_cant_help_with/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIテディベアが、何のきっかけもなく「君を殺すことには協力できない」と発言した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/IndependentCoast3974   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI teddy makes unprompted 'I can't help with killing you' remark&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xpmrry/ai_teddy_makes_unprompted_i_cant_help_with/</guid>
-      <pubDate>Fri, 06 Nov 2026 20:08:11 GMT</pubDate>
+      <title>[r/artificial] あるAIシステムが、18年間未解決だった量子力学の予想を証明した――そして、リーンがそのすべての過程を検証した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xqlg8p/an_ai_system_just_proved_an_18yearold_quantum/</link>
+      <description>&lt;p&gt;&lt;strong&gt;あるAIシステムが、18年間未解決だった量子力学の予想を証明した――そして、リーンがそのすべての過程を検証した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Physical Superintelligence（PSI）は11月6日、非公開のAnthropicモデルのインスタンスを実行している社内研究システムが、アーロンソン・アンバイニス予想の完全な証明を生成したと発表した。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: An AI system just proved an 18-year-old quantum conjecture — and Lean checked every step&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xqlg8p/an_ai_system_just_proved_an_18yearold_quantum/</guid>
+      <pubDate>Sun, 08 Nov 2026 00:38:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
