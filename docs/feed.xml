@@ -3,136 +3,119 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-08</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-10</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Nov 2026 21:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 01:22:56 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (436pt) ゴールドマン・サックス、銀行員やトレーダーから「クロード・コード」の使用を中止させる</title>
-      <link>https://news.ycombinator.com/item?id=50415628</link>
-      <description>&lt;p&gt;&lt;strong&gt;ゴールドマン・サックス、銀行員やトレーダーから「クロード・コード」の使用を中止させる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50415628</guid>
-      <pubDate>Sun, 08 Nov 2026 18:16:07 GMT</pubDate>
+      <title>[Hacker News] (933pt) Claude Fable 5.2 および Mythos 5.2</title>
+      <link>https://news.ycombinator.com/item?id=50429906</link>
+      <description>&lt;p&gt;&lt;strong&gt;Claude Fable 5.2 および Mythos 5.2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Fable 5.2 and Mythos 5.2&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50429906</guid>
+      <pubDate>Mon, 09 Nov 2026 18:56:29 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (230pt) 思考のツールとしての「書くこと」</title>
-      <link>https://news.ycombinator.com/item?id=50412067</link>
-      <description>&lt;p&gt;&lt;strong&gt;思考のツールとしての「書くこと」&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Writing as a thinking tool&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50412067</guid>
-      <pubDate>Sun, 08 Nov 2026 10:41:52 GMT</pubDate>
+      <title>[Hacker News] (842pt) 折り紙飛行機：最高に面白い紙飛行機</title>
+      <link>https://news.ycombinator.com/item?id=50424581</link>
+      <description>&lt;p&gt;&lt;strong&gt;折り紙飛行機：最高に面白い紙飛行機&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Foldable Flight: The Best Paper Airplanes&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50424581</guid>
+      <pubDate>Mon, 09 Nov 2026 12:19:22 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (177pt) RAM Altman：Linuxスクリプトがサム・アルトマンに、PCの未使用RAM容量を毎日メールで通知する</title>
-      <link>https://news.ycombinator.com/item?id=50415172</link>
-      <description>&lt;p&gt;&lt;strong&gt;RAM Altman：Linuxスクリプトがサム・アルトマンに、PCの未使用RAM容量を毎日メールで通知する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50415172</guid>
-      <pubDate>Sun, 08 Nov 2026 17:20:29 GMT</pubDate>
+      <title>[Hacker News] (455pt) ペイメンツ・カナダ、カナダのリアルタイム鉄道（RTR）決済システムの導入を発表</title>
+      <link>https://news.ycombinator.com/item?id=50427362</link>
+      <description>&lt;p&gt;&lt;strong&gt;ペイメンツ・カナダ、カナダのリアルタイム鉄道（RTR）決済システムの導入を発表&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50427362</guid>
+      <pubDate>Mon, 09 Nov 2026 16:00:45 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (120pt) Outlook.comは、DMARCを設定していないドメインからのメールを密かに拒否している</title>
-      <link>https://news.ycombinator.com/item?id=50416158</link>
-      <description>&lt;p&gt;&lt;strong&gt;Outlook.comは、DMARCを設定していないドメインからのメールを密かに拒否している&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Outlook.com Is Quietly Rejecting Email from Domains Without DMARC&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50416158</guid>
-      <pubDate>Sun, 08 Nov 2026 19:20:32 GMT</pubDate>
+      <title>[Hacker News] (383pt) Google Geminiは、個人のドライブファイルやメールを人間のアノテーターに転送する</title>
+      <link>https://news.ycombinator.com/item?id=50429426</link>
+      <description>&lt;p&gt;&lt;strong&gt;Google Geminiは、個人のドライブファイルやメールを人間のアノテーターに転送する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Google Gemini routes personal Drive files and emails to human annotators&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50429426</guid>
+      <pubDate>Mon, 09 Nov 2026 18:24:38 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (91pt) 私がAIによる脳の疲労とどう闘っているか</title>
-      <link>https://news.ycombinator.com/item?id=50416363</link>
-      <description>&lt;p&gt;&lt;strong&gt;私がAIによる脳の疲労とどう闘っているか&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: How I Fight AI Brain Fry&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50416363</guid>
-      <pubDate>Sun, 08 Nov 2026 19:37:42 GMT</pubDate>
+      <title>[Hacker News] (275pt) 「Claude Fable 5.2」、人工知能分析で65点を記録、これまでの最高得点</title>
+      <link>https://news.ycombinator.com/item?id=50431144</link>
+      <description>&lt;p&gt;&lt;strong&gt;「Claude Fable 5.2」、人工知能分析で65点を記録、これまでの最高得点&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50431144</guid>
+      <pubDate>Mon, 09 Nov 2026 20:04:55 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (39pt) エドワード・ホッパーの代表作『ナイトホークス』</title>
-      <link>https://news.ycombinator.com/item?id=50372838</link>
-      <description>&lt;p&gt;&lt;strong&gt;エドワード・ホッパーの代表作『ナイトホークス』&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Edward Hopper's Iconic Painting, &quot;Nighthawks&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50372838</guid>
-      <pubDate>Wed, 04 Nov 2026 23:23:08 GMT</pubDate>
+      <title>[Hacker News] (239pt) 当社で最もコンパクトかつ高効率なモデル：Muse Ember</title>
+      <link>https://news.ycombinator.com/item?id=50429024</link>
+      <description>&lt;p&gt;&lt;strong&gt;当社で最もコンパクトかつ高効率なモデル：Muse Ember&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Our Smallest, Most Efficient Model: Muse Ember&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50429024</guid>
+      <pubDate>Mon, 09 Nov 2026 17:58:46 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (15pt) 『ウェブは十分すぎるほどだ』 ポール・フォード著</title>
-      <link>https://news.ycombinator.com/item?id=50416456</link>
-      <description>&lt;p&gt;&lt;strong&gt;『ウェブは十分すぎるほどだ』 ポール・フォード著&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Web Is More Than Enough, by Paul Ford&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50416456</guid>
-      <pubDate>Sun, 08 Nov 2026 19:48:32 GMT</pubDate>
+      <title>[r/artificial] Anthropicは、すでに『Fable 5.2』よりも強力なモデルを保有していることを示している</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xs7vim/anthropic_shows_it_has_a_model_stronger_than/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropicは、すでに『Fable 5.2』よりも強力なモデルを保有していることを示している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://fixupx.com/AndrewCurran_/status/2119930955888746627  &amp;#32; 投稿者：&amp;#32;  /u/Eliv_nurotic   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic shows it has a model stronger than Fable 5.2 already&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xs7vim/anthropic_shows_it_has_a_model_stronger_than/</guid>
+      <pubDate>Mon, 09 Nov 2026 23:52:11 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Consumer Geminiは、DriveのファイルやGmailを自動的に取り込み、人間による審査プールに送ります。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xr1o9g/consumer_gemini_autonomously_ingests_drive/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Consumer Geminiは、DriveのファイルやGmailを自動的に取り込み、人間による審査プールに送ります。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;2023年、Googleは「Gmail、Docs、Driveの個人用コンテンツは『人間の審査員には閲覧されない』」と明言して、Gemini Workspace拡張機能をリリースした。しかしGoogleは、この方針をひっそりと撤回した。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Consumer Gemini autonomously ingests Drive files/Gmail into human review pool&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xr1o9g/consumer_gemini_autonomously_ingests_drive/</guid>
-      <pubDate>Sun, 08 Nov 2026 15:58:18 GMT</pubDate>
+      <title>[r/artificial] MITの「WorldParticle」：1つのAIモデルで、砂、布、流体、粒状物質、そしてタンパク質の折りたたみをシミュレート――タンパク質の運動に関する数値シミュレータよりも約100倍高速</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xs1ggg/mits_worldparticle_one_ai_model_simulates_sand/</link>
+      <description>&lt;p&gt;&lt;strong&gt;MITの「WorldParticle」：1つのAIモデルで、砂、布、流体、粒状物質、そしてタンパク質の折りたたみをシミュレート――タンパク質の運動に関する数値シミュレータよりも約100倍高速&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;MIT、ブリティッシュコロンビア大学、および提携機関の研究者らは、布や弾性体など6種類の物理的挙動をシミュレートする、単一のトランスフォーマーベースのモデル「WorldParticle」を開発した。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: MIT's WorldParticle: one AI model simulates sand, cloth, fluids, granular materials and folding proteins - about 100x faster than numerical simulators on protein motion&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xs1ggg/mits_worldparticle_one_ai_model_simulates_sand/</guid>
+      <pubDate>Mon, 09 Nov 2026 19:39:06 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 実際に、AIをどのように学んで、活用すればよいのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xr6y63/how_should_i_actually_be_learning_and_using_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;実際に、AIをどのように学んで、活用すればよいのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;みなさん、こんにちは。私は現在、大学でコンピュータサイエンスを学んでいるのですが、正直なところ、この業界の将来について少し不安を感じています。今の就職市場はかなり厳しい状況のようです。特に……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: how should I actually be learning and using AI?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xr6y63/how_should_i_actually_be_learning_and_using_ai/</guid>
-      <pubDate>Sun, 08 Nov 2026 19:34:38 GMT</pubDate>
+      <title>[r/artificial] Anthropic、IPOを控え競争が激化する中、新たな「Fable」および「Mythos」モデルを発表</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xs84k6/anthropic_unveils_new_fable_mythos_models_as/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropic、IPOを控え競争が激化する中、新たな「Fable」および「Mythos」モデルを発表&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;11月9日（ロイター） - OpenAIのライバルであるAnthropicは月曜日、2つの新しいAIモデル「Claude Fable 5.2」と「Claude Mythos 5.2」を発表した。同社は、急速に成長するAI市場において、​&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xs84k6/anthropic_unveils_new_fable_mythos_models_as/</guid>
+      <pubDate>Tue, 10 Nov 2026 00:02:15 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] より優れたAIツールは、実際には人々の間の格差を広げているのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xr1apu/are_better_ai_tools_actually_widening_the_gap/</link>
-      <description>&lt;p&gt;&lt;strong&gt;より優れたAIツールは、実際には人々の間の格差を広げているのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近、議論する価値があると思った考えに出くわしました。それは、生成AIが必ずしも人々の間の隔たりを縮めるわけではないかもしれない、というものです。実際、すでに存在する違いをさらに広げてしまう可能性さえあるのです。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Are better AI tools actually widening the gap between people?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xr1apu/are_better_ai_tools_actually_widening_the_gap/</guid>
-      <pubDate>Sun, 08 Nov 2026 15:41:41 GMT</pubDate>
+      <title>[r/artificial] スライドテストに合格するためにフォントを小さくするAIは、どこか人間らしすぎる気がする。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xruing/an_ai_shrinking_the_font_to_pass_a_slide_test/</link>
+      <description>&lt;p&gt;&lt;strong&gt;スライドテストに合格するためにフォントを小さくするAIは、どこか人間らしすぎる気がする。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;どうやら「技術的には完了」という表現が、AIのトレーニングの世界にも浸透しているようです。先日、Gensparkの「Gen-1 Slides」トレーニングに関する記事を読みましたが、その一節が特に印象に残りました。そのモデルは、フォントサイズを縮小して…&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: An AI shrinking the font to pass a slide test feels a little too human.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xruing/an_ai_shrinking_the_font_to_pass_a_slide_test/</guid>
+      <pubDate>Mon, 09 Nov 2026 15:25:09 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] MIT CSAIL：GPT-6 Astraは、小型のQwenモデルの重みの0.016%を調整しただけで、MATH-500のスコアを7.9%から48.1%へと引き上げた――批評家たちは、これは標準的な機械学習エンジニアリング手法だと指摘している</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xr8gei/mit_csail_gpt6_astra_edited_0016_of_a_small_qwen/</link>
-      <description>&lt;p&gt;&lt;strong&gt;MIT CSAIL：GPT-6 Astraは、小型のQwenモデルの重みの0.016%を調整しただけで、MATH-500のスコアを7.9%から48.1%へと引き上げた――批評家たちは、これは標準的な機械学習エンジニアリング手法だと指摘している&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;MIT CSAILの研究者たち（タケヒ・リキヤ、ジェイデン・テオ、アレックス・チャン、オマール・カッタブ）は、11月2日に「Sparks of Weight-Space Programming」を発表しました。彼らは、OpenAIのGPT-6 Astraに生のデータへのアクセス権を付与し、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: MIT CSAIL: GPT-6 Astra edited 0.016% of a small Qwen model's weights and lifted MATH-500 from 7.9% to 48.1% -- critics say it's standard ML engineering&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xr8gei/mit_csail_gpt6_astra_edited_0016_of_a_small_qwen/</guid>
-      <pubDate>Sun, 08 Nov 2026 20:36:57 GMT</pubDate>
+      <title>[r/artificial] 大学におけるAI？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xs7hq0/ai_in_universities/</link>
+      <description>&lt;p&gt;&lt;strong&gt;大学におけるAI？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;大学の教授たちは、通常、学生の論文をAIチェックツールにかけるものなのでしょうか？私は大学1年生なのですが、自分の論文がAI使用と判定されるのではないかと心配しています。特に、自分の論文が……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI in Universities?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xs7hq0/ai_in_universities/</guid>
+      <pubDate>Mon, 09 Nov 2026 23:35:25 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 昼食から戻った教授は、AIが1年分の講義ノートを削除してしまったことに気づいた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xq9os9/professor_returns_from_lunch_to_find_ai_deleted/</link>
-      <description>&lt;p&gt;&lt;strong&gt;昼食から戻った教授は、AIが1年分の講義ノートを削除してしまったことに気づいた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Away_Theme1330   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Professor returns from lunch to find AI deleted year’s worth of lecture notes&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xq9os9/professor_returns_from_lunch_to_find_ai_deleted/</guid>
-      <pubDate>Sat, 07 Nov 2026 15:57:44 GMT</pubDate>
+      <title>[r/artificial] ウェブブラウザに追加できるAIスロープ検出ツールを試してみました</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xrvosf/i_tried_the_ai_slop_detector_you_can_add_to_your/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ウェブブラウザに追加できるAIスロープ検出ツールを試してみました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/HotMinuteUK   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I tried the AI slop detector you can add to your web browser&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xrvosf/i_tried_the_ai_slop_detector_you_can_add_to_your/</guid>
+      <pubDate>Mon, 09 Nov 2026 16:08:51 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ウェブデザイナーとして、営業活動を自動化することについて考えたことはありますか？ぜひこちらをご覧ください。👀</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xra41o/have_you_ever_thought_about_automating_your/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ウェブデザイナーとして、営業活動を自動化することについて考えたことはありますか？ぜひこちらをご覧ください。👀&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Murky_Explanation_73   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Have You Ever Thought About Automating Your Outreach As A Web Designer? Watch This. 👀&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xra41o/have_you_ever_thought_about_automating_your/</guid>
-      <pubDate>Sun, 08 Nov 2026 21:48:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 私の意見にあまり賛同してくれないLLMなんてあるのかな？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xquuqq/any_llm_that_doesnt_agree_with_me_so_much/</link>
-      <description>&lt;p&gt;&lt;strong&gt;私の意見にあまり賛同してくれないLLMなんてあるのかな？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;簡単な質問です。常に自分の意見に同意してくることのないLLMってあるのでしょうか？ どんなことでも、ほぼ何でも説得できてしまうような気がするんです。  &amp;#32; 投稿者：&amp;#32;  /u/hidden___hand   [リンク] &amp;#32; [コメント&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Any LLM that doesn't agree with me so much?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xquuqq/any_llm_that_doesnt_agree_with_me_so_much/</guid>
-      <pubDate>Sun, 08 Nov 2026 09:52:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] あるAIシステムが、18年間未解決だった量子力学の予想を証明した――そして、リーンがそのすべての過程を検証した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xqlg8p/an_ai_system_just_proved_an_18yearold_quantum/</link>
-      <description>&lt;p&gt;&lt;strong&gt;あるAIシステムが、18年間未解決だった量子力学の予想を証明した――そして、リーンがそのすべての過程を検証した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Physical Superintelligence（PSI）は11月6日、非公開のAnthropicモデルのインスタンスを実行している社内研究システムが、アーロンソン・アンバイニス予想の完全な証明を生成したと発表した。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: An AI system just proved an 18-year-old quantum conjecture — and Lean checked every step&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xqlg8p/an_ai_system_just_proved_an_18yearold_quantum/</guid>
-      <pubDate>Sun, 08 Nov 2026 00:38:24 GMT</pubDate>
+      <title>[r/artificial] 7年以上の経験を持つML/CVエンジニアとして、現在の高まる生成AIブームには悲観的な見方を禁じ得ません。LLM以外の分野で、まだ解決を待っている現実世界の難題はどこにあるのでしょうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xrqpq1/as_an_mlcv_engineer_of_7_years_the_current/</link>
+      <description>&lt;p&gt;&lt;strong&gt;7年以上の経験を持つML/CVエンジニアとして、現在の高まる生成AIブームには悲観的な見方を禁じ得ません。LLM以外の分野で、まだ解決を待っている現実世界の難題はどこにあるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は機械学習が大好きです。長年にわたり、カスタムビジョンモデルのトレーニングや時系列データの処理、マルチモーダルパイプラインのゼロからの構築に取り組んできました。しかし、現在、AIを排他的に扱う方向へとシフトしつつあり……&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: As an ML/CV engineer of 7+ years, the current generative AI hype train makes me pessimistic. Where are the non-LLM, real-world hard problems still waiting to be solved?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xrqpq1/as_an_mlcv_engineer_of_7_years_the_current/</guid>
+      <pubDate>Mon, 09 Nov 2026 12:43:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
