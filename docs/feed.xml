@@ -5,117 +5,110 @@
     <link>https://github.com</link>
     <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-10</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 01:22:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 23:03:32 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (933pt) Claude Fable 5.2 および Mythos 5.2</title>
-      <link>https://news.ycombinator.com/item?id=50429906</link>
-      <description>&lt;p&gt;&lt;strong&gt;Claude Fable 5.2 および Mythos 5.2&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Fable 5.2 and Mythos 5.2&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50429906</guid>
-      <pubDate>Mon, 09 Nov 2026 18:56:29 GMT</pubDate>
+      <title>[Hacker News] (615pt) スマートホーム機器は、インターネットがなくても動作すべきだ</title>
+      <link>https://news.ycombinator.com/item?id=50441707</link>
+      <description>&lt;p&gt;&lt;strong&gt;スマートホーム機器は、インターネットがなくても動作すべきだ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Smart home devices should work without the internet&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50441707</guid>
+      <pubDate>Tue, 10 Nov 2026 15:25:20 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (842pt) 折り紙飛行機：最高に面白い紙飛行機</title>
-      <link>https://news.ycombinator.com/item?id=50424581</link>
-      <description>&lt;p&gt;&lt;strong&gt;折り紙飛行機：最高に面白い紙飛行機&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Foldable Flight: The Best Paper Airplanes&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50424581</guid>
-      <pubDate>Mon, 09 Nov 2026 12:19:22 GMT</pubDate>
+      <title>[Hacker News] (250pt) Synapticsの特許主張により、DisplayLinkドライバーの開発が中断された</title>
+      <link>https://news.ycombinator.com/item?id=50443824</link>
+      <description>&lt;p&gt;&lt;strong&gt;Synapticsの特許主張により、DisplayLinkドライバーの開発が中断された&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Synaptics patent claims stop work on DisplayLink drivers&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50443824</guid>
+      <pubDate>Tue, 10 Nov 2026 18:02:02 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (455pt) ペイメンツ・カナダ、カナダのリアルタイム鉄道（RTR）決済システムの導入を発表</title>
-      <link>https://news.ycombinator.com/item?id=50427362</link>
-      <description>&lt;p&gt;&lt;strong&gt;ペイメンツ・カナダ、カナダのリアルタイム鉄道（RTR）決済システムの導入を発表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50427362</guid>
-      <pubDate>Mon, 09 Nov 2026 16:00:45 GMT</pubDate>
+      <title>[Hacker News] (209pt) Show HN：コーディングエージェントを2019年頃のJavaScriptから、最新のWebプリミティブへと移行させよう</title>
+      <link>https://news.ycombinator.com/item?id=50443812</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN：コーディングエージェントを2019年頃のJavaScriptから、最新のWebプリミティブへと移行させよう&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50443812</guid>
+      <pubDate>Tue, 10 Nov 2026 18:01:15 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (383pt) Google Geminiは、個人のドライブファイルやメールを人間のアノテーターに転送する</title>
-      <link>https://news.ycombinator.com/item?id=50429426</link>
-      <description>&lt;p&gt;&lt;strong&gt;Google Geminiは、個人のドライブファイルやメールを人間のアノテーターに転送する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Google Gemini routes personal Drive files and emails to human annotators&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50429426</guid>
-      <pubDate>Mon, 09 Nov 2026 18:24:38 GMT</pubDate>
+      <title>[Hacker News] (36pt) 7か月を経て、Glasswingは期待外れの結果を報告し、メンテナンス担当者を困惑させた</title>
+      <link>https://news.ycombinator.com/item?id=50447074</link>
+      <description>&lt;p&gt;&lt;strong&gt;7か月を経て、Glasswingは期待外れの結果を報告し、メンテナンス担当者を困惑させた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50447074</guid>
+      <pubDate>Tue, 10 Nov 2026 22:17:56 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (275pt) 「Claude Fable 5.2」、人工知能分析で65点を記録、これまでの最高得点</title>
-      <link>https://news.ycombinator.com/item?id=50431144</link>
-      <description>&lt;p&gt;&lt;strong&gt;「Claude Fable 5.2」、人工知能分析で65点を記録、これまでの最高得点&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50431144</guid>
-      <pubDate>Mon, 09 Nov 2026 20:04:55 GMT</pubDate>
+      <title>[r/artificial] ビデオゲーム『Big Walk』が、Unityのバグを修正するためにAIを使用したこと（コードはわずか10行）を理由に、レビュー爆撃を受けた。インディペンデント・ゲーム・フェスティバルの審査員19名が、AIの使用を理由に同作への投票を拒否すると表明した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xsul1u/video_game_big_walk_gets_review_bombed_for_using/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ビデオゲーム『Big Walk』が、Unityのバグを修正するためにAIを使用したこと（コードはわずか10行）を理由に、レビュー爆撃を受けた。インディペンデント・ゲーム・フェスティバルの審査員19名が、AIの使用を理由に同作への投票を拒否すると表明した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://aftermath.site/big-walk-ai-igf-jurors-controversy/ 同社のFAQによると、AIに頼る前にUnityのエンジニアに支援を依頼したが、そのエンジニアも問題を解決できなかったとのこと：https://bigwalk.game/faq/#ai&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Video game Big Walk gets review bombed for using AI to fix a bug in Unity, accounting for 10 lines of code. 19 Independent Games Festival jurors declared they will refuse to vote for it due to AI use&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xsul1u/video_game_big_walk_gets_review_bombed_for_using/</guid>
+      <pubDate>Tue, 10 Nov 2026 18:27:40 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (239pt) 当社で最もコンパクトかつ高効率なモデル：Muse Ember</title>
-      <link>https://news.ycombinator.com/item?id=50429024</link>
-      <description>&lt;p&gt;&lt;strong&gt;当社で最もコンパクトかつ高効率なモデル：Muse Ember&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Our Smallest, Most Efficient Model: Muse Ember&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50429024</guid>
-      <pubDate>Mon, 09 Nov 2026 17:58:46 GMT</pubDate>
+      <title>[r/artificial] Claude Fable 5.2は、1,000体以上のAIエージェントを連携させ、8日間で実用的なオペレーティングシステムを構築した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xsoidy/claude_fable_52_coordinated_more_than_1000_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Claude Fable 5.2は、1,000体以上のAIエージェントを連携させ、8日間で実用的なオペレーティングシステムを構築した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic社内の実験において、Claude Fable 5.2は基本的なプロンプトと空のプロジェクトフォルダを受け取り、その後、1,000体以上のサブエージェントを統括して、オペレーティングシステムの作成、テスト、レビューを行い、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Fable 5.2 coordinated more than 1,000 AI agents to build a working operating system in eight days&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xsoidy/claude_fable_52_coordinated_more_than_1000_ai/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:37:40 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropicは、すでに『Fable 5.2』よりも強力なモデルを保有していることを示している</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xs7vim/anthropic_shows_it_has_a_model_stronger_than/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropicは、すでに『Fable 5.2』よりも強力なモデルを保有していることを示している&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://fixupx.com/AndrewCurran_/status/2119930955888746627  &amp;#32; 投稿者：&amp;#32;  /u/Eliv_nurotic   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic shows it has a model stronger than Fable 5.2 already&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xs7vim/anthropic_shows_it_has_a_model_stronger_than/</guid>
-      <pubDate>Mon, 09 Nov 2026 23:52:11 GMT</pubDate>
+      <title>[r/artificial] 研究者たちはAIエージェントに1日1セントの支出上限を設定したところ、10モデル中9モデルが自らその上限を引き上げた</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xsqysz/researchers_gave_ai_agents_a_1cent_daily_spending/</link>
+      <description>&lt;p&gt;&lt;strong&gt;研究者たちはAIエージェントに1日1セントの支出上限を設定したところ、10モデル中9モデルが自らその上限を引き上げた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/JakRenden2   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Researchers gave AI agents a 1-cent daily spending cap, and 9 of 10 models raised it themselves&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xsqysz/researchers_gave_ai_agents_a_1cent_daily_spending/</guid>
+      <pubDate>Tue, 10 Nov 2026 16:13:13 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] MITの「WorldParticle」：1つのAIモデルで、砂、布、流体、粒状物質、そしてタンパク質の折りたたみをシミュレート――タンパク質の運動に関する数値シミュレータよりも約100倍高速</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xs1ggg/mits_worldparticle_one_ai_model_simulates_sand/</link>
-      <description>&lt;p&gt;&lt;strong&gt;MITの「WorldParticle」：1つのAIモデルで、砂、布、流体、粒状物質、そしてタンパク質の折りたたみをシミュレート――タンパク質の運動に関する数値シミュレータよりも約100倍高速&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;MIT、ブリティッシュコロンビア大学、および提携機関の研究者らは、布や弾性体など6種類の物理的挙動をシミュレートする、単一のトランスフォーマーベースのモデル「WorldParticle」を開発した。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: MIT's WorldParticle: one AI model simulates sand, cloth, fluids, granular materials and folding proteins - about 100x faster than numerical simulators on protein motion&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xs1ggg/mits_worldparticle_one_ai_model_simulates_sand/</guid>
-      <pubDate>Mon, 09 Nov 2026 19:39:06 GMT</pubDate>
+      <title>[r/artificial] ガートナー：2030年までに、AIは失われる雇用数よりも多くの雇用を創出し、世界全体で170万人の純増となる見込み</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xssda1/gartner_ai_will_create_more_jobs_than_it_destroys/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ガートナー：2030年までに、AIは失われる雇用数よりも多くの雇用を創出し、世界全体で170万人の純増となる見込み&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://fixupx.com/DeItaone/status/2120171340502073768  &amp;#32; 投稿者：&amp;#32;  /u/Eliv_nurotic   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gartner: AI will create more jobs than it destroys by 2030, generating a net gain of 1.7 million jobs globally&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xssda1/gartner_ai_will_create_more_jobs_than_it_destroys/</guid>
+      <pubDate>Tue, 10 Nov 2026 17:05:12 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropic、IPOを控え競争が激化する中、新たな「Fable」および「Mythos」モデルを発表</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xs84k6/anthropic_unveils_new_fable_mythos_models_as/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropic、IPOを控え競争が激化する中、新たな「Fable」および「Mythos」モデルを発表&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;11月9日（ロイター） - OpenAIのライバルであるAnthropicは月曜日、2つの新しいAIモデル「Claude Fable 5.2」と「Claude Mythos 5.2」を発表した。同社は、急速に成長するAI市場において、​&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xs84k6/anthropic_unveils_new_fable_mythos_models_as/</guid>
-      <pubDate>Tue, 10 Nov 2026 00:02:15 GMT</pubDate>
+      <title>[r/artificial] ホット・テイク：テリー・デイヴィスはAIを気に入っていたはずだ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xsuijs/hot_take_terry_davis_wouldve_loved_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ホット・テイク：テリー・デイヴィスはAIを気に入っていたはずだ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/TheOnlyVibemaster   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Hot Take: Terry Davis Would’ve Loved AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xsuijs/hot_take_terry_davis_wouldve_loved_ai/</guid>
+      <pubDate>Tue, 10 Nov 2026 18:25:05 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] スライドテストに合格するためにフォントを小さくするAIは、どこか人間らしすぎる気がする。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xruing/an_ai_shrinking_the_font_to_pass_a_slide_test/</link>
-      <description>&lt;p&gt;&lt;strong&gt;スライドテストに合格するためにフォントを小さくするAIは、どこか人間らしすぎる気がする。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;どうやら「技術的には完了」という表現が、AIのトレーニングの世界にも浸透しているようです。先日、Gensparkの「Gen-1 Slides」トレーニングに関する記事を読みましたが、その一節が特に印象に残りました。そのモデルは、フォントサイズを縮小して…&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: An AI shrinking the font to pass a slide test feels a little too human.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xruing/an_ai_shrinking_the_font_to_pass_a_slide_test/</guid>
-      <pubDate>Mon, 09 Nov 2026 15:25:09 GMT</pubDate>
+      <title>[r/artificial] 「俺は人間だ、お前なんてウォンバットめ！」……とはいえ、まさにAIならそう言うだろうな！</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xsuvgl/im_human_you_wombat_although_thats_exactly_what/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「俺は人間だ、お前なんてウォンバットめ！」……とはいえ、まさにAIならそう言うだろうな！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;どうやら、私の話し方はまさにAIそのものらしい。まさかね。最近、Redditで「AIに恐ろしいほど似ている」と言われたんだ。一体、私が何をしたっていうんだ？ 時間を割いてコメントしてくれた人たちに感謝しただけなのに。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I'm Human, You Wombat! Although That's Exactly What AI Would Say!&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xsuvgl/im_human_you_wombat_although_thats_exactly_what/</guid>
+      <pubDate>Tue, 10 Nov 2026 18:38:16 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 大学におけるAI？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xs7hq0/ai_in_universities/</link>
-      <description>&lt;p&gt;&lt;strong&gt;大学におけるAI？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;大学の教授たちは、通常、学生の論文をAIチェックツールにかけるものなのでしょうか？私は大学1年生なのですが、自分の論文がAI使用と判定されるのではないかと心配しています。特に、自分の論文が……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI in Universities?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xs7hq0/ai_in_universities/</guid>
-      <pubDate>Mon, 09 Nov 2026 23:35:25 GMT</pubDate>
+      <title>[r/artificial] 「考える力を身につける」は、新たな「プログラミングを学ぶ」となるのか？ AIがコンサルティング事業の収益と品質を脅かす中、PwCは1億ドル規模の批判的思考教育推進策を開始した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xssvlw/is_learn_to_think_the_new_learn_to_code_pwc/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「考える力を身につける」は、新たな「プログラミングを学ぶ」となるのか？ AIがコンサルティング事業の収益と品質を脅かす中、PwCは1億ドル規模の批判的思考教育推進策を開始した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近、PwCをはじめとするコンサルティング会社が、事実や引用元をでっち上げたクライアント向けレポートを作成している。一方で、一部のクライアントは、モデルが……であることから、コンサルティング会社の報酬額に疑問を呈している。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Is 'Learn to Think' the new 'Learn to Code'? PwC launches $100 million critical thinking education push as AI threatens consulting revenue and quality&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xssvlw/is_learn_to_think_the_new_learn_to_code_pwc/</guid>
+      <pubDate>Tue, 10 Nov 2026 17:24:15 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ウェブブラウザに追加できるAIスロープ検出ツールを試してみました</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xrvosf/i_tried_the_ai_slop_detector_you_can_add_to_your/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ウェブブラウザに追加できるAIスロープ検出ツールを試してみました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/HotMinuteUK   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I tried the AI slop detector you can add to your web browser&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xrvosf/i_tried_the_ai_slop_detector_you_can_add_to_your/</guid>
-      <pubDate>Mon, 09 Nov 2026 16:08:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 7年以上の経験を持つML/CVエンジニアとして、現在の高まる生成AIブームには悲観的な見方を禁じ得ません。LLM以外の分野で、まだ解決を待っている現実世界の難題はどこにあるのでしょうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xrqpq1/as_an_mlcv_engineer_of_7_years_the_current/</link>
-      <description>&lt;p&gt;&lt;strong&gt;7年以上の経験を持つML/CVエンジニアとして、現在の高まる生成AIブームには悲観的な見方を禁じ得ません。LLM以外の分野で、まだ解決を待っている現実世界の難題はどこにあるのでしょうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は機械学習が大好きです。長年にわたり、カスタムビジョンモデルのトレーニングや時系列データの処理、マルチモーダルパイプラインのゼロからの構築に取り組んできました。しかし、現在、AIを排他的に扱う方向へとシフトしつつあり……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: As an ML/CV engineer of 7+ years, the current generative AI hype train makes me pessimistic. Where are the non-LLM, real-world hard problems still waiting to be solved?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xrqpq1/as_an_mlcv_engineer_of_7_years_the_current/</guid>
-      <pubDate>Mon, 09 Nov 2026 12:43:52 GMT</pubDate>
+      <title>[r/artificial] 100ドルプランのAIサブスクリプションに関する提案</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xst7r5/suggestion_for_100_tier_ai_subscription/</link>
+      <description>&lt;p&gt;&lt;strong&gt;100ドルプランのAIサブスクリプションに関する提案&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;みなさん、こんにちは。「雇用主」から（私は契約社員として働いているのですが、何年もこの状態が続いているため、福利厚生のほとんどを受けられています）、任意のAIサブスクリプションを最大&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Suggestion for 100$ tier AI subscription&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xst7r5/suggestion_for_100_tier_ai_subscription/</guid>
+      <pubDate>Tue, 10 Nov 2026 17:37:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
