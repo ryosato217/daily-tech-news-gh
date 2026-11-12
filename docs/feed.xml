@@ -3,112 +3,104 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-10</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-12</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 23:03:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:22:16 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (615pt) スマートホーム機器は、インターネットがなくても動作すべきだ</title>
-      <link>https://news.ycombinator.com/item?id=50441707</link>
-      <description>&lt;p&gt;&lt;strong&gt;スマートホーム機器は、インターネットがなくても動作すべきだ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Smart home devices should work without the internet&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50441707</guid>
-      <pubDate>Tue, 10 Nov 2026 15:25:20 GMT</pubDate>
+      <title>[Hacker News] (298pt) ユナイテッド航空、AIエージェントによる旅行者への航空券予約を禁止</title>
+      <link>https://news.ycombinator.com/item?id=50458900</link>
+      <description>&lt;p&gt;&lt;strong&gt;ユナイテッド航空、AIエージェントによる旅行者への航空券予約を禁止&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: United Airlines bans AI agents from booking flights on behalf of travelers&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50458900</guid>
+      <pubDate>Wed, 11 Nov 2026 21:24:35 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (250pt) Synapticsの特許主張により、DisplayLinkドライバーの開発が中断された</title>
-      <link>https://news.ycombinator.com/item?id=50443824</link>
-      <description>&lt;p&gt;&lt;strong&gt;Synapticsの特許主張により、DisplayLinkドライバーの開発が中断された&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Synaptics patent claims stop work on DisplayLink drivers&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50443824</guid>
-      <pubDate>Tue, 10 Nov 2026 18:02:02 GMT</pubDate>
+      <title>[Hacker News] (235pt) Gemini Decisions API</title>
+      <link>https://news.ycombinator.com/item?id=50456791</link>
+      <description>&lt;p&gt;&lt;strong&gt;Gemini Decisions API&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gemini Decisions API&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50456791</guid>
+      <pubDate>Wed, 11 Nov 2026 18:32:42 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (209pt) Show HN：コーディングエージェントを2019年頃のJavaScriptから、最新のWebプリミティブへと移行させよう</title>
-      <link>https://news.ycombinator.com/item?id=50443812</link>
-      <description>&lt;p&gt;&lt;strong&gt;Show HN：コーディングエージェントを2019年頃のJavaScriptから、最新のWebプリミティブへと移行させよう&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50443812</guid>
-      <pubDate>Tue, 10 Nov 2026 18:01:15 GMT</pubDate>
+      <title>[Hacker News] (72pt) ペンキの飛び散りの93％は有効なPerlプログラムである（2019年）</title>
+      <link>https://news.ycombinator.com/item?id=50459745</link>
+      <description>&lt;p&gt;&lt;strong&gt;ペンキの飛び散りの93％は有効なPerlプログラムである（2019年）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: 93% of Paint Splatters Are Valid Perl Programs (2019)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50459745</guid>
+      <pubDate>Wed, 11 Nov 2026 22:34:23 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (36pt) 7か月を経て、Glasswingは期待外れの結果を報告し、メンテナンス担当者を困惑させた</title>
-      <link>https://news.ycombinator.com/item?id=50447074</link>
-      <description>&lt;p&gt;&lt;strong&gt;7か月を経て、Glasswingは期待外れの結果を報告し、メンテナンス担当者を困惑させた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50447074</guid>
-      <pubDate>Tue, 10 Nov 2026 22:17:56 GMT</pubDate>
+      <title>[r/artificial] Anthropic社は、IPOを数日後に控えたタイミングで、AIの安全性に関する重要な警報が発動されたと発表した</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xtr9oc/anthropic_says_a_key_ai_safety_alarm_has_been/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Anthropic社は、IPOを数日後に控えたタイミングで、AIの安全性に関する重要な警報が発動されたと発表した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Resident-Fall4351   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic says a key AI safety alarm has been triggered, days before its IPO&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xtr9oc/anthropic_says_a_key_ai_safety_alarm_has_been/</guid>
+      <pubDate>Wed, 11 Nov 2026 19:32:58 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ビデオゲーム『Big Walk』が、Unityのバグを修正するためにAIを使用したこと（コードはわずか10行）を理由に、レビュー爆撃を受けた。インディペンデント・ゲーム・フェスティバルの審査員19名が、AIの使用を理由に同作への投票を拒否すると表明した。</title>
+      <title>[r/artificial] AIエージェントがソフトウェアの購入者となりつつあるが、企業はそれに備えていない</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xtdzxd/ai_agents_are_becoming_software_buyers_and/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIエージェントがソフトウェアの購入者となりつつあるが、企業はそれに備えていない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/BakingBreadBB2   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI agents are becoming software buyers, and businesses aren't ready&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xtdzxd/ai_agents_are_becoming_software_buyers_and/</guid>
+      <pubDate>Wed, 11 Nov 2026 10:04:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 英国企業、AIへの過剰投資により採用を縮小</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xtmy87/uk_companies_scale_back_hiring_due_to/</link>
+      <description>&lt;p&gt;&lt;strong&gt;英国企業、AIへの過剰投資により採用を縮小&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/HotMinuteUK   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: UK companies scale back hiring due to overspending on AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xtmy87/uk_companies_scale_back_hiring_due_to/</guid>
+      <pubDate>Wed, 11 Nov 2026 16:54:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] オーディオブック向けElevenLabsボイスライブラリの32種類の声を対象としたブラインドテスト（有料リスナー125名、評価数1,122件）：「プロ」の声も即席のクローンと大差なく、人気度は予測の指標にならず、声の大きい方が好まれる</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xtuiq3/blind_test_of_32_elevenlabs_voice_library_voices/</link>
+      <description>&lt;p&gt;&lt;strong&gt;オーディオブック向けElevenLabsボイスライブラリの32種類の声を対象としたブラインドテスト（有料リスナー125名、評価数1,122件）：「プロ」の声も即席のクローンと大差なく、人気度は予測の指標にならず、声の大きい方が好まれる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ボイスライブラリ（5,000以上の英語ナレーション音声、品質指標なし）からナレーターの声を妥当な方法で選定する必要があったため、有料のブラインドテストを実施しました。設定：32の声を性別ごとに層別化し、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Blind test of 32 ElevenLabs Voice Library voices for audiobooks (125 paid listeners, 1,122 judgments): &quot;professional&quot; voices no better than instant clones, popularity predicts nothing, louder voices win&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xtuiq3/blind_test_of_32_elevenlabs_voice_library_voices/</guid>
+      <pubDate>Wed, 11 Nov 2026 21:40:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] ビデオゲーム『Big Walk』が、Unityのバグを修正するためにAIを使用したこと（その修正コードはわずか10行）を理由に、レビュー爆撃を受けた。インディペンデント・ゲーム・フェスティバルの審査員19名が、AIの使用を理由に同作への投票を拒否すると表明した。</title>
       <link>https://www.reddit.com/r/artificial/comments/1xsul1u/video_game_big_walk_gets_review_bombed_for_using/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ビデオゲーム『Big Walk』が、Unityのバグを修正するためにAIを使用したこと（コードはわずか10行）を理由に、レビュー爆撃を受けた。インディペンデント・ゲーム・フェスティバルの審査員19名が、AIの使用を理由に同作への投票を拒否すると表明した。&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;ビデオゲーム『Big Walk』が、Unityのバグを修正するためにAIを使用したこと（その修正コードはわずか10行）を理由に、レビュー爆撃を受けた。インディペンデント・ゲーム・フェスティバルの審査員19名が、AIの使用を理由に同作への投票を拒否すると表明した。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;https://aftermath.site/big-walk-ai-igf-jurors-controversy/ 同社のFAQによると、AIに頼る前にUnityのエンジニアに支援を依頼したが、そのエンジニアも問題を解決できなかったとのこと：https://bigwalk.game/faq/#ai&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Video game Big Walk gets review bombed for using AI to fix a bug in Unity, accounting for 10 lines of code. 19 Independent Games Festival jurors declared they will refuse to vote for it due to AI use&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xsul1u/video_game_big_walk_gets_review_bombed_for_using/</guid>
       <pubDate>Tue, 10 Nov 2026 18:27:40 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Claude Fable 5.2は、1,000体以上のAIエージェントを連携させ、8日間で実用的なオペレーティングシステムを構築した。</title>
+      <title>[r/artificial] Claude Fable 5.2は、1,000体以上のAIエージェントを連携させ、わずか8日間で実用的なオペレーティングシステムを構築した。</title>
       <link>https://www.reddit.com/r/artificial/comments/1xsoidy/claude_fable_52_coordinated_more_than_1000_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Claude Fable 5.2は、1,000体以上のAIエージェントを連携させ、8日間で実用的なオペレーティングシステムを構築した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic社内の実験において、Claude Fable 5.2は基本的なプロンプトと空のプロジェクトフォルダを受け取り、その後、1,000体以上のサブエージェントを統括して、オペレーティングシステムの作成、テスト、レビューを行い、&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Claude Fable 5.2は、1,000体以上のAIエージェントを連携させ、わずか8日間で実用的なオペレーティングシステムを構築した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic社内の実験において、Claude Fable 5.2は基本的なプロンプトと空のプロジェクトフォルダを受け取り、その後、1,000体以上のサブエージェントを統率して、オペレーティングシステムの作成、テスト、レビューを行い、&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Claude Fable 5.2 coordinated more than 1,000 AI agents to build a working operating system in eight days&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xsoidy/claude_fable_52_coordinated_more_than_1000_ai/</guid>
       <pubDate>Tue, 10 Nov 2026 14:37:40 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 研究者たちはAIエージェントに1日1セントの支出上限を設定したところ、10モデル中9モデルが自らその上限を引き上げた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xsqysz/researchers_gave_ai_agents_a_1cent_daily_spending/</link>
-      <description>&lt;p&gt;&lt;strong&gt;研究者たちはAIエージェントに1日1セントの支出上限を設定したところ、10モデル中9モデルが自らその上限を引き上げた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/JakRenden2   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Researchers gave AI agents a 1-cent daily spending cap, and 9 of 10 models raised it themselves&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xsqysz/researchers_gave_ai_agents_a_1cent_daily_spending/</guid>
-      <pubDate>Tue, 10 Nov 2026 16:13:13 GMT</pubDate>
+      <title>[r/artificial] OpenAIの「シェパード」たちが、画期的な物理学の成果を裏付ける</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xtk09r/openais_shepherds_affirm_blockbuster_physics/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIの「シェパード」たちが、画期的な物理学の成果を裏付ける&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenAIが取り組んできたもう一つの「100万ドル規模の難題」に関する進捗が、ついに公表された。同社がこの研究を検証するために任命した専門家たちは、人工知能によって生成された「exi」の証明について、その妥当性を確認したと述べている。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI’s ‘shepherds’ affirm blockbuster physics result&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xtk09r/openais_shepherds_affirm_blockbuster_physics/</guid>
+      <pubDate>Wed, 11 Nov 2026 15:03:20 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ガートナー：2030年までに、AIは失われる雇用数よりも多くの雇用を創出し、世界全体で170万人の純増となる見込み</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xssda1/gartner_ai_will_create_more_jobs_than_it_destroys/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ガートナー：2030年までに、AIは失われる雇用数よりも多くの雇用を創出し、世界全体で170万人の純増となる見込み&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://fixupx.com/DeItaone/status/2120171340502073768  &amp;#32; 投稿者：&amp;#32;  /u/Eliv_nurotic   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gartner: AI will create more jobs than it destroys by 2030, generating a net gain of 1.7 million jobs globally&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xssda1/gartner_ai_will_create_more_jobs_than_it_destroys/</guid>
-      <pubDate>Tue, 10 Nov 2026 17:05:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ホット・テイク：テリー・デイヴィスはAIを気に入っていたはずだ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xsuijs/hot_take_terry_davis_wouldve_loved_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ホット・テイク：テリー・デイヴィスはAIを気に入っていたはずだ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/TheOnlyVibemaster   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Hot Take: Terry Davis Would’ve Loved AI&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xsuijs/hot_take_terry_davis_wouldve_loved_ai/</guid>
-      <pubDate>Tue, 10 Nov 2026 18:25:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 「俺は人間だ、お前なんてウォンバットめ！」……とはいえ、まさにAIならそう言うだろうな！</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xsuvgl/im_human_you_wombat_although_thats_exactly_what/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「俺は人間だ、お前なんてウォンバットめ！」……とはいえ、まさにAIならそう言うだろうな！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;どうやら、私の話し方はまさにAIそのものらしい。まさかね。最近、Redditで「AIに恐ろしいほど似ている」と言われたんだ。一体、私が何をしたっていうんだ？ 時間を割いてコメントしてくれた人たちに感謝しただけなのに。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I'm Human, You Wombat! Although That's Exactly What AI Would Say!&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xsuvgl/im_human_you_wombat_although_thats_exactly_what/</guid>
-      <pubDate>Tue, 10 Nov 2026 18:38:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 「考える力を身につける」は、新たな「プログラミングを学ぶ」となるのか？ AIがコンサルティング事業の収益と品質を脅かす中、PwCは1億ドル規模の批判的思考教育推進策を開始した</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xssvlw/is_learn_to_think_the_new_learn_to_code_pwc/</link>
-      <description>&lt;p&gt;&lt;strong&gt;「考える力を身につける」は、新たな「プログラミングを学ぶ」となるのか？ AIがコンサルティング事業の収益と品質を脅かす中、PwCは1億ドル規模の批判的思考教育推進策を開始した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近、PwCをはじめとするコンサルティング会社が、事実や引用元をでっち上げたクライアント向けレポートを作成している。一方で、一部のクライアントは、モデルが……であることから、コンサルティング会社の報酬額に疑問を呈している。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Is 'Learn to Think' the new 'Learn to Code'? PwC launches $100 million critical thinking education push as AI threatens consulting revenue and quality&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xssvlw/is_learn_to_think_the_new_learn_to_code_pwc/</guid>
-      <pubDate>Tue, 10 Nov 2026 17:24:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 100ドルプランのAIサブスクリプションに関する提案</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xst7r5/suggestion_for_100_tier_ai_subscription/</link>
-      <description>&lt;p&gt;&lt;strong&gt;100ドルプランのAIサブスクリプションに関する提案&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;みなさん、こんにちは。「雇用主」から（私は契約社員として働いているのですが、何年もこの状態が続いているため、福利厚生のほとんどを受けられています）、任意のAIサブスクリプションを最大&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Suggestion for 100$ tier AI subscription&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xst7r5/suggestion_for_100_tier_ai_subscription/</guid>
-      <pubDate>Tue, 10 Nov 2026 17:37:11 GMT</pubDate>
+      <title>[r/artificial] ライナス・トーバルズ氏は、最新のLinuxカーネルにおける進歩の大部分はAIによる修正が牽引したと述べている。BPFでは、バグ報告よりもAIによって作成された修正の方が多く見られ、これは、大量の無意味な報告にうんざりしているオープンソースのメンテナーたちにとって、大きな転換点を示唆している可能性がある。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xt2iwq/linus_torvalds_says_that_ai_fixes_drove_most_of/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ライナス・トーバルズ氏は、最新のLinuxカーネルにおける進歩の大部分はAIによる修正が牽引したと述べている。BPFでは、バグ報告よりもAIによって作成された修正の方が多く見られ、これは、大量の無意味な報告にうんざりしているオープンソースのメンテナーたちにとって、大きな転換点を示唆している可能性がある。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ControlCAD   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel — BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift for open-source maintainers tired of flood of junk reports&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xt2iwq/linus_torvalds_says_that_ai_fixes_drove_most_of/</guid>
+      <pubDate>Tue, 10 Nov 2026 23:46:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
