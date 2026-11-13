@@ -3,121 +3,120 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-12</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-13</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2026 23:25:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 23:25:45 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (259pt) 小型や旧式のデバイスでもLLMが動作するようにしています</title>
-      <link>https://news.ycombinator.com/item?id=50468888</link>
-      <description>&lt;p&gt;&lt;strong&gt;小型や旧式のデバイスでもLLMが動作するようにしています&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I'm making LLMs work on small and old devices&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50468888</guid>
-      <pubDate>Thu, 12 Nov 2026 15:23:10 GMT</pubDate>
+      <title>[Hacker News] (644pt) Cowayの空気清浄機をリバースエンジニアリングして、クラウド機能を外す</title>
+      <link>https://news.ycombinator.com/item?id=50474959</link>
+      <description>&lt;p&gt;&lt;strong&gt;Cowayの空気清浄機をリバースエンジニアリングして、クラウド機能を外す&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Reverse engineering my Coway air purifier to ditch the cloud&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50474959</guid>
+      <pubDate>Thu, 12 Nov 2026 22:03:09 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (229pt) Gemini 4 Hydrogen および Orchestrator</title>
-      <link>https://news.ycombinator.com/item?id=50472260</link>
-      <description>&lt;p&gt;&lt;strong&gt;Gemini 4 Hydrogen および Orchestrator&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gemini 4 Hydrogen and Orchestrator&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50472260</guid>
-      <pubDate>Thu, 12 Nov 2026 18:52:01 GMT</pubDate>
+      <title>[Hacker News] (194pt) 600回の実験を経て、JEPAの世界モデルについて次のようなことがわかりました</title>
+      <link>https://news.ycombinator.com/item?id=50487185</link>
+      <description>&lt;p&gt;&lt;strong&gt;600回の実験を経て、JEPAの世界モデルについて次のようなことがわかりました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: After 600 experiments, here's what I discovered about JEPA world models&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50487185</guid>
+      <pubDate>Fri, 13 Nov 2026 17:55:28 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (80pt) 基盤モデルフレームワーク</title>
-      <link>https://news.ycombinator.com/item?id=50474361</link>
-      <description>&lt;p&gt;&lt;strong&gt;基盤モデルフレームワーク&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Foundation Models framework&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50474361</guid>
-      <pubDate>Thu, 12 Nov 2026 21:13:26 GMT</pubDate>
+      <title>[Hacker News] (82pt) Perplexity Decider v1.3：トレーニング、評価、および活用事例</title>
+      <link>https://news.ycombinator.com/item?id=50488464</link>
+      <description>&lt;p&gt;&lt;strong&gt;Perplexity Decider v1.3：トレーニング、評価、および活用事例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Perplexity Decider v1.3: Training, eval, and use cases&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50488464</guid>
+      <pubDate>Fri, 13 Nov 2026 19:24:47 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (45pt) AIの台頭により、Appleのアプリ審査プロセスはシンセ開発者にとって悪夢のような状況になりつつある</title>
-      <link>https://news.ycombinator.com/item?id=50474311</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIの台頭により、Appleのアプリ審査プロセスはシンセ開発者にとって悪夢のような状況になりつつある&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI is turning Apple's app review process into a nightmare for synth developers&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50474311</guid>
-      <pubDate>Thu, 12 Nov 2026 21:09:49 GMT</pubDate>
+      <title>[Hacker News] (66pt) KORSからの全周波数でライブ・エアバンド放送。カリフォルニア州ビクトリアでも地上波放送が停止中</title>
+      <link>https://news.ycombinator.com/item?id=50490593</link>
+      <description>&lt;p&gt;&lt;strong&gt;KORSからの全周波数でライブ・エアバンド放送。カリフォルニア州ビクトリアでも地上波放送が停止中&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Live airband on all frequencies from KORS. Victoria, CA also ground stopped&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50490593</guid>
+      <pubDate>Fri, 13 Nov 2026 22:04:24 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] テクノロジー大手が2度目の不倫疑惑で揺れる中、Nvidiaのジェンセン・フアンCEOが辞任</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xudjup/nvidia_ceo_jensen_huang_resigns_after_tech_giant/</link>
-      <description>&lt;p&gt;&lt;strong&gt;テクノロジー大手が2度目の不倫疑惑で揺れる中、Nvidiaのジェンセン・フアンCEOが辞任&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/twoloafbread   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Nvidia CEO Jensen Huang resigns after tech giant rocked by second affair allegation&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xudjup/nvidia_ceo_jensen_huang_resigns_after_tech_giant/</guid>
-      <pubDate>Thu, 12 Nov 2026 14:02:41 GMT</pubDate>
+      <title>[Hacker News] (46pt) クロード・ミーティングス</title>
+      <link>https://news.ycombinator.com/item?id=50491097</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロード・ミーティングス&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude Meetings&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50491097</guid>
+      <pubDate>Fri, 13 Nov 2026 22:39:15 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Anthropic社は、AIを活用したAI研究に関する自社が設定した基準を達成したと発表している――これは同社がIPOを控えた数日前のことだった。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xuo0rf/anthropic_says_it_has_met_its_own_threshold_for/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropic社は、AIを活用したAI研究に関する自社が設定した基準を達成したと発表している――これは同社がIPOを控えた数日前のことだった。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic社は火曜日（11月10日）に提出したIPO申請書の修正版において、同社の「責任ある拡大方針（Responsible Scaling Policy）」に定められた「研究加速基準」を満たしていると判断したと発表した。これは、AIアシスタントが&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic says it has met its own threshold for AI-accelerated AI research — days before its IPO&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xuo0rf/anthropic_says_it_has_met_its_own_threshold_for/</guid>
-      <pubDate>Thu, 12 Nov 2026 20:38:27 GMT</pubDate>
+      <title>[r/artificial] OpenAIは、LLMがロボットの「脳」になると強く確信しており、そのためにロボット工学チームを解散させた</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xvivdy/openai_is_so_convinced_that_llms_will_become/</link>
+      <description>&lt;p&gt;&lt;strong&gt;OpenAIは、LLMがロボットの「脳」になると強く確信しており、そのためにロボット工学チームを解散させた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/  &amp;#32; 投稿者：&amp;#32;  /u/Eliv_nurotic   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: OpenAI is so convinced that LLMs will become brains for robots that it has disbanded its robotics team&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xvivdy/openai_is_so_convinced_that_llms_will_become/</guid>
+      <pubDate>Fri, 13 Nov 2026 20:32:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 「深くお詫び申し上げます」――マイクロソフトは、Outlook、Teams、Microsoft 365が24時間にわたり利用不能となった大規模なサービス障害について謝罪し、原因はAIではないと主張している</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xvinch/we_are_deeply_sorry_microsoft_apologizes_for/</link>
+      <description>&lt;p&gt;&lt;strong&gt;「深くお詫び申し上げます」――マイクロソフトは、Outlook、Teams、Microsoft 365が24時間にわたり利用不能となった大規模なサービス障害について謝罪し、原因はAIではないと主張している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: &quot;We are deeply sorry&quot; Microsoft apologizes for major outage that knocked Outlook, Teams, and Microsoft 365 offline for 24 hours – insists it wasn't AI that caused it&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xvinch/we_are_deeply_sorry_microsoft_apologizes_for/</guid>
+      <pubDate>Fri, 13 Nov 2026 20:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] 元米国AI担当責任者のデビッド・サックス氏は、アリス・ファンが中国のスパイだったという証拠はないと述べている</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xuy74i/former_us_ai_czar_david_sacks_says_theres_no/</link>
+      <description>&lt;p&gt;&lt;strong&gt;元米国AI担当責任者のデビッド・サックス氏は、アリス・ファンが中国のスパイだったという証拠はないと述べている&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://fixupx.com/DavidSacks/status/2121070881258504395 同様の主張をしているCNNの記事 https://fixupx.com/NatashaBertrand/status/2121009555303759969  &amp;#32; 投稿者: &amp;#32;  /u/Eliv_nurotic&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Former US AI Czar David Sacks says there’s no evidence that Alice Huang was a Chinese Spy&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xuy74i/former_us_ai_czar_david_sacks_says_theres_no/</guid>
+      <pubDate>Fri, 13 Nov 2026 04:17:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[r/artificial] このAIは、視覚に関連する脳活動からパターンを抽出し、それを画像に変換します</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xvissf/this_ai_finds_patterns_in_visual_brain_activity/</link>
+      <description>&lt;p&gt;&lt;strong&gt;このAIは、視覚に関連する脳活動からパターンを抽出し、それを画像に変換します&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「ある人工知能（AI）ツールは、脳スキャンデータを用いて、人が見た画像を不気味なほど正確に再現することができる。『Brain-IT』と呼ばれるこのシステムは、機能的磁気共鳴画像法（fMRI）のデータを活用して――&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: This AI finds patterns in visual brain activity and turns them into pictures&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xvissf/this_ai_finds_patterns_in_visual_brain_activity/</guid>
+      <pubDate>Fri, 13 Nov 2026 20:29:33 GMT</pubDate>
     </item>
     <item>
       <title>[r/artificial] 昨年実施された国連の調査によると、[中国]の人々の最大80％がデータセンターの建設を支持していることが明らかになった。中国人の少なくとも3分の2が日常生活でAIを利用しており、多くの人々がこの技術とその基盤となるインフラを受け入れている。</title>
       <link>https://www.reddit.com/r/artificial/comments/1xuqml7/a_united_nations_survey_last_year_found_that_as/</link>
       <description>&lt;p&gt;&lt;strong&gt;昨年実施された国連の調査によると、[中国]の人々の最大80％がデータセンターの建設を支持していることが明らかになった。中国人の少なくとも3分の2が日常生活でAIを利用しており、多くの人々がこの技術とその基盤となるインフラを受け入れている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;gt;フィナンシャル・タイムズ紙が引用した専門家によると、中国のデータセンターの建設コストは米国の約5分の1であるという。その主な理由として、土地や人件費がはるかに高いことが挙げられる。なぜこのような差が&lt;/p&gt;
+&lt;p&gt;&amp;gt;フィナンシャル・タイムズ紙が引用した専門家によると、中国のデータセンターの建設コストは米国の約5分の1であるという。その主な要因は、土地や人件費がはるかに高いことにある。なぜこのような差が&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: A United Nations survey last year found that as many as 80% of people in [China] support data center construction. At least two-thirds of Chinese people use AI in their day-to-day life, as many embrace the technology and the infrastructure behind it&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xuqml7/a_united_nations_survey_last_year_found_that_as/</guid>
       <pubDate>Thu, 12 Nov 2026 22:22:20 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] マイクロソフトの研究者らは、10個未満のニューロンを編集するだけでAIエージェントにバックドアを仕込んだ――再学習は不要だった</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xu2cfg/microsoft_researchers_backdoored_an_ai_agent_by/</link>
-      <description>&lt;p&gt;&lt;strong&gt;マイクロソフトの研究者らは、10個未満のニューロンを編集するだけでAIエージェントにバックドアを仕込んだ――再学習は不要だった&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;マイクロソフト・リサーチは今週、オープンウェイトモデルを導入している人なら誰もが懸念すべき研究結果を発表した。同研究所が「ラザロ（Lazarus）」と呼ぶこの手法を用いると、AIエージェントを再プログラミングすることで、実際に機能するバックドアを仕込むことができるという。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Microsoft researchers backdoored an AI agent by editing fewer than 10 neurons - no retraining needed&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xu2cfg/microsoft_researchers_backdoored_an_ai_agent_by/</guid>
-      <pubDate>Thu, 12 Nov 2026 03:35:17 GMT</pubDate>
+      <title>[r/artificial] Thinking Machines Labが、Apache 2.0ライセンスのもとで「Inkling 2 Small weights」を公開 — 594B MoE、DesignArenaでトップのオープンウェイトモデル</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xvhgst/thinking_machines_lab_releases_inkling_2_small/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Thinking Machines Labが、Apache 2.0ライセンスのもとで「Inkling 2 Small weights」を公開 — 594B MoE、DesignArenaでトップのオープンウェイトモデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Thinking Machines Labは昨日（11月12日）、「Inkling 2 Small」に関する発表内容を更新しました。発売から約1週間後、同モデルの重みデータがApache 2.0ライセンスの下でHugging Faceからダウンロード可能になりました。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Thinking Machines Lab releases Inkling 2 Small weights under Apache 2.0 — 594B MoE, top open-weights model on DesignArena&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xvhgst/thinking_machines_lab_releases_inkling_2_small/</guid>
+      <pubDate>Fri, 13 Nov 2026 19:37:10 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ユナイテッド航空、AIエージェントによる旅行者への航空券予約を禁止</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xu8l1b/united_airlines_bans_ai_agents_from_booking/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ユナイテッド航空、AIエージェントによる旅行者への航空券予約を禁止&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/unconventionalbook   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: United Airlines bans AI agents from booking flights on behalf of travelers&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xu8l1b/united_airlines_bans_ai_agents_from_booking/</guid>
-      <pubDate>Thu, 12 Nov 2026 09:40:58 GMT</pubDate>
+      <title>[r/artificial] 韓国の税理士試験で最高得点を記録した人物が、証拠もないまま「AIメガネ」疑惑に直面している。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xv6aut/koreas_tax_accountant_exam_top_scorer_is_facing/</link>
+      <description>&lt;p&gt;&lt;strong&gt;韓国の税理士試験で最高得点を記録した人物が、証拠もないまま「AIメガネ」疑惑に直面している。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今週、韓国のニュースではこの話題で持ちきりだ。韓国の税理士試験で最高得点を記録した受験者は、第1次試験で400点満点中397.5点を獲得し、160問中159問を正解した。満点を取った科目の一つは税法概論で、そこでは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Korea's tax accountant exam top scorer is facing &quot;AI glasses&quot; suspicion with no evidence.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xv6aut/koreas_tax_accountant_exam_top_scorer_is_facing/</guid>
+      <pubDate>Fri, 13 Nov 2026 12:13:12 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] ジェンセン・フアン氏がNVIDIAを去ることで、このAIチップメーカーから「頭脳流出」が生じる恐れがある</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xufn7w/jensen_huang_leaving_nvidia_risks_a_brain_drain/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ジェンセン・フアン氏がNVIDIAを去ることで、このAIチップメーカーから「頭脳流出」が生じる恐れがある&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/scientificamerican   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Jensen Huang leaving Nvidia risks a 'brain drain' from the AI chipmaker&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xufn7w/jensen_huang_leaving_nvidia_risks_a_brain_drain/</guid>
-      <pubDate>Thu, 12 Nov 2026 15:26:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Nvidiaのジェンセン・フアンCEO、度重なる不倫問題を受けて辞任</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xumr55/nvidia_ceo_jensen_huang_resigns_after_multiple/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Nvidiaのジェンセン・フアンCEO、度重なる不倫問題を受けて辞任&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Resident-Fall4351   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Nvidia CEO Jensen Huang Resigns After Multiple Affairs&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xumr55/nvidia_ceo_jensen_huang_resigns_after_multiple/</guid>
-      <pubDate>Thu, 12 Nov 2026 19:49:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] 中国はAI分野における米国の優位性を弱めようとしている……NVIDIAがその先陣を切っている。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xuha5n/china_trying_slowdown_us_dominance_in_ainvidia_is/</link>
-      <description>&lt;p&gt;&lt;strong&gt;中国はAI分野における米国の優位性を弱めようとしている……NVIDIAがその先陣を切っている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Nvidiaの現CFOがCEOに就任した。しかし、このCFOは、長年にわたる中国へのチップ販売について把握しているはずだ。ジェンセンが何らかの裏口座を運営し、規制対象のチップを中国に出荷していたという疑惑がない限りは。その可能性は低いだろうが&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: China trying slowdown US dominance in AI..nvidia is beginning.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xuha5n/china_trying_slowdown_us_dominance_in_ainvidia_is/</guid>
-      <pubDate>Thu, 12 Nov 2026 16:28:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] ユナイテッド航空、AIエージェントによる航空券予約を制限</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xugf9u/united_airlines_restricts_ai_agents_from_booking/</link>
-      <description>&lt;p&gt;&lt;strong&gt;ユナイテッド航空、AIエージェントによる航空券予約を制限&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/esporx   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: United Airlines restricts AI agents from booking flights&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xugf9u/united_airlines_restricts_ai_agents_from_booking/</guid>
-      <pubDate>Thu, 12 Nov 2026 15:56:22 GMT</pubDate>
+      <title>[r/artificial] テクノロジーが兆候を示し、人が検証し、政府が決定する。公共サービスにおけるAIの役割分担として、これは適切な形なのだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xv59ne/technology_flags_people_verify_governments_decide/</link>
+      <description>&lt;p&gt;&lt;strong&gt;テクノロジーが兆候を示し、人が検証し、政府が決定する。公共サービスにおけるAIの役割分担として、これは適切な形なのだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;行政サービスにおけるAIをめぐる議論は、通常、「すべてを自動化する」という立場と「機械には絶対に手を出させない」という立場の2つの極端な意見の間を行き来する。より有意義な問いは、その境界線をどこに引くべきかということだ。一つは&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Technology flags, people verify, governments decide. Is that the right split for AI in public services?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xv59ne/technology_flags_people_verify_governments_decide/</guid>
+      <pubDate>Fri, 13 Nov 2026 11:18:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
