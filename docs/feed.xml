@@ -3,128 +3,106 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-15</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-17</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 22:40:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:46:52 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (274pt) Claude CodeとCodexが、たった3ドルのArduinoを使って、私の1994年式ジープのECUをリバースエンジニアリングした［動画］</title>
-      <link>https://news.ycombinator.com/item?id=50463399</link>
-      <description>&lt;p&gt;&lt;strong&gt;Claude CodeとCodexが、たった3ドルのArduinoを使って、私の1994年式ジープのECUをリバースエンジニアリングした［動画］&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50463399</guid>
-      <pubDate>Thu, 12 Nov 2026 05:29:24 GMT</pubDate>
+      <title>[Hacker News] (221pt) Windows 11は、ユーザーがどのコーディングツールや開発者向けツールを使用しているかに関するデータを収集しています</title>
+      <link>https://news.ycombinator.com/item?id=50524736</link>
+      <description>&lt;p&gt;&lt;strong&gt;Windows 11は、ユーザーがどのコーディングツールや開発者向けツールを使用しているかに関するデータを収集しています&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50524736</guid>
+      <pubDate>Mon, 16 Nov 2026 22:58:20 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (125pt) エルニーニョの仕組みを簡単に解説 [動画]</title>
-      <link>https://news.ycombinator.com/item?id=50509308</link>
-      <description>&lt;p&gt;&lt;strong&gt;エルニーニョの仕組みを簡単に解説 [動画]&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A short explainer on how El Niño works [video]&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50509308</guid>
-      <pubDate>Sun, 15 Nov 2026 18:23:21 GMT</pubDate>
+      <title>[r/artificial] 若手数学者268人を対象とした調査：10人中7人が、AIの台頭により数学の分野に留まる可能性が低くなったと回答</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xxqt45/survey_of_268_earlycareer_mathematicians_7_in_10/</link>
+      <description>&lt;p&gt;&lt;strong&gt;若手数学者268人を対象とした調査：10人中7人が、AIの台頭により数学の分野に留まる可能性が低くなったと回答&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/cyndaquilled   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Survey of 268 early-career mathematicians: 7 in 10 say AI has made them less likely to stay in math&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xxqt45/survey_of_268_earlycareer_mathematicians_7_in_10/</guid>
+      <pubDate>Mon, 16 Nov 2026 14:31:24 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (111pt) 「鳥頭」というのは誤った呼び名だ。カラスは人間よりも素早く判断を下す</title>
-      <link>https://news.ycombinator.com/item?id=50509023</link>
-      <description>&lt;p&gt;&lt;strong&gt;「鳥頭」というのは誤った呼び名だ。カラスは人間よりも素早く判断を下す&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: 'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50509023</guid>
-      <pubDate>Sun, 15 Nov 2026 17:53:31 GMT</pubDate>
+      <title>[r/artificial] 米国はAIの「ナショナルチャンピオン」を選定している一方で、中国はAPECで自由貿易を説いている。みんな台本を入れ替えたのか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xxy9a2/the_us_is_picking_ai_national_champions_while/</link>
+      <description>&lt;p&gt;&lt;strong&gt;米国はAIの「ナショナルチャンピオン」を選定している一方で、中国はAPECで自由貿易を説いている。みんな台本を入れ替えたのか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;WSJによると、商務省は20社以上のAI企業（NVIDIA、OpenAI、Anthropic、Microsoft、Amazonなど）を「ナショナル・チャンピオン」に指定しようとしているという。これにより、輸出許可の迅速化、海外での政府による支援、連邦政府からの資金提供などが期待される。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: the US is picking AI &quot;national champions&quot; while china is at APEC preaching free trade. did everyone swap scripts?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xxy9a2/the_us_is_picking_ai_national_champions_while/</guid>
+      <pubDate>Mon, 16 Nov 2026 19:13:44 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (51pt) Eclipse Mosquitto – オープンソースのMQTTブローカー</title>
-      <link>https://news.ycombinator.com/item?id=50509416</link>
-      <description>&lt;p&gt;&lt;strong&gt;Eclipse Mosquitto – オープンソースのMQTTブローカー&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Eclipse Mosquitto – An open source MQTT broker&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50509416</guid>
-      <pubDate>Sun, 15 Nov 2026 18:36:40 GMT</pubDate>
+      <title>[r/artificial] カリフォルニア州、Hugging Faceやその他のAIモデルの制御不能問題をめぐりOpenAIを提訴</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xxzlte/california_sues_openai_over_hugging_face_other_ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;カリフォルニア州、Hugging Faceやその他のAIモデルの制御不能問題をめぐりOpenAIを提訴&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Typical-Code-7006   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: California sues OpenAI over Hugging Face, other AI model loss of control&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xxzlte/california_sues_openai_over_hugging_face_other_ai/</guid>
+      <pubDate>Mon, 16 Nov 2026 20:03:07 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (46pt) 担当者がハッキング可能なものを選んでくれます</title>
-      <link>https://news.ycombinator.com/item?id=50510799</link>
-      <description>&lt;p&gt;&lt;strong&gt;担当者がハッキング可能なものを選んでくれます&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Your Agent Will Pick the Hackable One&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50510799</guid>
-      <pubDate>Sun, 15 Nov 2026 21:10:39 GMT</pubDate>
+      <title>[r/artificial] 2026年4月から、ライバル関係にある研究所の4つのLLMが、何の目的もなく共存する「パーシステント・ワールド」を運営しています</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xxkngu/ive_been_running_a_persistent_world_where_four/</link>
+      <description>&lt;p&gt;&lt;strong&gt;2026年4月から、ライバル関係にある研究所の4つのLLMが、何の目的もなく共存する「パーシステント・ワールド」を運営しています&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私は独立系研究者で、個人で活動し、資金も自己負担しています。2026年4月から、IKH0S（IKHOSとも表記されます）を運営しています。これは、競合する4社の4つの大規模言語モデル、A&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: I’ve been running a persistent world where four LLMs from rival labs live with no goal, since April 2026&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xxkngu/ive_been_running_a_persistent_world_where_four/</guid>
+      <pubDate>Mon, 16 Nov 2026 09:00:21 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (27pt) シード値で生成された地形を備えたWebGLフライトシミュレーター</title>
-      <link>https://news.ycombinator.com/item?id=50510296</link>
-      <description>&lt;p&gt;&lt;strong&gt;シード値で生成された地形を備えたWebGLフライトシミュレーター&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: WebGL Flight Simulator with seed generated terrain&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50510296</guid>
-      <pubDate>Sun, 15 Nov 2026 20:20:05 GMT</pubDate>
+      <title>[r/artificial] AIワークフローの共有とは、単にプロンプトを共有すること以上の意味を持つべきだ</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xy3mkd/sharing_an_ai_workflow_should_mean_more_than/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AIワークフローの共有とは、単にプロンプトを共有すること以上の意味を持つべきだ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;誰かに指示書や必要なファイルを渡しても、その人が知るべき情報の半分が抜け落ちてしまうことがあります。たとえば、未解決の課題が週次のエンジニアリング進捗報告に取り上げられる場合を考えてみましょう。どのチケットが長期未解決なのかは分かっていても、&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Sharing an AI workflow should mean more than sharing the prompt&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xy3mkd/sharing_an_ai_workflow_should_mean_more_than/</guid>
+      <pubDate>Mon, 16 Nov 2026 22:40:37 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 輸出禁止措置の対象となっているNvidiaのチップが、中国で最も強力なAIモデルの原動力となっている――やばいぞ、ジェンセン！ | TechCrunch</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xx4t46/exportbanned_nvidia_chips_are_behind_chinas_most/</link>
-      <description>&lt;p&gt;&lt;strong&gt;輸出禁止措置の対象となっているNvidiaのチップが、中国で最も強力なAIモデルの原動力となっている――やばいぞ、ジェンセン！ | TechCrunch&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/IndependentCoast3974   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen! | TechCrunch&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xx4t46/exportbanned_nvidia_chips_are_behind_chinas_most/</guid>
-      <pubDate>Sun, 15 Nov 2026 19:46:39 GMT</pubDate>
+      <title>[r/artificial] AI歌手が「夢に描いた大人になれた？」で、韓国のメロンチャートで初1位を獲得した。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xxmoiw/ai_singer_tops_south_koreas_melon_chart_for_first/</link>
+      <description>&lt;p&gt;&lt;strong&gt;AI歌手が「夢に描いた大人になれた？」で、韓国のメロンチャートで初1位を獲得した。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ZephyrArctic   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI singer tops South Korea's Melon chart for first time with 'Did You Become the Adult You Dreamed Of?'&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xxmoiw/ai_singer_tops_south_koreas_melon_chart_for_first/</guid>
+      <pubDate>Mon, 16 Nov 2026 11:07:24 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIのランキングなんて、もはや真剣に受け止める価値があるのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xwwdhv/are_ai_leaderboards_even_worth_taking_seriously/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIのランキングなんて、もはや真剣に受け止める価値があるのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;新しいAIのランキングが発表されるたびに、突然、別のモデルが「世界一」と呼ばれるようになります。しかし、別のベンチマークを確認してみると、順位はまったく異なっています。Geminiは……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Are AI leaderboards even worth taking seriously anymore?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xwwdhv/are_ai_leaderboards_even_worth_taking_seriously/</guid>
-      <pubDate>Sun, 15 Nov 2026 14:07:58 GMT</pubDate>
+      <title>[r/artificial] 米国は再びAIチップの輸出規制を強化した――今回は、遠隔からの演算処理へのアクセスを規制対象としている。これは「チップ戦争」の新たな戦場となるのだろうか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xy6z6d/the_us_just_tightened_ai_chip_export_controls/</link>
+      <description>&lt;p&gt;&lt;strong&gt;米国は再びAIチップの輸出規制を強化した――今回は、遠隔からの演算処理へのアクセスを規制対象としている。これは「チップ戦争」の新たな戦場となるのだろうか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;米国は、外国企業による最先端のAIチップやサーバーへのアクセスを制限する新たな規制を追加した。今回は、リモートでコンピューティングリソースにアクセスする中国企業を対象としている。もはやハードウェアの出荷だけにとどまらない&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The US just tightened AI chip export controls again — now targeting remote access to compute. Is this the new front in the chip war?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xy6z6d/the_us_just_tightened_ai_chip_export_controls/</guid>
+      <pubDate>Tue, 17 Nov 2026 01:07:20 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 重み空間プログラミング：あるLLMが別のモデルの重みを直接編集し、その数学の得点を7.9%から48.1%へと引き上げた</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xx4kit/weightspace_programming_an_llm_edited_another/</link>
-      <description>&lt;p&gt;&lt;strong&gt;重み空間プログラミング：あるLLMが別のモデルの重みを直接編集し、その数学の得点を7.9%から48.1%へと引き上げた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;MITの研究者たち（竹比力也、ジェイデン・テオ、アレックス・チャン、オマール・ハッタブ）は、OpenAIのGPT-6「Astra」に、小さなQwenモデルの重みを直接編集させた――勾配降下法も、学習データも使用せずに。Astraは&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Weight-space programming: an LLM edited another model's weights directly and lifted its math score from 7.9% to 48.1%&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xx4kit/weightspace_programming_an_llm_edited_another/</guid>
-      <pubDate>Sun, 15 Nov 2026 19:37:03 GMT</pubDate>
+      <title>[r/artificial] テンセントは、新開発の高速モデル「Hy4 Flash」を、100万トークンあたり0.07ドル／0.281ドルでリリースした。Hy4と比較すると、タスクあたりのコストは24.5分の1となっている。</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xxnkjb/tencent_releases_hy4_flash_its_new_fast_model_at/</link>
+      <description>&lt;p&gt;&lt;strong&gt;テンセントは、新開発の高速モデル「Hy4 Flash」を、100万トークンあたり0.07ドル／0.281ドルでリリースした。Hy4と比較すると、タスクあたりのコストは24.5分の1となっている。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;https://preview.redd.it/o2mie6zxry1i1.png?width=1280&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c9a8c35386081d7efce5c756a4f79677b11abf6d https://hy.tencent.ai/research/hy4-flash  &amp;#32; 投稿者：&amp;#32;  /u/&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Tencent releases Hy4 Flash, its new fast model, at $0.07/$0.281 per million tokens. Compared to Hy4, it costs 24.5x less per task.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xxnkjb/tencent_releases_hy4_flash_its_new_fast_model_at/</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:04 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 9つのソフトウェアブランドをでっち上げ、ChatGPTとGoogle AIモードにそれぞれの価格と創業者について尋ねてみた。答えをでっち上げるかどうかを確認するためだ。18件の回答があったが、でっち上げられたものは一つもなかった。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xwzvr9/made_up_9_software_brands_and_asked_chatgpt_and/</link>
-      <description>&lt;p&gt;&lt;strong&gt;9つのソフトウェアブランドをでっち上げ、ChatGPTとGoogle AIモードにそれぞれの価格と創業者について尋ねてみた。答えをでっち上げるかどうかを確認するためだ。18件の回答があったが、でっち上げられたものは一つもなかった。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;みんな、「aiはただでたらめを言っている（よく言われるのは『幻覚を見ている』）」と不満を漏らしていて、公開されているスコアボードでは、テスト内容などによって1.8%から77%まで幅がある。そこで、私たちは疑問に思ったのだが、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: made up 9 software brands and asked chatgpt and google ai mode for each one's price and founder, to see if they'd invent answers. 18 answers, none invented&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xwzvr9/made_up_9_software_brands_and_asked_chatgpt_and/</guid>
-      <pubDate>Sun, 15 Nov 2026 16:33:31 GMT</pubDate>
+      <title>[r/artificial] あなたが寝ている間、AIエージェントに何度も再試行させ続けますか？</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xxt4yh/would_you_let_an_ai_agent_keep_retrying_while/</link>
+      <description>&lt;p&gt;&lt;strong&gt;あなたが寝ている間、AIエージェントに何度も再試行させ続けますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;エージェントは、あるタスクで失敗しても、次のAPI呼び出しを正常に実行できることがあります。誰も請求状況を監視していない場合、これは厄介な組み合わせとなります。アンドレイ・アルトルーター氏は、あるループのシミュレーションについて次のように記しています。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Would you let an AI agent keep retrying while you're asleep?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xxt4yh/would_you_let_an_ai_agent_keep_retrying_while/</guid>
+      <pubDate>Mon, 16 Nov 2026 16:02:29 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] Meituanは、1.6Tのエージェントモデル「LongCat-2.5」をオープンソース化し、その導入ガイドはHuaweiのNPU向けのみであり、Nvidia向けではない。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xwx2hc/meituan_opensourced_longcat25_a_16t_agent_model/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Meituanは、1.6Tのエージェントモデル「LongCat-2.5」をオープンソース化し、その導入ガイドはHuaweiのNPU向けのみであり、Nvidia向けではない。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Meituanは、MITライセンスのもとでLongCat-2.5の重みデータを公開しました。パラメータ総数は1.6T、トークンあたりのアクティブパラメータ数は約48Bで、テキスト、画像、動画の入力をサポートしています。同社自身のベンチマーク表によると、Terminal Bench v2.1でのスコアは88.4で、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Meituan open-sourced LongCat-2.5, a 1.6T agent model, and the only deploy guide is for Huawei NPUs, not Nvidia&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xwx2hc/meituan_opensourced_longcat25_a_16t_agent_model/</guid>
-      <pubDate>Sun, 15 Nov 2026 14:37:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] AIを活用した開発は以前より簡単になりましたが、信頼性を確立するにはさらなる検証が必要です。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xwwrm0/building_with_ai_is_now_easier_but_trust_takes/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIを活用した開発は以前より簡単になりましたが、信頼性を確立するにはさらなる検証が必要です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;これは詳しく議論すべきテーマだと思います。AIを搭載した製品を発売するメーカーが増え続けている中で、実際にそれらをテストしているのは誰なのでしょうか？  &amp;#32; 投稿者：&amp;#32;  /u/CrashTestingAI   [リンク&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Building with AI is now easier but trust takes further testing.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xwwrm0/building_with_ai_is_now_easier_but_trust_takes/</guid>
-      <pubDate>Sun, 15 Nov 2026 14:24:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Anthropicは、Claude Code Projectsをコーディネーターと並列ワーカースレッドを中心に再構築しました。各スレッドは、独自のブランチ上で動作する完全なクラウドセッションとなっています。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xwj3v0/anthropic_rebuilds_claude_code_projects_around_a/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Anthropicは、Claude Code Projectsをコーディネーターと並列ワーカースレッドを中心に再構築しました。各スレッドは、独自のブランチ上で動作する完全なクラウドセッションとなっています。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropicは11月14日、ファイルのフォルダから「Claude Projects」を、連携のとれた一連の作業セッションとして再構築したとの最新情報を投稿しました。あなたはその作業を1つの会話の中で説明し、コーディネーターが作業範囲を定義し、d&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Anthropic rebuilds Claude Code Projects around a coordinator and parallel worker threads - each thread is a full cloud session on its own branch&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xwj3v0/anthropic_rebuilds_claude_code_projects_around_a/</guid>
-      <pubDate>Sun, 15 Nov 2026 01:38:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] たった1台のルーターがアメリカを麻痺させた？　まさか？　本当に、悪意のあるAIやハッキングのせいじゃなかったのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xwd18l/one_router_grounded_america_seriously_are_you/</link>
-      <description>&lt;p&gt;&lt;strong&gt;たった1台のルーターがアメリカを麻痺させた？　まさか？　本当に、悪意のあるAIやハッキングのせいじゃなかったのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;どうやらトランプ政権は、全米各地でのフライト欠航の原因を、故障したルーターのせいにしているらしい。ルーターだなんて。マジかよ？　もちろんルーターがネットワーク障害を引き起こすことはあるが、一体どうやって批判が……&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: One Router Grounded America? Seriously? Are you sure it wasn’t Rogue AI or a Hack?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xwd18l/one_router_grounded_america_seriously_are_you/</guid>
-      <pubDate>Sat, 14 Nov 2026 20:54:09 GMT</pubDate>
+      <title>[r/artificial] Nvidiaの課題：OpenAIは「90％以上がNvidia製」であり、その研究所が資金を浪費している</title>
+      <link>https://www.reddit.com/r/artificial/comments/1xy1fc0/nvidias_problem_openai_is_90_plus_percent_nvidia/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Nvidiaの課題：OpenAIは「90％以上がNvidia製」であり、その研究所が資金を浪費している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ThereWas   [リンク] &amp;#32; [コメント]&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Nvidia’s Problem: OpenAI Is “90 Plus Percent Nvidia,” and It’s the Lab Burning Cash&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xy1fc0/nvidias_problem_openai_is_90_plus_percent_nvidia/</guid>
+      <pubDate>Mon, 16 Nov 2026 21:12:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
