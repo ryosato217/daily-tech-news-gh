@@ -3,106 +3,88 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-17</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-18</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 01:46:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:49:37 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (221pt) Windows 11は、ユーザーがどのコーディングツールや開発者向けツールを使用しているかに関するデータを収集しています</title>
-      <link>https://news.ycombinator.com/item?id=50524736</link>
-      <description>&lt;p&gt;&lt;strong&gt;Windows 11は、ユーザーがどのコーディングツールや開発者向けツールを使用しているかに関するデータを収集しています&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50524736</guid>
-      <pubDate>Mon, 16 Nov 2026 22:58:20 GMT</pubDate>
+      <title>[Hacker News] (1060pt) GPT-6.2 Astra と Sol</title>
+      <link>https://news.ycombinator.com/item?id=50535230</link>
+      <description>&lt;p&gt;&lt;strong&gt;GPT-6.2 Astra と Sol&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GPT‑6.2 Astra and Sol&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50535230</guid>
+      <pubDate>Tue, 17 Nov 2026 17:46:43 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 若手数学者268人を対象とした調査：10人中7人が、AIの台頭により数学の分野に留まる可能性が低くなったと回答</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xxqt45/survey_of_268_earlycareer_mathematicians_7_in_10/</link>
-      <description>&lt;p&gt;&lt;strong&gt;若手数学者268人を対象とした調査：10人中7人が、AIの台頭により数学の分野に留まる可能性が低くなったと回答&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/cyndaquilled   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Survey of 268 early-career mathematicians: 7 in 10 say AI has made them less likely to stay in math&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xxqt45/survey_of_268_earlycareer_mathematicians_7_in_10/</guid>
-      <pubDate>Mon, 16 Nov 2026 14:31:24 GMT</pubDate>
+      <title>[Hacker News] (460pt) Java4Shell：OpenJDKにおけるBase64処理時のRCE</title>
+      <link>https://news.ycombinator.com/item?id=50538240</link>
+      <description>&lt;p&gt;&lt;strong&gt;Java4Shell：OpenJDKにおけるBase64処理時のRCE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Java4Shell: RCE in OpenJDK when processing Base64&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50538240</guid>
+      <pubDate>Tue, 17 Nov 2026 21:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 米国はAIの「ナショナルチャンピオン」を選定している一方で、中国はAPECで自由貿易を説いている。みんな台本を入れ替えたのか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xxy9a2/the_us_is_picking_ai_national_champions_while/</link>
-      <description>&lt;p&gt;&lt;strong&gt;米国はAIの「ナショナルチャンピオン」を選定している一方で、中国はAPECで自由貿易を説いている。みんな台本を入れ替えたのか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;WSJによると、商務省は20社以上のAI企業（NVIDIA、OpenAI、Anthropic、Microsoft、Amazonなど）を「ナショナル・チャンピオン」に指定しようとしているという。これにより、輸出許可の迅速化、海外での政府による支援、連邦政府からの資金提供などが期待される。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: the US is picking AI &quot;national champions&quot; while china is at APEC preaching free trade. did everyone swap scripts?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xxy9a2/the_us_is_picking_ai_national_champions_while/</guid>
-      <pubDate>Mon, 16 Nov 2026 19:13:44 GMT</pubDate>
+      <title>[Hacker News] (451pt) 米国の極秘国家安全保障通信ネットワークがダウン</title>
+      <link>https://news.ycombinator.com/item?id=50532849</link>
+      <description>&lt;p&gt;&lt;strong&gt;米国の極秘国家安全保障通信ネットワークがダウン&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Highly classified US national security communications network goes down&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50532849</guid>
+      <pubDate>Tue, 17 Nov 2026 15:38:28 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] カリフォルニア州、Hugging Faceやその他のAIモデルの制御不能問題をめぐりOpenAIを提訴</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xxzlte/california_sues_openai_over_hugging_face_other_ai/</link>
-      <description>&lt;p&gt;&lt;strong&gt;カリフォルニア州、Hugging Faceやその他のAIモデルの制御不能問題をめぐりOpenAIを提訴&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/Typical-Code-7006   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: California sues OpenAI over Hugging Face, other AI model loss of control&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xxzlte/california_sues_openai_over_hugging_face_other_ai/</guid>
-      <pubDate>Mon, 16 Nov 2026 20:03:07 GMT</pubDate>
+      <title>[Hacker News] (374pt) Nvidia、売上高が1,040億ドルに達したことを受け、シンガポールでの売上高の開示を中止した</title>
+      <link>https://news.ycombinator.com/item?id=50534631</link>
+      <description>&lt;p&gt;&lt;strong&gt;Nvidia、売上高が1,040億ドルに達したことを受け、シンガポールでの売上高の開示を中止した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Nvidia stopped disclosing Singapore sales as revenues hit $104B&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50534631</guid>
+      <pubDate>Tue, 17 Nov 2026 17:12:06 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 2026年4月から、ライバル関係にある研究所の4つのLLMが、何の目的もなく共存する「パーシステント・ワールド」を運営しています</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xxkngu/ive_been_running_a_persistent_world_where_four/</link>
-      <description>&lt;p&gt;&lt;strong&gt;2026年4月から、ライバル関係にある研究所の4つのLLMが、何の目的もなく共存する「パーシステント・ワールド」を運営しています&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私は独立系研究者で、個人で活動し、資金も自己負担しています。2026年4月から、IKH0S（IKHOSとも表記されます）を運営しています。これは、競合する4社の4つの大規模言語モデル、A&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: I’ve been running a persistent world where four LLMs from rival labs live with no goal, since April 2026&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xxkngu/ive_been_running_a_persistent_world_where_four/</guid>
-      <pubDate>Mon, 16 Nov 2026 09:00:21 GMT</pubDate>
+      <title>[Hacker News] (274pt) MAI コード2およびコード2フラッシュ</title>
+      <link>https://news.ycombinator.com/item?id=50535885</link>
+      <description>&lt;p&gt;&lt;strong&gt;MAI コード2およびコード2フラッシュ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: MAI Code 2 and Code 2 Flash&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50535885</guid>
+      <pubDate>Tue, 17 Nov 2026 18:25:13 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AIワークフローの共有とは、単にプロンプトを共有すること以上の意味を持つべきだ</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xy3mkd/sharing_an_ai_workflow_should_mean_more_than/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIワークフローの共有とは、単にプロンプトを共有すること以上の意味を持つべきだ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;誰かに指示書や必要なファイルを渡しても、その人が知るべき情報の半分が抜け落ちてしまうことがあります。たとえば、未解決の課題が週次のエンジニアリング進捗報告に取り上げられる場合を考えてみましょう。どのチケットが長期未解決なのかは分かっていても、&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Sharing an AI workflow should mean more than sharing the prompt&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xy3mkd/sharing_an_ai_workflow_should_mean_more_than/</guid>
-      <pubDate>Mon, 16 Nov 2026 22:40:37 GMT</pubDate>
+      <title>[Hacker News] (260pt) 『Phrack 73』がリリースされました</title>
+      <link>https://news.ycombinator.com/item?id=50535992</link>
+      <description>&lt;p&gt;&lt;strong&gt;『Phrack 73』がリリースされました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Phrack 73 Released&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50535992</guid>
+      <pubDate>Tue, 17 Nov 2026 18:31:25 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] AI歌手が「夢に描いた大人になれた？」で、韓国のメロンチャートで初1位を獲得した。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xxmoiw/ai_singer_tops_south_koreas_melon_chart_for_first/</link>
-      <description>&lt;p&gt;&lt;strong&gt;AI歌手が「夢に描いた大人になれた？」で、韓国のメロンチャートで初1位を獲得した。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ZephyrArctic   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI singer tops South Korea's Melon chart for first time with 'Did You Become the Adult You Dreamed Of?'&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xxmoiw/ai_singer_tops_south_koreas_melon_chart_for_first/</guid>
-      <pubDate>Mon, 16 Nov 2026 11:07:24 GMT</pubDate>
+      <title>[Hacker News] (239pt) jQuery 4.1.0</title>
+      <link>https://news.ycombinator.com/item?id=50537156</link>
+      <description>&lt;p&gt;&lt;strong&gt;jQuery 4.1.0&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: jQuery 4.1.0&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50537156</guid>
+      <pubDate>Tue, 17 Nov 2026 19:50:40 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] 米国は再びAIチップの輸出規制を強化した――今回は、遠隔からの演算処理へのアクセスを規制対象としている。これは「チップ戦争」の新たな戦場となるのだろうか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xy6z6d/the_us_just_tightened_ai_chip_export_controls/</link>
-      <description>&lt;p&gt;&lt;strong&gt;米国は再びAIチップの輸出規制を強化した――今回は、遠隔からの演算処理へのアクセスを規制対象としている。これは「チップ戦争」の新たな戦場となるのだろうか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;米国は、外国企業による最先端のAIチップやサーバーへのアクセスを制限する新たな規制を追加した。今回は、リモートでコンピューティングリソースにアクセスする中国企業を対象としている。もはやハードウェアの出荷だけにとどまらない&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The US just tightened AI chip export controls again — now targeting remote access to compute. Is this the new front in the chip war?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xy6z6d/the_us_just_tightened_ai_chip_export_controls/</guid>
-      <pubDate>Tue, 17 Nov 2026 01:07:20 GMT</pubDate>
+      <title>[Hacker News] (222pt) Quad9のフランスからの撤退：炭鉱のカナリア</title>
+      <link>https://news.ycombinator.com/item?id=50538994</link>
+      <description>&lt;p&gt;&lt;strong&gt;Quad9のフランスからの撤退：炭鉱のカナリア&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Quad9's withdrawal from France: A canary in the coal mine&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50538994</guid>
+      <pubDate>Tue, 17 Nov 2026 22:13:34 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] テンセントは、新開発の高速モデル「Hy4 Flash」を、100万トークンあたり0.07ドル／0.281ドルでリリースした。Hy4と比較すると、タスクあたりのコストは24.5分の1となっている。</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xxnkjb/tencent_releases_hy4_flash_its_new_fast_model_at/</link>
-      <description>&lt;p&gt;&lt;strong&gt;テンセントは、新開発の高速モデル「Hy4 Flash」を、100万トークンあたり0.07ドル／0.281ドルでリリースした。Hy4と比較すると、タスクあたりのコストは24.5分の1となっている。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;https://preview.redd.it/o2mie6zxry1i1.png?width=1280&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c9a8c35386081d7efce5c756a4f79677b11abf6d https://hy.tencent.ai/research/hy4-flash  &amp;#32; 投稿者：&amp;#32;  /u/&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Tencent releases Hy4 Flash, its new fast model, at $0.07/$0.281 per million tokens. Compared to Hy4, it costs 24.5x less per task.&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xxnkjb/tencent_releases_hy4_flash_its_new_fast_model_at/</guid>
-      <pubDate>Mon, 16 Nov 2026 12:00:04 GMT</pubDate>
+      <title>[Hacker News] (78pt) マイクロソフトのONNX RuntimeがGitHubから削除された</title>
+      <link>https://news.ycombinator.com/item?id=50539610</link>
+      <description>&lt;p&gt;&lt;strong&gt;マイクロソフトのONNX RuntimeがGitHubから削除された&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Microsoft's ONNX Runtime has disappeared from GitHub&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50539610</guid>
+      <pubDate>Tue, 17 Nov 2026 23:18:49 GMT</pubDate>
     </item>
     <item>
-      <title>[r/artificial] あなたが寝ている間、AIエージェントに何度も再試行させ続けますか？</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xxt4yh/would_you_let_an_ai_agent_keep_retrying_while/</link>
-      <description>&lt;p&gt;&lt;strong&gt;あなたが寝ている間、AIエージェントに何度も再試行させ続けますか？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;エージェントは、あるタスクで失敗しても、次のAPI呼び出しを正常に実行できることがあります。誰も請求状況を監視していない場合、これは厄介な組み合わせとなります。アンドレイ・アルトルーター氏は、あるループのシミュレーションについて次のように記しています。&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Would you let an AI agent keep retrying while you're asleep?&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xxt4yh/would_you_let_an_ai_agent_keep_retrying_while/</guid>
-      <pubDate>Mon, 16 Nov 2026 16:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[r/artificial] Nvidiaの課題：OpenAIは「90％以上がNvidia製」であり、その研究所が資金を浪費している</title>
-      <link>https://www.reddit.com/r/artificial/comments/1xy1fc0/nvidias_problem_openai_is_90_plus_percent_nvidia/</link>
-      <description>&lt;p&gt;&lt;strong&gt;Nvidiaの課題：OpenAIは「90％以上がNvidia製」であり、その研究所が資金を浪費している&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;#32; 投稿者：&amp;#32;  /u/ThereWas   [リンク] &amp;#32; [コメント]&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Nvidia’s Problem: OpenAI Is “90 Plus Percent Nvidia,” and It’s the Lab Burning Cash&lt;br&gt;ソース: r/artificial&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1xy1fc0/nvidias_problem_openai_is_90_plus_percent_nvidia/</guid>
-      <pubDate>Mon, 16 Nov 2026 21:12:16 GMT</pubDate>
+      <title>[Hacker News] (42pt) Archive Teamは、Appleサポートコミュニティ（2026年11月20日に閉鎖予定）のアーカイブ作業を行っています。</title>
+      <link>https://news.ycombinator.com/item?id=50539747</link>
+      <description>&lt;p&gt;&lt;strong&gt;Archive Teamは、Appleサポートコミュニティ（2026年11月20日に閉鎖予定）のアーカイブ作業を行っています。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Archive Team is archiving the Apple Support Community (closes November 20, 2026)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50539747</guid>
+      <pubDate>Tue, 17 Nov 2026 23:32:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
