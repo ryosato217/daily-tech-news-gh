@@ -3,88 +3,88 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-18</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-19</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Nov 2026 00:49:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 00:07:01 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (1060pt) GPT-6.2 Astra と Sol</title>
-      <link>https://news.ycombinator.com/item?id=50535230</link>
-      <description>&lt;p&gt;&lt;strong&gt;GPT-6.2 Astra と Sol&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: GPT‑6.2 Astra and Sol&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50535230</guid>
-      <pubDate>Tue, 17 Nov 2026 17:46:43 GMT</pubDate>
+      <title>[Hacker News] (1069pt) Nginxにおける認証不要のリモートコード実行の脆弱性</title>
+      <link>https://news.ycombinator.com/item?id=50547374</link>
+      <description>&lt;p&gt;&lt;strong&gt;Nginxにおける認証不要のリモートコード実行の脆弱性&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Unauthenticated remote code execution in Nginx&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50547374</guid>
+      <pubDate>Wed, 18 Nov 2026 15:19:55 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (460pt) Java4Shell：OpenJDKにおけるBase64処理時のRCE</title>
-      <link>https://news.ycombinator.com/item?id=50538240</link>
-      <description>&lt;p&gt;&lt;strong&gt;Java4Shell：OpenJDKにおけるBase64処理時のRCE&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Java4Shell: RCE in OpenJDK when processing Base64&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50538240</guid>
-      <pubDate>Tue, 17 Nov 2026 21:11:28 GMT</pubDate>
+      <title>[Hacker News] (570pt) DNSリゾルバーは、海賊版対策を行う場としては不適切である</title>
+      <link>https://news.ycombinator.com/item?id=50545958</link>
+      <description>&lt;p&gt;&lt;strong&gt;DNSリゾルバーは、海賊版対策を行う場としては不適切である&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: DNS resolvers are the wrong place to fight piracy&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50545958</guid>
+      <pubDate>Wed, 18 Nov 2026 13:18:02 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (451pt) 米国の極秘国家安全保障通信ネットワークがダウン</title>
-      <link>https://news.ycombinator.com/item?id=50532849</link>
-      <description>&lt;p&gt;&lt;strong&gt;米国の極秘国家安全保障通信ネットワークがダウン&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Highly classified US national security communications network goes down&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50532849</guid>
-      <pubDate>Tue, 17 Nov 2026 15:38:28 GMT</pubDate>
+      <title>[Hacker News] (525pt) ドイツ銀行の内部</title>
+      <link>https://news.ycombinator.com/item?id=50547620</link>
+      <description>&lt;p&gt;&lt;strong&gt;ドイツ銀行の内部&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Inside Deutsche Bank&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50547620</guid>
+      <pubDate>Wed, 18 Nov 2026 15:38:33 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (374pt) Nvidia、売上高が1,040億ドルに達したことを受け、シンガポールでの売上高の開示を中止した</title>
-      <link>https://news.ycombinator.com/item?id=50534631</link>
-      <description>&lt;p&gt;&lt;strong&gt;Nvidia、売上高が1,040億ドルに達したことを受け、シンガポールでの売上高の開示を中止した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Nvidia stopped disclosing Singapore sales as revenues hit $104B&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50534631</guid>
-      <pubDate>Tue, 17 Nov 2026 17:12:06 GMT</pubDate>
+      <title>[Hacker News] (415pt) コストパフォーマンスに優れた7つの新モデル</title>
+      <link>https://news.ycombinator.com/item?id=50548021</link>
+      <description>&lt;p&gt;&lt;strong&gt;コストパフォーマンスに優れた7つの新モデル&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Seven new models at scalable price-performance&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50548021</guid>
+      <pubDate>Wed, 18 Nov 2026 16:08:24 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (274pt) MAI コード2およびコード2フラッシュ</title>
-      <link>https://news.ycombinator.com/item?id=50535885</link>
-      <description>&lt;p&gt;&lt;strong&gt;MAI コード2およびコード2フラッシュ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: MAI Code 2 and Code 2 Flash&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50535885</guid>
-      <pubDate>Tue, 17 Nov 2026 18:25:13 GMT</pubDate>
+      <title>[Hacker News] (340pt) ジェミニ 4 ネオン</title>
+      <link>https://news.ycombinator.com/item?id=50552424</link>
+      <description>&lt;p&gt;&lt;strong&gt;ジェミニ 4 ネオン&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gemini 4 Neon&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50552424</guid>
+      <pubDate>Wed, 18 Nov 2026 21:34:07 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (260pt) 『Phrack 73』がリリースされました</title>
-      <link>https://news.ycombinator.com/item?id=50535992</link>
-      <description>&lt;p&gt;&lt;strong&gt;『Phrack 73』がリリースされました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Phrack 73 Released&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50535992</guid>
-      <pubDate>Tue, 17 Nov 2026 18:31:25 GMT</pubDate>
+      <title>[Hacker News] (320pt) 監査の模擬裁判において、AIエージェントはKPMGの会計士よりも優れた質問をした</title>
+      <link>https://news.ycombinator.com/item?id=50547777</link>
+      <description>&lt;p&gt;&lt;strong&gt;監査の模擬裁判において、AIエージェントはKPMGの会計士よりも優れた質問をした&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: AI agents ask better questions than KPMG accountants in audit trial&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50547777</guid>
+      <pubDate>Wed, 18 Nov 2026 15:49:34 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (239pt) jQuery 4.1.0</title>
-      <link>https://news.ycombinator.com/item?id=50537156</link>
-      <description>&lt;p&gt;&lt;strong&gt;jQuery 4.1.0&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: jQuery 4.1.0&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50537156</guid>
-      <pubDate>Tue, 17 Nov 2026 19:50:40 GMT</pubDate>
+      <title>[Hacker News] (114pt) DaisyRose-27B：1,200タスクの強化学習により、Qwen3.8のTerminal-Bench 4.1における精度が5.6%から12%に向上した</title>
+      <link>https://news.ycombinator.com/item?id=50551046</link>
+      <description>&lt;p&gt;&lt;strong&gt;DaisyRose-27B：1,200タスクの強化学習により、Qwen3.8のTerminal-Bench 4.1における精度が5.6%から12%に向上した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50551046</guid>
+      <pubDate>Wed, 18 Nov 2026 19:39:16 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (222pt) Quad9のフランスからの撤退：炭鉱のカナリア</title>
-      <link>https://news.ycombinator.com/item?id=50538994</link>
-      <description>&lt;p&gt;&lt;strong&gt;Quad9のフランスからの撤退：炭鉱のカナリア&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Quad9's withdrawal from France: A canary in the coal mine&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50538994</guid>
-      <pubDate>Tue, 17 Nov 2026 22:13:34 GMT</pubDate>
+      <title>[Hacker News] (30pt) Mac上のCuttlefish：Apple SiliconにおけるAndroidの仮想デバイスフレームワーク</title>
+      <link>https://news.ycombinator.com/item?id=50510385</link>
+      <description>&lt;p&gt;&lt;strong&gt;Mac上のCuttlefish：Apple SiliconにおけるAndroidの仮想デバイスフレームワーク&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50510385</guid>
+      <pubDate>Sun, 15 Nov 2026 20:30:42 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (78pt) マイクロソフトのONNX RuntimeがGitHubから削除された</title>
-      <link>https://news.ycombinator.com/item?id=50539610</link>
-      <description>&lt;p&gt;&lt;strong&gt;マイクロソフトのONNX RuntimeがGitHubから削除された&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Microsoft's ONNX Runtime has disappeared from GitHub&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50539610</guid>
-      <pubDate>Tue, 17 Nov 2026 23:18:49 GMT</pubDate>
+      <title>[Hacker News] (15pt) LLMを活用したリバースエンジニアリング</title>
+      <link>https://news.ycombinator.com/item?id=50553225</link>
+      <description>&lt;p&gt;&lt;strong&gt;LLMを活用したリバースエンジニアリング&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: LLM Assisted Reverse Engineering&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50553225</guid>
+      <pubDate>Wed, 18 Nov 2026 22:29:13 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (42pt) Archive Teamは、Appleサポートコミュニティ（2026年11月20日に閉鎖予定）のアーカイブ作業を行っています。</title>
-      <link>https://news.ycombinator.com/item?id=50539747</link>
-      <description>&lt;p&gt;&lt;strong&gt;Archive Teamは、Appleサポートコミュニティ（2026年11月20日に閉鎖予定）のアーカイブ作業を行っています。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Archive Team is archiving the Apple Support Community (closes November 20, 2026)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50539747</guid>
-      <pubDate>Tue, 17 Nov 2026 23:32:58 GMT</pubDate>
+      <title>[Hacker News] (13pt) 「本気で取り組んでくれる賢い人材」が必要だ</title>
+      <link>https://news.ycombinator.com/item?id=50554045</link>
+      <description>&lt;p&gt;&lt;strong&gt;「本気で取り組んでくれる賢い人材」が必要だ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: We Need Smart People Who Give a Shit&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50554045</guid>
+      <pubDate>Wed, 18 Nov 2026 23:53:49 GMT</pubDate>
     </item>
   </channel>
 </rss>
