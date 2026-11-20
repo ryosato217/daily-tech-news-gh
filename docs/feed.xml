@@ -3,88 +3,88 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-19</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-20</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 00:07:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:29:21 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (1069pt) Nginxにおける認証不要のリモートコード実行の脆弱性</title>
-      <link>https://news.ycombinator.com/item?id=50547374</link>
-      <description>&lt;p&gt;&lt;strong&gt;Nginxにおける認証不要のリモートコード実行の脆弱性&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Unauthenticated remote code execution in Nginx&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50547374</guid>
-      <pubDate>Wed, 18 Nov 2026 15:19:55 GMT</pubDate>
+      <title>[Hacker News] (848pt) アンソロピック社のナスダック上場</title>
+      <link>https://news.ycombinator.com/item?id=50562754</link>
+      <description>&lt;p&gt;&lt;strong&gt;アンソロピック社のナスダック上場&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Anthropic’s Nasdaq debut&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50562754</guid>
+      <pubDate>Thu, 19 Nov 2026 17:02:40 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (570pt) DNSリゾルバーは、海賊版対策を行う場としては不適切である</title>
-      <link>https://news.ycombinator.com/item?id=50545958</link>
-      <description>&lt;p&gt;&lt;strong&gt;DNSリゾルバーは、海賊版対策を行う場としては不適切である&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: DNS resolvers are the wrong place to fight piracy&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50545958</guid>
-      <pubDate>Wed, 18 Nov 2026 13:18:02 GMT</pubDate>
+      <title>[Hacker News] (730pt) ガレージドアに関するスパム</title>
+      <link>https://news.ycombinator.com/item?id=50519231</link>
+      <description>&lt;p&gt;&lt;strong&gt;ガレージドアに関するスパム&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Garage Door Spam&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50519231</guid>
+      <pubDate>Mon, 16 Nov 2026 16:13:36 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (525pt) ドイツ銀行の内部</title>
-      <link>https://news.ycombinator.com/item?id=50547620</link>
-      <description>&lt;p&gt;&lt;strong&gt;ドイツ銀行の内部&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Inside Deutsche Bank&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50547620</guid>
-      <pubDate>Wed, 18 Nov 2026 15:38:33 GMT</pubDate>
+      <title>[Hacker News] (506pt) 3人の患者で、ウイルスの注入により膵臓がんの進行が阻止された</title>
+      <link>https://news.ycombinator.com/item?id=50563066</link>
+      <description>&lt;p&gt;&lt;strong&gt;3人の患者で、ウイルスの注入により膵臓がんの進行が阻止された&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Pancreatic cancer halted by virus injection in three patients&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50563066</guid>
+      <pubDate>Thu, 19 Nov 2026 17:25:33 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (415pt) コストパフォーマンスに優れた7つの新モデル</title>
-      <link>https://news.ycombinator.com/item?id=50548021</link>
-      <description>&lt;p&gt;&lt;strong&gt;コストパフォーマンスに優れた7つの新モデル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Seven new models at scalable price-performance&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50548021</guid>
-      <pubDate>Wed, 18 Nov 2026 16:08:24 GMT</pubDate>
+      <title>[Hacker News] (354pt) クロードは、ブラックホールの物理学における2つの未解決問題を解明した</title>
+      <link>https://news.ycombinator.com/item?id=50563148</link>
+      <description>&lt;p&gt;&lt;strong&gt;クロードは、ブラックホールの物理学における2つの未解決問題を解明した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Claude solves two open problems in the physics of black holes&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50563148</guid>
+      <pubDate>Thu, 19 Nov 2026 17:30:44 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (340pt) ジェミニ 4 ネオン</title>
-      <link>https://news.ycombinator.com/item?id=50552424</link>
-      <description>&lt;p&gt;&lt;strong&gt;ジェミニ 4 ネオン&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gemini 4 Neon&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50552424</guid>
-      <pubDate>Wed, 18 Nov 2026 21:34:07 GMT</pubDate>
+      <title>[Hacker News] (178pt) 「98％のスロットマシン：有料広告がいかにして搾取税となったか」</title>
+      <link>https://news.ycombinator.com/item?id=50564159</link>
+      <description>&lt;p&gt;&lt;strong&gt;「98％のスロットマシン：有料広告がいかにして搾取税となったか」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The 98% Slot Machine: How Paid Advertising Became an Extraction Tax&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50564159</guid>
+      <pubDate>Thu, 19 Nov 2026 18:35:17 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (320pt) 監査の模擬裁判において、AIエージェントはKPMGの会計士よりも優れた質問をした</title>
-      <link>https://news.ycombinator.com/item?id=50547777</link>
-      <description>&lt;p&gt;&lt;strong&gt;監査の模擬裁判において、AIエージェントはKPMGの会計士よりも優れた質問をした&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI agents ask better questions than KPMG accountants in audit trial&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50547777</guid>
-      <pubDate>Wed, 18 Nov 2026 15:49:34 GMT</pubDate>
+      <title>[Hacker News] (86pt) ほぼ何でもCADで描く方法</title>
+      <link>https://news.ycombinator.com/item?id=50528119</link>
+      <description>&lt;p&gt;&lt;strong&gt;ほぼ何でもCADで描く方法&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: How to CAD Almost Anything&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50528119</guid>
+      <pubDate>Tue, 17 Nov 2026 06:29:57 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (114pt) DaisyRose-27B：1,200タスクの強化学習により、Qwen3.8のTerminal-Bench 4.1における精度が5.6%から12%に向上した</title>
-      <link>https://news.ycombinator.com/item?id=50551046</link>
-      <description>&lt;p&gt;&lt;strong&gt;DaisyRose-27B：1,200タスクの強化学習により、Qwen3.8のTerminal-Bench 4.1における精度が5.6%から12%に向上した&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50551046</guid>
-      <pubDate>Wed, 18 Nov 2026 19:39:16 GMT</pubDate>
+      <title>[Hacker News] (78pt) Synology セキュリティアドバイザリ</title>
+      <link>https://news.ycombinator.com/item?id=50567209</link>
+      <description>&lt;p&gt;&lt;strong&gt;Synology セキュリティアドバイザリ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Synology Security Advisory&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50567209</guid>
+      <pubDate>Thu, 19 Nov 2026 22:13:40 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (30pt) Mac上のCuttlefish：Apple SiliconにおけるAndroidの仮想デバイスフレームワーク</title>
-      <link>https://news.ycombinator.com/item?id=50510385</link>
-      <description>&lt;p&gt;&lt;strong&gt;Mac上のCuttlefish：Apple SiliconにおけるAndroidの仮想デバイスフレームワーク&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50510385</guid>
-      <pubDate>Sun, 15 Nov 2026 20:30:42 GMT</pubDate>
+      <title>[Hacker News] (66pt) 政府は最先端のAIの開発を遅らせるべきか？ ジェイコブ・コクソンとロビン・ハンソンが議論する [動画]</title>
+      <link>https://news.ycombinator.com/item?id=50564366</link>
+      <description>&lt;p&gt;&lt;strong&gt;政府は最先端のAIの開発を遅らせるべきか？ ジェイコブ・コクソンとロビン・ハンソンが議論する [動画]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50564366</guid>
+      <pubDate>Thu, 19 Nov 2026 18:47:16 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (15pt) LLMを活用したリバースエンジニアリング</title>
-      <link>https://news.ycombinator.com/item?id=50553225</link>
-      <description>&lt;p&gt;&lt;strong&gt;LLMを活用したリバースエンジニアリング&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: LLM Assisted Reverse Engineering&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50553225</guid>
-      <pubDate>Wed, 18 Nov 2026 22:29:13 GMT</pubDate>
+      <title>[Hacker News] (33pt) RegExr：一時的に利用できません</title>
+      <link>https://news.ycombinator.com/item?id=50567374</link>
+      <description>&lt;p&gt;&lt;strong&gt;RegExr：一時的に利用できません&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: RegExr: Temporarily Offline&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50567374</guid>
+      <pubDate>Thu, 19 Nov 2026 22:27:07 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (13pt) 「本気で取り組んでくれる賢い人材」が必要だ</title>
-      <link>https://news.ycombinator.com/item?id=50554045</link>
-      <description>&lt;p&gt;&lt;strong&gt;「本気で取り組んでくれる賢い人材」が必要だ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: We Need Smart People Who Give a Shit&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50554045</guid>
-      <pubDate>Wed, 18 Nov 2026 23:53:49 GMT</pubDate>
+      <title>[Hacker News] (16pt) 「Gemini 4 Neon」が、Models Engineering Indexで新たな1位に輝きました</title>
+      <link>https://news.ycombinator.com/item?id=50568130</link>
+      <description>&lt;p&gt;&lt;strong&gt;「Gemini 4 Neon」が、Models Engineering Indexで新たな1位に輝きました&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Gemini 4 Neon is the new #1 on the Models Engineering Index&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50568130</guid>
+      <pubDate>Thu, 19 Nov 2026 23:35:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
