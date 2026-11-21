@@ -3,19 +3,11 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-20</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-21</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Nov 2026 23:52:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 22:57:34 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (2276pt) レヴェント・アルポゲが一般化リーマン予想の証明を主張 [pdf]</title>
-      <link>https://news.ycombinator.com/item?id=50574968</link>
-      <description>&lt;p&gt;&lt;strong&gt;レヴェント・アルポゲが一般化リーマン予想の証明を主張 [pdf]&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50574968</guid>
-      <pubDate>Fri, 20 Nov 2026 14:16:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Hacker News] (1360pt) 緊急のお知らせ：アレッサンドロ・マスッロ GRH</title>
+      <title>[Hacker News] (2375pt) 緊急のお知らせ：アレッサンドロ・マスッロ GRH</title>
       <link>https://news.ycombinator.com/item?id=50579568</link>
       <description>&lt;p&gt;&lt;strong&gt;緊急のお知らせ：アレッサンドロ・マスッロ GRH&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;原題: Hurried Announcement: Alessandro Masullo GRH&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
@@ -23,68 +15,76 @@
       <pubDate>Fri, 20 Nov 2026 18:33:14 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (545pt) インクリング 2 ミニ</title>
-      <link>https://news.ycombinator.com/item?id=50581260</link>
-      <description>&lt;p&gt;&lt;strong&gt;インクリング 2 ミニ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Inkling 2 Mini&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50581260</guid>
-      <pubDate>Fri, 20 Nov 2026 20:12:19 GMT</pubDate>
+      <title>[Hacker News] (724pt) リーマン予想のリーン検証</title>
+      <link>https://news.ycombinator.com/item?id=50589618</link>
+      <description>&lt;p&gt;&lt;strong&gt;リーマン予想のリーン検証&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Lean verification of the Riemann Hypothesis&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50589618</guid>
+      <pubDate>Sat, 21 Nov 2026 14:36:45 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (317pt) 言語モデルは自身の重みを書き換えることができる</title>
-      <link>https://news.ycombinator.com/item?id=50577265</link>
-      <description>&lt;p&gt;&lt;strong&gt;言語モデルは自身の重みを書き換えることができる&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Language Models Can Rewrite Their Own Weights&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50577265</guid>
-      <pubDate>Fri, 20 Nov 2026 16:29:06 GMT</pubDate>
+      <title>[Hacker News] (672pt) ブラジルの税務当局は、GitHub上で税額計算ツールをMITライセンスの下でオープンソース化しました。</title>
+      <link>https://news.ycombinator.com/item?id=50532613</link>
+      <description>&lt;p&gt;&lt;strong&gt;ブラジルの税務当局は、GitHub上で税額計算ツールをMITライセンスの下でオープンソース化しました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Brazil's tax authority open-sources its tax calculator on GitHub under MIT&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50532613</guid>
+      <pubDate>Tue, 17 Nov 2026 15:22:57 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (297pt) 自発的ナヴィエ・ストークス特異点と一般化リーマン予想</title>
-      <link>https://news.ycombinator.com/item?id=50578358</link>
-      <description>&lt;p&gt;&lt;strong&gt;自発的ナヴィエ・ストークス特異点と一般化リーマン予想&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50578358</guid>
-      <pubDate>Fri, 20 Nov 2026 17:21:36 GMT</pubDate>
+      <title>[Hacker News] (473pt) アジド鉛の山を起爆させる</title>
+      <link>https://news.ycombinator.com/item?id=50588982</link>
+      <description>&lt;p&gt;&lt;strong&gt;アジド鉛の山を起爆させる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Detonating a pile of lead azide&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50588982</guid>
+      <pubDate>Sat, 21 Nov 2026 13:23:14 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (250pt) 開発者を、本人たちに知らせることなくアーキテクトに昇進させた</title>
-      <link>https://news.ycombinator.com/item?id=50579331</link>
-      <description>&lt;p&gt;&lt;strong&gt;開発者を、本人たちに知らせることなくアーキテクトに昇進させた&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: We promoted developers into architects without informing them&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50579331</guid>
-      <pubDate>Fri, 20 Nov 2026 18:17:51 GMT</pubDate>
+      <title>[Hacker News] (423pt) モニターのせいで、ダウンロード速度が75％も低下していた</title>
+      <link>https://news.ycombinator.com/item?id=50587875</link>
+      <description>&lt;p&gt;&lt;strong&gt;モニターのせいで、ダウンロード速度が75％も低下していた&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: My monitor was cutting my download speed by 75%&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50587875</guid>
+      <pubDate>Sat, 21 Nov 2026 10:36:32 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (245pt) ナビエ・ストークス方程式における有限時間ブローアップ</title>
-      <link>https://news.ycombinator.com/item?id=50576232</link>
-      <description>&lt;p&gt;&lt;strong&gt;ナビエ・ストークス方程式における有限時間ブローアップ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Finite-time blow-up for the Navier–Stokes equations&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50576232</guid>
-      <pubDate>Fri, 20 Nov 2026 15:34:31 GMT</pubDate>
+      <title>[Hacker News] (366pt) 膵臓がん治療薬が「ここ数十年で最大の画期的な進展」と称賛される</title>
+      <link>https://news.ycombinator.com/item?id=50582069</link>
+      <description>&lt;p&gt;&lt;strong&gt;膵臓がん治療薬が「ここ数十年で最大の画期的な進展」と称賛される&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50582069</guid>
+      <pubDate>Fri, 20 Nov 2026 21:03:12 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (47pt) NINLIVE：ナイン・インチ・ネイルズのライブアーカイブ</title>
-      <link>https://news.ycombinator.com/item?id=50583274</link>
-      <description>&lt;p&gt;&lt;strong&gt;NINLIVE：ナイン・インチ・ネイルズのライブアーカイブ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: NINLIVE: The Nine Inch Nails live archive&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50583274</guid>
-      <pubDate>Fri, 20 Nov 2026 22:30:47 GMT</pubDate>
+      <title>[Hacker News] (298pt) 5.4 GBのメモリを搭載したInkling-2-Mini</title>
+      <link>https://news.ycombinator.com/item?id=50591853</link>
+      <description>&lt;p&gt;&lt;strong&gt;5.4 GBのメモリを搭載したInkling-2-Mini&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Inkling-2-Mini in 5.4 GB Memory&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50591853</guid>
+      <pubDate>Sat, 21 Nov 2026 18:02:19 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (41pt) 数時間前、Google DeepMindが「math horizon」というリポジトリを作成しました</title>
-      <link>https://news.ycombinator.com/item?id=50582629</link>
-      <description>&lt;p&gt;&lt;strong&gt;数時間前、Google DeepMindが「math horizon」というリポジトリを作成しました&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: A few hours ago Google DeepMind created a math horizon repo&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50582629</guid>
-      <pubDate>Fri, 20 Nov 2026 21:42:21 GMT</pubDate>
+      <title>[Hacker News] (103pt) Go言語によるPostgreSQL拡張機能</title>
+      <link>https://news.ycombinator.com/item?id=50591260</link>
+      <description>&lt;p&gt;&lt;strong&gt;Go言語によるPostgreSQL拡張機能&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: PostgreSQL Extensions in Go&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50591260</guid>
+      <pubDate>Sat, 21 Nov 2026 17:08:04 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (19pt) GitHubは理由も告げずに私のアカウントを凍結し、（今のところ）担当者に連絡を取る手段もありません</title>
-      <link>https://news.ycombinator.com/item?id=50583911</link>
-      <description>&lt;p&gt;&lt;strong&gt;GitHubは理由も告げずに私のアカウントを凍結し、（今のところ）担当者に連絡を取る手段もありません&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: GitHub nuked me with no reason, and (so far) no ability to contact a human&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50583911</guid>
-      <pubDate>Fri, 20 Nov 2026 23:35:42 GMT</pubDate>
+      <title>[Hacker News] (93pt) 心を動かし、体を動かし、そして自分自身を導く</title>
+      <link>https://news.ycombinator.com/item?id=50583028</link>
+      <description>&lt;p&gt;&lt;strong&gt;心を動かし、体を動かし、そして自分自身を導く&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Getting the mind to steer the body to steer you&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50583028</guid>
+      <pubDate>Fri, 20 Nov 2026 22:11:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Hacker News] (8pt) PcapAnalyzer – 27種類の問題検出機能を備えた、セルフホスト型のPCAP解析ツール</title>
+      <link>https://news.ycombinator.com/item?id=50594132</link>
+      <description>&lt;p&gt;&lt;strong&gt;PcapAnalyzer – 27種類の問題検出機能を備えた、セルフホスト型のPCAP解析ツール&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50594132</guid>
+      <pubDate>Sat, 21 Nov 2026 22:09:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
