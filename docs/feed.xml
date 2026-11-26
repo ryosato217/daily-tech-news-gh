@@ -3,88 +3,88 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-25</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-26</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 02:07:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 01:43:03 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (360pt) スプレーボトル</title>
-      <link>https://news.ycombinator.com/item?id=50598555</link>
-      <description>&lt;p&gt;&lt;strong&gt;スプレーボトル&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: The Spray Bottle&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50598555</guid>
-      <pubDate>Sun, 22 Nov 2026 11:16:30 GMT</pubDate>
+      <title>[Hacker News] (1137pt) 1Passwordのセキュリティインシデント</title>
+      <link>https://news.ycombinator.com/item?id=50644817</link>
+      <description>&lt;p&gt;&lt;strong&gt;1Passwordのセキュリティインシデント&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: 1Password Security Incident&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50644817</guid>
+      <pubDate>Wed, 25 Nov 2026 17:18:26 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (346pt) ターナリー・ボンサイ 2.5 27B</title>
-      <link>https://news.ycombinator.com/item?id=50633922</link>
-      <description>&lt;p&gt;&lt;strong&gt;ターナリー・ボンサイ 2.5 27B&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Ternary Bonsai 2.5 27B&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50633922</guid>
-      <pubDate>Tue, 24 Nov 2026 20:08:03 GMT</pubDate>
+      <title>[Hacker News] (889pt) マジかよ、マジかよ、マジかよ、マジかよ：今まさに起きていることの凄まじさ</title>
+      <link>https://news.ycombinator.com/item?id=50646108</link>
+      <description>&lt;p&gt;&lt;strong&gt;マジかよ、マジかよ、マジかよ、マジかよ：今まさに起きていることの凄まじさ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50646108</guid>
+      <pubDate>Wed, 25 Nov 2026 19:11:27 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (266pt) チェック・ポイントのセキュリティ管理サーバーに対する活発な侵入攻撃キャンペーン</title>
-      <link>https://news.ycombinator.com/item?id=50630594</link>
-      <description>&lt;p&gt;&lt;strong&gt;チェック・ポイントのセキュリティ管理サーバーに対する活発な侵入攻撃キャンペーン&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Active intrusion campaign against Check Point security management servers&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50630594</guid>
-      <pubDate>Tue, 24 Nov 2026 16:32:17 GMT</pubDate>
+      <title>[Hacker News] (437pt) ホームデポの貯水池でシュノーケリングをした男性に、いくつか質問があります</title>
+      <link>https://news.ycombinator.com/item?id=50643129</link>
+      <description>&lt;p&gt;&lt;strong&gt;ホームデポの貯水池でシュノーケリングをした男性に、いくつか質問があります&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: A few questions for the guy who went snorkeling in a Home Depot retention pond&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50643129</guid>
+      <pubDate>Wed, 25 Nov 2026 15:14:32 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (173pt) GPT-6モデルは、タンパク質設計の固有の能力を示している</title>
-      <link>https://news.ycombinator.com/item?id=50634658</link>
-      <description>&lt;p&gt;&lt;strong&gt;GPT-6モデルは、タンパク質設計の固有の能力を示している&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: GPT-6 models demonstrate intrinsic protein-design capabilities&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50634658</guid>
-      <pubDate>Tue, 24 Nov 2026 21:02:22 GMT</pubDate>
+      <title>[Hacker News] (271pt) AnthropicによるGRHリーン検証の大幅に短縮版</title>
+      <link>https://news.ycombinator.com/item?id=50648050</link>
+      <description>&lt;p&gt;&lt;strong&gt;AnthropicによるGRHリーン検証の大幅に短縮版&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Much shorter version of GRH Lean verification from Anthropic&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50648050</guid>
+      <pubDate>Wed, 25 Nov 2026 21:48:10 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (90pt) ゲーデルの謎</title>
-      <link>https://news.ycombinator.com/item?id=50625265</link>
-      <description>&lt;p&gt;&lt;strong&gt;ゲーデルの謎&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Gödel Enigma&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50625265</guid>
-      <pubDate>Tue, 24 Nov 2026 08:16:02 GMT</pubDate>
+      <title>[Hacker News] (245pt) GPT-6.2 Astraは、Google社員のコードゴルフ記録を破った初のモデルである</title>
+      <link>https://news.ycombinator.com/item?id=50601280</link>
+      <description>&lt;p&gt;&lt;strong&gt;GPT-6.2 Astraは、Google社員のコードゴルフ記録を破った初のモデルである&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GPT-6.2 Astra is the first model to beat Googlers' code golf records&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50601280</guid>
+      <pubDate>Sun, 22 Nov 2026 16:44:48 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (80pt) あなたの街に必要なメッシュ無線ノードの数を計算する</title>
-      <link>https://news.ycombinator.com/item?id=50609483</link>
-      <description>&lt;p&gt;&lt;strong&gt;あなたの街に必要なメッシュ無線ノードの数を計算する&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Calculate how many mesh radio nodes your city needs&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50609483</guid>
-      <pubDate>Mon, 23 Nov 2026 09:46:57 GMT</pubDate>
+      <title>[Hacker News] (198pt) ニューヨーク・タイムズ紙は、AI機能の追加を理由にフォトショップをアップデートしないよう写真家に警告している</title>
+      <link>https://news.ycombinator.com/item?id=50647673</link>
+      <description>&lt;p&gt;&lt;strong&gt;ニューヨーク・タイムズ紙は、AI機能の追加を理由にフォトショップをアップデートしないよう写真家に警告している&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The New York Times warns photographers not to update Photoshop over AI features&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50647673</guid>
+      <pubDate>Wed, 25 Nov 2026 21:18:02 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (70pt) HN掲載：Versine（YC F26） – 送金・受金を行うMCP</title>
-      <link>https://news.ycombinator.com/item?id=50634426</link>
-      <description>&lt;p&gt;&lt;strong&gt;HN掲載：Versine（YC F26） – 送金・受金を行うMCP&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Launch HN: Versine (YC F26) – MCP to send and receive money&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50634426</guid>
-      <pubDate>Tue, 24 Nov 2026 20:44:15 GMT</pubDate>
+      <title>[Hacker News] (139pt) Ubuntuのセキュリティ対応の遅さ</title>
+      <link>https://news.ycombinator.com/item?id=50647181</link>
+      <description>&lt;p&gt;&lt;strong&gt;Ubuntuのセキュリティ対応の遅さ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Slow Ubuntu security response times&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50647181</guid>
+      <pubDate>Wed, 25 Nov 2026 20:38:00 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (50pt) 行列の乗算は O(n^2.25) である [pdf]</title>
-      <link>https://news.ycombinator.com/item?id=50637220</link>
-      <description>&lt;p&gt;&lt;strong&gt;行列の乗算は O(n^2.25) である [pdf]&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Matrix Multiplication is O(n^2.25) [pdf]&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50637220</guid>
-      <pubDate>Wed, 25 Nov 2026 01:19:26 GMT</pubDate>
+      <title>[Hacker News] (83pt) Nfs2root：LinuxカーネルのNFSサーバーに存在する、12年前から存在する認証前のリモートroot脆弱性</title>
+      <link>https://news.ycombinator.com/item?id=50647161</link>
+      <description>&lt;p&gt;&lt;strong&gt;Nfs2root：LinuxカーネルのNFSサーバーに存在する、12年前から存在する認証前のリモートroot脆弱性&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50647161</guid>
+      <pubDate>Wed, 25 Nov 2026 20:35:50 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (24pt) PenGPT：手書き文字とスケッチのための生成型トランスフォーマー</title>
-      <link>https://news.ycombinator.com/item?id=50637056</link>
-      <description>&lt;p&gt;&lt;strong&gt;PenGPT：手書き文字とスケッチのための生成型トランスフォーマー&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: PenGPT: A Generative Transformer for Handwriting and Sketches&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50637056</guid>
-      <pubDate>Wed, 25 Nov 2026 00:54:49 GMT</pubDate>
+      <title>[Hacker News] (49pt) HNへのメッセージ：また「Ask HN」がたくさん投稿されています</title>
+      <link>https://news.ycombinator.com/item?id=50649864</link>
+      <description>&lt;p&gt;&lt;strong&gt;HNへのメッセージ：また「Ask HN」がたくさん投稿されています&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Tell HN: Lots of Ask HNs again&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50649864</guid>
+      <pubDate>Thu, 26 Nov 2026 00:43:34 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (18pt) 『この世にあって：アルベール・カミュの手紙 1944–1959』</title>
-      <link>https://news.ycombinator.com/item?id=50636925</link>
-      <description>&lt;p&gt;&lt;strong&gt;『この世にあって：アルベール・カミュの手紙 1944–1959』&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Here in the World: Letters of Albert Camus, 1944–1959&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50636925</guid>
-      <pubDate>Wed, 25 Nov 2026 00:36:43 GMT</pubDate>
+      <title>[Hacker News] (30pt) マルチエージェント・コーディングこそが未来だ</title>
+      <link>https://news.ycombinator.com/item?id=50645541</link>
+      <description>&lt;p&gt;&lt;strong&gt;マルチエージェント・コーディングこそが未来だ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Multiagent coding is the future&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50645541</guid>
+      <pubDate>Wed, 25 Nov 2026 18:20:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
