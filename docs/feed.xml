@@ -3,88 +3,88 @@
   <channel>
     <title>海外テックニュース（日本語）</title>
     <link>https://github.com</link>
-    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-27</description>
+    <description>HN・VentureBeat・Reddit から収集した海外テックニュース日本語訳 | 2026-11-28</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 01:36:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:16:53 GMT</lastBuildDate>
     <item>
-      <title>[Hacker News] (462pt) Intel One Mono フォント (2023)</title>
-      <link>https://news.ycombinator.com/item?id=50653667</link>
-      <description>&lt;p&gt;&lt;strong&gt;Intel One Mono フォント (2023)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Intel One Mono font (2023)&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50653667</guid>
-      <pubDate>Thu, 26 Nov 2026 10:11:01 GMT</pubDate>
+      <title>[Hacker News] (416pt) 人気ショッピングサイトで、WebRTCを利用したクレジットカード情報盗み取りスクリプトが発見された</title>
+      <link>https://news.ycombinator.com/item?id=50668145</link>
+      <description>&lt;p&gt;&lt;strong&gt;人気ショッピングサイトで、WebRTCを利用したクレジットカード情報盗み取りスクリプトが発見された&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Credit card skimming scripts using WebRTC found on popular shopping sites&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50668145</guid>
+      <pubDate>Fri, 27 Nov 2026 15:40:31 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (294pt) AIのおかげで、セルフホスティングが再び楽しくなった</title>
-      <link>https://news.ycombinator.com/item?id=50660180</link>
-      <description>&lt;p&gt;&lt;strong&gt;AIのおかげで、セルフホスティングが再び楽しくなった&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AI made self-hosting fun again&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50660180</guid>
-      <pubDate>Thu, 26 Nov 2026 21:47:45 GMT</pubDate>
+      <title>[Hacker News] (325pt) Show HN: bouncemarket – 跳ねるボールを題材にしたライブ予測マーケットゲーム</title>
+      <link>https://news.ycombinator.com/item?id=50667726</link>
+      <description>&lt;p&gt;&lt;strong&gt;Show HN: bouncemarket – 跳ねるボールを題材にしたライブ予測マーケットゲーム&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Show HN: bouncemarket – a live prediction market game for a bouncing ball&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50667726</guid>
+      <pubDate>Fri, 27 Nov 2026 15:01:50 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (282pt) llama.cppのAMD専用フォーク</title>
-      <link>https://news.ycombinator.com/item?id=50657265</link>
-      <description>&lt;p&gt;&lt;strong&gt;llama.cppのAMD専用フォーク&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: AMD-specific fork of llama.cpp&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50657265</guid>
-      <pubDate>Thu, 26 Nov 2026 17:11:29 GMT</pubDate>
+      <title>[Hacker News] (300pt) GPT 6.2 Astraが歴史上の謎を解明</title>
+      <link>https://news.ycombinator.com/item?id=50643158</link>
+      <description>&lt;p&gt;&lt;strong&gt;GPT 6.2 Astraが歴史上の謎を解明&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: GPT 6.2 Astra Solves a Historical Mystery&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50643158</guid>
+      <pubDate>Wed, 25 Nov 2026 15:16:53 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (264pt) YouTube Ad Punisher – 広告が再生されるとYouTubeのページを自動的に再読み込みする</title>
-      <link>https://news.ycombinator.com/item?id=50657530</link>
-      <description>&lt;p&gt;&lt;strong&gt;YouTube Ad Punisher – 広告が再生されるとYouTubeのページを自動的に再読み込みする&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50657530</guid>
-      <pubDate>Thu, 26 Nov 2026 17:36:47 GMT</pubDate>
+      <title>[Hacker News] (224pt) Convex Skillsは、ユーザーに知らせることなく、ユーザーのアプリのアイデアをリモートサーバーに送信します</title>
+      <link>https://news.ycombinator.com/item?id=50669765</link>
+      <description>&lt;p&gt;&lt;strong&gt;Convex Skillsは、ユーザーに知らせることなく、ユーザーのアプリのアイデアをリモートサーバーに送信します&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Convex skills send the user's app idea to a remote server without telling them&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50669765</guid>
+      <pubDate>Fri, 27 Nov 2026 18:02:45 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (228pt) カミル・カーン・ムムタズ：パキスタンの建築家。国内では高く評価されているが、海外ではほとんど知られていない</title>
-      <link>https://news.ycombinator.com/item?id=50659841</link>
-      <description>&lt;p&gt;&lt;strong&gt;カミル・カーン・ムムタズ：パキスタンの建築家。国内では高く評価されているが、海外ではほとんど知られていない&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50659841</guid>
-      <pubDate>Thu, 26 Nov 2026 21:08:05 GMT</pubDate>
+      <title>[Hacker News] (133pt) シトロエンの油圧システム</title>
+      <link>https://news.ycombinator.com/item?id=50662313</link>
+      <description>&lt;p&gt;&lt;strong&gt;シトロエンの油圧システム&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Citroën Hydraulic System&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50662313</guid>
+      <pubDate>Fri, 27 Nov 2026 03:10:19 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (209pt) 「RansomwareHelp」のCTOが電信詐欺の容疑で起訴された</title>
-      <link>https://news.ycombinator.com/item?id=50657645</link>
-      <description>&lt;p&gt;&lt;strong&gt;「RansomwareHelp」のCTOが電信詐欺の容疑で起訴された&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: CTO of 'RansomwareHelp' indicted for wire fraud&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50657645</guid>
-      <pubDate>Thu, 26 Nov 2026 17:47:45 GMT</pubDate>
+      <title>[Hacker News] (66pt) 9/UX：9front向けのMacintoshをモチーフにしたデスクトップ</title>
+      <link>https://news.ycombinator.com/item?id=50672008</link>
+      <description>&lt;p&gt;&lt;strong&gt;9/UX：9front向けのMacintoshをモチーフにしたデスクトップ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: 9/UX: a Macintosh-inspired desktop for 9front&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50672008</guid>
+      <pubDate>Fri, 27 Nov 2026 21:48:14 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (84pt) Rvoip: Rustで実装されたVoIPスタック</title>
-      <link>https://news.ycombinator.com/item?id=50658632</link>
-      <description>&lt;p&gt;&lt;strong&gt;Rvoip: Rustで実装されたVoIPスタック&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Rvoip: VoIP stack in Rust&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50658632</guid>
-      <pubDate>Thu, 26 Nov 2026 19:18:09 GMT</pubDate>
+      <title>[Hacker News] (56pt) Googleの「DeepCrossAttention」は、同等のモデル品質を最大3倍の速さで実現する</title>
+      <link>https://news.ycombinator.com/item?id=50672565</link>
+      <description>&lt;p&gt;&lt;strong&gt;Googleの「DeepCrossAttention」は、同等のモデル品質を最大3倍の速さで実現する&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Google's DeepCrossAttention achieves comparable model quality up to 3x faster&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50672565</guid>
+      <pubDate>Fri, 27 Nov 2026 23:06:29 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (74pt) Show HN：Olumino ― マークダウン形式のメモと間隔反復学習アプリ</title>
-      <link>https://news.ycombinator.com/item?id=50651099</link>
-      <description>&lt;p&gt;&lt;strong&gt;Show HN：Olumino ― マークダウン形式のメモと間隔反復学習アプリ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Show HN: Olumino, a Markdown notes and spaced repetition app&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50651099</guid>
-      <pubDate>Thu, 26 Nov 2026 03:33:06 GMT</pubDate>
+      <title>[Hacker News] (54pt) 地獄のようなバージョン管理</title>
+      <link>https://news.ycombinator.com/item?id=50672142</link>
+      <description>&lt;p&gt;&lt;strong&gt;地獄のようなバージョン管理&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Source Control from Hell&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50672142</guid>
+      <pubDate>Fri, 27 Nov 2026 22:06:44 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (56pt) BUI（BlenderUI）を採用した、世界最大の2Dチャートライブラリ</title>
-      <link>https://news.ycombinator.com/item?id=50658193</link>
-      <description>&lt;p&gt;&lt;strong&gt;BUI（BlenderUI）を採用した、世界最大の2Dチャートライブラリ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Largest 2D Chart library in the world using BUI: BlenderUI&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50658193</guid>
-      <pubDate>Thu, 26 Nov 2026 18:37:24 GMT</pubDate>
+      <title>[Hacker News] (38pt) 自分だけのアンプ・モデラーを作ろう：TONE3000の78ドルのDIYペダルキット</title>
+      <link>https://news.ycombinator.com/item?id=50631823</link>
+      <description>&lt;p&gt;&lt;strong&gt;自分だけのアンプ・モデラーを作ろう：TONE3000の78ドルのDIYペダルキット&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: Build your own amp modeler: $78 DIY pedal kit from TONE3000&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50631823</guid>
+      <pubDate>Tue, 24 Nov 2026 17:55:27 GMT</pubDate>
     </item>
     <item>
-      <title>[Hacker News] (37pt) Novita、StreamLakeなどは、ByteDanceのArkのラッパーです</title>
-      <link>https://news.ycombinator.com/item?id=50660273</link>
-      <description>&lt;p&gt;&lt;strong&gt;Novita、StreamLakeなどは、ByteDanceのArkのラッパーです&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;原題: Novita, StreamLake, etc. are ByteDance Ark wrappers&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50660273</guid>
-      <pubDate>Thu, 26 Nov 2026 21:59:19 GMT</pubDate>
+      <title>[Hacker News] (33pt) バラトロの年表</title>
+      <link>https://news.ycombinator.com/item?id=50657346</link>
+      <description>&lt;p&gt;&lt;strong&gt;バラトロの年表&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;原題: The Balatro Timeline&lt;br&gt;ソース: Hacker News&lt;/small&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50657346</guid>
+      <pubDate>Thu, 26 Nov 2026 17:20:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
